@@ -1,0 +1,160 @@
+% Préambule
+\documentclass[a4paper, 12pt, twoside]{book}
+
+% Paquets obligatoires
+\usepackage{lmodern}
+\usepackage[english, french]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[pdfusetitle, pdfsubject={Mémoire TNAH Florian Langelé 2023}]{hyperref}
+    \hypersetup{colorlinks=true, linkcolor=black, urlcolor=blue, citecolor=black}
+
+% Configuration de la mise en page
+\usepackage[margin=2.5cm]{geometry}  % Marges du document
+\usepackage{parskip}  % Espacement entre les paragraphes
+    \parskip=6pt
+\usepackage{setspace}  % Mise en forme des paragraphes
+    \onehalfspacing
+    \setlength\parindent{1cm}
+
+% Configuration de la bibliographie
+\usepackage[backend=biber, sorting=nyt, style=enc]{biblatex}
+\usepackage[autostyle]{csquotes}
+\addbibresource{Ma bibliothèque.bib}
+\nocite{*}
+
+% Paquets additionnels
+\usepackage{xcolor}  % Gestion des couleurs
+\usepackage{animate}
+\usepackage{bookmark}
+\usepackage{pdfpages}
+\usepackage{graphicx}  % Gestion des images
+\usepackage{fancyhdr}  % Gestion de l'en-tête et du pied de page
+    \pagestyle{headings}
+    \pagestyle{fancy}
+    \fancyhf{}
+    \fancyhead[LE,RO]{\thepage}
+    \fancyhead[LO,RE]{\leftmark}
+    \setlength{\headheight}{15.5pt}
+    \setcounter{secnumdepth}{3}
+    \setcounter{tocdepth}{3}
+\usepackage{emptypage}  % Gestion des pages vierges
+\usepackage{pdfpages}  % Gestion des PDF
+\usepackage{shorttoc}  % Gestion du sommaire
+\usepackage{caption}
+\usepackage{array,multirow,makecell}  % Gestion des tableaux
+    \setcellgapes{1pt}
+    \makegapedcells
+    \newcolumntype{R}[1]{>{\raggedleft\arraybackslash }b{#1}}
+    \newcolumntype{L}[1]{>{\raggedright\arraybackslash }b{#1}}
+    \newcolumntype{C}[1]{>{\centering\arraybackslash }b{#1}}
+\usepackage{minted}  % Gestion du code
+    \usemintedstyle{perldoc}
+
+\title{Production et exploitation d’un graphe de connaissances décrivant des archives médiévales: le cas du projet ORESM}
+\author{Florian Langelé}
+
+\begin{document}
+    \begin{titlepage}
+		\begin{center}
+			
+			\bigskip
+			
+			\begin{large}				
+				ÉCOLE NATIONALE DES CHARTES\\
+				UNIVERSITÉ PARIS, SCIENCES \& LETTRES
+			\end{large}
+			\begin{center}\rule{2cm}{0.02cm}\end{center}
+			
+			\bigskip
+			\bigskip
+			\bigskip
+			
+			\begin{Large}
+				\textbf{Florian Langelé}\\
+			\end{Large}
+			\bigskip
+			\bigskip
+			\bigskip
+                \bigskip
+               \bigskip
+			
+			\begin{Huge}
+				\textbf{Production et exploitation d’un graphe de connaissances décrivant des archives médiévales : Le cas du projet ORESM}\\
+			\end{Huge}
+			\bigskip
+			
+			\bigskip
+			\bigskip
+			\bigskip
+
+   
+			\vfill
+			
+			\begin{large}
+				Mémoire 
+				pour le diplôme de master \\
+				\og{} Technologies numériques appliquées à l'histoire \fg{} \\
+				\bigskip
+				2023
+			\end{large}
+		\end{center}
+	\end{titlepage}
+
+    \thispagestyle{empty}
+\cleardoublepage
+    
+\frontmatter
+\chapter{Remerciements}
+\input{textes/remerciements}
+\printbibliography
+\addcontentsline{toc}{chapter}{Bibliographie}
+\chapter{Résumé}
+\input{textes/résumé}
+\chapter{Introduction}
+\input{textes/introduction}
+\mainmatter
+\part{Contexte d'un projet ambitieux aux multiples enjeux et facettes}
+\input{textes/chapitre1}
+\input{textes/chapitre2}
+\part{Transformations des méta-données archivistiques en RDF}
+\input{textes/chapitre3}
+\input{textes/chapitre4}
+\input{textes/chapitre5}
+\part{Exploitation des données transformées}
+\input{textes/chapitre6}
+\input{textes/chapitre7}
+
+\bookmarksetup{startatroot}
+\chapter*{Bilan et perspectives d'évolution}
+\addcontentsline{toc}{chapter}{Bilan et perspectives d'évolution}
+\input{textes/chapitre8}
+
+\chapter*{Conclusion}
+\addcontentsline{toc}{chapter}{Conclusion}
+\input{textes/conclusion}
+
+\appendix
+
+\chapter{Méthodologie des dépouillements}
+\input{annexes/methodologie}
+
+\chapter{Tableau de mapping}
+\input{annexes/mapping}
+
+\chapter{Visualisation dans GraphDB Free}
+\begin{figure}[!h]
+    \centering
+    \includegraphics[width=0.8\linewidth]{annexes/dependencies-ORESM.png}
+    \caption{Visualisation dans GraphDB Free qui représente la quantité de relations entre les différents types d'entités. \ref{chapitre6}}
+    \label{fig:visualisation-classe-graphdb}
+\end{figure}
+
+\chapter{Requêtes SPARQL}
+\input{annexes/sparql}
+
+\backmatter
+
+\listoffigures
+\tableofcontents
+\end{document}

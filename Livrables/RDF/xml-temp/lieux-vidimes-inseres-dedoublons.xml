@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lieu xmlns:dc="http://purl.org/dc/elements/1.1/"
+      xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+      xmlns:owl="http://www.w3.org/2002/07/owl#"
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:rico="https://www.ica.org/standards/RiC/ontology#">
+   <nom>a Paris en nostre Parlement</nom>
+   <notice>or-bayeux-1-virt1</notice>
+   <notice>or-bayeux-16-virt1</notice>
+</lieu>
+<lieu xmlns:dc="http://purl.org/dc/elements/1.1/"
+      xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+      xmlns:owl="http://www.w3.org/2002/07/owl#"
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:rico="https://www.ica.org/standards/RiC/ontology#">
+   <nom>Parisiis</nom>
+   <notice>or-bayeux-3-virt1</notice>
+   <notice>or-bayeux-30-virt1</notice>
+   <notice>or-cholets-283-virt1</notice>
+   <notice>or-cornouaille-1-virt1</notice>
+   <notice>or-dix-huit-6-virt7</notice>
+   <notice>or-dix-huit-53-virt1</notice>
+   <notice>or-fortet-288-virt1</notice>
+   <notice>or-lisieux-1-virt3</notice>
+   <notice>or-navarre-35-virt1</notice>
+</lieu>
+<lieu xmlns:dc="http://purl.org/dc/elements/1.1/"
+      xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+      xmlns:owl="http://www.w3.org/2002/07/owl#"
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:rico="https://www.ica.org/standards/RiC/ontology#">
+   <nom>Parisius in parlamento nostro</nom>
+   <notice>or-bayeux-7-virt1</notice>
+</lieu>
+<lieu xmlns:dc="http://purl.org/dc/elements/1.1/"
+      xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+      xmlns:owl="http://www.w3.org/2002/07/owl#"
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:rico="https://www.ica.org/standards/RiC/ontology#">
+   <nom>Parisius</nom>
+   <notice>or-bayeux-12-virt1</notice>
+   <notice>or-dix-huit-44-virt1</notice>
+   <notice>or-dix-huit-47-virt1</notice>
+   <notice>or-dix-huit-50-virt1</notice>
+   <notice>or-dix-huit-52-virt1</notice>
+   <notice>or-navarre-19-virt1</notice>
+</lieu>
+<lieu xmlns:dc="http://purl.org/dc/elements/1.1/"
+      xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+      xmlns:owl="http://www.w3.org/2002/07/owl#"
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:rico="https://www.ica.org/standards/RiC/ontology#">
+   <nom>in aula seu sacello predicti collegii</nom>
+   <notice>or-bayeux-15-virt1</notice>
+</lieu>
+<lieu xmlns:dc="http://purl.org/dc/elements/1.1/"
+      xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+      xmlns:owl="http://www.w3.org/2002/07/owl#"
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:rico="https://www.ica.org/standards/RiC/ontology#">
+   <nom>en la maison de maître Jean Guibillon, prévôt dudit Mesnil</nom>
+   <notice>or-bons-enfants-2-virt2</notice>
+</lieu>
+<lieu xmlns:dc="http://purl.org/dc/elements/1.1/"
+      xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+      xmlns:owl="http://www.w3.org/2002/07/owl#"
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:rico="https://www.ica.org/standards/RiC/ontology#">
+   <nom>en Parlement</nom>
+   <notice>or-bons-enfants-10-virt1</notice>
+   <notice>or-dix-huit-38-virt2</notice>
+   <notice>or-dix-huit-89-virt1</notice>
+   <notice>or-fortet-276-virt1</notice>
+   <notice>or-fortet-279-virt1</notice>
+   <notice>or-fortet-287-virt1</notice>
+   <notice>or-fortet-289-virt1</notice>
+   <notice>or-fortet-290-virt1</notice>
+   <notice>or-fortet-328-virt1</notice>
+   <notice>or-lisieux-6-virt1</notice>
+   <notice>or-navarre-50-virt1</notice>
+   <notice>or-navarre-51-virt2</notice>
+   <notice>or-navarre-53-virt1</notice>
+   <notice>or-navarre-60-virt1</notice>
+   <notice>or-navarre-61-virt1</notice>
+</lieu>
+<lieu xmlns:dc="http://purl.org/dc/elements/1.1/"
+      xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+      xmlns:owl="http://www.w3.org/2002/07/owl#"
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:rico="https://www.ica.org/standards/RiC/ontology#">
+   <nom>Saint-Jean de Latran</nom>
+   <nom_normalise>Basilique Saint-Jean-de-Latran</nom_normalise>
+   <remarques>[]</remarques>
+   <note>https://fr.wikipedia.org/wiki/Basilique_Saint-Jean-de-Latran</note>
+   <notice>or-cardinal-lemoine-12-virt1</notice>
+   <notice>or-cardinal-lemoine-15-virt1</notice>
+   <notice>or-cholets-15-virt1</notice>
+   <notice>or-cholets-16-virt1</notice>
+   <notice>or-cholets-50-virt1</notice>
+   <notice>or-cholets-13-ins2</notice>
+</lieu>
+<lieu xmlns:dc="http://purl.org/dc/elements/1.1/"
+      xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+      xmlns:owl="http://www.w3.org/2002/07/owl#"
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:rico="https://www.ica.org/standards/RiC/ontology#">
+   <nom>Poitiers</nom>
+   <notice>or-cardinal-lemoine-12-virt2</notice>
+   <notice>or-cardinal-lemoine-15-virt2</notice>
+</lieu>
+<lieu xmlns:dc="http://purl.org/dc/elements/1.1/"
+      xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+      xmlns:owl="http://www.w3.org/2002/07/owl#"
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:rico="https://www.ica.org/standards/RiC/ontology#">
+   <nom>Avignon</nom>
+   <nom_normalise>Avignon (Avignon)</nom_normalise>
+   <remarques>[]</remarques>
+   <note>[]</note>
+   <notice>or-cardinal-lemoine-15-virt3</notice>
+   <notice>or-cardinal-lemoine-13-ins1</notice>
+</lieu>
+<lieu xmlns:dc="http://purl.org/dc/elements/1.1/"
+      xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+      xmlns:owl="http://www.w3.org/2002/07/owl#"
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:rico="https://www.ica.org/standards/RiC/ontology#">
+   <nom>Parlement de Paris</nom>
+   <nom_normalise>Palais de la Cité (Paris)</nom_normalise>
+   <remarques>[]</remarques>
+   <note>https://fr.wikipedia.org/wiki/Parlement_de_Paris</note>
+   <notice>or-cardinal-lemoine-15-virt4</notice>
+   <notice>or-cholets-43-ins1</notice>
+   <notice>or-cholets-43-ins2</notice>
+</lieu>
+<lieu xmlns:dc="http://purl.org/dc/elements/1.1/"
+      xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+      xmlns:owl="http://www.w3.org/2002/07/owl#"
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:rico="https://www.ica.org/standards/RiC/ontology#">
+   <nom>Viterbe</nom>
+   <nom_normalise>Viterbe</nom_normalise>
+   <remarques>[]</remarques>
+   <note>https://fr.wikipedia.org/wiki/Viterbe</note>
+   <notice>or-cholets-1-virt1</notice>
+</lieu>
+<lieu xmlns:dc="http://purl.org/dc/elements/1.1/"
+      xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+      xmlns:owl="http://www.w3.org/2002/07/owl#"
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:rico="https://www.ica.org/standards/RiC/ontology#">
+   <nom>Beauvais</nom>
+   <nom_normalise>Beauvais</nom_normalise>
+   <remarques>[]</remarques>
+   <note>https://fr.wikipedia.org/wiki/Beauvais</note>
+   <notice>or-cholets-5-virt1</notice>
+</lieu>
+<lieu xmlns:dc="http://purl.org/dc/elements/1.1/"
+      xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+      xmlns:owl="http://www.w3.org/2002/07/owl#"
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:rico="https://www.ica.org/standards/RiC/ontology#">
+   <nom>Saint-Pierre de Rome</nom>
+   <nom_normalise>Basilique Saint-Pierre</nom_normalise>
+   <remarques>[]</remarques>
+   <note>https://fr.wikipedia.org/wiki/Basilique_Saint-Pierre</note>
+   <notice>or-cholets-6-virt1</notice>
+   <notice>or-cholets-8-virt1</notice>
+   <notice>or-cholets-13-ins1</notice>
+</lieu>
+<lieu xmlns:dc="http://purl.org/dc/elements/1.1/"
+      xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+      xmlns:owl="http://www.w3.org/2002/07/owl#"
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:rico="https://www.ica.org/standards/RiC/ontology#">
+   <nom>Paris</nom>
+   <nom_normalise>Paris</nom_normalise>
+   <remarques>[]</remarques>
+   <note>https://fr.wikipedia.org/wiki/Paris</note>
+   <notice>or-cholets-32-virt1</notice>
+   <notice>or-cholets-33-virt1</notice>
+   <notice>or-cholets-226-virt1</notice>
+   <notice>or-la-marche-25-virt2</notice>
+   <notice>or-la-marche-26-virt1</notice>
+   <notice>or-navarre-42-virt1</notice>
+</lieu>
+<lieu xmlns:dc="http://purl.org/dc/elements/1.1/"
+      xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+      xmlns:owl="http://www.w3.org/2002/07/owl#"
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:rico="https://www.ica.org/standards/RiC/ontology#">
+   <nom>Monstereel</nom>
+   <notice>or-cholets-37-virt1</notice>
+</lieu>
+<lieu xmlns:dc="http://purl.org/dc/elements/1.1/"
+      xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+      xmlns:owl="http://www.w3.org/2002/07/owl#"
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:rico="https://www.ica.org/standards/RiC/ontology#">
+   <nom>Châtelet de Paris</nom>
+   <nom_normalise>Grand Châtelet (Paris)</nom_normalise>
+   <remarques>le mot châtelet utilisé seul désigne le Grand Châtelet, par opposition au Petit Châtelet</remarques>
+   <note>https://fr.wikipedia.org/wiki/Grand_Ch%C3%A2telet</note>
+   <notice>or-cholets-108-virt1</notice>
+   <notice>or-cholets-209-ins1</notice>
+</lieu>
+<lieu xmlns:dc="http://purl.org/dc/elements/1.1/"
+      xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+      xmlns:owl="http://www.w3.org/2002/07/owl#"
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:rico="https://www.ica.org/standards/RiC/ontology#">
+   <nom>Collège des Cholets</nom>
+   <notice>or-cholets-169-virt1</notice>
+</lieu>
+<lieu xmlns:dc="http://purl.org/dc/elements/1.1/"
+      xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+      xmlns:owl="http://www.w3.org/2002/07/owl#"
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:rico="https://www.ica.org/standards/RiC/ontology#">
+   <nom>Ableville</nom>
+   <notice>or-cholets-209-virt1</notice>
+</lieu>
+<lieu xmlns:dc="http://purl.org/dc/elements/1.1/"
+      xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+      xmlns:owl="http://www.w3.org/2002/07/owl#"
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:rico="https://www.ica.org/standards/RiC/ontology#">
+   <nom>Romae apud sanctum Petrum</nom>
+   <notice>or-cholets-227-virt1</notice>
+</lieu>
+<lieu xmlns:dc="http://purl.org/dc/elements/1.1/"
+      xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+      xmlns:owl="http://www.w3.org/2002/07/owl#"
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:rico="https://www.ica.org/standards/RiC/ontology#">
+   <nom>apud Vicenas</nom>
+   <notice>or-cholets-279-virt1</notice>
+</lieu>
+<lieu xmlns:dc="http://purl.org/dc/elements/1.1/"
+      xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+      xmlns:owl="http://www.w3.org/2002/07/owl#"
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:rico="https://www.ica.org/standards/RiC/ontology#">
+   <nom>in dicto capitulo nostro</nom>
+   <notice>or-dix-huit-6-virt5</notice>
+   <notice>or-dix-huit-64-virt1</notice>
+</lieu>
+<lieu xmlns:dc="http://purl.org/dc/elements/1.1/"
+      xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+      xmlns:owl="http://www.w3.org/2002/07/owl#"
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:rico="https://www.ica.org/standards/RiC/ontology#">
+   <nom>in capitulo nostro</nom>
+   <notice>or-dix-huit-6-virt6</notice>
+   <notice>or-dix-huit-18-virt1</notice>
+</lieu>
+<lieu xmlns:dc="http://purl.org/dc/elements/1.1/"
+      xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+      xmlns:owl="http://www.w3.org/2002/07/owl#"
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:rico="https://www.ica.org/standards/RiC/ontology#">
+   <nom>audit tresor</nom>
+   <notice>or-dix-huit-6-virt11</notice>
+</lieu>
+<lieu xmlns:dc="http://purl.org/dc/elements/1.1/"
+      xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+      xmlns:owl="http://www.w3.org/2002/07/owl#"
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:rico="https://www.ica.org/standards/RiC/ontology#">
+   <nom>en ladicte chambre</nom>
+   <notice>or-dix-huit-38-virt3</notice>
+</lieu>
+<lieu xmlns:dc="http://purl.org/dc/elements/1.1/"
+      xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+      xmlns:owl="http://www.w3.org/2002/07/owl#"
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:rico="https://www.ica.org/standards/RiC/ontology#">
+   <nom>in dicta Parisiense ecclesia</nom>
+   <notice>or-dix-huit-42-virt1</notice>
+</lieu>
+<lieu xmlns:dc="http://purl.org/dc/elements/1.1/"
+      xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+      xmlns:owl="http://www.w3.org/2002/07/owl#"
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:rico="https://www.ica.org/standards/RiC/ontology#">
+   <nom>in domo nostrae habitationis</nom>
+   <notice>or-dix-huit-46-virt1</notice>
+</lieu>
+<lieu xmlns:dc="http://purl.org/dc/elements/1.1/"
+      xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+      xmlns:owl="http://www.w3.org/2002/07/owl#"
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:rico="https://www.ica.org/standards/RiC/ontology#">
+   <nom>nostrae habitationis</nom>
+   <notice>or-dix-huit-46-virt3</notice>
+</lieu>
+<lieu xmlns:dc="http://purl.org/dc/elements/1.1/"
+      xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+      xmlns:owl="http://www.w3.org/2002/07/owl#"
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:rico="https://www.ica.org/standards/RiC/ontology#">
+   <nom>in eadem nostra ecclesia Parisiense</nom>
+   <notice>or-dix-huit-48-virt1</notice>
+</lieu>
+<lieu xmlns:dc="http://purl.org/dc/elements/1.1/"
+      xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+      xmlns:owl="http://www.w3.org/2002/07/owl#"
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:rico="https://www.ica.org/standards/RiC/ontology#">
+   <nom>au Chastellet dudict Tournant</nom>
+   <notice>or-dix-huit-93-virt1</notice>
+   <notice>or-dix-huit-95-virt1</notice>
+</lieu>
+<lieu xmlns:dc="http://purl.org/dc/elements/1.1/"
+      xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+      xmlns:owl="http://www.w3.org/2002/07/owl#"
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:rico="https://www.ica.org/standards/RiC/ontology#">
+   <nom>in nostro capitulo</nom>
+   <notice>or-fortet-4-virt1</notice>
+   <notice>or-fortet-13-virt1</notice>
+</lieu>
+<lieu xmlns:dc="http://purl.org/dc/elements/1.1/"
+      xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+      xmlns:owl="http://www.w3.org/2002/07/owl#"
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:rico="https://www.ica.org/standards/RiC/ontology#">
+   <nom>en estudes des notaires</nom>
+   <notice>or-fortet-153-virt1</notice>
+</lieu>
+<lieu xmlns:dc="http://purl.org/dc/elements/1.1/"
+      xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+      xmlns:owl="http://www.w3.org/2002/07/owl#"
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:rico="https://www.ica.org/standards/RiC/ontology#">
+   <nom>Parisiis in dicto nostro capitulo</nom>
+   <notice>or-fortet-200-virt1</notice>
+</lieu>
+<lieu xmlns:dc="http://purl.org/dc/elements/1.1/"
+      xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+      xmlns:owl="http://www.w3.org/2002/07/owl#"
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:rico="https://www.ica.org/standards/RiC/ontology#">
+   <nom>in dicto nostro capitulo</nom>
+   <notice>or-fortet-205-virt1</notice>
+</lieu>
+<lieu xmlns:dc="http://purl.org/dc/elements/1.1/"
+      xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+      xmlns:owl="http://www.w3.org/2002/07/owl#"
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:rico="https://www.ica.org/standards/RiC/ontology#">
+   <nom>in praedicto nostro capitulo</nom>
+   <notice>or-fortet-324-virt1</notice>
+</lieu>
+<lieu xmlns:dc="http://purl.org/dc/elements/1.1/"
+      xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+      xmlns:owl="http://www.w3.org/2002/07/owl#"
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:rico="https://www.ica.org/standards/RiC/ontology#">
+   <nom>in dicto collegio Fortetico</nom>
+   <notice>or-fortet-324-virt2</notice>
+   <notice>or-fortet-325-virt2</notice>
+</lieu>
+<lieu xmlns:dc="http://purl.org/dc/elements/1.1/"
+      xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+      xmlns:owl="http://www.w3.org/2002/07/owl#"
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:rico="https://www.ica.org/standards/RiC/ontology#">
+   <nom>in domo dicti magistri Joannis</nom>
+   <notice>or-hubant-18-virt1</notice>
+</lieu>
+<lieu xmlns:dc="http://purl.org/dc/elements/1.1/"
+      xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+      xmlns:owl="http://www.w3.org/2002/07/owl#"
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:rico="https://www.ica.org/standards/RiC/ontology#">
+   <nom>Parisius in domo dicti magistri de Hubanto</nom>
+   <notice>or-hubant-32-virt6</notice>
+</lieu>
+<lieu xmlns:dc="http://purl.org/dc/elements/1.1/"
+      xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+      xmlns:owl="http://www.w3.org/2002/07/owl#"
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:rico="https://www.ica.org/standards/RiC/ontology#">
+   <nom>Parisiis in camera nostri abbatis superius nominati</nom>
+   <notice>or-hubant-35-virt3</notice>
+</lieu>
+<lieu xmlns:dc="http://purl.org/dc/elements/1.1/"
+      xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+      xmlns:owl="http://www.w3.org/2002/07/owl#"
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:rico="https://www.ica.org/standards/RiC/ontology#">
+   <nom>in domo dicti testatoris sita in vico sine capite Pairisi prope plateam Mauberti</nom>
+   <notice>or-la-marche-15-virt1</notice>
+</lieu>
+<lieu xmlns:dc="http://purl.org/dc/elements/1.1/"
+      xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+      xmlns:owl="http://www.w3.org/2002/07/owl#"
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:rico="https://www.ica.org/standards/RiC/ontology#">
+   <nom>eu bureau en icelle chambre</nom>
+   <notice>or-la-marche-28-virt1</notice>
+</lieu>
+<lieu xmlns:dc="http://purl.org/dc/elements/1.1/"
+      xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+      xmlns:owl="http://www.w3.org/2002/07/owl#"
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:rico="https://www.ica.org/standards/RiC/ontology#">
+   <nom>in aula theologorum dictae domus</nom>
+   <notice>or-lisieux-1-virt2</notice>
+</lieu>
+<lieu xmlns:dc="http://purl.org/dc/elements/1.1/"
+      xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+      xmlns:owl="http://www.w3.org/2002/07/owl#"
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:rico="https://www.ica.org/standards/RiC/ontology#">
+   <nom>in parqueto superiori dicte curie nostre</nom>
+   <notice>or-lisieux-20-virt1</notice>
+</lieu>
+<lieu xmlns:dc="http://purl.org/dc/elements/1.1/"
+      xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+      xmlns:owl="http://www.w3.org/2002/07/owl#"
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:rico="https://www.ica.org/standards/RiC/ontology#">
+   <nom>a Paris</nom>
+   <notice>or-navarre-55-virt1</notice>
+   <notice>or-navarre-56-virt1</notice>
+</lieu>
+<lieu xmlns:dc="http://purl.org/dc/elements/1.1/"
+      xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+      xmlns:owl="http://www.w3.org/2002/07/owl#"
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:rico="https://www.ica.org/standards/RiC/ontology#">
+   <nom>aud. Abbeville</nom>
+   <notice>or-navarre-79-virt1</notice>
+</lieu>
+<lieu xmlns:dc="http://purl.org/dc/elements/1.1/"
+      xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+      xmlns:owl="http://www.w3.org/2002/07/owl#"
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:rico="https://www.ica.org/standards/RiC/ontology#">
+   <nom>Parisie</nom>
+   <notice>or-sorbonne-3-virt1</notice>
+</lieu>
+<lieu xmlns:dc="http://purl.org/dc/elements/1.1/"
+      xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+      xmlns:owl="http://www.w3.org/2002/07/owl#"
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:rico="https://www.ica.org/standards/RiC/ontology#">
+   <nom>apud urbem veterem</nom>
+   <notice>or-sorbonne-10-virt1</notice>
+</lieu>
+<lieu xmlns:dc="http://purl.org/dc/elements/1.1/"
+      xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+      xmlns:owl="http://www.w3.org/2002/07/owl#"
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:rico="https://www.ica.org/standards/RiC/ontology#">
+   <nom>Ammonensis in dicto hospitio predicti magistri Guillelmi Romani</nom>
+   <notice>or-sorbonne-38-virt1</notice>
+</lieu>
+<lieu xmlns:dc="http://purl.org/dc/elements/1.1/"
+      xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+      xmlns:owl="http://www.w3.org/2002/07/owl#"
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:rico="https://www.ica.org/standards/RiC/ontology#">
+   <nom>Rome apud sanctum Petrum</nom>
+   <notice>or-sorbonne-39-virt1</notice>
+</lieu>
+<lieu xmlns:dc="http://purl.org/dc/elements/1.1/"
+      xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+      xmlns:owl="http://www.w3.org/2002/07/owl#"
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:rico="https://www.ica.org/standards/RiC/ontology#">
+   <nom>Perusii</nom>
+   <notice>or-sorbonne-51-virt1</notice>
+   <notice>or-sorbonne-51-virt2</notice>
+</lieu>

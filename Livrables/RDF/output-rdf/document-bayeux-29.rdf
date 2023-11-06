@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:html="http://www.w3.org/1999/xhtml"
+         xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:rico="https://www.ica.org/standards/RiC/ontology#"
+         xml:base="http://data.oresm.fr/">
+   <rico:RecordResource rdf:about="recordResource/or-bayeux-29">
+      <rico:title xml:lang="fr">Extrait d'un arrêt du Parlement en date du 12 juin 1551</rico:title>
+      <rdfs:label xml:lang="fr">Extrait d'un arrêt du Parlement en date du 12 juin 1551</rdfs:label>
+      <rdfs:seeAlso rdf:resource="https://www.calames.abes.fr/pub/#details?id=Calames-2021215152763521"/>
+      <rico:hasOrHadLanguage rdf:resource="http://data.archives-nationales.culture.gouv.fr/language/FRAN_RI_100-name4"/>
+      <oresm-onto:nombreApproximatifNomsPersonnesPresents rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</oresm-onto:nombreApproximatifNomsPersonnesPresents>
+      <rico:hasInstantiation rdf:resource="instantiation/or-bayeux-29"/>
+      <oresm-onto:inclutExtraitDe rdf:resource="recordResource/or-bayeux-16-virt1"/>
+   </rico:RecordResource>
+   <rico:Instantiation rdf:about="instantiation/or-bayeux-29">
+      <rico:title xml:lang="fr">Extrait d'un arrêt du Parlement en date du 12 juin 1551</rico:title>
+      <rdfs:label xml:lang="fr">Extrait d'un arrêt du Parlement en date du 12 juin 1551</rdfs:label>
+      <rico:isInstantiationOf rdf:resource="recordResource/or-bayeux-29"/>
+      <oresm-onto:estActuellementConservePar rdf:resource="corporateBody/050960067"/>
+      <rico:height>240 mm</rico:height>
+      <rico:width>180 mm</rico:width>
+      <rico:instantiationExtent xml:lang="fr">1 folio</rico:instantiationExtent>
+      <oresm-onto:presenceAutreMention rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</oresm-onto:presenceAutreMention>
+      <oresm-onto:presenceMentionDorsale rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</oresm-onto:presenceMentionDorsale>
+   </rico:Instantiation>
+</rdf:RDF>

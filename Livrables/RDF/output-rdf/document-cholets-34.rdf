@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:html="http://www.w3.org/1999/xhtml"
+         xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:rico="https://www.ica.org/standards/RiC/ontology#"
+         xml:base="http://data.oresm.fr/">
+   <rico:RecordResource rdf:about="recordResource/or-cholets-34">
+      <rico:title xml:lang="fr">Donation par Raoul du Marais, maître ès arts, chanoine de Péronne, écolier au collège des Cholets, de 10 livres tournois de rente sur une maison à Angicourt, au diocèse de Beauvais</rico:title>
+      <rdfs:label xml:lang="fr">Donation par Raoul du Marais, maître ès arts, chanoine de Péronne, écolier au collège des Cholets, de 10 livres tournois de rente sur une maison à Angicourt, au diocèse de Beauvais</rdfs:label>
+      <rdfs:seeAlso rdf:resource="https://www.siv.archives-nationales.culture.gouv.fr/siv/UD/FRAN_IR_032408/c-4hxmpd8ms-1pbagxf1wd6hi"/>
+      <rico:hasOrHadLanguage rdf:resource="http://data.archives-nationales.culture.gouv.fr/language/FRAN_RI_100-name4"/>
+      <oresm-onto:nombreApproximatifNomsPersonnesPresents rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</oresm-onto:nombreApproximatifNomsPersonnesPresents>
+      <oresm-onto:presenceDeSceau rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</oresm-onto:presenceDeSceau>
+      <oresm-onto:noteSceau>Scellé</oresm-onto:noteSceau>
+      <rico:hasInstantiation rdf:resource="instantiation/or-cholets-34"/>
+   </rico:RecordResource>
+   <rico:Instantiation rdf:about="instantiation/or-cholets-34">
+      <rico:title xml:lang="fr">Donation par Raoul du Marais, maître ès arts, chanoine de Péronne, écolier au collège des Cholets, de 10 livres tournois de rente sur une maison à Angicourt, au diocèse de Beauvais</rico:title>
+      <rdfs:label xml:lang="fr">Donation par Raoul du Marais, maître ès arts, chanoine de Péronne, écolier au collège des Cholets, de 10 livres tournois de rente sur une maison à Angicourt, au diocèse de Beauvais</rdfs:label>
+      <rico:isInstantiationOf rdf:resource="recordResource/or-cholets-34"/>
+      <oresm-onto:estActuellementConservePar rdf:resource="corporateBody/005061"/>
+      <rico:height>477 mm</rico:height>
+      <rico:width>581 mm</rico:width>
+      <rico:instantiationExtent xml:lang="fr">1 pièce</rico:instantiationExtent>
+      <rico:physicalCharacteristics xml:lang="fr">Scellé</rico:physicalCharacteristics>
+      <oresm-onto:presenceAutreMention rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</oresm-onto:presenceAutreMention>
+      <oresm-onto:presenceMentionDorsale rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</oresm-onto:presenceMentionDorsale>
+      <oresm-onto:transcriptionDeLaOuLesMentionsDorsales>« Pieces concernans la rente de 50 s. parisis a Angicourt » ; « 1394 » ; « M 111 n° 28 » ; « Onzième de la 37e liasse et dernière » ; « Angicourt » ; « Choles » ; « Transportus [?] redditus [?] super unum […] nobis [?] per me Radulphum de Marasto et […] ; il y a une mention barrée ; « Nobis [?] Radulphi de Maresto et [?] ; « B » ; « Don au college de dix livres tournois de rente sur une [?] et appartenant a notre [?] de ruelle assize a Angicourt par mestre Raoul des Mareiz [?] fondez 1394 »</oresm-onto:transcriptionDeLaOuLesMentionsDorsales>
+   </rico:Instantiation>
+</rdf:RDF>

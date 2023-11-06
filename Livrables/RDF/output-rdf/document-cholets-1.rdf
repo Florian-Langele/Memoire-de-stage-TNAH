@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:html="http://www.w3.org/1999/xhtml"
+         xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:rico="https://www.ica.org/standards/RiC/ontology#"
+         xml:base="http://data.oresm.fr/">
+   <rico:RecordResource rdf:about="recordResource/or-cholets-1">
+      <rico:title xml:lang="fr">Vidimus de l'official de Paris d'une bulle de Martin IV adressée à Jean [Cholet], cardinal prêtre du titre de Sainte-Cécile, par laquelle il lui permet de tester et de disposer de ses biens meubles ecclésiastiques</rico:title>
+      <rdfs:label xml:lang="fr">Vidimus de l'official de Paris d'une bulle de Martin IV adressée à Jean [Cholet], cardinal prêtre du titre de Sainte-Cécile, par laquelle il lui permet de tester et de disposer de ses biens meubles ecclésiastiques</rdfs:label>
+      <rdfs:seeAlso rdf:resource="https://www.siv.archives-nationales.culture.gouv.fr/siv/UD/FRAN_IR_032408/c-4hjwxyobu-lko65o85kw1y"/>
+      <rico:hasOrHadLanguage rdf:resource="http://data.archives-nationales.culture.gouv.fr/language/FRAN_RI_100-name9"/>
+      <oresm-onto:nombreApproximatifNomsPersonnesPresents rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</oresm-onto:nombreApproximatifNomsPersonnesPresents>
+      <rico:hasInstantiation rdf:resource="instantiation/or-cholets-1"/>
+   </rico:RecordResource>
+   <rico:Instantiation rdf:about="instantiation/or-cholets-1">
+      <rico:title xml:lang="fr">Vidimus de l'official de Paris d'une bulle de Martin IV adressée à Jean [Cholet], cardinal prêtre du titre de Sainte-Cécile, par laquelle il lui permet de tester et de disposer de ses biens meubles ecclésiastiques</rico:title>
+      <rdfs:label xml:lang="fr">Vidimus de l'official de Paris d'une bulle de Martin IV adressée à Jean [Cholet], cardinal prêtre du titre de Sainte-Cécile, par laquelle il lui permet de tester et de disposer de ses biens meubles ecclésiastiques</rdfs:label>
+      <rico:isInstantiationOf rdf:resource="recordResource/or-cholets-1"/>
+      <oresm-onto:estActuellementConservePar rdf:resource="corporateBody/005061"/>
+      <rico:height>182 mm</rico:height>
+      <rico:width>195 mm</rico:width>
+      <rico:instantiationExtent xml:lang="fr">1 pièce</rico:instantiationExtent>
+      <oresm-onto:presenceAutreMention rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</oresm-onto:presenceAutreMention>
+      <oresm-onto:presenceMentionDorsale rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</oresm-onto:presenceMentionDorsale>
+      <oresm-onto:transcriptionDeLaOuLesMentionsDorsales>"Vidimus officialis parisiensis bulla Martini 4i qui permettoit au cardinal Cholet de disposer de ses biens meubles ecclésiastiques I.C." ; "M 111 n° 1" ; "[?] domini Choleti [?]" ; "Sancto dei vidimus Paris officialis presentiam [?]" ; il y a un C barré ; "troisième pièce de la 44e" ; "D"</oresm-onto:transcriptionDeLaOuLesMentionsDorsales>
+   </rico:Instantiation>
+   <rico:RecordResource rdf:about="recordResource/or-cholets-1-virt1">
+      <rdfs:label xml:lang="fr">Bulle de Martin IV adressée à Jean [Cholet], cardinal prêtre du titre de Sainte-Cécile, par laquelle il lui permet de tester et de disposer de ses biens meubles ecclésiastiques</rdfs:label>
+      <rico:title xml:lang="fr">Bulle de Martin IV adressée à Jean [Cholet], cardinal prêtre du titre de Sainte-Cécile, par laquelle il lui permet de tester et de disposer de ses biens meubles ecclésiastiques</rico:title>
+      <oresm-onto:aPourVidimus rdf:resource="recordResource/or-cholets-1"/>
+      <rico:hasInstantiation>
+         <rico:Instantiation>
+            <rico:descriptiveNote xml:lang="fr">Acte non retrouvé à ce jour.</rico:descriptiveNote>
+            <rico:identifier>lost-0c91c21b-19ee-4a54-bb13-0f4fa35f1d52</rico:identifier>
+         </rico:Instantiation>
+      </rico:hasInstantiation>
+   </rico:RecordResource>
+</rdf:RDF>

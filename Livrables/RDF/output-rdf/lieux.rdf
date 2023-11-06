@@ -1,0 +1,2118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:html="http://www.w3.org/1999/xhtml"
+         xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:rico="https://www.ica.org/standards/RiC/ontology#"
+         xml:base="http://data.oresm.fr/">
+   <rico:Place rdf:about="Abbaye%20Saint%20Germain-des-Pr%C3%A8s">
+      <rdfs:label xml:lang="fr">Abbaye Saint Germain-des-Près</rdfs:label>
+      <rico:name xml:lang="fr">Abbaye Saint Germain-des-Près</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-50"/>
+   </rico:Place>
+   <rico:Place rdf:about="Abbaye%20Saint-Cyprien%20de%20Poitiers">
+      <rdfs:label xml:lang="fr">Abbaye Saint-Cyprien de Poitiers</rdfs:label>
+      <rico:name xml:lang="fr">Abbaye Saint-Cyprien de Poitiers</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-25"/>
+   </rico:Place>
+   <rico:Place rdf:about="Abbaye%20Saint-Pierre%20de%20Montier-la-Celle">
+      <rdfs:label xml:lang="fr">Abbaye Saint-Pierre de Montier-la-Celle</rdfs:label>
+      <rico:name xml:lang="fr">Abbaye Saint-Pierre de Montier-la-Celle</rico:name>
+      <rico:latitude>48.282246732359226</rico:latitude>
+      <rico:longitude>4.0535126596756035</rico:longitude>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-2"/>
+   </rico:Place>
+   <rico:Place rdf:about="Abbaye%20Sainte-Genevi%C3%A8ve">
+      <rdfs:label xml:lang="fr">Abbaye Sainte-Geneviève</rdfs:label>
+      <rico:name xml:lang="fr">Abbaye Sainte-Geneviève</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-50"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-105"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-119"/>
+   </rico:Place>
+   <rico:Place rdf:about="Abbaye%20Sainte-Genevi%C3%A8ve%20de%20Paris">
+      <rdfs:label xml:lang="fr">Abbaye Sainte-Geneviève de Paris</rdfs:label>
+      <rico:name xml:lang="fr">Abbaye Sainte-Geneviève de Paris</rico:name>
+      <rico:latitude>48.845889</rico:latitude>
+      <rico:longitude>2.347833</rico:longitude>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-hubant-2"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-hubant-4"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-hubant-7"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-hubant-10"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-hubant-12"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-105"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-18"/>
+   </rico:Place>
+   <rico:Place rdf:about="Abbaye%20Sainte-Genvi%C3%A8ve">
+      <rdfs:label xml:lang="fr">Abbaye Sainte-Genviève</rdfs:label>
+      <rico:name xml:lang="fr">Abbaye Sainte-Genviève</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-120"/>
+   </rico:Place>
+   <rico:Place rdf:about="Abbaye%20du%20Jard">
+      <rdfs:label xml:lang="fr">Abbaye du Jard</rdfs:label>
+      <rico:name xml:lang="fr">Abbaye du Jard</rico:name>
+      <rico:latitude>48.570763</rico:latitude>
+      <rico:longitude>2.659949</rico:longitude>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-213"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-214"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-215"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-216"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-217"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-218"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-219"/>
+   </rico:Place>
+   <rico:Place rdf:about="Abbeville">
+      <rdfs:label xml:lang="fr">Abbeville</rdfs:label>
+      <rico:name xml:lang="fr">Abbeville</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-137"/>
+   </rico:Place>
+   <rico:Place rdf:about="Ableville">
+      <rdfs:label xml:lang="fr">Ableville</rdfs:label>
+      <rico:name xml:lang="fr">Ableville</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-209-virt1"/>
+   </rico:Place>
+   <rico:Place rdf:about="Amiens">
+      <rdfs:label xml:lang="fr">Amiens</rdfs:label>
+      <rico:name xml:lang="fr">Amiens</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-180"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-29"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-33"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-35"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-37"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-50"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-71"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-115"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-176"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-177"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-179"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-180"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-184"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-267"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-268"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-276"/>
+   </rico:Place>
+   <rico:Place rdf:about="Amilly">
+      <rdfs:label xml:lang="fr">Amilly</rdfs:label>
+      <rico:name xml:lang="fr">Amilly</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cardinal-lemoine-4"/>
+   </rico:Place>
+   <rico:Place rdf:about="Ammonensis%20in%20dicto%20hospitio%20predicti%20magistri%20Guillelmi%20Romani">
+      <rdfs:label xml:lang="fr">Ammonensis in dicto hospitio predicti magistri Guillelmi Romani</rdfs:label>
+      <rico:name xml:lang="fr">Ammonensis in dicto hospitio predicti magistri Guillelmi Romani</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-sorbonne-38-virt1"/>
+   </rico:Place>
+   <rico:Place rdf:about="Anagnie">
+      <rdfs:label xml:lang="fr">Anagnie</rdfs:label>
+      <rico:name xml:lang="fr">Anagnie</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-sorbonne-1"/>
+   </rico:Place>
+   <rico:Place rdf:about="Angicourt">
+      <rdfs:label xml:lang="fr">Angicourt</rdfs:label>
+      <rico:name xml:lang="fr">Angicourt</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-34"/>
+   </rico:Place>
+   <rico:Place rdf:about="Anglure">
+      <rdfs:label xml:lang="fr">Anglure</rdfs:label>
+      <rico:name xml:lang="fr">Anglure</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cardinal-lemoine-4"/>
+   </rico:Place>
+   <rico:Place rdf:about="Archev%C3%AAch%C3%A9%20de%20Paris">
+      <rdfs:label xml:lang="fr">Archevêché de Paris</rdfs:label>
+      <rico:name xml:lang="fr">Archevêché de Paris</rico:name>
+      <rico:latitude>48.8497</rico:latitude>
+      <rico:longitude>2.3501</rico:longitude>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-1"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-5"/>
+   </rico:Place>
+   <rico:Place rdf:about="Archidioc%C3%A8se%20de%20Rouen">
+      <rdfs:label xml:lang="fr">Archidiocèse de Rouen</rdfs:label>
+      <rico:name xml:lang="fr">Archidiocèse de Rouen</rico:name>
+      <rico:latitude>49.4367</rico:latitude>
+      <rico:longitude>1.0949</rico:longitude>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-3"/>
+   </rico:Place>
+   <rico:Place rdf:about="Arras">
+      <rdfs:label xml:lang="fr">Arras</rdfs:label>
+      <rico:name xml:lang="fr">Arras</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cardinal-lemoine-7"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cardinal-lemoine-7"/>
+   </rico:Place>
+   <rico:Place rdf:about="Aubigny">
+      <rdfs:label xml:lang="fr">Aubigny</rdfs:label>
+      <rico:name xml:lang="fr">Aubigny</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-279"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-282"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-283"/>
+   </rico:Place>
+   <rico:Place rdf:about="Aurillac">
+      <rdfs:label xml:lang="fr">Aurillac</rdfs:label>
+      <rico:name xml:lang="fr">Aurillac</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-179"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-198"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-228"/>
+   </rico:Place>
+   <rico:Place rdf:about="Auxerre">
+      <rdfs:label xml:lang="fr">Auxerre</rdfs:label>
+      <rico:name xml:lang="fr">Auxerre</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-140"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-147"/>
+   </rico:Place>
+   <rico:Place rdf:about="Avignon">
+      <rdfs:label xml:lang="fr">Avignon</rdfs:label>
+      <rico:name xml:lang="fr">Avignon</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cardinal-lemoine-14"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cardinal-lemoine-18"/>
+   </rico:Place>
+   <rico:Place rdf:about="Avignon%20%28Avignon%29">
+      <rdfs:label xml:lang="fr">Avignon (Avignon)</rdfs:label>
+      <rico:name xml:lang="fr">Avignon (Avignon)</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cardinal-lemoine-15-virt3"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cardinal-lemoine-13-ins1"/>
+   </rico:Place>
+   <rico:Place rdf:about="Avinione%20in%20domo%20habitationis%20nostre">
+      <rdfs:label xml:lang="fr">Avinione in domo habitationis nostre</rdfs:label>
+      <rico:name xml:lang="fr">Avinione in domo habitationis nostre</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-sorbonne-42"/>
+   </rico:Place>
+   <rico:Place rdf:about="Basilique%20Saint-Jean-de-Latran">
+      <rdfs:label xml:lang="fr">Basilique Saint-Jean-de-Latran</rdfs:label>
+      <rico:name xml:lang="fr">Basilique Saint-Jean-de-Latran</rico:name>
+      <rdfs:seeAlso>https://fr.wikipedia.org/wiki/Basilique_Saint-Jean-de-Latran</rdfs:seeAlso>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cardinal-lemoine-12-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cardinal-lemoine-15-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-15-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-16-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-50-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-13-ins2"/>
+   </rico:Place>
+   <rico:Place rdf:about="Basilique%20Saint-Pierre">
+      <rdfs:label xml:lang="fr">Basilique Saint-Pierre</rdfs:label>
+      <rico:name xml:lang="fr">Basilique Saint-Pierre</rico:name>
+      <rdfs:seeAlso>https://fr.wikipedia.org/wiki/Basilique_Saint-Pierre</rdfs:seeAlso>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-6-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-8-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-13-ins1"/>
+   </rico:Place>
+   <rico:Place rdf:about="Basilique%20San%20Crisogono%20%28Italie%29">
+      <rdfs:label xml:lang="fr">Basilique San Crisogono (Italie)</rdfs:label>
+      <rico:name xml:lang="fr">Basilique San Crisogono (Italie)</rico:name>
+      <rico:latitude>41.8891399</rico:latitude>
+      <rico:longitude>12.4735808</rico:longitude>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-4"/>
+   </rico:Place>
+   <rico:Place rdf:about="Beaumays">
+      <rdfs:label xml:lang="fr">Beaumays</rdfs:label>
+      <rico:name xml:lang="fr">Beaumays</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-116"/>
+   </rico:Place>
+   <rico:Place rdf:about="Beauquesne">
+      <rdfs:label xml:lang="fr">Beauquesne</rdfs:label>
+      <rico:name xml:lang="fr">Beauquesne</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-28"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-29"/>
+   </rico:Place>
+   <rico:Place rdf:about="Beauvais">
+      <rdfs:label xml:lang="fr">Beauvais</rdfs:label>
+      <rico:name xml:lang="fr">Beauvais</rico:name>
+      <rdfs:seeAlso>https://fr.wikipedia.org/wiki/Beauvais</rdfs:seeAlso>
+      <rico:latitude>49.43293802830907</rico:latitude>
+      <rico:longitude>2.0815734646972537</rico:longitude>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-5-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-119"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-5"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-11"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-22"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-24"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-34"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-182"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-185"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-234"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-236"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-237"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-238"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-239"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-244"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-267"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-268"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-270"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-276"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-284"/>
+   </rico:Place>
+   <rico:Place rdf:about="Belvaci">
+      <rdfs:label xml:lang="fr">Belvaci</rdfs:label>
+      <rico:name xml:lang="fr">Belvaci</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-242"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-243"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-244"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-249"/>
+   </rico:Place>
+   <rico:Place rdf:about="Bois%20de%20Vincennes">
+      <rdfs:label xml:lang="fr">Bois de Vincennes</rdfs:label>
+      <rico:name xml:lang="fr">Bois de Vincennes</rico:name>
+      <rico:latitude>48.83</rico:latitude>
+      <rico:longitude>2.4333</rico:longitude>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-28"/>
+   </rico:Place>
+   <rico:Place rdf:about="B%C3%A9thisy">
+      <rdfs:label xml:lang="fr">Béthisy</rdfs:label>
+      <rico:name xml:lang="fr">Béthisy</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-62"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-77"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-95"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-97"/>
+   </rico:Place>
+   <rico:Place rdf:about="B%C3%A9thisy-sur-Autonne">
+      <rdfs:label xml:lang="fr">Béthisy-sur-Autonne</rdfs:label>
+      <rico:name xml:lang="fr">Béthisy-sur-Autonne</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-59"/>
+   </rico:Place>
+   <rico:Place rdf:about="Cambrai">
+      <rdfs:label xml:lang="fr">Cambrai</rdfs:label>
+      <rico:name xml:lang="fr">Cambrai</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-navarre-9"/>
+   </rico:Place>
+   <rico:Place rdf:about="Cath%C3%A9drale%20Notre-Dame%20de%20Paris">
+      <rdfs:label xml:lang="fr">Cathédrale Notre-Dame de Paris</rdfs:label>
+      <rico:name xml:lang="fr">Cathédrale Notre-Dame de Paris</rico:name>
+      <rico:latitude>48.853056</rico:latitude>
+      <rico:longitude>2.349722</rico:longitude>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-182"/>
+   </rico:Place>
+   <rico:Place rdf:about="Cath%C3%A9drale%20Notre-Dame%20de%20Rouen">
+      <rdfs:label xml:lang="fr">Cathédrale Notre-Dame de Rouen</rdfs:label>
+      <rico:name xml:lang="fr">Cathédrale Notre-Dame de Rouen</rico:name>
+      <rico:latitude>49.4368</rico:latitude>
+      <rico:longitude>1.0946</rico:longitude>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-3"/>
+   </rico:Place>
+   <rico:Place rdf:about="Cath%C3%A9drale%20Notre-Dame%20d%E2%80%99Amiens">
+      <rdfs:label xml:lang="fr">Cathédrale Notre-Dame d’Amiens</rdfs:label>
+      <rico:name xml:lang="fr">Cathédrale Notre-Dame d’Amiens</rico:name>
+      <rico:latitude>49.8944</rico:latitude>
+      <rico:longitude>2.301944</rico:longitude>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-176"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-179"/>
+   </rico:Place>
+   <rico:Place rdf:about="Cath%C3%A9drale%20Saint-Pierre%20de%20Beauvais">
+      <rdfs:label xml:lang="fr">Cathédrale Saint-Pierre de Beauvais</rdfs:label>
+      <rico:name xml:lang="fr">Cathédrale Saint-Pierre de Beauvais</rico:name>
+      <rico:latitude>49.432626</rico:latitude>
+      <rico:longitude>2.081331</rico:longitude>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-177"/>
+   </rico:Place>
+   <rico:Place rdf:about="Chapelle%20de%20Saint-Symphorien">
+      <rdfs:label xml:lang="fr">Chapelle de Saint-Symphorien</rdfs:label>
+      <rico:name xml:lang="fr">Chapelle de Saint-Symphorien</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-8"/>
+   </rico:Place>
+   <rico:Place rdf:about="Chapelle%20du%20coll%C3%A8ge%20de%20la%20Marche">
+      <rdfs:label xml:lang="fr">Chapelle du collège de la Marche</rdfs:label>
+      <rico:name xml:lang="fr">Chapelle du collège de la Marche</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-la-marche-119"/>
+   </rico:Place>
+   <rico:Place rdf:about="Chapelle%20du%20coll%C3%A8ge%20du%20Cardinal-Lemoine">
+      <rdfs:label xml:lang="fr">Chapelle du collège du Cardinal-Lemoine</rdfs:label>
+      <rico:name xml:lang="fr">Chapelle du collège du Cardinal-Lemoine</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-51"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-52"/>
+   </rico:Place>
+   <rico:Place rdf:about="Chartres">
+      <rdfs:label xml:lang="fr">Chartres</rdfs:label>
+      <rico:name xml:lang="fr">Chartres</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-46"/>
+   </rico:Place>
+   <rico:Place rdf:about="Chauny">
+      <rdfs:label xml:lang="fr">Chauny</rdfs:label>
+      <rico:name xml:lang="fr">Chauny</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-55"/>
+   </rico:Place>
+   <rico:Place rdf:about="Ch%C3%A2telet">
+      <rdfs:label xml:lang="fr">Châtelet</rdfs:label>
+      <rico:name xml:lang="fr">Châtelet</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-89"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-91"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-93"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-117"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-127"/>
+   </rico:Place>
+   <rico:Place rdf:about="Ch%C3%A2tellenie%20de%20Montlh%C3%A9ry">
+      <rdfs:label xml:lang="fr">Châtellenie de Montlhéry</rdfs:label>
+      <rico:name xml:lang="fr">Châtellenie de Montlhéry</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-256"/>
+   </rico:Place>
+   <rico:Place rdf:about="Clo%C3%AEtre%20Notre-Dame">
+      <rdfs:label xml:lang="fr">Cloître Notre-Dame</rdfs:label>
+      <rico:name xml:lang="fr">Cloître Notre-Dame</rico:name>
+      <rico:latitude>48.853138</rico:latitude>
+      <rico:longitude>2.350577</rico:longitude>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-50"/>
+   </rico:Place>
+   <rico:Place rdf:about="Coll%C3%A8ge%20Fortet">
+      <rdfs:label xml:lang="fr">Collège Fortet</rdfs:label>
+      <rico:name xml:lang="fr">Collège Fortet</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-138"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-221"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-17"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-18"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-24"/>
+   </rico:Place>
+   <rico:Place rdf:about="Coll%C3%A8ge%20de%20Lisieux">
+      <rdfs:label xml:lang="fr">Collège de Lisieux</rdfs:label>
+      <rico:name xml:lang="fr">Collège de Lisieux</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-lisieux-8"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-lisieux-7"/>
+   </rico:Place>
+   <rico:Place rdf:about="Coll%C3%A8ge%20de%20Montaigu">
+      <rdfs:label xml:lang="fr">Collège de Montaigu</rdfs:label>
+      <rico:name xml:lang="fr">Collège de Montaigu</rico:name>
+      <rico:latitude>48.85</rico:latitude>
+      <rico:longitude>2.35</rico:longitude>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-195"/>
+   </rico:Place>
+   <rico:Place rdf:about="Coll%C3%A8ge%20des%20Cholets">
+      <rdfs:label xml:lang="fr">Collège des Cholets</rdfs:label>
+      <rico:name xml:lang="fr">Collège des Cholets</rico:name>
+      <rico:latitude>48.84736218383409</rico:latitude>
+      <rico:longitude>2.3447759557297774</rico:longitude>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-169-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-24"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-42"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-45"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-48"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-128"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-129"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-133"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-139"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-140"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-145"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-148"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-175"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-208"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-51"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-51"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-52"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-54"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-67"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-68"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-69"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-70"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-89"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-71"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-224"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-225"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-226"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-267"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-268"/>
+   </rico:Place>
+   <rico:Place rdf:about="Coll%C3%A8ge%20du%20Cardinal%20Lemoine">
+      <rdfs:label xml:lang="fr">Collège du Cardinal Lemoine</rdfs:label>
+      <rico:name xml:lang="fr">Collège du Cardinal Lemoine</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cardinal-lemoine-13"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cardinal-lemoine-19"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cardinal-lemoine-4"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cardinal-lemoine-6"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cardinal-lemoine-7"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cardinal-lemoine-12"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cardinal-lemoine-13"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cardinal-lemoine-14"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cardinal-lemoine-15"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cardinal-lemoine-18"/>
+   </rico:Place>
+   <rico:Place rdf:about="Compi%C3%A8gne">
+      <rdfs:label xml:lang="fr">Compiègne</rdfs:label>
+      <rico:name xml:lang="fr">Compiègne</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-70"/>
+   </rico:Place>
+   <rico:Place rdf:about="Corcelles">
+      <rdfs:label xml:lang="fr">Corcelles</rdfs:label>
+      <rico:name xml:lang="fr">Corcelles</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-471"/>
+   </rico:Place>
+   <rico:Place rdf:about="Coudray">
+      <rdfs:label xml:lang="fr">Coudray</rdfs:label>
+      <rico:name xml:lang="fr">Coudray</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-89"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-91"/>
+   </rico:Place>
+   <rico:Place rdf:about="Courcelles-en-Brie">
+      <rdfs:label xml:lang="fr">Courcelles-en-Brie</rdfs:label>
+      <rico:name xml:lang="fr">Courcelles-en-Brie</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-466"/>
+   </rico:Place>
+   <rico:Place rdf:about="Cr%C3%A9py-en-Valois">
+      <rdfs:label xml:lang="fr">Crépy-en-Valois</rdfs:label>
+      <rico:name xml:lang="fr">Crépy-en-Valois</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-149"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-149"/>
+   </rico:Place>
+   <rico:Place rdf:about="Dioc%C3%A8se%20d%27Amiens">
+      <rdfs:label xml:lang="fr">Diocèse d'Amiens</rdfs:label>
+      <rico:name xml:lang="fr">Diocèse d'Amiens</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-227"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-228"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-229"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-231"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-233"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-240"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-273"/>
+   </rico:Place>
+   <rico:Place rdf:about="Dioc%C3%A8se%20de%20Beauvais">
+      <rdfs:label xml:lang="fr">Diocèse de Beauvais</rdfs:label>
+      <rico:name xml:lang="fr">Diocèse de Beauvais</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-6"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-7"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-182"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-227"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-228"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-229"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-231"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-233"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-240"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-273"/>
+   </rico:Place>
+   <rico:Place rdf:about="Dioc%C3%A8se%20d%E2%80%99Amiens">
+      <rdfs:label xml:lang="fr">Diocèse d’Amiens</rdfs:label>
+      <rico:name xml:lang="fr">Diocèse d’Amiens</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-6"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-7"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-14"/>
+   </rico:Place>
+   <rico:Place rdf:about="Dioc%C3%A8se%20suburbicaire%20de%20Porto-Santa%20Rufina">
+      <rdfs:label xml:lang="fr">Diocèse suburbicaire de Porto-Santa Rufina</rdfs:label>
+      <rico:name xml:lang="fr">Diocèse suburbicaire de Porto-Santa Rufina</rico:name>
+      <rico:latitude>42.002803981727766</rico:latitude>
+      <rico:longitude>12.383224393334586</rico:longitude>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-4"/>
+   </rico:Place>
+   <rico:Place rdf:about="Eglise%20Saint-Etienne-des-Gr%C3%A8s">
+      <rdfs:label xml:lang="fr">Eglise Saint-Etienne-des-Grès</rdfs:label>
+      <rico:name xml:lang="fr">Eglise Saint-Etienne-des-Grès</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-50"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-57"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-58"/>
+   </rico:Place>
+   <rico:Place rdf:about="Eglise%20de%20Buires">
+      <rdfs:label xml:lang="fr">Eglise de Buires</rdfs:label>
+      <rico:name xml:lang="fr">Eglise de Buires</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-14"/>
+   </rico:Place>
+   <rico:Place rdf:about="Eglise%20du%20Saint-S%C3%A9pulcre">
+      <rdfs:label xml:lang="fr">Eglise du Saint-Sépulcre</rdfs:label>
+      <rico:name xml:lang="fr">Eglise du Saint-Sépulcre</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-49"/>
+   </rico:Place>
+   <rico:Place rdf:about="Eglise%20d%E2%80%99Amiens">
+      <rdfs:label xml:lang="fr">Eglise d’Amiens</rdfs:label>
+      <rico:name xml:lang="fr">Eglise d’Amiens</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-73"/>
+   </rico:Place>
+   <rico:Place rdf:about="Ev%C3%AAch%C3%A9%20de%20Paris">
+      <rdfs:label xml:lang="fr">Evêché de Paris</rdfs:label>
+      <rico:name xml:lang="fr">Evêché de Paris</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-20"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-21"/>
+   </rico:Place>
+   <rico:Place rdf:about="Fouju">
+      <rdfs:label xml:lang="fr">Fouju</rdfs:label>
+      <rico:name xml:lang="fr">Fouju</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cardinal-lemoine-5"/>
+   </rico:Place>
+   <rico:Place rdf:about="Gaulainville">
+      <rdfs:label xml:lang="fr">Gaulainville</rdfs:label>
+      <rico:name xml:lang="fr">Gaulainville</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-38"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-39"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-41"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-43"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-79"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-86"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-89"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-91"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-92"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-93"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-159"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-173"/>
+   </rico:Place>
+   <rico:Place rdf:about="Glaignes">
+      <rdfs:label xml:lang="fr">Glaignes</rdfs:label>
+      <rico:name xml:lang="fr">Glaignes</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-125"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-138"/>
+   </rico:Place>
+   <rico:Place rdf:about="Gleignes">
+      <rdfs:label xml:lang="fr">Gleignes</rdfs:label>
+      <rico:name xml:lang="fr">Gleignes</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-125"/>
+   </rico:Place>
+   <rico:Place rdf:about="Grand%20Ch%C3%A2telet">
+      <rdfs:label xml:lang="fr">Grand Châtelet</rdfs:label>
+      <rico:name xml:lang="fr">Grand Châtelet</rico:name>
+      <rico:latitude>48.8574337</rico:latitude>
+      <rico:longitude>2.3470866</rico:longitude>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-127"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-10"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-31"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-33"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-34"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-35"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-36"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-41"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-47"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-49"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-54"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-57"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-70"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-71"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-79"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-82"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-91"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-92"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-93"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-101"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-106"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-107"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-109"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-110"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-111"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-112"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-113"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-114"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-116"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-124"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-150"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-153"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-121"/>
+   </rico:Place>
+   <rico:Place rdf:about="Grand%20Ch%C3%A2telet%20%28Paris%29">
+      <rdfs:label xml:lang="fr">Grand Châtelet (Paris)</rdfs:label>
+      <rico:name xml:lang="fr">Grand Châtelet (Paris)</rico:name>
+      <rdfs:seeAlso>https://fr.wikipedia.org/wiki/Grand_Ch%C3%A2telet</rdfs:seeAlso>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-108-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-209-ins1"/>
+   </rico:Place>
+   <rico:Place rdf:about="Guyencourt">
+      <rdfs:label xml:lang="fr">Guyencourt</rdfs:label>
+      <rico:name xml:lang="fr">Guyencourt</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-148"/>
+   </rico:Place>
+   <rico:Place rdf:about="Hallencourt">
+      <rdfs:label xml:lang="fr">Hallencourt</rdfs:label>
+      <rico:name xml:lang="fr">Hallencourt</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-209"/>
+   </rico:Place>
+   <rico:Place rdf:about="Josas">
+      <rdfs:label xml:lang="fr">Josas</rdfs:label>
+      <rico:name xml:lang="fr">Josas</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-85"/>
+   </rico:Place>
+   <rico:Place rdf:about="Le%20Jard">
+      <rdfs:label xml:lang="fr">Le Jard</rdfs:label>
+      <rico:name xml:lang="fr">Le Jard</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-279"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-283"/>
+   </rico:Place>
+   <rico:Place rdf:about="Le%20Jars">
+      <rdfs:label xml:lang="fr">Le Jars</rdfs:label>
+      <rico:name xml:lang="fr">Le Jars</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-282"/>
+   </rico:Place>
+   <rico:Place rdf:about="Le%20Jart">
+      <rdfs:label xml:lang="fr">Le Jart</rdfs:label>
+      <rico:name xml:lang="fr">Le Jart</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-284"/>
+   </rico:Place>
+   <rico:Place rdf:about="Lingone">
+      <rdfs:label xml:lang="fr">Lingone</rdfs:label>
+      <rico:name xml:lang="fr">Lingone</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-la-marche-30"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-la-marche-31"/>
+   </rico:Place>
+   <rico:Place rdf:about="Lutetiae%20apud%20Choleteos">
+      <rdfs:label xml:lang="fr">Lutetiae apud Choleteos</rdfs:label>
+      <rico:name xml:lang="fr">Lutetiae apud Choleteos</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-241"/>
+   </rico:Place>
+   <rico:Place rdf:about="Maison%20de%20la%20Souche%2C%20pr%C3%A8s%20de%20Saint-S%C3%A9verin">
+      <rdfs:label xml:lang="fr">Maison de la Souche, près de Saint-Séverin</rdfs:label>
+      <rico:name xml:lang="fr">Maison de la Souche, près de Saint-Séverin</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-124"/>
+   </rico:Place>
+   <rico:Place rdf:about="Maison%20de%20la%20rue%20Saint-Jacques">
+      <rdfs:label xml:lang="fr">Maison de la rue Saint-Jacques</rdfs:label>
+      <rico:name xml:lang="fr">Maison de la rue Saint-Jacques</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-144"/>
+   </rico:Place>
+   <rico:Place rdf:about="Marigny">
+      <rdfs:label xml:lang="fr">Marigny</rdfs:label>
+      <rico:name xml:lang="fr">Marigny</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-70"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-70"/>
+   </rico:Place>
+   <rico:Place rdf:about="Melun">
+      <rdfs:label xml:lang="fr">Melun</rdfs:label>
+      <rico:name xml:lang="fr">Melun</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-279"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-282"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-283"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-284"/>
+   </rico:Place>
+   <rico:Place rdf:about="Mereville">
+      <rdfs:label xml:lang="fr">Mereville</rdfs:label>
+      <rico:name xml:lang="fr">Mereville</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-40"/>
+   </rico:Place>
+   <rico:Place rdf:about="Monstereel">
+      <rdfs:label xml:lang="fr">Monstereel</rdfs:label>
+      <rico:name xml:lang="fr">Monstereel</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-37-virt1"/>
+   </rico:Place>
+   <rico:Place rdf:about="Monstrel">
+      <rdfs:label xml:lang="fr">Monstrel</rdfs:label>
+      <rico:name xml:lang="fr">Monstrel</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-284"/>
+   </rico:Place>
+   <rico:Place rdf:about="Montagne%20Sainte-Genevi%C3%A8ve">
+      <rdfs:label xml:lang="fr">Montagne Sainte-Geneviève</rdfs:label>
+      <rico:name xml:lang="fr">Montagne Sainte-Geneviève</rico:name>
+      <rico:latitude>48.8177</rico:latitude>
+      <rico:longitude>2.3449</rico:longitude>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-3"/>
+   </rico:Place>
+   <rico:Place rdf:about="Montereau%20sur%20le%20Jard">
+      <rdfs:label xml:lang="fr">Montereau sur le Jard</rdfs:label>
+      <rico:name xml:lang="fr">Montereau sur le Jard</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-280"/>
+   </rico:Place>
+   <rico:Place rdf:about="Monthery">
+      <rdfs:label xml:lang="fr">Monthery</rdfs:label>
+      <rico:name xml:lang="fr">Monthery</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-191"/>
+   </rico:Place>
+   <rico:Place rdf:about="Montrouge">
+      <rdfs:label xml:lang="fr">Montrouge</rdfs:label>
+      <rico:name xml:lang="fr">Montrouge</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-45"/>
+   </rico:Place>
+   <rico:Place rdf:about="Moutereau">
+      <rdfs:label xml:lang="fr">Moutereau</rdfs:label>
+      <rico:name xml:lang="fr">Moutereau</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-279"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-282"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-283"/>
+   </rico:Place>
+   <rico:Place rdf:about="M%C3%A9r%C3%A9ville">
+      <rdfs:label xml:lang="fr">Méréville</rdfs:label>
+      <rico:name xml:lang="fr">Méréville</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-40"/>
+   </rico:Place>
+   <rico:Place rdf:about="Naples%20%28Italie%29">
+      <rdfs:label xml:lang="fr">Naples (Italie)</rdfs:label>
+      <rico:name xml:lang="fr">Naples (Italie)</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cardinal-lemoine-6"/>
+   </rico:Place>
+   <rico:Place rdf:about="Nivernis%20in%20vico%20secus%20domum%20canonialem">
+      <rdfs:label xml:lang="fr">Nivernis in vico secus domum canonialem</rdfs:label>
+      <rico:name xml:lang="fr">Nivernis in vico secus domum canonialem</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-hubant-22"/>
+   </rico:Place>
+   <rico:Place rdf:about="Nogent-sur-Seine">
+      <rdfs:label xml:lang="fr">Nogent-sur-Seine</rdfs:label>
+      <rico:name xml:lang="fr">Nogent-sur-Seine</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cardinal-lemoine-3"/>
+   </rico:Place>
+   <rico:Place rdf:about="Noion">
+      <rdfs:label xml:lang="fr">Noion</rdfs:label>
+      <rico:name xml:lang="fr">Noion</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-124"/>
+   </rico:Place>
+   <rico:Place rdf:about="Notre-Dame">
+      <rdfs:label xml:lang="fr">Notre-Dame</rdfs:label>
+      <rico:name xml:lang="fr">Notre-Dame</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-160"/>
+   </rico:Place>
+   <rico:Place rdf:about="Noyon">
+      <rdfs:label xml:lang="fr">Noyon</rdfs:label>
+      <rico:name xml:lang="fr">Noyon</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-130"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-55"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-130"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-135"/>
+   </rico:Place>
+   <rico:Place rdf:about="Officialit%C3%A9%20de%20Meaux">
+      <rdfs:label xml:lang="fr">Officialité de Meaux</rdfs:label>
+      <rico:name xml:lang="fr">Officialité de Meaux</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cardinal-lemoine-2"/>
+   </rico:Place>
+   <rico:Place rdf:about="Officialit%C3%A9%20de%20Paris">
+      <rdfs:label xml:lang="fr">Officialité de Paris</rdfs:label>
+      <rico:name xml:lang="fr">Officialité de Paris</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-8"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-15"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-22"/>
+   </rico:Place>
+   <rico:Place rdf:about="Palais%20de%20la%20Cit%C3%A9">
+      <rdfs:label xml:lang="fr">Palais de la Cité</rdfs:label>
+      <rico:name xml:lang="fr">Palais de la Cité</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-140"/>
+   </rico:Place>
+   <rico:Place rdf:about="Palais%20de%20la%20Cit%C3%A9%20%28Paris%29">
+      <rdfs:label xml:lang="fr">Palais de la Cité (Paris)</rdfs:label>
+      <rico:name xml:lang="fr">Palais de la Cité (Paris)</rico:name>
+      <rdfs:seeAlso>https://fr.wikipedia.org/wiki/Parlement_de_Paris</rdfs:seeAlso>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cardinal-lemoine-15-virt4"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-43-ins1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-43-ins2"/>
+   </rico:Place>
+   <rico:Place rdf:about="Paris">
+      <rdfs:label xml:lang="fr">Paris</rdfs:label>
+      <rico:name xml:lang="fr">Paris</rico:name>
+      <rdfs:seeAlso>https://fr.wikipedia.org/wiki/Paris</rdfs:seeAlso>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-32-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-33-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-226-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-la-marche-25-virt2"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-la-marche-26-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-navarre-42-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-280"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-282"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-130"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-318"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-364"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-379"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-380"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-381"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-navarre-25"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-navarre-41"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-sorbonne-28"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-sorbonne-31"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-dix-huit-3"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-5"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-14"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-20"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-29"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-30"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-119"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-120"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-52"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-53"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-8"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-2"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-4"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-28"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-29"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-32"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-33"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-36"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-38"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-45"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-48"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-49"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-49"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-54"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-104"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-173"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-211"/>
+   </rico:Place>
+   <rico:Place rdf:about="Parisi%20in%20capitulo%20ipsius%20collegii%20preallegato">
+      <rdfs:label xml:lang="fr">Parisi in capitulo ipsius collegii preallegato</rdfs:label>
+      <rico:name xml:lang="fr">Parisi in capitulo ipsius collegii preallegato</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-navarre-13"/>
+   </rico:Place>
+   <rico:Place rdf:about="Parisie">
+      <rdfs:label xml:lang="fr">Parisie</rdfs:label>
+      <rico:name xml:lang="fr">Parisie</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-sorbonne-3-virt1"/>
+   </rico:Place>
+   <rico:Place rdf:about="Parisiis">
+      <rdfs:label xml:lang="fr">Parisiis</rdfs:label>
+      <rico:name xml:lang="fr">Parisiis</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-bayeux-3-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-bayeux-30-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-283-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cornouaille-1-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-dix-huit-6-virt7"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-dix-huit-53-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-288-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-lisieux-1-virt3"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-navarre-35-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-160"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-326"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-382"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-384"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-385"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-386"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-388"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-389"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-390"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-395"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-396"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-397"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-398"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-399"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-400"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-401"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-402"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-403"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-404"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-405"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-406"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-408"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-hubant-23"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-hubant-24"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-la-marche-33"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-la-marche-34"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-la-marche-92"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-navarre-77"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-sorbonne-10"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-sorbonne-11"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-sorbonne-17"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-sorbonne-26"/>
+   </rico:Place>
+   <rico:Place rdf:about="Parisiis%20domi%20mei%20notarii%20subsignati">
+      <rdfs:label xml:lang="fr">Parisiis domi mei notarii subsignati</rdfs:label>
+      <rico:name xml:lang="fr">Parisiis domi mei notarii subsignati</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-170"/>
+   </rico:Place>
+   <rico:Place rdf:about="Parisiis%20in%20camera%20nostri%20abbatis%20superius%20nominati">
+      <rdfs:label xml:lang="fr">Parisiis in camera nostri abbatis superius nominati</rdfs:label>
+      <rico:name xml:lang="fr">Parisiis in camera nostri abbatis superius nominati</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-hubant-35-virt3"/>
+   </rico:Place>
+   <rico:Place rdf:about="Parisiis%20in%20dicto%20nostro%20capitulo">
+      <rdfs:label xml:lang="fr">Parisiis in dicto nostro capitulo</rdfs:label>
+      <rico:name xml:lang="fr">Parisiis in dicto nostro capitulo</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-200-virt1"/>
+   </rico:Place>
+   <rico:Place rdf:about="Parisiis%20in%20domo%20claustrali%20prefati%20domini%20cancellarii">
+      <rdfs:label xml:lang="fr">Parisiis in domo claustrali prefati domini cancellarii</rdfs:label>
+      <rico:name xml:lang="fr">Parisiis in domo claustrali prefati domini cancellarii</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-330"/>
+   </rico:Place>
+   <rico:Place rdf:about="Parisiis%20in%20domo%20habitationis%20mei%20notarii%20publici%20subsignati%20sita%20in%20dicto%20vico%20Nucum">
+      <rdfs:label xml:lang="fr">Parisiis in domo habitationis mei notarii publici subsignati sita in dicto vico Nucum</rdfs:label>
+      <rico:name xml:lang="fr">Parisiis in domo habitationis mei notarii publici subsignati sita in dicto vico Nucum</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-248"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-171"/>
+   </rico:Place>
+   <rico:Place rdf:about="Parisiis%20in%20domo%20solite%20residentie%20mei%20notarii%20subsignati%20sita%20in%20vico%20Nucum">
+      <rdfs:label xml:lang="fr">Parisiis in domo solite residentie mei notarii subsignati sita in vico Nucum</rdfs:label>
+      <rico:name xml:lang="fr">Parisiis in domo solite residentie mei notarii subsignati sita in vico Nucum</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-162"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-163"/>
+   </rico:Place>
+   <rico:Place rdf:about="Parisiis%20in%20nostra%20congregatione%20generali%20apud%20sanctum%20Mathurinum">
+      <rdfs:label xml:lang="fr">Parisiis in nostra congregatione generali apud sanctum Mathurinum</rdfs:label>
+      <rico:name xml:lang="fr">Parisiis in nostra congregatione generali apud sanctum Mathurinum</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-navarre-67"/>
+   </rico:Place>
+   <rico:Place rdf:about="Parisiis%20in%20vico%20Nucum">
+      <rdfs:label xml:lang="fr">Parisiis in vico Nucum</rdfs:label>
+      <rico:name xml:lang="fr">Parisiis in vico Nucum</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-169"/>
+   </rico:Place>
+   <rico:Place rdf:about="Parisius">
+      <rdfs:label xml:lang="fr">Parisius</rdfs:label>
+      <rico:name xml:lang="fr">Parisius</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-bayeux-12-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-dix-huit-44-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-dix-huit-47-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-dix-huit-50-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-dix-huit-52-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-navarre-19-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-dix-huit-49"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-la-marche-24"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-la-marche-123"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-la-marche-125"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-la-marche-126"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-navarre-18"/>
+   </rico:Place>
+   <rico:Place rdf:about="Parisius%20in%20congregatione%20nostra%20in%20claustro%20ecclesie%20beate%20Marie%20Parisiense">
+      <rdfs:label xml:lang="fr">Parisius in congregatione nostra in claustro ecclesie beate Marie Parisiense</rdfs:label>
+      <rico:name xml:lang="fr">Parisius in congregatione nostra in claustro ecclesie beate Marie Parisiense</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-sorbonne-37"/>
+   </rico:Place>
+   <rico:Place rdf:about="Parisius%20in%20domo%20dicti%20magistri%20de%20Hubanto">
+      <rdfs:label xml:lang="fr">Parisius in domo dicti magistri de Hubanto</rdfs:label>
+      <rico:name xml:lang="fr">Parisius in domo dicti magistri de Hubanto</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-hubant-32-virt6"/>
+   </rico:Place>
+   <rico:Place rdf:about="Parisius%20in%20domo%20habitationis%20dicti%20testatoris%20sita%20in%20vico%20sancte%20Genovefe%20ante%20collegium%20Laudinensem">
+      <rdfs:label xml:lang="fr">Parisius in domo habitationis dicti testatoris sita in vico sancte Genovefe ante collegium Laudinensem</rdfs:label>
+      <rico:name xml:lang="fr">Parisius in domo habitationis dicti testatoris sita in vico sancte Genovefe ante collegium Laudinensem</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-la-marche-36"/>
+   </rico:Place>
+   <rico:Place rdf:about="Parisius%20in%20domo%20habitationis%20prefati%20domini%20cancellarii%20sito%20in%20claustro%20ecclesie%20Parisiense">
+      <rdfs:label xml:lang="fr">Parisius in domo habitationis prefati domini cancellarii sito in claustro ecclesie Parisiense</rdfs:label>
+      <rico:name xml:lang="fr">Parisius in domo habitationis prefati domini cancellarii sito in claustro ecclesie Parisiense</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-sorbonne-19"/>
+   </rico:Place>
+   <rico:Place rdf:about="Parisius%20in%20domo%20nostra%20episcopali%20Parisiensi%20in%20camera%20nova%20eiusdem%20domus">
+      <rdfs:label xml:lang="fr">Parisius in domo nostra episcopali Parisiensi in camera nova eiusdem domus</rdfs:label>
+      <rico:name xml:lang="fr">Parisius in domo nostra episcopali Parisiensi in camera nova eiusdem domus</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-la-marche-110"/>
+   </rico:Place>
+   <rico:Place rdf:about="Parisius%20in%20domo%20nostra%20episcopali%20parisiense%20in%20camera%20nova%20eiusdem%20domus">
+      <rdfs:label xml:lang="fr">Parisius in domo nostra episcopali parisiense in camera nova eiusdem domus</rdfs:label>
+      <rico:name xml:lang="fr">Parisius in domo nostra episcopali parisiense in camera nova eiusdem domus</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-la-marche-37"/>
+   </rico:Place>
+   <rico:Place rdf:about="Parisius%20in%20nostra%20congregatione%20generali%20apud%20sanctum%20Mathurinum">
+      <rdfs:label xml:lang="fr">Parisius in nostra congregatione generali apud sanctum Mathurinum</rdfs:label>
+      <rico:name xml:lang="fr">Parisius in nostra congregatione generali apud sanctum Mathurinum</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-la-marche-124"/>
+   </rico:Place>
+   <rico:Place rdf:about="Parisius%20in%20nostra%20generali%20congregatione%20predicta%20apud%20sanctum%20Maturinum">
+      <rdfs:label xml:lang="fr">Parisius in nostra generali congregatione predicta apud sanctum Maturinum</rdfs:label>
+      <rico:name xml:lang="fr">Parisius in nostra generali congregatione predicta apud sanctum Maturinum</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-navarre-3"/>
+   </rico:Place>
+   <rico:Place rdf:about="Parisius%20in%20nostro%20sancti%20Pauli%20hospicio">
+      <rdfs:label xml:lang="fr">Parisius in nostro sancti Pauli hospicio</rdfs:label>
+      <rico:name xml:lang="fr">Parisius in nostro sancti Pauli hospicio</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-navarre-4"/>
+   </rico:Place>
+   <rico:Place rdf:about="Parisius%20in%20parlamento%20nostro">
+      <rdfs:label xml:lang="fr">Parisius in parlamento nostro</rdfs:label>
+      <rico:name xml:lang="fr">Parisius in parlamento nostro</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-bayeux-7-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-lisieux-12"/>
+   </rico:Place>
+   <rico:Place rdf:about="Parlement%20de%20Paris">
+      <rdfs:label xml:lang="fr">Parlement de Paris</rdfs:label>
+      <rico:name xml:lang="fr">Parlement de Paris</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-241"/>
+   </rico:Place>
+   <rico:Place rdf:about="Parrhisiis">
+      <rdfs:label xml:lang="fr">Parrhisiis</rdfs:label>
+      <rico:name xml:lang="fr">Parrhisiis</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-lisieux-15"/>
+   </rico:Place>
+   <rico:Place rdf:about="Parvis%20Notre-Dame">
+      <rdfs:label xml:lang="fr">Parvis Notre-Dame</rdfs:label>
+      <rico:name xml:lang="fr">Parvis Notre-Dame</rico:name>
+      <rico:latitude>48.85361</rico:latitude>
+      <rico:longitude>2.34806</rico:longitude>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-206"/>
+   </rico:Place>
+   <rico:Place rdf:about="Peronne">
+      <rdfs:label xml:lang="fr">Peronne</rdfs:label>
+      <rico:name xml:lang="fr">Peronne</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-23"/>
+   </rico:Place>
+   <rico:Place rdf:about="Perusii">
+      <rdfs:label xml:lang="fr">Perusii</rdfs:label>
+      <rico:name xml:lang="fr">Perusii</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-sorbonne-51-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-sorbonne-51-virt2"/>
+   </rico:Place>
+   <rico:Place rdf:about="Pierrefitte">
+      <rdfs:label xml:lang="fr">Pierrefitte</rdfs:label>
+      <rico:name xml:lang="fr">Pierrefitte</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cardinal-lemoine-11"/>
+   </rico:Place>
+   <rico:Place rdf:about="Poitiers">
+      <rdfs:label xml:lang="fr">Poitiers</rdfs:label>
+      <rico:name xml:lang="fr">Poitiers</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cardinal-lemoine-12-virt2"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cardinal-lemoine-15-virt2"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-23"/>
+   </rico:Place>
+   <rico:Place rdf:about="Pronleroy">
+      <rdfs:label xml:lang="fr">Pronleroy</rdfs:label>
+      <rico:name xml:lang="fr">Pronleroy</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-199"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-200"/>
+   </rico:Place>
+   <rico:Place rdf:about="Pr%C3%A9v%C3%B4t%C3%A9%20de%20Meaux">
+      <rdfs:label xml:lang="fr">Prévôté de Meaux</rdfs:label>
+      <rico:name xml:lang="fr">Prévôté de Meaux</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cardinal-lemoine-1"/>
+   </rico:Place>
+   <rico:Place rdf:about="Pr%C3%A9v%C3%B4t%C3%A9%20de%20Melun">
+      <rdfs:label xml:lang="fr">Prévôté de Melun</rdfs:label>
+      <rico:name xml:lang="fr">Prévôté de Melun</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-218"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-223"/>
+   </rico:Place>
+   <rico:Place rdf:about="Pr%C3%A9v%C3%B4t%C3%A9%20de%20Paris">
+      <rdfs:label xml:lang="fr">Prévôté de Paris</rdfs:label>
+      <rico:name xml:lang="fr">Prévôté de Paris</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-178"/>
+   </rico:Place>
+   <rico:Place rdf:about="P%C3%A9ronne">
+      <rdfs:label xml:lang="fr">Péronne</rdfs:label>
+      <rico:name xml:lang="fr">Péronne</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-34"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-44"/>
+   </rico:Place>
+   <rico:Place rdf:about="Raray">
+      <rdfs:label xml:lang="fr">Raray</rdfs:label>
+      <rico:name xml:lang="fr">Raray</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-83"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-102"/>
+   </rico:Place>
+   <rico:Place rdf:about="Razilly">
+      <rdfs:label xml:lang="fr">Razilly</rdfs:label>
+      <rico:name xml:lang="fr">Razilly</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-navarre-12"/>
+   </rico:Place>
+   <rico:Place rdf:about="Remis">
+      <rdfs:label xml:lang="fr">Remis</rdfs:label>
+      <rico:name xml:lang="fr">Remis</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-sorbonne-52"/>
+   </rico:Place>
+   <rico:Place rdf:about="Rhuis">
+      <rdfs:label xml:lang="fr">Rhuis</rdfs:label>
+      <rico:name xml:lang="fr">Rhuis</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-172"/>
+   </rico:Place>
+   <rico:Place rdf:about="Roberval">
+      <rdfs:label xml:lang="fr">Roberval</rdfs:label>
+      <rico:name xml:lang="fr">Roberval</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-66"/>
+   </rico:Place>
+   <rico:Place rdf:about="Romae%20apud%20sanctum%20Petrum">
+      <rdfs:label xml:lang="fr">Romae apud sanctum Petrum</rdfs:label>
+      <rico:name xml:lang="fr">Romae apud sanctum Petrum</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-227-virt1"/>
+   </rico:Place>
+   <rico:Place rdf:about="Rome%20%28Italie%29">
+      <rdfs:label xml:lang="fr">Rome (Italie)</rdfs:label>
+      <rico:name xml:lang="fr">Rome (Italie)</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-9"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-12"/>
+   </rico:Place>
+   <rico:Place rdf:about="Rome%20apud%20sanctum%20Petrum">
+      <rdfs:label xml:lang="fr">Rome apud sanctum Petrum</rdfs:label>
+      <rico:name xml:lang="fr">Rome apud sanctum Petrum</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-sorbonne-39-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-bayeux-2"/>
+   </rico:Place>
+   <rico:Place rdf:about="Roquemont">
+      <rdfs:label xml:lang="fr">Roquemont</rdfs:label>
+      <rico:name xml:lang="fr">Roquemont</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-78"/>
+   </rico:Place>
+   <rico:Place rdf:about="Rothomagi">
+      <rdfs:label xml:lang="fr">Rothomagi</rdfs:label>
+      <rico:name xml:lang="fr">Rothomagi</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-navarre-14"/>
+   </rico:Place>
+   <rico:Place rdf:about="Roye">
+      <rdfs:label xml:lang="fr">Roye</rdfs:label>
+      <rico:name xml:lang="fr">Roye</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-dix-huit-68"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-dix-huit-72"/>
+   </rico:Place>
+   <rico:Place rdf:about="Ruys">
+      <rdfs:label xml:lang="fr">Ruys</rdfs:label>
+      <rico:name xml:lang="fr">Ruys</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-62"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-63"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-74"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-75"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-80"/>
+   </rico:Place>
+   <rico:Place rdf:about="Saint%20Germain">
+      <rdfs:label xml:lang="fr">Saint Germain</rdfs:label>
+      <rico:name xml:lang="fr">Saint Germain</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-sorbonne-29"/>
+   </rico:Place>
+   <rico:Place rdf:about="Saint-Etienne-des-Gr%C3%A8s">
+      <rdfs:label xml:lang="fr">Saint-Etienne-des-Grès</rdfs:label>
+      <rico:name xml:lang="fr">Saint-Etienne-des-Grès</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-32"/>
+   </rico:Place>
+   <rico:Place rdf:about="Saint-Etienne-du-Mont">
+      <rdfs:label xml:lang="fr">Saint-Etienne-du-Mont</rdfs:label>
+      <rico:name xml:lang="fr">Saint-Etienne-du-Mont</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-119"/>
+   </rico:Place>
+   <rico:Place rdf:about="Saint-Felix%20de%20Vetula">
+      <rdfs:label xml:lang="fr">Saint-Felix de Vetula</rdfs:label>
+      <rico:name xml:lang="fr">Saint-Felix de Vetula</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-25"/>
+   </rico:Place>
+   <rico:Place rdf:about="Saint-Germain-l%C3%A8s-Verberie">
+      <rdfs:label xml:lang="fr">Saint-Germain-lès-Verberie</rdfs:label>
+      <rico:name xml:lang="fr">Saint-Germain-lès-Verberie</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-76"/>
+   </rico:Place>
+   <rico:Place rdf:about="Saint-Jean%20Le%20Rond">
+      <rdfs:label xml:lang="fr">Saint-Jean Le Rond</rdfs:label>
+      <rico:name xml:lang="fr">Saint-Jean Le Rond</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-171"/>
+   </rico:Place>
+   <rico:Place rdf:about="Saint-Wast%20les%20Verberie">
+      <rdfs:label xml:lang="fr">Saint-Wast les Verberie</rdfs:label>
+      <rico:name xml:lang="fr">Saint-Wast les Verberie</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-96"/>
+   </rico:Place>
+   <rico:Place rdf:about="Saint-Wulfran%20d%E2%80%99Abbeville">
+      <rdfs:label xml:lang="fr">Saint-Wulfran d’Abbeville</rdfs:label>
+      <rico:name xml:lang="fr">Saint-Wulfran d’Abbeville</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-35"/>
+   </rico:Place>
+   <rico:Place rdf:about="Sainte-Etienne-du-Mont">
+      <rdfs:label xml:lang="fr">Sainte-Etienne-du-Mont</rdfs:label>
+      <rico:name xml:lang="fr">Sainte-Etienne-du-Mont</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-120"/>
+   </rico:Place>
+   <rico:Place rdf:about="Senlis">
+      <rdfs:label xml:lang="fr">Senlis</rdfs:label>
+      <rico:name xml:lang="fr">Senlis</rico:name>
+      <rico:latitude>49.1521</rico:latitude>
+      <rico:longitude> 2.5859</rico:longitude>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-3"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-53"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-70"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-70"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-234"/>
+   </rico:Place>
+   <rico:Place rdf:about="Temple">
+      <rdfs:label xml:lang="fr">Temple</rdfs:label>
+      <rico:name xml:lang="fr">Temple</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-13"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-14"/>
+   </rico:Place>
+   <rico:Place rdf:about="Valois">
+      <rdfs:label xml:lang="fr">Valois</rdfs:label>
+      <rico:name xml:lang="fr">Valois</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-95"/>
+   </rico:Place>
+   <rico:Place rdf:about="Verberie">
+      <rdfs:label xml:lang="fr">Verberie</rdfs:label>
+      <rico:name xml:lang="fr">Verberie</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-63"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-87"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-102"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-138"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-161"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-59"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-78"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-83"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-88"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-94"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-96"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-97"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-99"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-100"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-127"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-150"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-161"/>
+   </rico:Place>
+   <rico:Place rdf:about="Vert-Saint-Denis">
+      <rdfs:label xml:lang="fr">Vert-Saint-Denis</rdfs:label>
+      <rico:name xml:lang="fr">Vert-Saint-Denis</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-220"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-221"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-223"/>
+   </rico:Place>
+   <rico:Place rdf:about="Villeneuve-le-Comte">
+      <rdfs:label xml:lang="fr">Villeneuve-le-Comte</rdfs:label>
+      <rico:name xml:lang="fr">Villeneuve-le-Comte</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cardinal-lemoine-1"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cardinal-lemoine-2"/>
+   </rico:Place>
+   <rico:Place rdf:about="Villiers%20Coste%20Rets">
+      <rdfs:label xml:lang="fr">Villiers Coste Rets</rdfs:label>
+      <rico:name xml:lang="fr">Villiers Coste Rets</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-sorbonne-56"/>
+   </rico:Place>
+   <rico:Place rdf:about="Viterbe">
+      <rdfs:label xml:lang="fr">Viterbe</rdfs:label>
+      <rico:name xml:lang="fr">Viterbe</rico:name>
+      <rdfs:seeAlso>https://fr.wikipedia.org/wiki/Viterbe</rdfs:seeAlso>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-1-virt1"/>
+   </rico:Place>
+   <rico:Place rdf:about="a%20Aurillac%20en%20notre%20lotgis">
+      <rdfs:label xml:lang="fr">a Aurillac en notre lotgis</rdfs:label>
+      <rico:name xml:lang="fr">a Aurillac en notre lotgis</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-254"/>
+   </rico:Place>
+   <rico:Place rdf:about="a%20Paris">
+      <rdfs:label xml:lang="fr">a Paris</rdfs:label>
+      <rico:name xml:lang="fr">a Paris</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-navarre-55-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-navarre-56-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-103"/>
+   </rico:Place>
+   <rico:Place rdf:about="a%20Paris%20audict%20tresor">
+      <rdfs:label xml:lang="fr">a Paris audict tresor</rdfs:label>
+      <rico:name xml:lang="fr">a Paris audict tresor</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-la-marche-99"/>
+   </rico:Place>
+   <rico:Place rdf:about="a%20Paris%20en%20nostre%20Parlement">
+      <rdfs:label xml:lang="fr">a Paris en nostre Parlement</rdfs:label>
+      <rico:name xml:lang="fr">a Paris en nostre Parlement</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-bayeux-1-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-bayeux-16-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-bayeux-10"/>
+   </rico:Place>
+   <rico:Place rdf:about="a%20Paris%20en%20notre%20Parlement">
+      <rdfs:label xml:lang="fr">a Paris en notre Parlement</rdfs:label>
+      <rico:name xml:lang="fr">a Paris en notre Parlement</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-111"/>
+   </rico:Place>
+   <rico:Place rdf:about="a%20l%27ospital%20de%20Clichy">
+      <rdfs:label xml:lang="fr">a l'ospital de Clichy</rdfs:label>
+      <rico:name xml:lang="fr">a l'ospital de Clichy</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-sorbonne-16"/>
+   </rico:Place>
+   <rico:Place rdf:about="a%20la%20barre%20de%20lad.%20court">
+      <rdfs:label xml:lang="fr">a la barre de lad. court</rdfs:label>
+      <rico:name xml:lang="fr">a la barre de lad. court</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-306"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-307"/>
+   </rico:Place>
+   <rico:Place rdf:about="apud%20Espiers">
+      <rdfs:label xml:lang="fr">apud Espiers</rdfs:label>
+      <rico:name xml:lang="fr">apud Espiers</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cardinal-lemoine-20"/>
+   </rico:Place>
+   <rico:Place rdf:about="apud%20Vicenas">
+      <rdfs:label xml:lang="fr">apud Vicenas</rdfs:label>
+      <rico:name xml:lang="fr">apud Vicenas</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-279-virt1"/>
+   </rico:Place>
+   <rico:Place rdf:about="apud%20dictum%20collegium">
+      <rdfs:label xml:lang="fr">apud dictum collegium</rdfs:label>
+      <rico:name xml:lang="fr">apud dictum collegium</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-dix-huit-87"/>
+   </rico:Place>
+   <rico:Place rdf:about="apud%20sanctum%20Julianum%20pauperem%20Parisius">
+      <rdfs:label xml:lang="fr">apud sanctum Julianum pauperem Parisius</rdfs:label>
+      <rico:name xml:lang="fr">apud sanctum Julianum pauperem Parisius</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-sorbonne-13"/>
+   </rico:Place>
+   <rico:Place rdf:about="apud%20urbem%20veterem">
+      <rdfs:label xml:lang="fr">apud urbem veterem</rdfs:label>
+      <rico:name xml:lang="fr">apud urbem veterem</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-sorbonne-10-virt1"/>
+   </rico:Place>
+   <rico:Place rdf:about="au%20Chastellet%20dudict%20Tournant">
+      <rdfs:label xml:lang="fr">au Chastellet dudict Tournant</rdfs:label>
+      <rico:name xml:lang="fr">au Chastellet dudict Tournant</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-dix-huit-93-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-dix-huit-95-virt1"/>
+   </rico:Place>
+   <rico:Place rdf:about="aud.%20Abbeville">
+      <rdfs:label xml:lang="fr">aud. Abbeville</rdfs:label>
+      <rico:name xml:lang="fr">aud. Abbeville</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-navarre-79-virt1"/>
+   </rico:Place>
+   <rico:Place rdf:about="aud.%20Chastelet">
+      <rdfs:label xml:lang="fr">aud. Chastelet</rdfs:label>
+      <rico:name xml:lang="fr">aud. Chastelet</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-123"/>
+   </rico:Place>
+   <rico:Place rdf:about="aud.%20Chastelet%20de%20Paris">
+      <rdfs:label xml:lang="fr">aud. Chastelet de Paris</rdfs:label>
+      <rico:name xml:lang="fr">aud. Chastelet de Paris</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-navarre-64"/>
+   </rico:Place>
+   <rico:Place rdf:about="aud.%20Chastellet">
+      <rdfs:label xml:lang="fr">aud. Chastellet</rdfs:label>
+      <rico:name xml:lang="fr">aud. Chastellet</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-128"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-144"/>
+   </rico:Place>
+   <rico:Place rdf:about="aud.%20college">
+      <rdfs:label xml:lang="fr">aud. college</rdfs:label>
+      <rico:name xml:lang="fr">aud. college</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-la-marche-54"/>
+   </rico:Place>
+   <rico:Place rdf:about="aud.%20colleige">
+      <rdfs:label xml:lang="fr">aud. colleige</rdfs:label>
+      <rico:name xml:lang="fr">aud. colleige</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-la-marche-57"/>
+   </rico:Place>
+   <rico:Place rdf:about="audict%20Aurilhac">
+      <rdfs:label xml:lang="fr">audict Aurilhac</rdfs:label>
+      <rico:name xml:lang="fr">audict Aurilhac</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-176"/>
+   </rico:Place>
+   <rico:Place rdf:about="audict%20Aurillac">
+      <rdfs:label xml:lang="fr">audict Aurillac</rdfs:label>
+      <rico:name xml:lang="fr">audict Aurillac</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-174"/>
+   </rico:Place>
+   <rico:Place rdf:about="audict%20Chastelet">
+      <rdfs:label xml:lang="fr">audict Chastelet</rdfs:label>
+      <rico:name xml:lang="fr">audict Chastelet</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-158"/>
+   </rico:Place>
+   <rico:Place rdf:about="audict%20Chastellet">
+      <rdfs:label xml:lang="fr">audict Chastellet</rdfs:label>
+      <rico:name xml:lang="fr">audict Chastellet</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-159"/>
+   </rico:Place>
+   <rico:Place rdf:about="audict%20Chastellet%20de%20Paris">
+      <rdfs:label xml:lang="fr">audict Chastellet de Paris</rdfs:label>
+      <rico:name xml:lang="fr">audict Chastellet de Paris</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-dix-huit-73"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-dix-huit-104"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-127"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-157"/>
+   </rico:Place>
+   <rico:Place rdf:about="audict%20college">
+      <rdfs:label xml:lang="fr">audict college</rdfs:label>
+      <rico:name xml:lang="fr">audict college</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-la-marche-120"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-navarre-58"/>
+   </rico:Place>
+   <rico:Place rdf:about="audict%20college%20de%20navarre">
+      <rdfs:label xml:lang="fr">audict college de navarre</rdfs:label>
+      <rico:name xml:lang="fr">audict college de navarre</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-navarre-39"/>
+   </rico:Place>
+   <rico:Place rdf:about="audict%20college%20en%20la%20chambre%20dy%20celluy">
+      <rdfs:label xml:lang="fr">audict college en la chambre dy celluy</rdfs:label>
+      <rico:name xml:lang="fr">audict college en la chambre dy celluy</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-87"/>
+   </rico:Place>
+   <rico:Place rdf:about="audict%20colleige">
+      <rdfs:label xml:lang="fr">audict colleige</rdfs:label>
+      <rico:name xml:lang="fr">audict colleige</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-la-marche-95"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-la-marche-97"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-navarre-71"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-sorbonne-27"/>
+   </rico:Place>
+   <rico:Place rdf:about="audit%20tresor">
+      <rdfs:label xml:lang="fr">audit tresor</rdfs:label>
+      <rico:name xml:lang="fr">audit tresor</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-dix-huit-6-virt11"/>
+   </rico:Place>
+   <rico:Place rdf:about="aux%20archives%20dud.%20chapitre">
+      <rdfs:label xml:lang="fr">aux archives dud. chapitre</rdfs:label>
+      <rico:name xml:lang="fr">aux archives dud. chapitre</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-dix-huit-65"/>
+   </rico:Place>
+   <rico:Place rdf:about="clos%20Pally%20au%20Petit%20Saint-Germain%20pr%C3%A8s%20de%20Verberie">
+      <rdfs:label xml:lang="fr">clos Pally au Petit Saint-Germain près de Verberie</rdfs:label>
+      <rico:name xml:lang="fr">clos Pally au Petit Saint-Germain près de Verberie</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-87"/>
+   </rico:Place>
+   <rico:Place rdf:about="dans%20la%20ville%20et%20cit%C3%A9%20d%27Agen">
+      <rdfs:label xml:lang="fr">dans la ville et cité d'Agen</rdfs:label>
+      <rico:name xml:lang="fr">dans la ville et cité d'Agen</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-199"/>
+   </rico:Place>
+   <rico:Place rdf:about="dioc%C3%A8se%20de%20N%C3%AEmes">
+      <rdfs:label xml:lang="fr">diocèse de Nîmes</rdfs:label>
+      <rico:name xml:lang="fr">diocèse de Nîmes</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-25"/>
+   </rico:Place>
+   <rico:Place rdf:about="en%20Parlement">
+      <rdfs:label xml:lang="fr">en Parlement</rdfs:label>
+      <rico:name xml:lang="fr">en Parlement</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-bons-enfants-10-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-dix-huit-38-virt2"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-dix-huit-89-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-276-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-279-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-287-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-289-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-290-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-328-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-lisieux-6-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-navarre-50-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-navarre-51-virt2"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-navarre-53-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-navarre-60-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-navarre-61-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-265"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-270"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-370"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-374"/>
+   </rico:Place>
+   <rico:Place rdf:about="en%20estudes%20des%20notaires">
+      <rdfs:label xml:lang="fr">en estudes des notaires</rdfs:label>
+      <rico:name xml:lang="fr">en estudes des notaires</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-153-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-145"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-146"/>
+   </rico:Place>
+   <rico:Place rdf:about="en%20estudes%20des%20notaires%20soubs%20signez">
+      <rdfs:label xml:lang="fr">en estudes des notaires soubs signez</rdfs:label>
+      <rico:name xml:lang="fr">en estudes des notaires soubs signez</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-148"/>
+   </rico:Place>
+   <rico:Place rdf:about="en%20l%27hostel%20desdicts%20notaires">
+      <rdfs:label xml:lang="fr">en l'hostel desdicts notaires</rdfs:label>
+      <rico:name xml:lang="fr">en l'hostel desdicts notaires</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-navarre-86"/>
+   </rico:Place>
+   <rico:Place rdf:about="en%20la%20chambre%20dudit%20sieur%20principal">
+      <rdfs:label xml:lang="fr">en la chambre dudit sieur principal</rdfs:label>
+      <rico:name xml:lang="fr">en la chambre dudit sieur principal</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-28"/>
+   </rico:Place>
+   <rico:Place rdf:about="en%20la%20grande%20salle%20%5B%3F%5D">
+      <rdfs:label xml:lang="fr">en la grande salle [?]</rdfs:label>
+      <rico:name xml:lang="fr">en la grande salle [?]</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-navarre-74"/>
+   </rico:Place>
+   <rico:Place rdf:about="en%20la%20maison%20de%20ma%C3%AEtre%20Jean%20Guibillon%2C%20pr%C3%A9v%C3%B4t%20dudit%20Mesnil">
+      <rdfs:label xml:lang="fr">en la maison de maître Jean Guibillon, prévôt dudit Mesnil</rdfs:label>
+      <rico:name xml:lang="fr">en la maison de maître Jean Guibillon, prévôt dudit Mesnil</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-bons-enfants-2-virt2"/>
+   </rico:Place>
+   <rico:Place rdf:about="en%20la%20salle%20du%20palais%20a%20Paris">
+      <rdfs:label xml:lang="fr">en la salle du palais a Paris</rdfs:label>
+      <rico:name xml:lang="fr">en la salle du palais a Paris</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-93"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-95"/>
+   </rico:Place>
+   <rico:Place rdf:about="en%20la%20ville%20d%27Aurilhac">
+      <rdfs:label xml:lang="fr">en la ville d'Aurilhac</rdfs:label>
+      <rico:name xml:lang="fr">en la ville d'Aurilhac</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-181"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-184"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-185"/>
+   </rico:Place>
+   <rico:Place rdf:about="en%20la%20ville%20d%27Aurillac">
+      <rdfs:label xml:lang="fr">en la ville d'Aurillac</rdfs:label>
+      <rico:name xml:lang="fr">en la ville d'Aurillac</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-203"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-243"/>
+   </rico:Place>
+   <rico:Place rdf:about="en%20lad.%20ville%20d%27Aurillac">
+      <rdfs:label xml:lang="fr">en lad. ville d'Aurillac</rdfs:label>
+      <rico:name xml:lang="fr">en lad. ville d'Aurillac</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-186"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-187"/>
+   </rico:Place>
+   <rico:Place rdf:about="en%20lad.%20ville%20d%27Aurillac%20en%20notre%20maison">
+      <rdfs:label xml:lang="fr">en lad. ville d'Aurillac en notre maison</rdfs:label>
+      <rico:name xml:lang="fr">en lad. ville d'Aurillac en notre maison</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-343"/>
+   </rico:Place>
+   <rico:Place rdf:about="en%20ladicte%20chambre">
+      <rdfs:label xml:lang="fr">en ladicte chambre</rdfs:label>
+      <rico:name xml:lang="fr">en ladicte chambre</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-dix-huit-38-virt3"/>
+   </rico:Place>
+   <rico:Place rdf:about="en%20ladicte%20chappelle%20dicelluy%20college">
+      <rdfs:label xml:lang="fr">en ladicte chappelle dicelluy college</rdfs:label>
+      <rico:name xml:lang="fr">en ladicte chappelle dicelluy college</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-navarre-63"/>
+   </rico:Place>
+   <rico:Place rdf:about="en%20ladicte%20eglise%20saincte%20Geneviefve%20des%20Ardans">
+      <rdfs:label xml:lang="fr">en ladicte eglise saincte Geneviefve des Ardans</rdfs:label>
+      <rico:name xml:lang="fr">en ladicte eglise saincte Geneviefve des Ardans</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-dix-huit-23"/>
+   </rico:Place>
+   <rico:Place rdf:about="en%20nostre%20dit%20chappitre">
+      <rdfs:label xml:lang="fr">en nostre dit chappitre</rdfs:label>
+      <rico:name xml:lang="fr">en nostre dit chappitre</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-la-marche-60"/>
+   </rico:Place>
+   <rico:Place rdf:about="en%20notre%20dicte%20eglise">
+      <rdfs:label xml:lang="fr">en notre dicte eglise</rdfs:label>
+      <rico:name xml:lang="fr">en notre dicte eglise</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-la-marche-68"/>
+   </rico:Place>
+   <rico:Place rdf:about="es%20estudes%20desd.%20notaires">
+      <rdfs:label xml:lang="fr">es estudes desd. notaires</rdfs:label>
+      <rico:name xml:lang="fr">es estudes desd. notaires</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-464"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-465"/>
+   </rico:Place>
+   <rico:Place rdf:about="eu%20bureau%20en%20icelle%20chambre">
+      <rdfs:label xml:lang="fr">eu bureau en icelle chambre</rdfs:label>
+      <rico:name xml:lang="fr">eu bureau en icelle chambre</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-la-marche-28-virt1"/>
+   </rico:Place>
+   <rico:Place rdf:about="faubourg%20Saint-Marcel">
+      <rdfs:label xml:lang="fr">faubourg Saint-Marcel</rdfs:label>
+      <rico:name xml:lang="fr">faubourg Saint-Marcel</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-71"/>
+   </rico:Place>
+   <rico:Place rdf:about="h%C3%B4tel%20du%20Cerf%2C%20rue%20de%20la%20Calende">
+      <rdfs:label xml:lang="fr">hôtel du Cerf, rue de la Calende</rdfs:label>
+      <rico:name xml:lang="fr">hôtel du Cerf, rue de la Calende</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-82"/>
+   </rico:Place>
+   <rico:Place rdf:about="in%20aula%20collegii%20de%20Marchia%20Parisius%20fundati%20in%20vico%20sine%20capite%20prope%20plateam%20Mauberti">
+      <rdfs:label xml:lang="fr">in aula collegii de Marchia Parisius fundati in vico sine capite prope plateam Mauberti</rdfs:label>
+      <rico:name xml:lang="fr">in aula collegii de Marchia Parisius fundati in vico sine capite prope plateam Mauberti</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-la-marche-23"/>
+   </rico:Place>
+   <rico:Place rdf:about="in%20aula%20seu%20sacello%20predicti%20collegii">
+      <rdfs:label xml:lang="fr">in aula seu sacello predicti collegii</rdfs:label>
+      <rico:name xml:lang="fr">in aula seu sacello predicti collegii</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-bayeux-15-virt1"/>
+   </rico:Place>
+   <rico:Place rdf:about="in%20aula%20theologorum%20dictae%20domus">
+      <rdfs:label xml:lang="fr">in aula theologorum dictae domus</rdfs:label>
+      <rico:name xml:lang="fr">in aula theologorum dictae domus</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-lisieux-1-virt2"/>
+   </rico:Place>
+   <rico:Place rdf:about="in%20aula%20venerabilis%20collegii%20de%20Marchia%20Parisiis">
+      <rdfs:label xml:lang="fr">in aula venerabilis collegii de Marchia Parisiis</rdfs:label>
+      <rico:name xml:lang="fr">in aula venerabilis collegii de Marchia Parisiis</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-la-marche-15"/>
+   </rico:Place>
+   <rico:Place rdf:about="in%20beati%20choro%20ecclesie%20nostre%20leodiense">
+      <rdfs:label xml:lang="fr">in beati choro ecclesie nostre leodiense</rdfs:label>
+      <rico:name xml:lang="fr">in beati choro ecclesie nostre leodiense</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-sorbonne-21"/>
+   </rico:Place>
+   <rico:Place rdf:about="in%20camera%20compotorum%20domini%20nostri%20regis%20Parisius">
+      <rdfs:label xml:lang="fr">in camera compotorum domini nostri regis Parisius</rdfs:label>
+      <rico:name xml:lang="fr">in camera compotorum domini nostri regis Parisius</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-256"/>
+   </rico:Place>
+   <rico:Place rdf:about="in%20capitulo%20Parisiense">
+      <rdfs:label xml:lang="fr">in capitulo Parisiense</rdfs:label>
+      <rico:name xml:lang="fr">in capitulo Parisiense</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-180"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-196"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-230"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-339"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-10"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-172"/>
+   </rico:Place>
+   <rico:Place rdf:about="in%20capitulo%20nostro">
+      <rdfs:label xml:lang="fr">in capitulo nostro</rdfs:label>
+      <rico:name xml:lang="fr">in capitulo nostro</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-dix-huit-6-virt6"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-dix-huit-18-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-236"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-237"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-238"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-239"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-45"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-la-marche-19"/>
+   </rico:Place>
+   <rico:Place rdf:about="in%20capitulo%20nostro%20Belvacense">
+      <rdfs:label xml:lang="fr">in capitulo nostro Belvacense</rdfs:label>
+      <rico:name xml:lang="fr">in capitulo nostro Belvacense</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-234"/>
+   </rico:Place>
+   <rico:Place rdf:about="in%20capitulo%20sancti%20Maturini%20Parisiis">
+      <rdfs:label xml:lang="fr">in capitulo sancti Maturini Parisiis</rdfs:label>
+      <rico:name xml:lang="fr">in capitulo sancti Maturini Parisiis</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-sorbonne-8"/>
+   </rico:Place>
+   <rico:Place rdf:about="in%20dicta%20Parisiense%20ecclesia">
+      <rdfs:label xml:lang="fr">in dicta Parisiense ecclesia</rdfs:label>
+      <rico:name xml:lang="fr">in dicta Parisiense ecclesia</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-dix-huit-42-virt1"/>
+   </rico:Place>
+   <rico:Place rdf:about="in%20dicta%20capella%20eiusdem%20collegii%20Forteti">
+      <rdfs:label xml:lang="fr">in dicta capella eiusdem collegii Forteti</rdfs:label>
+      <rico:name xml:lang="fr">in dicta capella eiusdem collegii Forteti</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-67"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-68"/>
+   </rico:Place>
+   <rico:Place rdf:about="in%20dicto%20capitulo%20nostro">
+      <rdfs:label xml:lang="fr">in dicto capitulo nostro</rdfs:label>
+      <rico:name xml:lang="fr">in dicto capitulo nostro</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-dix-huit-6-virt5"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-dix-huit-64-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-dix-huit-12"/>
+   </rico:Place>
+   <rico:Place rdf:about="in%20dicto%20collegio">
+      <rdfs:label xml:lang="fr">in dicto collegio</rdfs:label>
+      <rico:name xml:lang="fr">in dicto collegio</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-dix-huit-15"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-la-marche-51"/>
+   </rico:Place>
+   <rico:Place rdf:about="in%20dicto%20collegio%20Forteti">
+      <rdfs:label xml:lang="fr">in dicto collegio Forteti</rdfs:label>
+      <rico:name xml:lang="fr">in dicto collegio Forteti</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-74"/>
+   </rico:Place>
+   <rico:Place rdf:about="in%20dicto%20collegio%20Fortetico">
+      <rdfs:label xml:lang="fr">in dicto collegio Fortetico</rdfs:label>
+      <rico:name xml:lang="fr">in dicto collegio Fortetico</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-324-virt2"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-325-virt2"/>
+   </rico:Place>
+   <rico:Place rdf:about="in%20dicto%20nostro">
+      <rdfs:label xml:lang="fr">in dicto nostro</rdfs:label>
+      <rico:name xml:lang="fr">in dicto nostro</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-468"/>
+   </rico:Place>
+   <rico:Place rdf:about="in%20dicto%20nostro%20capitulo">
+      <rdfs:label xml:lang="fr">in dicto nostro capitulo</rdfs:label>
+      <rico:name xml:lang="fr">in dicto nostro capitulo</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-205-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-36"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-42"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-43"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-46"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-47"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-48"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-49"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-50"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-55"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-56"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-57"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-58"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-59"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-60"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-62"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-65"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-69"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-70"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-75"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-76"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-77"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-78"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-79"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-80"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-81"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-82"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-83"/>
+   </rico:Place>
+   <rico:Place rdf:about="in%20dicto%20nostro%20parisiensi%20capitulo">
+      <rdfs:label xml:lang="fr">in dicto nostro parisiensi capitulo</rdfs:label>
+      <rico:name xml:lang="fr">in dicto nostro parisiensi capitulo</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-40"/>
+   </rico:Place>
+   <rico:Place rdf:about="in%20dicto%20thesauro">
+      <rdfs:label xml:lang="fr">in dicto thesauro</rdfs:label>
+      <rico:name xml:lang="fr">in dicto thesauro</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-250"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-la-marche-27"/>
+   </rico:Place>
+   <rico:Place rdf:about="in%20domo%20dicti%20magistri%20Joannis">
+      <rdfs:label xml:lang="fr">in domo dicti magistri Joannis</rdfs:label>
+      <rico:name xml:lang="fr">in domo dicti magistri Joannis</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-hubant-18-virt1"/>
+   </rico:Place>
+   <rico:Place rdf:about="in%20domo%20dicti%20testatoris%20sita%20in%20vico%20sine%20capite%20Pairisi%20prope%20plateam%20Mauberti">
+      <rdfs:label xml:lang="fr">in domo dicti testatoris sita in vico sine capite Pairisi prope plateam Mauberti</rdfs:label>
+      <rico:name xml:lang="fr">in domo dicti testatoris sita in vico sine capite Pairisi prope plateam Mauberti</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-la-marche-15-virt1"/>
+   </rico:Place>
+   <rico:Place rdf:about="in%20domo%20dicti%20testatoris%20sita%20in%20vico%20sine%20capite%20Parisius%20prope%20plateam%20Mauberti">
+      <rdfs:label xml:lang="fr">in domo dicti testatoris sita in vico sine capite Parisius prope plateam Mauberti</rdfs:label>
+      <rico:name xml:lang="fr">in domo dicti testatoris sita in vico sine capite Parisius prope plateam Mauberti</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-la-marche-22"/>
+   </rico:Place>
+   <rico:Place rdf:about="in%20domo%20habitationis%20nostre%20in%20claustro%20dicte%20ecclesie%20Parisiense%20sita">
+      <rdfs:label xml:lang="fr">in domo habitationis nostre in claustro dicte ecclesie Parisiense sita</rdfs:label>
+      <rico:name xml:lang="fr">in domo habitationis nostre in claustro dicte ecclesie Parisiense sita</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-dix-huit-54"/>
+   </rico:Place>
+   <rico:Place rdf:about="in%20domo%20mee%20habitationis%20solite%20in%20claustro%20dicte%20parisiensis%20ecclesie">
+      <rdfs:label xml:lang="fr">in domo mee habitationis solite in claustro dicte parisiensis ecclesie</rdfs:label>
+      <rico:name xml:lang="fr">in domo mee habitationis solite in claustro dicte parisiensis ecclesie</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-161"/>
+   </rico:Place>
+   <rico:Place rdf:about="in%20domo%20mei%20notarii%20publici%20subsignati%20sita%20Parisiis%20in%20vico%20Nucum">
+      <rdfs:label xml:lang="fr">in domo mei notarii publici subsignati sita Parisiis in vico Nucum</rdfs:label>
+      <rico:name xml:lang="fr">in domo mei notarii publici subsignati sita Parisiis in vico Nucum</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-183"/>
+   </rico:Place>
+   <rico:Place rdf:about="in%20domo%20nostrae%20habitationis">
+      <rdfs:label xml:lang="fr">in domo nostrae habitationis</rdfs:label>
+      <rico:name xml:lang="fr">in domo nostrae habitationis</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-dix-huit-46-virt1"/>
+   </rico:Place>
+   <rico:Place rdf:about="in%20eadem%20nostra%20ecclesia%20Parisiense">
+      <rdfs:label xml:lang="fr">in eadem nostra ecclesia Parisiense</rdfs:label>
+      <rico:name xml:lang="fr">in eadem nostra ecclesia Parisiense</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-dix-huit-48-virt1"/>
+   </rico:Place>
+   <rico:Place rdf:about="in%20ecclesia%20cathedrali%20Belvacensi">
+      <rdfs:label xml:lang="fr">in ecclesia cathedrali Belvacensi</rdfs:label>
+      <rico:name xml:lang="fr">in ecclesia cathedrali Belvacensi</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-245"/>
+   </rico:Place>
+   <rico:Place rdf:about="in%20eodem%20capitulo%20nostro">
+      <rdfs:label xml:lang="fr">in eodem capitulo nostro</rdfs:label>
+      <rico:name xml:lang="fr">in eodem capitulo nostro</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-53"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-54"/>
+   </rico:Place>
+   <rico:Place rdf:about="in%20eodem%20nostro%20capitulo">
+      <rdfs:label xml:lang="fr">in eodem nostro capitulo</rdfs:label>
+      <rico:name xml:lang="fr">in eodem nostro capitulo</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-16"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-41"/>
+   </rico:Place>
+   <rico:Place rdf:about="in%20ipso%20nostro%20capitulo">
+      <rdfs:label xml:lang="fr">in ipso nostro capitulo</rdfs:label>
+      <rico:name xml:lang="fr">in ipso nostro capitulo</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-51"/>
+   </rico:Place>
+   <rico:Place rdf:about="in%20nostra%20congregatione%20generali%20apud%20sanctum%20Maturinum">
+      <rdfs:label xml:lang="fr">in nostra congregatione generali apud sanctum Maturinum</rdfs:label>
+      <rico:name xml:lang="fr">in nostra congregatione generali apud sanctum Maturinum</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-la-marche-8"/>
+   </rico:Place>
+   <rico:Place rdf:about="in%20nostris%20capitulis">
+      <rdfs:label xml:lang="fr">in nostris capitulis</rdfs:label>
+      <rico:name xml:lang="fr">in nostris capitulis</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-240"/>
+   </rico:Place>
+   <rico:Place rdf:about="in%20nostro%20capitulo">
+      <rdfs:label xml:lang="fr">in nostro capitulo</rdfs:label>
+      <rico:name xml:lang="fr">in nostro capitulo</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-4-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-13-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-3"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-12"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-34"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-35"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-37"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-39"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-61"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-71"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-336"/>
+   </rico:Place>
+   <rico:Place rdf:about="in%20nostro%20capitulo%20Parisiensi">
+      <rdfs:label xml:lang="fr">in nostro capitulo Parisiensi</rdfs:label>
+      <rico:name xml:lang="fr">in nostro capitulo Parisiensi</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-73"/>
+   </rico:Place>
+   <rico:Place rdf:about="in%20nostro%20predicto%20capitulo">
+      <rdfs:label xml:lang="fr">in nostro predicto capitulo</rdfs:label>
+      <rico:name xml:lang="fr">in nostro predicto capitulo</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-52"/>
+   </rico:Place>
+   <rico:Place rdf:about="in%20parlamento%20nostro">
+      <rdfs:label xml:lang="fr">in parlamento nostro</rdfs:label>
+      <rico:name xml:lang="fr">in parlamento nostro</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-102"/>
+   </rico:Place>
+   <rico:Place rdf:about="in%20parqueto%20superiori%20dicte%20curie%20nostre">
+      <rdfs:label xml:lang="fr">in parqueto superiori dicte curie nostre</rdfs:label>
+      <rico:name xml:lang="fr">in parqueto superiori dicte curie nostre</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-lisieux-20-virt1"/>
+   </rico:Place>
+   <rico:Place rdf:about="in%20praedicto%20nostro%20capitulo">
+      <rdfs:label xml:lang="fr">in praedicto nostro capitulo</rdfs:label>
+      <rico:name xml:lang="fr">in praedicto nostro capitulo</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-324-virt1"/>
+   </rico:Place>
+   <rico:Place rdf:about="in%20predicto%20monasterio%20nostro%20de%20Parisiis">
+      <rdfs:label xml:lang="fr">in predicto monasterio nostro de Parisiis</rdfs:label>
+      <rico:name xml:lang="fr">in predicto monasterio nostro de Parisiis</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-la-marche-59"/>
+   </rico:Place>
+   <rico:Place rdf:about="in%20predicto%20nostro%20capitulo">
+      <rdfs:label xml:lang="fr">in predicto nostro capitulo</rdfs:label>
+      <rico:name xml:lang="fr">in predicto nostro capitulo</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-64"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-66"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-72"/>
+   </rico:Place>
+   <rico:Place rdf:about="in%20scolis%20fratrum%20predicatorum%20minorum%20Parisiis">
+      <rdfs:label xml:lang="fr">in scolis fratrum predicatorum minorum Parisiis</rdfs:label>
+      <rico:name xml:lang="fr">in scolis fratrum predicatorum minorum Parisiis</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-sorbonne-35"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-sorbonne-36"/>
+   </rico:Place>
+   <rico:Place rdf:about="in%20suburbiis%20sancti%20Macelli%20Parisiis%20in%20vico%20des%20Postes">
+      <rdfs:label xml:lang="fr">in suburbiis sancti Macelli Parisiis in vico des Postes</rdfs:label>
+      <rico:name xml:lang="fr">in suburbiis sancti Macelli Parisiis in vico des Postes</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-165"/>
+   </rico:Place>
+   <rico:Place rdf:about="in%20vestiario%20predicte%20nostre%20ecclesie">
+      <rdfs:label xml:lang="fr">in vestiario predicte nostre ecclesie</rdfs:label>
+      <rico:name xml:lang="fr">in vestiario predicte nostre ecclesie</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-63"/>
+   </rico:Place>
+   <rico:Place rdf:about="in%20vico%20de%20Sorbona%20ante%20portam%20domus%20de%20Sorbona">
+      <rdfs:label xml:lang="fr">in vico de Sorbona ante portam domus de Sorbona</rdfs:label>
+      <rico:name xml:lang="fr">in vico de Sorbona ante portam domus de Sorbona</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-sorbonne-7"/>
+   </rico:Place>
+   <rico:Place rdf:about="in%20vico%20sancti%20Petri%20ad%20bones%20in%20civitate%20Parisius">
+      <rdfs:label xml:lang="fr">in vico sancti Petri ad bones in civitate Parisius</rdfs:label>
+      <rico:name xml:lang="fr">in vico sancti Petri ad bones in civitate Parisius</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-sorbonne-39"/>
+   </rico:Place>
+   <rico:Place rdf:about="maison%20de%20Sainte-Catherine%2C%20rue%20Saint-Jacques">
+      <rdfs:label xml:lang="fr">maison de Sainte-Catherine, rue Saint-Jacques</rdfs:label>
+      <rico:name xml:lang="fr">maison de Sainte-Catherine, rue Saint-Jacques</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-110"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-157"/>
+   </rico:Place>
+   <rico:Place rdf:about="maison%20de%20la%20Gall%C3%A8re">
+      <rdfs:label xml:lang="fr">maison de la Gallère</rdfs:label>
+      <rico:name xml:lang="fr">maison de la Gallère</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-121"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-153"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-154"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-155"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-163"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-164"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-166"/>
+   </rico:Place>
+   <rico:Place rdf:about="maison%20de%20la%20Gal%C3%A8re">
+      <rdfs:label xml:lang="fr">maison de la Galère</rdfs:label>
+      <rico:name xml:lang="fr">maison de la Galère</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-126"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-203"/>
+   </rico:Place>
+   <rico:Place rdf:about="maison%20de%20la%20rue%20Saint-Jacques%20%C3%A0%20l%E2%80%99enseigne%20de%20l%E2%80%99Image-Saint-Jacques">
+      <rdfs:label xml:lang="fr">maison de la rue Saint-Jacques à l’enseigne de l’Image-Saint-Jacques</rdfs:label>
+      <rico:name xml:lang="fr">maison de la rue Saint-Jacques à l’enseigne de l’Image-Saint-Jacques</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-132"/>
+   </rico:Place>
+   <rico:Place rdf:about="maison%20des%20Cholets">
+      <rdfs:label xml:lang="fr">maison des Cholets</rdfs:label>
+      <rico:name xml:lang="fr">maison des Cholets</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-174"/>
+   </rico:Place>
+   <rico:Place rdf:about="maison%20des%20petits%20Cholets">
+      <rdfs:label xml:lang="fr">maison des petits Cholets</rdfs:label>
+      <rico:name xml:lang="fr">maison des petits Cholets</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-156"/>
+   </rico:Place>
+   <rico:Place rdf:about="maison%20du%20Croissant%2C%20rue%20Saint-Jacques">
+      <rdfs:label xml:lang="fr">maison du Croissant, rue Saint-Jacques</rdfs:label>
+      <rico:name xml:lang="fr">maison du Croissant, rue Saint-Jacques</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-136"/>
+   </rico:Place>
+   <rico:Place rdf:about="maison%20du%20Miroir">
+      <rdfs:label xml:lang="fr">maison du Miroir</rdfs:label>
+      <rico:name xml:lang="fr">maison du Miroir</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-158"/>
+   </rico:Place>
+   <rico:Place rdf:about="maison%20du%20Miroir%2C%20rue%20Saint-Etienne-des-Gr%C3%A8s">
+      <rdfs:label xml:lang="fr">maison du Miroir, rue Saint-Etienne-des-Grès</rdfs:label>
+      <rico:name xml:lang="fr">maison du Miroir, rue Saint-Etienne-des-Grès</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-131"/>
+   </rico:Place>
+   <rico:Place rdf:about="maison%20du%20Monde">
+      <rdfs:label xml:lang="fr">maison du Monde</rdfs:label>
+      <rico:name xml:lang="fr">maison du Monde</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-122"/>
+   </rico:Place>
+   <rico:Place rdf:about="maison%20du%20Monde%20et%20de%20la%20Gal%C3%A8re%2C%20rue%20Saint-Jacques">
+      <rdfs:label xml:lang="fr">maison du Monde et de la Galère, rue Saint-Jacques</rdfs:label>
+      <rico:name xml:lang="fr">maison du Monde et de la Galère, rue Saint-Jacques</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-103"/>
+   </rico:Place>
+   <rico:Place rdf:about="maison%20du%20Monde%2C%20rue%20Saint-Jacques">
+      <rdfs:label xml:lang="fr">maison du Monde, rue Saint-Jacques</rdfs:label>
+      <rico:name xml:lang="fr">maison du Monde, rue Saint-Jacques</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-111"/>
+   </rico:Place>
+   <rico:Place rdf:about="maison%20du%20Pressoir">
+      <rdfs:label xml:lang="fr">maison du Pressoir</rdfs:label>
+      <rico:name xml:lang="fr">maison du Pressoir</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-98"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-106"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-107"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-109"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-134"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-139"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-162"/>
+   </rico:Place>
+   <rico:Place rdf:about="maison%20du%20Pressoir%20%C3%A0%20Paris">
+      <rdfs:label xml:lang="fr">maison du Pressoir à Paris</rdfs:label>
+      <rico:name xml:lang="fr">maison du Pressoir à Paris</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-57"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-58"/>
+   </rico:Place>
+   <rico:Place rdf:about="maison%20du%20Pressoir%2C%20rue%20Saint-Etienne-des-Gr%C3%A8s">
+      <rdfs:label xml:lang="fr">maison du Pressoir, rue Saint-Etienne-des-Grès</rdfs:label>
+      <rico:name xml:lang="fr">maison du Pressoir, rue Saint-Etienne-des-Grès</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-101"/>
+   </rico:Place>
+   <rico:Place rdf:about="maison%20rue%20Saint-Jacques">
+      <rdfs:label xml:lang="fr">maison rue Saint-Jacques</rdfs:label>
+      <rico:name xml:lang="fr">maison rue Saint-Jacques</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-108"/>
+   </rico:Place>
+   <rico:Place rdf:about="maison%20sise%20%C3%A0%20Verberie%20%C3%A0%20l%E2%80%99enseigne%20du%20Heaume%20et%20du%20Faucon">
+      <rdfs:label xml:lang="fr">maison sise à Verberie à l’enseigne du Heaume et du Faucon</rdfs:label>
+      <rico:name xml:lang="fr">maison sise à Verberie à l’enseigne du Heaume et du Faucon</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-69"/>
+   </rico:Place>
+   <rico:Place rdf:about="maison%20%C3%A0%20Saint-Waast%20pr%C3%A8s%20de%20Verberie">
+      <rdfs:label xml:lang="fr">maison à Saint-Waast près de Verberie</rdfs:label>
+      <rico:name xml:lang="fr">maison à Saint-Waast près de Verberie</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-90"/>
+   </rico:Place>
+   <rico:Place rdf:about="maisons%20du%20Croissant%20et%20de%20Saint-Jacques%20du%20Pressoir">
+      <rdfs:label xml:lang="fr">maisons du Croissant et de Saint-Jacques du Pressoir</rdfs:label>
+      <rico:name xml:lang="fr">maisons du Croissant et de Saint-Jacques du Pressoir</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-151"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-152"/>
+   </rico:Place>
+   <rico:Place rdf:about="maisons%20du%20Monde%20et%20de%20la%20Gall%C3%A8re%2C%20rue%20Saint-Jacques">
+      <rdfs:label xml:lang="fr">maisons du Monde et de la Gallère, rue Saint-Jacques</rdfs:label>
+      <rico:name xml:lang="fr">maisons du Monde et de la Gallère, rue Saint-Jacques</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-117"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-118"/>
+   </rico:Place>
+   <rico:Place rdf:about="maisons%20du%20Monde%20et%20de%20la%20Gal%C3%A8re">
+      <rdfs:label xml:lang="fr">maisons du Monde et de la Galère</rdfs:label>
+      <rico:name xml:lang="fr">maisons du Monde et de la Galère</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-112"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-113"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-114"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-123"/>
+   </rico:Place>
+   <rico:Place rdf:about="nostrae%20habitationis">
+      <rdfs:label xml:lang="fr">nostrae habitationis</rdfs:label>
+      <rico:name xml:lang="fr">nostrae habitationis</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-dix-huit-46-virt3"/>
+   </rico:Place>
+   <rico:Place rdf:about="ou%20dict%20Chastellet%20de%20Paris">
+      <rdfs:label xml:lang="fr">ou dict Chastellet de Paris</rdfs:label>
+      <rico:name xml:lang="fr">ou dict Chastellet de Paris</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-112"/>
+   </rico:Place>
+   <rico:Place rdf:about="oud.%20Chastellet">
+      <rdfs:label xml:lang="fr">oud. Chastellet</rdfs:label>
+      <rico:name xml:lang="fr">oud. Chastellet</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-428"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-la-marche-6"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-la-marche-46"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-la-marche-96"/>
+   </rico:Place>
+   <rico:Place rdf:about="oud.%20college">
+      <rdfs:label xml:lang="fr">oud. college</rdfs:label>
+      <rico:name xml:lang="fr">oud. college</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-navarre-29"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-navarre-31"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-navarre-62"/>
+   </rico:Place>
+   <rico:Place rdf:about="oud.%20college%20de%20Sorbonne">
+      <rdfs:label xml:lang="fr">oud. college de Sorbonne</rdfs:label>
+      <rico:name xml:lang="fr">oud. college de Sorbonne</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-sorbonne-24"/>
+   </rico:Place>
+   <rico:Place rdf:about="oud.%20colliege%20de%20Navarre">
+      <rdfs:label xml:lang="fr">oud. colliege de Navarre</rdfs:label>
+      <rico:name xml:lang="fr">oud. colliege de Navarre</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-navarre-38"/>
+   </rico:Place>
+   <rico:Place rdf:about="oud.%20tresor">
+      <rdfs:label xml:lang="fr">oud. tresor</rdfs:label>
+      <rico:name xml:lang="fr">oud. tresor</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-252"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-253"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-259"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-261"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-265"/>
+   </rico:Place>
+   <rico:Place rdf:about="oudict%20Chastelet">
+      <rdfs:label xml:lang="fr">oudict Chastelet</rdfs:label>
+      <rico:name xml:lang="fr">oudict Chastelet</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-20"/>
+   </rico:Place>
+   <rico:Place rdf:about="oudict%20Chastellet">
+      <rdfs:label xml:lang="fr">oudict Chastellet</rdfs:label>
+      <rico:name xml:lang="fr">oudict Chastellet</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-dix-huit-74"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-108"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-424"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-la-marche-102"/>
+   </rico:Place>
+   <rico:Place rdf:about="oudict%20Chastellet%20de%20Paris">
+      <rdfs:label xml:lang="fr">oudict Chastellet de Paris</rdfs:label>
+      <rico:name xml:lang="fr">oudict Chastellet de Paris</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-136"/>
+   </rico:Place>
+   <rico:Place rdf:about="oudict%20chappitre">
+      <rdfs:label xml:lang="fr">oudict chappitre</rdfs:label>
+      <rico:name xml:lang="fr">oudict chappitre</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-navarre-65"/>
+   </rico:Place>
+   <rico:Place rdf:about="oudict%20college">
+      <rdfs:label xml:lang="fr">oudict college</rdfs:label>
+      <rico:name xml:lang="fr">oudict college</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-la-marche-108"/>
+   </rico:Place>
+   <rico:Place rdf:about="oudit%20Chastelet">
+      <rdfs:label xml:lang="fr">oudit Chastelet</rdfs:label>
+      <rico:name xml:lang="fr">oudit Chastelet</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-sorbonne-22"/>
+   </rico:Place>
+   <rico:Place rdf:about="oudit%20Chastellet">
+      <rdfs:label xml:lang="fr">oudit Chastellet</rdfs:label>
+      <rico:name xml:lang="fr">oudit Chastellet</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-la-marche-39"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-la-marche-65"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-la-marche-73"/>
+   </rico:Place>
+   <rico:Place rdf:about="oudit%20bailliage%20de%20Paris">
+      <rdfs:label xml:lang="fr">oudit bailliage de Paris</rdfs:label>
+      <rico:name xml:lang="fr">oudit bailliage de Paris</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-navarre-36"/>
+   </rico:Place>
+   <rico:Place rdf:about="oudit%20tresor">
+      <rdfs:label xml:lang="fr">oudit tresor</rdfs:label>
+      <rico:name xml:lang="fr">oudit tresor</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-251"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-254"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-255"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-257"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-258"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-260"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-262"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-263"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-264"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-266"/>
+   </rico:Place>
+   <rico:Place rdf:about="rue%20Saint-Jacques">
+      <rdfs:label xml:lang="fr">rue Saint-Jacques</rdfs:label>
+      <rico:name xml:lang="fr">rue Saint-Jacques</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-82"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-165"/>
+   </rico:Place>
+   <rico:Place rdf:about="rue%20Saint-Jacques%2C%20enseigne%20de%20la%20Mule">
+      <rdfs:label xml:lang="fr">rue Saint-Jacques, enseigne de la Mule</rdfs:label>
+      <rico:name xml:lang="fr">rue Saint-Jacques, enseigne de la Mule</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-47"/>
+   </rico:Place>
+   <rico:Place rdf:about="rue%20Saint-Jacques%2C%20%C3%A0%20l%E2%80%99enseigne%20du%20Monde%20et%20de%20la%20Gal%C3%A9e">
+      <rdfs:label xml:lang="fr">rue Saint-Jacques, à l’enseigne du Monde et de la Galée</rdfs:label>
+      <rico:name xml:lang="fr">rue Saint-Jacques, à l’enseigne du Monde et de la Galée</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-81"/>
+   </rico:Place>
+   <rico:Place rdf:about="%C3%89glise%20Saint-Beno%C3%AEt-le-B%C3%A9tourn%C3%A9">
+      <rdfs:label xml:lang="fr">Église Saint-Benoît-le-Bétourné</rdfs:label>
+      <rico:name xml:lang="fr">Église Saint-Benoît-le-Bétourné</rico:name>
+      <rico:latitude>48.8498847</rico:latitude>
+      <rico:longitude>2.3445088</rico:longitude>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-204"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-202"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-204"/>
+   </rico:Place>
+   <rico:Place rdf:about="%C3%89glise%20Saint-Firmin-le-Confesseur%20d%E2%80%99Amiens">
+      <rdfs:label xml:lang="fr">Église Saint-Firmin-le-Confesseur d’Amiens</rdfs:label>
+      <rico:name xml:lang="fr">Église Saint-Firmin-le-Confesseur d’Amiens</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-73"/>
+   </rico:Place>
+   <rico:Place rdf:about="%C3%89glise%20Saint-Pierre%20de%20Beauvais">
+      <rdfs:label xml:lang="fr">Église Saint-Pierre de Beauvais</rdfs:label>
+      <rico:name xml:lang="fr">Église Saint-Pierre de Beauvais</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-241"/>
+   </rico:Place>
+   <rico:Place rdf:about="%C3%89glise%20de%20Beauvais">
+      <rdfs:label xml:lang="fr">Église de Beauvais</rdfs:label>
+      <rico:name xml:lang="fr">Église de Beauvais</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-242"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-243"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-245"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-246"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-247"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-249"/>
+   </rico:Place>
+   <rico:Place rdf:about="%C3%89glise%20de%20Paris">
+      <rdfs:label xml:lang="fr">Église de Paris</rdfs:label>
+      <rico:name xml:lang="fr">Église de Paris</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-241"/>
+   </rico:Place>
+   <rico:Place rdf:about="%C3%89glise%20du%20Saint-S%C3%A9pulcre">
+      <rdfs:label xml:lang="fr">Église du Saint-Sépulcre</rdfs:label>
+      <rico:name xml:lang="fr">Église du Saint-Sépulcre</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-48"/>
+   </rico:Place>
+</rdf:RDF>

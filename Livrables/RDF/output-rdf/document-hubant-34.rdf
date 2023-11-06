@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:html="http://www.w3.org/1999/xhtml"
+         xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:rico="https://www.ica.org/standards/RiC/ontology#"
+         xml:base="http://data.oresm.fr/">
+   <rico:RecordResource rdf:about="recordResource/or-hubant-34">
+      <rico:title xml:lang="fr">« Seconde fondation » : copie de l'acte, passé devant les notaires du Châtelet de Paris, par lequel Philippe Boisot, principal du collège de Hubant, fonde deux bourses le 15 septembre 1574, l'acte étant suivi de deux arbres généalogiques de boursiers</rico:title>
+      <rdfs:label xml:lang="fr">« Seconde fondation » : copie de l'acte, passé devant les notaires du Châtelet de Paris, par lequel Philippe Boisot, principal du collège de Hubant, fonde deux bourses le 15 septembre 1574, l'acte étant suivi de deux arbres généalogiques de boursiers</rdfs:label>
+      <rdfs:seeAlso rdf:resource="https://www.calames.abes.fr/pub/#details?id=Calames-202132143599544"/>
+      <rico:hasOrHadLanguage rdf:resource="http://data.archives-nationales.culture.gouv.fr/language/FRAN_RI_100-name4"/>
+      <oresm-onto:nombreApproximatifNomsPersonnesPresents rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">50</oresm-onto:nombreApproximatifNomsPersonnesPresents>
+      <rico:hasInstantiation rdf:resource="instantiation/or-hubant-34"/>
+   </rico:RecordResource>
+   <rico:Instantiation rdf:about="instantiation/or-hubant-34">
+      <rico:title xml:lang="fr">« Seconde fondation » : copie de l'acte, passé devant les notaires du Châtelet de Paris, par lequel Philippe Boisot, principal du collège de Hubant, fonde deux bourses le 15 septembre 1574, l'acte étant suivi de deux arbres généalogiques de boursiers</rico:title>
+      <rdfs:label xml:lang="fr">« Seconde fondation » : copie de l'acte, passé devant les notaires du Châtelet de Paris, par lequel Philippe Boisot, principal du collège de Hubant, fonde deux bourses le 15 septembre 1574, l'acte étant suivi de deux arbres généalogiques de boursiers</rdfs:label>
+      <rico:isInstantiationOf rdf:resource="recordResource/or-hubant-34"/>
+      <oresm-onto:estActuellementConservePar rdf:resource="corporateBody/050960067"/>
+      <rico:height>386 mm</rico:height>
+      <rico:width>250 mm</rico:width>
+      <rico:instantiationExtent xml:lang="fr">8 feuillets</rico:instantiationExtent>
+      <oresm-onto:presenceAutreMention rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</oresm-onto:presenceAutreMention>
+      <oresm-onto:presenceMentionDorsale rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</oresm-onto:presenceMentionDorsale>
+   </rico:Instantiation>
+   <rico:RecordResource rdf:about="recordResource/or-hubant-34-virt1">
+      <rdfs:label xml:lang="fr">Acte, passé devant les notaires du Châtelet de Paris, par lequel Philippe Boisot, principal du collège de Hubant, fonde deux bourses le 15 septembre 1574</rdfs:label>
+      <rico:title xml:lang="fr">Acte, passé devant les notaires du Châtelet de Paris, par lequel Philippe Boisot, principal du collège de Hubant, fonde deux bourses le 15 septembre 1574</rico:title>
+      <rico:hasCopy rdf:resource="recordResource/or-hubant-34"/>
+   </rico:RecordResource>
+</rdf:RDF>

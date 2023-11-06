@@ -1,0 +1,40 @@
+@use '../../base';
+@use '../../mixins';
+@use 'sass:math';
+
+.AddWidgetValueBtn {
+    @include mixins.arrow-back-colors(var(--primary-color-medium), #fff);
+    @include mixins.arrow-front-colors(var(--primary-color-medium), #fff);
+    display: flex;
+    color: black;
+    font-size: 20px;
+    cursor: pointer;
+    vertical-align: middle;
+    max-width: 220px;
+    height: 48px;
+    margin-right: -13px;
+    position: relative;
+    padding: 0;
+    p {
+        height: inherit;
+        background: var(--primary-color-medium);
+        padding: 0 0 0 3px;
+        border: base.$center-arrow-bd-width solid #fff;
+        border-left: 0;
+        border-right: 0;
+        width: 0px;
+        overflow: visible;
+        position: relative;
+        span {
+            line-height: 42px;
+            color: var(--default-text-color);
+        }
+        // so that it works even without Bootstrap
+        margin-top: 0;
+    }
+    /* Not sure what this does */
+    span.label-two-line {
+        line-height: math.div(base.$height-components-under, 2);
+        line-height: 21px;
+    }
+}

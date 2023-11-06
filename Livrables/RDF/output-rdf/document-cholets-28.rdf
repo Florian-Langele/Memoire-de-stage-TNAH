@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:html="http://www.w3.org/1999/xhtml"
+         xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:rico="https://www.ica.org/standards/RiC/ontology#"
+         xml:base="http://data.oresm.fr/">
+   <rico:RecordResource rdf:about="recordResource/or-cholets-28">
+      <rico:title xml:lang="fr">Mandement de Charles V à ses trésoriers à Paris de faire payer sur la prévôté de Beauquesne la rente qui est due au collège de Cholet par le Trésor royal</rico:title>
+      <rdfs:label xml:lang="fr">Mandement de Charles V à ses trésoriers à Paris de faire payer sur la prévôté de Beauquesne la rente qui est due au collège de Cholet par le Trésor royal</rdfs:label>
+      <rdfs:seeAlso rdf:resource="https://www.siv.archives-nationales.culture.gouv.fr/siv/UD/FRAN_IR_032408/c-4hw92yp8s--11lbm8f623m5o"/>
+      <rico:hasOrHadLanguage rdf:resource="http://data.archives-nationales.culture.gouv.fr/language/FRAN_RI_100-name4"/>
+      <oresm-onto:nombreApproximatifNomsPersonnesPresents rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</oresm-onto:nombreApproximatifNomsPersonnesPresents>
+      <oresm-onto:presenceDeSceau rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</oresm-onto:presenceDeSceau>
+      <oresm-onto:noteSceau>Simple queue avec sceau manquant</oresm-onto:noteSceau>
+      <rico:isRecordResourceAssociatedWithRecordResource rdf:resource="recordResource/or-cholets-29"/>
+      <rico:hasInstantiation rdf:resource="instantiation/or-cholets-28"/>
+   </rico:RecordResource>
+   <rico:Instantiation rdf:about="instantiation/or-cholets-28">
+      <rico:title xml:lang="fr">Mandement de Charles V à ses trésoriers à Paris de faire payer sur la prévôté de Beauquesne la rente qui est due au collège de Cholet par le Trésor royal</rico:title>
+      <rdfs:label xml:lang="fr">Mandement de Charles V à ses trésoriers à Paris de faire payer sur la prévôté de Beauquesne la rente qui est due au collège de Cholet par le Trésor royal</rdfs:label>
+      <rico:isInstantiationOf rdf:resource="recordResource/or-cholets-28"/>
+      <oresm-onto:estActuellementConservePar rdf:resource="corporateBody/005061"/>
+      <rico:height>133 mm</rico:height>
+      <rico:width>288 mm</rico:width>
+      <rico:instantiationExtent xml:lang="fr">1 pièce</rico:instantiationExtent>
+      <oresm-onto:presenceAutreMention rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</oresm-onto:presenceAutreMention>
+      <oresm-onto:presenceMentionDorsale rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</oresm-onto:presenceMentionDorsale>
+      <oresm-onto:transcriptionDeLaOuLesMentionsDorsales>« Ordonnance du roy pour recevoir du prevost de Beauquesne ce qui nous estoit deu sur le thresor O.7 » ; « Ordonnance du roy pour ce qui estoit deu au college sur le sur le thresor 19 janvier 1365 G.5 » ; « Lettre [?] sur le tresor du roy » ; « 4eme » ; « [?] de Troiez » ; [?] ; « M 111 n° 23 1 »</oresm-onto:transcriptionDeLaOuLesMentionsDorsales>
+   </rico:Instantiation>
+</rdf:RDF>

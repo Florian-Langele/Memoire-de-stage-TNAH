@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:html="http://www.w3.org/1999/xhtml"
+         xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:rico="https://www.ica.org/standards/RiC/ontology#"
+         xml:base="http://data.oresm.fr/">
+   <rico:RecordResource rdf:about="recordResource/or-la-marche-109">
+      <rico:title xml:lang="fr">Fondation de deux bourses au collège de la Marche par Martial Gallichet</rico:title>
+      <rdfs:label xml:lang="fr">Fondation de deux bourses au collège de la Marche par Martial Gallichet</rdfs:label>
+      <rdfs:seeAlso rdf:resource="https://www.calames.abes.fr/pub/#details?id=Calames-2010715117512041"/>
+      <rico:hasInstantiation rdf:resource="instantiation/or-la-marche-109"/>
+   </rico:RecordResource>
+   <rico:Instantiation rdf:about="instantiation/or-la-marche-109">
+      <rico:title xml:lang="fr">Fondation de deux bourses au collège de la Marche par Martial Gallichet</rico:title>
+      <rdfs:label xml:lang="fr">Fondation de deux bourses au collège de la Marche par Martial Gallichet</rdfs:label>
+      <rico:isInstantiationOf rdf:resource="recordResource/or-la-marche-109"/>
+      <oresm-onto:estActuellementConservePar rdf:resource="corporateBody/050960067"/>
+   </rico:Instantiation>
+</rdf:RDF>

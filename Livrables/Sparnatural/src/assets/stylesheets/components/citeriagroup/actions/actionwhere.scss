@@ -1,0 +1,31 @@
+@use '../../../base';
+.ActionWhere {
+    line-height: 26px;
+    position: absolute;
+    display: flex;
+    margin-top: -4px;
+    border-left: 3px solid transparent;
+    div{
+        margin-left: 25px;
+        width:max-content;
+    }
+    a{
+        position: absolute;
+        left: 100%;
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: #fff;
+        border: 2px solid var(--primary-color-main) ;
+        border-radius: 13px;
+        height: 23px;
+        min-width: 23px !important;
+        fill: var(--primary-color-main) !important ;
+        font-weight: bold;  
+        margin-left: 10px;  
+        svg{
+            height: 10px;
+        }
+    }
+}

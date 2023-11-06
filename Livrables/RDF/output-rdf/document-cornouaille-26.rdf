@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:html="http://www.w3.org/1999/xhtml"
+         xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:rico="https://www.ica.org/standards/RiC/ontology#"
+         xml:base="http://data.oresm.fr/">
+   <rico:RecordResource rdf:about="recordResource/or-cornouaille-26">
+      <rico:title xml:lang="fr">Deux actes portant indemnité en faveur du collège de Cornouaille, l'un par Pierre et Vincent Bidault et Jean Deville pour 20 sols parisis de rente, et l'autre par Henry Talet pour 3 livres 5 sols de rente en deux parties à prendre sur plusieurs héritages situés à Charonne</rico:title>
+      <rdfs:label xml:lang="fr">Deux actes portant indemnité en faveur du collège de Cornouaille, l'un par Pierre et Vincent Bidault et Jean Deville pour 20 sols parisis de rente, et l'autre par Henry Talet pour 3 livres 5 sols de rente en deux parties à prendre sur plusieurs héritages situés à Charonne</rdfs:label>
+      <rdfs:seeAlso rdf:resource="https://www.siv.archives-nationales.culture.gouv.fr/siv/UD/FRAN_IR_032408/c-4qyexdrh0--1i9yz62ka6cgw"/>
+      <rico:hasOrHadLanguage rdf:resource="http://data.archives-nationales.culture.gouv.fr/language/FRAN_RI_100-name4"/>
+      <oresm-onto:nombreApproximatifNomsPersonnesPresents rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</oresm-onto:nombreApproximatifNomsPersonnesPresents>
+      <rico:hasInstantiation rdf:resource="instantiation/or-cornouaille-26"/>
+   </rico:RecordResource>
+   <rico:Instantiation rdf:about="instantiation/or-cornouaille-26">
+      <rico:title xml:lang="fr">Deux actes portant indemnité en faveur du collège de Cornouaille, l'un par Pierre et Vincent Bidault et Jean Deville pour 20 sols parisis de rente, et l'autre par Henry Talet pour 3 livres 5 sols de rente en deux parties à prendre sur plusieurs héritages situés à Charonne</rico:title>
+      <rdfs:label xml:lang="fr">Deux actes portant indemnité en faveur du collège de Cornouaille, l'un par Pierre et Vincent Bidault et Jean Deville pour 20 sols parisis de rente, et l'autre par Henry Talet pour 3 livres 5 sols de rente en deux parties à prendre sur plusieurs héritages situés à Charonne</rdfs:label>
+      <rico:isInstantiationOf rdf:resource="recordResource/or-cornouaille-26"/>
+      <oresm-onto:estActuellementConservePar rdf:resource="corporateBody/005061"/>
+      <rico:instantiationExtent xml:lang="fr">2 pièces</rico:instantiationExtent>
+      <rico:integrity xml:lang="fr">mauvais état</rico:integrity>
+      <oresm-onto:presenceAutreMention rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</oresm-onto:presenceAutreMention>
+      <oresm-onto:presenceMentionDorsale rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</oresm-onto:presenceMentionDorsale>
+   </rico:Instantiation>
+</rdf:RDF>

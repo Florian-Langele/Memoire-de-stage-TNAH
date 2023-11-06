@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:html="http://www.w3.org/1999/xhtml"
+         xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:rico="https://www.ica.org/standards/RiC/ontology#"
+         xml:base="http://data.oresm.fr/">
+   <rico:Place rdf:about="place/Ableville">
+      <rdfs:label xml:lang="fr">Ableville</rdfs:label>
+      <rico:name xml:lang="fr">Ableville</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-209-virt1"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Ammonensis%20in%20dicto%20hospitio%20predicti%20magistri%20Guillelmi%20Romani">
+      <rdfs:label xml:lang="fr">Ammonensis in dicto hospitio predicti magistri Guillelmi Romani</rdfs:label>
+      <rico:name xml:lang="fr">Ammonensis in dicto hospitio predicti magistri Guillelmi Romani</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-sorbonne-38-virt1"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Avignon%20%28Avignon%29">
+      <rdfs:label xml:lang="fr">Avignon (Avignon)</rdfs:label>
+      <rico:name xml:lang="fr">Avignon (Avignon)</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cardinal-lemoine-15-virt3"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cardinal-lemoine-13-ins1"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Beauvais">
+      <rdfs:label xml:lang="fr">Beauvais</rdfs:label>
+      <rico:name xml:lang="fr">Beauvais</rico:name>
+      <rdfs:seeAlso>https://fr.wikipedia.org/wiki/Beauvais</rdfs:seeAlso>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-5-virt1"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Grand%20Ch%C3%A2telet%20%28Paris%29">
+      <rdfs:label xml:lang="fr">Grand Châtelet (Paris)</rdfs:label>
+      <rico:name xml:lang="fr">Grand Châtelet (Paris)</rico:name>
+      <rdfs:seeAlso>https://fr.wikipedia.org/wiki/Grand_Ch%C3%A2telet</rdfs:seeAlso>
+      <rico:descriptiveNote>le mot châtelet utilisé seul désigne le Grand Châtelet, par opposition au Petit Châtelet</rico:descriptiveNote>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-108-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-209-ins1"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Coll%C3%A8ge%20des%20Cholets">
+      <rdfs:label xml:lang="fr">Collège des Cholets</rdfs:label>
+      <rico:name xml:lang="fr">Collège des Cholets</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-169-virt1"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Monstereel">
+      <rdfs:label xml:lang="fr">Monstereel</rdfs:label>
+      <rico:name xml:lang="fr">Monstereel</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-37-virt1"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Paris">
+      <rdfs:label xml:lang="fr">Paris</rdfs:label>
+      <rico:name xml:lang="fr">Paris</rico:name>
+      <rdfs:seeAlso>https://fr.wikipedia.org/wiki/Paris</rdfs:seeAlso>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-32-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-33-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-226-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-la-marche-25-virt2"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-la-marche-26-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-navarre-42-virt1"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Parisie">
+      <rdfs:label xml:lang="fr">Parisie</rdfs:label>
+      <rico:name xml:lang="fr">Parisie</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-sorbonne-3-virt1"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Parisiis">
+      <rdfs:label xml:lang="fr">Parisiis</rdfs:label>
+      <rico:name xml:lang="fr">Parisiis</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-bayeux-3-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-bayeux-30-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-283-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cornouaille-1-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-dix-huit-6-virt7"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-dix-huit-53-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-288-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-lisieux-1-virt3"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-navarre-35-virt1"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Parisiis%20in%20camera%20nostri%20abbatis%20superius%20nominati">
+      <rdfs:label xml:lang="fr">Parisiis in camera nostri abbatis superius nominati</rdfs:label>
+      <rico:name xml:lang="fr">Parisiis in camera nostri abbatis superius nominati</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-hubant-35-virt3"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Parisiis%20in%20dicto%20nostro%20capitulo">
+      <rdfs:label xml:lang="fr">Parisiis in dicto nostro capitulo</rdfs:label>
+      <rico:name xml:lang="fr">Parisiis in dicto nostro capitulo</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-200-virt1"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Parisius">
+      <rdfs:label xml:lang="fr">Parisius</rdfs:label>
+      <rico:name xml:lang="fr">Parisius</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-bayeux-12-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-dix-huit-44-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-dix-huit-47-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-dix-huit-50-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-dix-huit-52-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-navarre-19-virt1"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Parisius%20in%20domo%20dicti%20magistri%20de%20Hubanto">
+      <rdfs:label xml:lang="fr">Parisius in domo dicti magistri de Hubanto</rdfs:label>
+      <rico:name xml:lang="fr">Parisius in domo dicti magistri de Hubanto</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-hubant-32-virt6"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Parisius%20in%20parlamento%20nostro">
+      <rdfs:label xml:lang="fr">Parisius in parlamento nostro</rdfs:label>
+      <rico:name xml:lang="fr">Parisius in parlamento nostro</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-bayeux-7-virt1"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Palais%20de%20la%20Cit%C3%A9%20%28Paris%29">
+      <rdfs:label xml:lang="fr">Palais de la Cité (Paris)</rdfs:label>
+      <rico:name xml:lang="fr">Palais de la Cité (Paris)</rico:name>
+      <rdfs:seeAlso>https://fr.wikipedia.org/wiki/Parlement_de_Paris</rdfs:seeAlso>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cardinal-lemoine-15-virt4"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-43-ins1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-43-ins2"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Perusii">
+      <rdfs:label xml:lang="fr">Perusii</rdfs:label>
+      <rico:name xml:lang="fr">Perusii</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-sorbonne-51-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-sorbonne-51-virt2"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Poitiers">
+      <rdfs:label xml:lang="fr">Poitiers</rdfs:label>
+      <rico:name xml:lang="fr">Poitiers</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cardinal-lemoine-12-virt2"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cardinal-lemoine-15-virt2"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Romae%20apud%20sanctum%20Petrum">
+      <rdfs:label xml:lang="fr">Romae apud sanctum Petrum</rdfs:label>
+      <rico:name xml:lang="fr">Romae apud sanctum Petrum</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-227-virt1"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Rome%20apud%20sanctum%20Petrum">
+      <rdfs:label xml:lang="fr">Rome apud sanctum Petrum</rdfs:label>
+      <rico:name xml:lang="fr">Rome apud sanctum Petrum</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-sorbonne-39-virt1"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Basilique%20Saint-Jean-de-Latran">
+      <rdfs:label xml:lang="fr">Basilique Saint-Jean-de-Latran</rdfs:label>
+      <rico:name xml:lang="fr">Basilique Saint-Jean-de-Latran</rico:name>
+      <rdfs:seeAlso>https://fr.wikipedia.org/wiki/Basilique_Saint-Jean-de-Latran</rdfs:seeAlso>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cardinal-lemoine-12-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cardinal-lemoine-15-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-15-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-16-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-50-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-13-ins2"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Basilique%20Saint-Pierre">
+      <rdfs:label xml:lang="fr">Basilique Saint-Pierre</rdfs:label>
+      <rico:name xml:lang="fr">Basilique Saint-Pierre</rico:name>
+      <rdfs:seeAlso>https://fr.wikipedia.org/wiki/Basilique_Saint-Pierre</rdfs:seeAlso>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-6-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-8-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-13-ins1"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Viterbe">
+      <rdfs:label xml:lang="fr">Viterbe</rdfs:label>
+      <rico:name xml:lang="fr">Viterbe</rico:name>
+      <rdfs:seeAlso>https://fr.wikipedia.org/wiki/Viterbe</rdfs:seeAlso>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-1-virt1"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/a%20Paris">
+      <rdfs:label xml:lang="fr">a Paris</rdfs:label>
+      <rico:name xml:lang="fr">a Paris</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-navarre-55-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-navarre-56-virt1"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/a%20Paris%20en%20nostre%20Parlement">
+      <rdfs:label xml:lang="fr">a Paris en nostre Parlement</rdfs:label>
+      <rico:name xml:lang="fr">a Paris en nostre Parlement</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-bayeux-1-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-bayeux-16-virt1"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/apud%20Vicenas">
+      <rdfs:label xml:lang="fr">apud Vicenas</rdfs:label>
+      <rico:name xml:lang="fr">apud Vicenas</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-cholets-279-virt1"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/apud%20urbem%20veterem">
+      <rdfs:label xml:lang="fr">apud urbem veterem</rdfs:label>
+      <rico:name xml:lang="fr">apud urbem veterem</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-sorbonne-10-virt1"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/au%20Chastellet%20dudict%20Tournant">
+      <rdfs:label xml:lang="fr">au Chastellet dudict Tournant</rdfs:label>
+      <rico:name xml:lang="fr">au Chastellet dudict Tournant</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-dix-huit-93-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-dix-huit-95-virt1"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/aud.%20Abbeville">
+      <rdfs:label xml:lang="fr">aud. Abbeville</rdfs:label>
+      <rico:name xml:lang="fr">aud. Abbeville</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-navarre-79-virt1"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/audit%20tresor">
+      <rdfs:label xml:lang="fr">audit tresor</rdfs:label>
+      <rico:name xml:lang="fr">audit tresor</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-dix-huit-6-virt11"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/en%20Parlement">
+      <rdfs:label xml:lang="fr">en Parlement</rdfs:label>
+      <rico:name xml:lang="fr">en Parlement</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-bons-enfants-10-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-dix-huit-38-virt2"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-dix-huit-89-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-276-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-279-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-287-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-289-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-290-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-328-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-lisieux-6-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-navarre-50-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-navarre-51-virt2"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-navarre-53-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-navarre-60-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-navarre-61-virt1"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/en%20estudes%20des%20notaires">
+      <rdfs:label xml:lang="fr">en estudes des notaires</rdfs:label>
+      <rico:name xml:lang="fr">en estudes des notaires</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-153-virt1"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/en%20la%20maison%20de%20ma%C3%AEtre%20Jean%20Guibillon%2C%20pr%C3%A9v%C3%B4t%20dudit%20Mesnil">
+      <rdfs:label xml:lang="fr">en la maison de maître Jean Guibillon, prévôt dudit Mesnil</rdfs:label>
+      <rico:name xml:lang="fr">en la maison de maître Jean Guibillon, prévôt dudit Mesnil</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-bons-enfants-2-virt2"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/en%20ladicte%20chambre">
+      <rdfs:label xml:lang="fr">en ladicte chambre</rdfs:label>
+      <rico:name xml:lang="fr">en ladicte chambre</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-dix-huit-38-virt3"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/eu%20bureau%20en%20icelle%20chambre">
+      <rdfs:label xml:lang="fr">eu bureau en icelle chambre</rdfs:label>
+      <rico:name xml:lang="fr">eu bureau en icelle chambre</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-la-marche-28-virt1"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/in%20aula%20seu%20sacello%20predicti%20collegii">
+      <rdfs:label xml:lang="fr">in aula seu sacello predicti collegii</rdfs:label>
+      <rico:name xml:lang="fr">in aula seu sacello predicti collegii</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-bayeux-15-virt1"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/in%20aula%20theologorum%20dictae%20domus">
+      <rdfs:label xml:lang="fr">in aula theologorum dictae domus</rdfs:label>
+      <rico:name xml:lang="fr">in aula theologorum dictae domus</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-lisieux-1-virt2"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/in%20capitulo%20nostro">
+      <rdfs:label xml:lang="fr">in capitulo nostro</rdfs:label>
+      <rico:name xml:lang="fr">in capitulo nostro</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-dix-huit-6-virt6"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-dix-huit-18-virt1"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/in%20dicta%20Parisiense%20ecclesia">
+      <rdfs:label xml:lang="fr">in dicta Parisiense ecclesia</rdfs:label>
+      <rico:name xml:lang="fr">in dicta Parisiense ecclesia</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-dix-huit-42-virt1"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/in%20dicto%20capitulo%20nostro">
+      <rdfs:label xml:lang="fr">in dicto capitulo nostro</rdfs:label>
+      <rico:name xml:lang="fr">in dicto capitulo nostro</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-dix-huit-6-virt5"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-dix-huit-64-virt1"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/in%20dicto%20collegio%20Fortetico">
+      <rdfs:label xml:lang="fr">in dicto collegio Fortetico</rdfs:label>
+      <rico:name xml:lang="fr">in dicto collegio Fortetico</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-324-virt2"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-325-virt2"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/in%20dicto%20nostro%20capitulo">
+      <rdfs:label xml:lang="fr">in dicto nostro capitulo</rdfs:label>
+      <rico:name xml:lang="fr">in dicto nostro capitulo</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-205-virt1"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/in%20domo%20dicti%20magistri%20Joannis">
+      <rdfs:label xml:lang="fr">in domo dicti magistri Joannis</rdfs:label>
+      <rico:name xml:lang="fr">in domo dicti magistri Joannis</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-hubant-18-virt1"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/in%20domo%20dicti%20testatoris%20sita%20in%20vico%20sine%20capite%20Pairisi%20prope%20plateam%20Mauberti">
+      <rdfs:label xml:lang="fr">in domo dicti testatoris sita in vico sine capite Pairisi prope plateam Mauberti</rdfs:label>
+      <rico:name xml:lang="fr">in domo dicti testatoris sita in vico sine capite Pairisi prope plateam Mauberti</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-la-marche-15-virt1"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/in%20domo%20nostrae%20habitationis">
+      <rdfs:label xml:lang="fr">in domo nostrae habitationis</rdfs:label>
+      <rico:name xml:lang="fr">in domo nostrae habitationis</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-dix-huit-46-virt1"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/in%20eadem%20nostra%20ecclesia%20Parisiense">
+      <rdfs:label xml:lang="fr">in eadem nostra ecclesia Parisiense</rdfs:label>
+      <rico:name xml:lang="fr">in eadem nostra ecclesia Parisiense</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-dix-huit-48-virt1"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/in%20nostro%20capitulo">
+      <rdfs:label xml:lang="fr">in nostro capitulo</rdfs:label>
+      <rico:name xml:lang="fr">in nostro capitulo</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-4-virt1"/>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-13-virt1"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/in%20parqueto%20superiori%20dicte%20curie%20nostre">
+      <rdfs:label xml:lang="fr">in parqueto superiori dicte curie nostre</rdfs:label>
+      <rico:name xml:lang="fr">in parqueto superiori dicte curie nostre</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-lisieux-20-virt1"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/in%20praedicto%20nostro%20capitulo">
+      <rdfs:label xml:lang="fr">in praedicto nostro capitulo</rdfs:label>
+      <rico:name xml:lang="fr">in praedicto nostro capitulo</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-fortet-324-virt1"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/nostrae%20habitationis">
+      <rdfs:label xml:lang="fr">nostrae habitationis</rdfs:label>
+      <rico:name xml:lang="fr">nostrae habitationis</rico:name>
+      <oresm-onto:estLieudePassageActe rdf:resource="recordResource/or-dix-huit-46-virt3"/>
+   </rico:Place>
+</rdf:RDF>

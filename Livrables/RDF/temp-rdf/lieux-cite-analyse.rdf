@@ -1,0 +1,838 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:html="http://www.w3.org/1999/xhtml"
+         xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:rico="https://www.ica.org/standards/RiC/ontology#"
+         xml:base="http://data.oresm.fr/">
+   <rico:Place rdf:about="place/%C3%89glise%20du%20Saint-S%C3%A9pulcre">
+      <rdfs:label xml:lang="fr">Église du Saint-Sépulcre</rdfs:label>
+      <rico:name xml:lang="fr">Église du Saint-Sépulcre</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-48"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/%C3%89glise%20de%20Paris">
+      <rdfs:label xml:lang="fr">Église de Paris</rdfs:label>
+      <rico:name xml:lang="fr">Église de Paris</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-241"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/%C3%89glise%20de%20Beauvais">
+      <rdfs:label xml:lang="fr">Église de Beauvais</rdfs:label>
+      <rico:name xml:lang="fr">Église de Beauvais</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-242"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-243"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-245"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-246"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-247"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-249"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/%C3%89glise%20Saint-Pierre%20de%20Beauvais">
+      <rdfs:label xml:lang="fr">Église Saint-Pierre de Beauvais</rdfs:label>
+      <rico:name xml:lang="fr">Église Saint-Pierre de Beauvais</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-241"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/%C3%89glise%20Saint-Beno%C3%AEt-le-B%C3%A9tourn%C3%A9">
+      <rdfs:label xml:lang="fr">Église Saint-Benoît-le-Bétourné</rdfs:label>
+      <rico:name xml:lang="fr">Église Saint-Benoît-le-Bétourné</rico:name>
+      <rico:latitude>48.8498847</rico:latitude>
+      <rico:longitude>2.3445088</rico:longitude>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-202"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-204"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/rue%20Saint-Jacques%2C%20%C3%A0%20l%E2%80%99enseigne%20du%20Monde%20et%20de%20la%20Gal%C3%A9e">
+      <rdfs:label xml:lang="fr">rue Saint-Jacques, à l’enseigne du Monde et de la Galée</rdfs:label>
+      <rico:name xml:lang="fr">rue Saint-Jacques, à l’enseigne du Monde et de la Galée</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-81"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/rue%20Saint-Jacques%2C%20enseigne%20de%20la%20Mule">
+      <rdfs:label xml:lang="fr">rue Saint-Jacques, enseigne de la Mule</rdfs:label>
+      <rico:name xml:lang="fr">rue Saint-Jacques, enseigne de la Mule</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-47"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/rue%20Saint-Jacques">
+      <rdfs:label xml:lang="fr">rue Saint-Jacques</rdfs:label>
+      <rico:name xml:lang="fr">rue Saint-Jacques</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-82"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-165"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/maisons%20du%20Monde%20et%20de%20la%20Gal%C3%A8re">
+      <rdfs:label xml:lang="fr">maisons du Monde et de la Galère</rdfs:label>
+      <rico:name xml:lang="fr">maisons du Monde et de la Galère</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-112"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-113"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-114"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-123"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/maisons%20du%20Monde%20et%20de%20la%20Gall%C3%A8re%2C%20rue%20Saint-Jacques">
+      <rdfs:label xml:lang="fr">maisons du Monde et de la Gallère, rue Saint-Jacques</rdfs:label>
+      <rico:name xml:lang="fr">maisons du Monde et de la Gallère, rue Saint-Jacques</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-117"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-118"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/maisons%20du%20Croissant%20et%20de%20Saint-Jacques%20du%20Pressoir">
+      <rdfs:label xml:lang="fr">maisons du Croissant et de Saint-Jacques du Pressoir</rdfs:label>
+      <rico:name xml:lang="fr">maisons du Croissant et de Saint-Jacques du Pressoir</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-151"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-152"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/maison%20%C3%A0%20Saint-Waast%20pr%C3%A8s%20de%20Verberie">
+      <rdfs:label xml:lang="fr">maison à Saint-Waast près de Verberie</rdfs:label>
+      <rico:name xml:lang="fr">maison à Saint-Waast près de Verberie</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-90"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/maison%20sise%20%C3%A0%20Verberie%20%C3%A0%20l%E2%80%99enseigne%20du%20Heaume%20et%20du%20Faucon">
+      <rdfs:label xml:lang="fr">maison sise à Verberie à l’enseigne du Heaume et du Faucon</rdfs:label>
+      <rico:name xml:lang="fr">maison sise à Verberie à l’enseigne du Heaume et du Faucon</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-69"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/maison%20rue%20Saint-Jacques">
+      <rdfs:label xml:lang="fr">maison rue Saint-Jacques</rdfs:label>
+      <rico:name xml:lang="fr">maison rue Saint-Jacques</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-108"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/maison%20du%20Pressoir%2C%20rue%20Saint-Etienne-des-Gr%C3%A8s">
+      <rdfs:label xml:lang="fr">maison du Pressoir, rue Saint-Etienne-des-Grès</rdfs:label>
+      <rico:name xml:lang="fr">maison du Pressoir, rue Saint-Etienne-des-Grès</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-101"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/maison%20du%20Pressoir%20%C3%A0%20Paris">
+      <rdfs:label xml:lang="fr">maison du Pressoir à Paris</rdfs:label>
+      <rico:name xml:lang="fr">maison du Pressoir à Paris</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-57"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-58"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/maison%20du%20Pressoir">
+      <rdfs:label xml:lang="fr">maison du Pressoir</rdfs:label>
+      <rico:name xml:lang="fr">maison du Pressoir</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-98"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-106"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-107"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-109"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-134"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-139"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-162"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/maison%20du%20Monde%2C%20rue%20Saint-Jacques">
+      <rdfs:label xml:lang="fr">maison du Monde, rue Saint-Jacques</rdfs:label>
+      <rico:name xml:lang="fr">maison du Monde, rue Saint-Jacques</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-111"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/maison%20du%20Monde%20et%20de%20la%20Gal%C3%A8re%2C%20rue%20Saint-Jacques">
+      <rdfs:label xml:lang="fr">maison du Monde et de la Galère, rue Saint-Jacques</rdfs:label>
+      <rico:name xml:lang="fr">maison du Monde et de la Galère, rue Saint-Jacques</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-103"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/maison%20du%20Monde">
+      <rdfs:label xml:lang="fr">maison du Monde</rdfs:label>
+      <rico:name xml:lang="fr">maison du Monde</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-122"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/maison%20du%20Miroir%2C%20rue%20Saint-Etienne-des-Gr%C3%A8s">
+      <rdfs:label xml:lang="fr">maison du Miroir, rue Saint-Etienne-des-Grès</rdfs:label>
+      <rico:name xml:lang="fr">maison du Miroir, rue Saint-Etienne-des-Grès</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-131"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/maison%20du%20Miroir">
+      <rdfs:label xml:lang="fr">maison du Miroir</rdfs:label>
+      <rico:name xml:lang="fr">maison du Miroir</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-158"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/maison%20du%20Croissant%2C%20rue%20Saint-Jacques">
+      <rdfs:label xml:lang="fr">maison du Croissant, rue Saint-Jacques</rdfs:label>
+      <rico:name xml:lang="fr">maison du Croissant, rue Saint-Jacques</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-136"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/maison%20des%20petits%20Cholets">
+      <rdfs:label xml:lang="fr">maison des petits Cholets</rdfs:label>
+      <rico:name xml:lang="fr">maison des petits Cholets</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-156"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/maison%20des%20Cholets">
+      <rdfs:label xml:lang="fr">maison des Cholets</rdfs:label>
+      <rico:name xml:lang="fr">maison des Cholets</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-174"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/maison%20de%20la%20rue%20Saint-Jacques%20%C3%A0%20l%E2%80%99enseigne%20de%20l%E2%80%99Image-Saint-Jacques">
+      <rdfs:label xml:lang="fr">maison de la rue Saint-Jacques à l’enseigne de l’Image-Saint-Jacques</rdfs:label>
+      <rico:name xml:lang="fr">maison de la rue Saint-Jacques à l’enseigne de l’Image-Saint-Jacques</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-132"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/maison%20de%20la%20Gal%C3%A8re">
+      <rdfs:label xml:lang="fr">maison de la Galère</rdfs:label>
+      <rico:name xml:lang="fr">maison de la Galère</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-126"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/maison%20de%20la%20Gall%C3%A8re">
+      <rdfs:label xml:lang="fr">maison de la Gallère</rdfs:label>
+      <rico:name xml:lang="fr">maison de la Gallère</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-121"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-153"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-154"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-155"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-163"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-164"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-166"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/maison%20de%20Sainte-Catherine%2C%20rue%20Saint-Jacques">
+      <rdfs:label xml:lang="fr">maison de Sainte-Catherine, rue Saint-Jacques</rdfs:label>
+      <rico:name xml:lang="fr">maison de Sainte-Catherine, rue Saint-Jacques</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-110"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-157"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/h%C3%B4tel%20du%20Cerf%2C%20rue%20de%20la%20Calende">
+      <rdfs:label xml:lang="fr">hôtel du Cerf, rue de la Calende</rdfs:label>
+      <rico:name xml:lang="fr">hôtel du Cerf, rue de la Calende</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-82"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/faubourg%20Saint-Marcel">
+      <rdfs:label xml:lang="fr">faubourg Saint-Marcel</rdfs:label>
+      <rico:name xml:lang="fr">faubourg Saint-Marcel</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-71"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/dioc%C3%A8se%20de%20N%C3%AEmes">
+      <rdfs:label xml:lang="fr">diocèse de Nîmes</rdfs:label>
+      <rico:name xml:lang="fr">diocèse de Nîmes</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-25"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/coll%C3%A8ge%20des%20Cholets">
+      <rdfs:label xml:lang="fr">collège des Cholets</rdfs:label>
+      <rico:name xml:lang="fr">collège des Cholets</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-51"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-52"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-54"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-67"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-68"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-69"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-70"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-89"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/clos%20Pally%20au%20Petit%20Saint-Germain%20pr%C3%A8s%20de%20Verberie">
+      <rdfs:label xml:lang="fr">clos Pally au Petit Saint-Germain près de Verberie</rdfs:label>
+      <rico:name xml:lang="fr">clos Pally au Petit Saint-Germain près de Verberie</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-87"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Villeneuve-le-Comte">
+      <rdfs:label xml:lang="fr">Villeneuve-le-Comte</rdfs:label>
+      <rico:name xml:lang="fr">Villeneuve-le-Comte</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cardinal-lemoine-1"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cardinal-lemoine-2"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Vert-Saint-Denis">
+      <rdfs:label xml:lang="fr">Vert-Saint-Denis</rdfs:label>
+      <rico:name xml:lang="fr">Vert-Saint-Denis</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-220"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-221"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-223"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Verberie">
+      <rdfs:label xml:lang="fr">Verberie</rdfs:label>
+      <rico:name xml:lang="fr">Verberie</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-59"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-78"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-83"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-88"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-94"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-96"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-97"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-99"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-100"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-127"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-150"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-161"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Valois">
+      <rdfs:label xml:lang="fr">Valois</rdfs:label>
+      <rico:name xml:lang="fr">Valois</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-95"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Temple">
+      <rdfs:label xml:lang="fr">Temple</rdfs:label>
+      <rico:name xml:lang="fr">Temple</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-13"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-14"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Senlis">
+      <rdfs:label xml:lang="fr">Senlis</rdfs:label>
+      <rico:name xml:lang="fr">Senlis</rico:name>
+      <rico:latitude>49.1521</rico:latitude>
+      <rico:longitude> 2.5859</rico:longitude>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-3"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-53"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-70"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-70"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-234"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Sainte-Etienne-du-Mont">
+      <rdfs:label xml:lang="fr">Sainte-Etienne-du-Mont</rdfs:label>
+      <rico:name xml:lang="fr">Sainte-Etienne-du-Mont</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-120"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Saint-Wulfran%20d%E2%80%99Abbeville">
+      <rdfs:label xml:lang="fr">Saint-Wulfran d’Abbeville</rdfs:label>
+      <rico:name xml:lang="fr">Saint-Wulfran d’Abbeville</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-35"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Saint-Wast%20les%20Verberie">
+      <rdfs:label xml:lang="fr">Saint-Wast les Verberie</rdfs:label>
+      <rico:name xml:lang="fr">Saint-Wast les Verberie</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-96"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Saint-Jean%20Le%20Rond">
+      <rdfs:label xml:lang="fr">Saint-Jean Le Rond</rdfs:label>
+      <rico:name xml:lang="fr">Saint-Jean Le Rond</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-171"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Saint-Germain-l%C3%A8s-Verberie">
+      <rdfs:label xml:lang="fr">Saint-Germain-lès-Verberie</rdfs:label>
+      <rico:name xml:lang="fr">Saint-Germain-lès-Verberie</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-76"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Saint-Felix%20de%20Vetula">
+      <rdfs:label xml:lang="fr">Saint-Felix de Vetula</rdfs:label>
+      <rico:name xml:lang="fr">Saint-Felix de Vetula</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-25"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Saint-Etienne-du-Mont">
+      <rdfs:label xml:lang="fr">Saint-Etienne-du-Mont</rdfs:label>
+      <rico:name xml:lang="fr">Saint-Etienne-du-Mont</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-119"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Saint-Etienne-des-Gr%C3%A8s">
+      <rdfs:label xml:lang="fr">Saint-Etienne-des-Grès</rdfs:label>
+      <rico:name xml:lang="fr">Saint-Etienne-des-Grès</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-32"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Ruys">
+      <rdfs:label xml:lang="fr">Ruys</rdfs:label>
+      <rico:name xml:lang="fr">Ruys</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-62"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-63"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-74"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-75"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-80"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Roquemont">
+      <rdfs:label xml:lang="fr">Roquemont</rdfs:label>
+      <rico:name xml:lang="fr">Roquemont</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-78"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Rhuis">
+      <rdfs:label xml:lang="fr">Rhuis</rdfs:label>
+      <rico:name xml:lang="fr">Rhuis</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-172"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Raray">
+      <rdfs:label xml:lang="fr">Raray</rdfs:label>
+      <rico:name xml:lang="fr">Raray</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-83"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-102"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/P%C3%A9ronne">
+      <rdfs:label xml:lang="fr">Péronne</rdfs:label>
+      <rico:name xml:lang="fr">Péronne</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-34"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-44"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Pr%C3%A9v%C3%B4t%C3%A9%20de%20Paris">
+      <rdfs:label xml:lang="fr">Prévôté de Paris</rdfs:label>
+      <rico:name xml:lang="fr">Prévôté de Paris</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-178"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Pr%C3%A9v%C3%B4t%C3%A9%20de%20Meaux">
+      <rdfs:label xml:lang="fr">Prévôté de Meaux</rdfs:label>
+      <rico:name xml:lang="fr">Prévôté de Meaux</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cardinal-lemoine-1"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Pronleroy">
+      <rdfs:label xml:lang="fr">Pronleroy</rdfs:label>
+      <rico:name xml:lang="fr">Pronleroy</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-199"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-200"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Pierrefitte">
+      <rdfs:label xml:lang="fr">Pierrefitte</rdfs:label>
+      <rico:name xml:lang="fr">Pierrefitte</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cardinal-lemoine-11"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Parlement%20de%20Paris">
+      <rdfs:label xml:lang="fr">Parlement de Paris</rdfs:label>
+      <rico:name xml:lang="fr">Parlement de Paris</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-241"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Paris">
+      <rdfs:label xml:lang="fr">Paris</rdfs:label>
+      <rico:name xml:lang="fr">Paris</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-2"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-4"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-28"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-29"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-32"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-33"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-36"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-38"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-45"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-48"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-49"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-49"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-54"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-104"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-173"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-211"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Officialit%C3%A9%20de%20Paris">
+      <rdfs:label xml:lang="fr">Officialité de Paris</rdfs:label>
+      <rico:name xml:lang="fr">Officialité de Paris</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-8"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-15"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-22"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Officialit%C3%A9%20de%20Meaux">
+      <rdfs:label xml:lang="fr">Officialité de Meaux</rdfs:label>
+      <rico:name xml:lang="fr">Officialité de Meaux</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cardinal-lemoine-2"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Noyon">
+      <rdfs:label xml:lang="fr">Noyon</rdfs:label>
+      <rico:name xml:lang="fr">Noyon</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-55"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-130"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-135"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Notre-Dame">
+      <rdfs:label xml:lang="fr">Notre-Dame</rdfs:label>
+      <rico:name xml:lang="fr">Notre-Dame</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-160"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Nogent-sur-Seine">
+      <rdfs:label xml:lang="fr">Nogent-sur-Seine</rdfs:label>
+      <rico:name xml:lang="fr">Nogent-sur-Seine</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cardinal-lemoine-3"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Moutereau">
+      <rdfs:label xml:lang="fr">Moutereau</rdfs:label>
+      <rico:name xml:lang="fr">Moutereau</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-279"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-282"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-283"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Montrouge">
+      <rdfs:label xml:lang="fr">Montrouge</rdfs:label>
+      <rico:name xml:lang="fr">Montrouge</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-45"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Monthery">
+      <rdfs:label xml:lang="fr">Monthery</rdfs:label>
+      <rico:name xml:lang="fr">Monthery</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-191"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Montereau%20sur%20le%20Jard">
+      <rdfs:label xml:lang="fr">Montereau sur le Jard</rdfs:label>
+      <rico:name xml:lang="fr">Montereau sur le Jard</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-280"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Montagne%20Sainte-Genevi%C3%A8ve">
+      <rdfs:label xml:lang="fr">Montagne Sainte-Geneviève</rdfs:label>
+      <rico:name xml:lang="fr">Montagne Sainte-Geneviève</rico:name>
+      <rico:latitude>48.8177</rico:latitude>
+      <rico:longitude>2.3449</rico:longitude>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-3"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Monstrel">
+      <rdfs:label xml:lang="fr">Monstrel</rdfs:label>
+      <rico:name xml:lang="fr">Monstrel</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-284"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Mereville">
+      <rdfs:label xml:lang="fr">Mereville</rdfs:label>
+      <rico:name xml:lang="fr">Mereville</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-40"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Melun">
+      <rdfs:label xml:lang="fr">Melun</rdfs:label>
+      <rico:name xml:lang="fr">Melun</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-279"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-282"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-283"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-284"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Marigny">
+      <rdfs:label xml:lang="fr">Marigny</rdfs:label>
+      <rico:name xml:lang="fr">Marigny</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-70"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-70"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Maison%20de%20la%20rue%20Saint-Jacques">
+      <rdfs:label xml:lang="fr">Maison de la rue Saint-Jacques</rdfs:label>
+      <rico:name xml:lang="fr">Maison de la rue Saint-Jacques</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-144"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Maison%20de%20la%20Souche%2C%20pr%C3%A8s%20de%20Saint-S%C3%A9verin">
+      <rdfs:label xml:lang="fr">Maison de la Souche, près de Saint-Séverin</rdfs:label>
+      <rico:name xml:lang="fr">Maison de la Souche, près de Saint-Séverin</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-124"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Maison%20de%20la%20Gal%C3%A8re">
+      <rdfs:label xml:lang="fr">Maison de la Galère</rdfs:label>
+      <rico:name xml:lang="fr">Maison de la Galère</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-203"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Le%20Jart">
+      <rdfs:label xml:lang="fr">Le Jart</rdfs:label>
+      <rico:name xml:lang="fr">Le Jart</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-284"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Le%20Jars">
+      <rdfs:label xml:lang="fr">Le Jars</rdfs:label>
+      <rico:name xml:lang="fr">Le Jars</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-282"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Le%20Jard">
+      <rdfs:label xml:lang="fr">Le Jard</rdfs:label>
+      <rico:name xml:lang="fr">Le Jard</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-279"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-283"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Josas">
+      <rdfs:label xml:lang="fr">Josas</rdfs:label>
+      <rico:name xml:lang="fr">Josas</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-85"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Hallencourt">
+      <rdfs:label xml:lang="fr">Hallencourt</rdfs:label>
+      <rico:name xml:lang="fr">Hallencourt</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-209"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Guyencourt">
+      <rdfs:label xml:lang="fr">Guyencourt</rdfs:label>
+      <rico:name xml:lang="fr">Guyencourt</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-148"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Gleignes">
+      <rdfs:label xml:lang="fr">Gleignes</rdfs:label>
+      <rico:name xml:lang="fr">Gleignes</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-125"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Glaignes">
+      <rdfs:label xml:lang="fr">Glaignes</rdfs:label>
+      <rico:name xml:lang="fr">Glaignes</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-138"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Gaulainville">
+      <rdfs:label xml:lang="fr">Gaulainville</rdfs:label>
+      <rico:name xml:lang="fr">Gaulainville</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-38"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-39"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-41"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-43"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-79"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-86"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-89"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-91"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-92"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-93"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-159"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-173"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Fouju">
+      <rdfs:label xml:lang="fr">Fouju</rdfs:label>
+      <rico:name xml:lang="fr">Fouju</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cardinal-lemoine-5"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Ev%C3%AAch%C3%A9%20de%20Paris">
+      <rdfs:label xml:lang="fr">Evêché de Paris</rdfs:label>
+      <rico:name xml:lang="fr">Evêché de Paris</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-20"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-21"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Eglise%20d%E2%80%99Amiens">
+      <rdfs:label xml:lang="fr">Eglise d’Amiens</rdfs:label>
+      <rico:name xml:lang="fr">Eglise d’Amiens</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-73"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Eglise%20du%20Saint-S%C3%A9pulcre">
+      <rdfs:label xml:lang="fr">Eglise du Saint-Sépulcre</rdfs:label>
+      <rico:name xml:lang="fr">Eglise du Saint-Sépulcre</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-49"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Eglise%20de%20Buires">
+      <rdfs:label xml:lang="fr">Eglise de Buires</rdfs:label>
+      <rico:name xml:lang="fr">Eglise de Buires</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-14"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Eglise%20Saint-Etienne-des-Gr%C3%A8s">
+      <rdfs:label xml:lang="fr">Eglise Saint-Etienne-des-Grès</rdfs:label>
+      <rico:name xml:lang="fr">Eglise Saint-Etienne-des-Grès</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-50"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-57"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-58"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Dioc%C3%A8se%20suburbicaire%20de%20Porto-Santa%20Rufina">
+      <rdfs:label xml:lang="fr">Diocèse suburbicaire de Porto-Santa Rufina</rdfs:label>
+      <rico:name xml:lang="fr">Diocèse suburbicaire de Porto-Santa Rufina</rico:name>
+      <rico:latitude>42.002803981727766</rico:latitude>
+      <rico:longitude>12.383224393334586</rico:longitude>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-4"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Dioc%C3%A8se%20d%E2%80%99Amiens">
+      <rdfs:label xml:lang="fr">Diocèse d’Amiens</rdfs:label>
+      <rico:name xml:lang="fr">Diocèse d’Amiens</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-6"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-7"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-14"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Dioc%C3%A8se%20de%20Beauvais">
+      <rdfs:label xml:lang="fr">Diocèse de Beauvais</rdfs:label>
+      <rico:name xml:lang="fr">Diocèse de Beauvais</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-6"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-7"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-182"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-227"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-228"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-229"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-231"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-233"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-240"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-273"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Dioc%C3%A8se%20d%27Amiens">
+      <rdfs:label xml:lang="fr">Diocèse d'Amiens</rdfs:label>
+      <rico:name xml:lang="fr">Diocèse d'Amiens</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-227"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-228"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-229"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-231"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-233"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-240"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-273"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Cr%C3%A9py-en-Valois">
+      <rdfs:label xml:lang="fr">Crépy-en-Valois</rdfs:label>
+      <rico:name xml:lang="fr">Crépy-en-Valois</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-149"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Coudray">
+      <rdfs:label xml:lang="fr">Coudray</rdfs:label>
+      <rico:name xml:lang="fr">Coudray</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-89"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-91"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Compi%C3%A8gne">
+      <rdfs:label xml:lang="fr">Compiègne</rdfs:label>
+      <rico:name xml:lang="fr">Compiègne</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-70"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Coll%C3%A8ge%20du%20Cardinal%20Lemoine">
+      <rdfs:label xml:lang="fr">Collège du Cardinal Lemoine</rdfs:label>
+      <rico:name xml:lang="fr">Collège du Cardinal Lemoine</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cardinal-lemoine-4"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cardinal-lemoine-6"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cardinal-lemoine-7"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cardinal-lemoine-12"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cardinal-lemoine-13"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cardinal-lemoine-14"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cardinal-lemoine-15"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cardinal-lemoine-18"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Coll%C3%A8ge%20des%20Cholets">
+      <rdfs:label xml:lang="fr">Collège des Cholets</rdfs:label>
+      <rico:name xml:lang="fr">Collège des Cholets</rico:name>
+      <rico:latitude>48.84736218383409</rico:latitude>
+      <rico:longitude>2.3447759557297774</rico:longitude>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-71"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-224"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-225"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-226"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-267"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-268"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Coll%C3%A8ge%20de%20Montaigu">
+      <rdfs:label xml:lang="fr">Collège de Montaigu</rdfs:label>
+      <rico:name xml:lang="fr">Collège de Montaigu</rico:name>
+      <rico:latitude>48.85</rico:latitude>
+      <rico:longitude>2.35</rico:longitude>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-195"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Ch%C3%A2tellenie%20de%20Montlh%C3%A9ry">
+      <rdfs:label xml:lang="fr">Châtellenie de Montlhéry</rdfs:label>
+      <rico:name xml:lang="fr">Châtellenie de Montlhéry</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-256"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Ch%C3%A2telet">
+      <rdfs:label xml:lang="fr">Châtelet</rdfs:label>
+      <rico:name xml:lang="fr">Châtelet</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-89"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-91"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-93"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-117"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-127"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Chartres">
+      <rdfs:label xml:lang="fr">Chartres</rdfs:label>
+      <rico:name xml:lang="fr">Chartres</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-46"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Chapelle%20du%20coll%C3%A8ge%20du%20Cardinal-Lemoine">
+      <rdfs:label xml:lang="fr">Chapelle du collège du Cardinal-Lemoine</rdfs:label>
+      <rico:name xml:lang="fr">Chapelle du collège du Cardinal-Lemoine</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-51"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-52"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Chapelle%20de%20Saint-Symphorien">
+      <rdfs:label xml:lang="fr">Chapelle de Saint-Symphorien</rdfs:label>
+      <rico:name xml:lang="fr">Chapelle de Saint-Symphorien</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-8"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Cath%C3%A9drale%20Notre-Dame%20de%20Rouen">
+      <rdfs:label xml:lang="fr">Cathédrale Notre-Dame de Rouen</rdfs:label>
+      <rico:name xml:lang="fr">Cathédrale Notre-Dame de Rouen</rico:name>
+      <rico:latitude>49.4368</rico:latitude>
+      <rico:longitude>1.0946</rico:longitude>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-3"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/B%C3%A9thisy-sur-Autonne">
+      <rdfs:label xml:lang="fr">Béthisy-sur-Autonne</rdfs:label>
+      <rico:name xml:lang="fr">Béthisy-sur-Autonne</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-59"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/B%C3%A9thisy">
+      <rdfs:label xml:lang="fr">Béthisy</rdfs:label>
+      <rico:name xml:lang="fr">Béthisy</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-62"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-77"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-95"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-97"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Beauvais">
+      <rdfs:label xml:lang="fr">Beauvais</rdfs:label>
+      <rico:name xml:lang="fr">Beauvais</rico:name>
+      <rico:latitude>49.43293802830907</rico:latitude>
+      <rico:longitude>2.0815734646972537</rico:longitude>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-5"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-11"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-22"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-24"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-34"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-182"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-185"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-234"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-236"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-237"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-238"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-239"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-244"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-267"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-268"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-270"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-276"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-284"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Beauquesne">
+      <rdfs:label xml:lang="fr">Beauquesne</rdfs:label>
+      <rico:name xml:lang="fr">Beauquesne</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-28"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-29"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Auxerre">
+      <rdfs:label xml:lang="fr">Auxerre</rdfs:label>
+      <rico:name xml:lang="fr">Auxerre</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-140"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-147"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Aubigny">
+      <rdfs:label xml:lang="fr">Aubigny</rdfs:label>
+      <rico:name xml:lang="fr">Aubigny</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-279"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-282"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-283"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Arras">
+      <rdfs:label xml:lang="fr">Arras</rdfs:label>
+      <rico:name xml:lang="fr">Arras</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cardinal-lemoine-7"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Archidioc%C3%A8se%20de%20Rouen">
+      <rdfs:label xml:lang="fr">Archidiocèse de Rouen</rdfs:label>
+      <rico:name xml:lang="fr">Archidiocèse de Rouen</rico:name>
+      <rico:latitude>49.4367</rico:latitude>
+      <rico:longitude>1.0949</rico:longitude>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-3"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Archev%C3%AAch%C3%A9%20de%20Paris">
+      <rdfs:label xml:lang="fr">Archevêché de Paris</rdfs:label>
+      <rico:name xml:lang="fr">Archevêché de Paris</rico:name>
+      <rico:latitude>48.8497</rico:latitude>
+      <rico:longitude>2.3501</rico:longitude>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-1"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-5"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Anglure">
+      <rdfs:label xml:lang="fr">Anglure</rdfs:label>
+      <rico:name xml:lang="fr">Anglure</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cardinal-lemoine-4"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Angicourt">
+      <rdfs:label xml:lang="fr">Angicourt</rdfs:label>
+      <rico:name xml:lang="fr">Angicourt</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-34"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Amilly">
+      <rdfs:label xml:lang="fr">Amilly</rdfs:label>
+      <rico:name xml:lang="fr">Amilly</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cardinal-lemoine-4"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Amiens">
+      <rdfs:label xml:lang="fr">Amiens</rdfs:label>
+      <rico:name xml:lang="fr">Amiens</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-29"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-33"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-35"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-37"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-50"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-71"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-115"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-176"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-177"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-179"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-180"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-184"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-267"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-268"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-276"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Abbeville">
+      <rdfs:label xml:lang="fr">Abbeville</rdfs:label>
+      <rico:name xml:lang="fr">Abbeville</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-137"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Abbaye%20du%20Jard">
+      <rdfs:label xml:lang="fr">Abbaye du Jard</rdfs:label>
+      <rico:name xml:lang="fr">Abbaye du Jard</rico:name>
+      <rico:latitude>48.570763</rico:latitude>
+      <rico:longitude>2.659949</rico:longitude>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-213"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-214"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-215"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-216"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-217"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-218"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-219"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Abbaye%20Sainte-Genvi%C3%A8ve">
+      <rdfs:label xml:lang="fr">Abbaye Sainte-Genviève</rdfs:label>
+      <rico:name xml:lang="fr">Abbaye Sainte-Genviève</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-120"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Abbaye%20Sainte-Genevi%C3%A8ve">
+      <rdfs:label xml:lang="fr">Abbaye Sainte-Geneviève</rdfs:label>
+      <rico:name xml:lang="fr">Abbaye Sainte-Geneviève</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-50"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-105"/>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-119"/>
+   </rico:Place>
+   <rico:Place rdf:about="place/Abbaye%20Saint%20Germain-des-Pr%C3%A8s">
+      <rdfs:label xml:lang="fr">Abbaye Saint Germain-des-Près</rdfs:label>
+      <rico:name xml:lang="fr">Abbaye Saint Germain-des-Près</rico:name>
+      <rico:isPlaceAssociatedWith rdf:resource="recordResource/or-cholets-50"/>
+   </rico:Place>
+</rdf:RDF>

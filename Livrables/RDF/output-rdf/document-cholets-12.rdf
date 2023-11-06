@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:html="http://www.w3.org/1999/xhtml"
+         xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:rico="https://www.ica.org/standards/RiC/ontology#"
+         xml:base="http://data.oresm.fr/">
+   <rico:RecordResource rdf:about="recordResource/or-cholets-12">
+      <rico:title xml:lang="fr">Acte notarié par lequel le cardinal Lemoine confirme les ordonnances des exécuteurs testamentaires du cardinal Cholet</rico:title>
+      <rdfs:label xml:lang="fr">Acte notarié par lequel le cardinal Lemoine confirme les ordonnances des exécuteurs testamentaires du cardinal Cholet</rdfs:label>
+      <rdfs:seeAlso rdf:resource="https://www.siv.archives-nationales.culture.gouv.fr/siv/UD/FRAN_IR_032408/c-4htagnhry-1idjrhdhavjt9"/>
+      <rico:hasOrHadLanguage rdf:resource="http://data.archives-nationales.culture.gouv.fr/language/FRAN_RI_100-name9"/>
+      <oresm-onto:nombreApproximatifNomsPersonnesPresents rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</oresm-onto:nombreApproximatifNomsPersonnesPresents>
+      <rico:hasInstantiation rdf:resource="instantiation/or-cholets-12"/>
+   </rico:RecordResource>
+   <rico:Instantiation rdf:about="instantiation/or-cholets-12">
+      <rico:title xml:lang="fr">Acte notarié par lequel le cardinal Lemoine confirme les ordonnances des exécuteurs testamentaires du cardinal Cholet</rico:title>
+      <rdfs:label xml:lang="fr">Acte notarié par lequel le cardinal Lemoine confirme les ordonnances des exécuteurs testamentaires du cardinal Cholet</rdfs:label>
+      <rico:isInstantiationOf rdf:resource="recordResource/or-cholets-12"/>
+      <oresm-onto:estActuellementConservePar rdf:resource="corporateBody/005061"/>
+      <rico:height>280 mm</rico:height>
+      <rico:width>248 mm</rico:width>
+      <rico:instantiationExtent xml:lang="fr">1 pièce</rico:instantiationExtent>
+      <oresm-onto:presenceAutreMention rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</oresm-onto:presenceAutreMention>
+      <oresm-onto:presenceMentionDorsale rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</oresm-onto:presenceMentionDorsale>
+      <oresm-onto:transcriptionDeLaOuLesMentionsDorsales>"15 janvier 1299" ; "e" ; "Lietere cardinalis Monachi [?] Evrardo de Noientello et Girardo de sancto Justo […]" ; "Confirmatio facta a cardinale Monacho ordinationis collegii m. m. Evrardi de Noientello et Gerardi de Sancto Justo 1299 I.J." ; "Littera domini monachi cardinalis" ; "M 111 n° 11" ; "Neuvième piece de la 44e liasse"</oresm-onto:transcriptionDeLaOuLesMentionsDorsales>
+   </rico:Instantiation>
+</rdf:RDF>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:html="http://www.w3.org/1999/xhtml"
+         xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:rico="https://www.ica.org/standards/RiC/ontology#"
+         xml:base="http://data.oresm.fr/">
+   <rico:Person rdf:about="person/Michel%20F%C3%A9libien">
+      <rdfs:label xml:lang="fr">Michel Félibien</rdfs:label>
+      <rico:name xml:lang="fr">Michel Félibien</rico:name>
+      <rico:isAuthorOf rdf:resource="recordResource/Histoire%20de%20la%20ville%20de%20Paris%2C%20V%2C%20Paris%2C%201725%2C%20p.%20785-788"/>
+      <rico:isAuthorOf rdf:resource="recordResource/Histoire%20de%20la%20ville%20de%20Paris%2C%20V%2C%20Paris%2C%201725%2C%20p.%20759-760."/>
+      <rico:isAuthorOf rdf:resource="recordResource/Histoire%20de%20la%20ville%20de%20Paris%2C%20tome%20III%2C%20Paris%2C%201727%2C%20p.%20494-505"/>
+   </rico:Person>
+   <rico:Person rdf:about="person/Marie-Madeleine%20Comp%C3%A8re">
+      <rdfs:label xml:lang="fr">Marie-Madeleine Compère</rdfs:label>
+      <rico:name xml:lang="fr">Marie-Madeleine Compère</rico:name>
+      <rico:isAuthorOf rdf:resource="recordResource/%C2%AB%C2%A0Cardinal%20Lemoine%C2%A0%C2%BB%2C%20Les%20coll%C3%A8ges%20fran%C3%A7ais%2016e-18e%20si%C3%A8cle.%20R%C3%A9pertoire%203%2C%20Publications%20de%20l%27Institut%20national%20de%20recherche%20p%C3%A9dagogique%2C%202002%2C%2010-3%2C%20pp.%20130-138"/>
+   </rico:Person>
+   <rico:Person rdf:about="person/Charles%20Jourdain">
+      <rdfs:label xml:lang="fr">Charles Jourdain</rdfs:label>
+      <rico:name xml:lang="fr">Charles Jourdain</rico:name>
+      <rico:isAuthorOf rdf:resource="recordResource/%C2%AB%C2%A0Le%20Coll%C3%A8ge%20du%20cardinal%20Lemoine%C2%A0%C2%BB%2C%20M%C3%A9moires%20de%20la%20Soci%C3%A9t%C3%A9%20de%20l%27histoire%20de%20Paris%20et%20de%20l%27Ile-de-France%2C%20tome%20III%2C%20Paris%2C%20H.%20Champion%2C%201876%2C%20pp.%2042-81"/>
+      <rico:isAuthorOf rdf:resource="recordResource/Index%20chronologicus%20chartarum%20pertinentium%20ad%20historiam%20universitatis%20Parisiensis%2C%20Paris%2C%20Hachette%2C%201862%2C%20n%C2%B0%201546"/>
+      <rico:isAuthorOf rdf:resource="recordResource/Index%20chronologicus%20chartarum%20pertinentium%20ad%20historiam%20universitatis%20Parisiensis%2C%20Paris%2C%20Hachette%2C%201862%2C%20n%C2%B0%201759"/>
+      <rico:isAuthorOf rdf:resource="recordResource/Index%20chronologicus%20chartarum%20pertinentium%20ad%20historiam%20universitatis%20Parisiensis%2C%20Paris%2C%20Hachette%2C%20n%C2%B0%201347"/>
+      <rico:isAuthorOf rdf:resource="recordResource/Index%20chronologicus%20chartarum%20pertinentium%20ad%20historiam%20universitatis%20Parisiensis%2C%20Paris%2C%20Hachette%2C%201862%2C%20n%C2%B0%201755"/>
+      <rico:isAuthorOf rdf:resource="recordResource/Index%20chronologicus%20chartarum%20pertinentium%20ad%20historiam%20universitatis%20Parisiensis%2C%20Paris%2C%20Hachette%2C%201862%2C%20n%C2%B0%201812"/>
+      <rico:isAuthorOf rdf:resource="recordResource/Index%20chronologicus%20chartarum%20pertinentium%20ad%20historiam%20universitatis%20Parisiensis%2C%20Paris%2C%20Hachette%2C%20n%C2%B0%20388"/>
+      <rico:isAuthorOf rdf:resource="recordResource/Index%20chronologicus%20chartarum%20pertinentium%20ad%20historiam%20universitatis%20Parisiensis%2C%20Paris%2C%20Hachette%2C%20n%C2%B0%20405"/>
+      <rico:isAuthorOf rdf:resource="recordResource/Index%20chronologicus%20chartarum%20pertinentium%20ad%20historiam%20universitatis%20Parisiensis%2C%20Paris%2C%20Hachette%2C%20n%C2%B0%20427"/>
+      <rico:isAuthorOf rdf:resource="recordResource/Index%20chronologicus%20chartarum%20pertinentium%20ad%20historiam%20universitatis%20Parisiensis%2C%20Paris%2C%20Hachette%2C%201862%2C%20n%C2%B0%201104"/>
+      <rico:isAuthorOf rdf:resource="recordResource/Index%20chronologicus%20chartarum%20pertinentium%20ad%20historiam%20universitatis%20Parisiensis%2C%20Paris%2C%20Hachette%2C%201862%2C%20n%C2%B0%201879"/>
+      <rico:isAuthorOf rdf:resource="recordResource/Index%20chronologicus%20chartarum%20pertinentium%20ad%20historiam%20universitatis%20Parisiensis%2C%20Paris%2C%20Hachette%2C%201862%2C%20n%C2%B0%201904"/>
+      <rico:isAuthorOf rdf:resource="recordResource/Index%20chronologicus%20chartarum%20pertinentium%20ad%20historiam%20universitatis%20Parisiensis%2C%20Paris%2C%20Hachette%2C%201862%2C%20n%C2%B0136"/>
+      <rico:isAuthorOf rdf:resource="recordResource/Index%20chronologicus%20chartarum%20pertinentium%20ad%20historiam%20universitatis%20Parisiensis%2C%20Paris%2C%20Hachette%2C%201862%2C%20n%C2%B0315"/>
+   </rico:Person>
+   <rico:Person rdf:about="person/Nathalie%20Gorochov">
+      <rdfs:label xml:lang="fr">Nathalie Gorochov</rdfs:label>
+      <rico:name xml:lang="fr">Nathalie Gorochov</rico:name>
+      <rico:isAuthorOf rdf:resource="recordResource/%C2%AB%C2%A0Le%20coll%C3%A8ge%20du%20cardinal%20Lemoine%20au%20XVIe%20si%C3%A8cle%C2%A0%C2%BB%2C%20Bulletin%20de%20la%20soci%C3%A9t%C3%A9%20de%20l%27Histoire%20de%20Paris%20et%20de%20l%27%C3%8Ele-de-France%2C%20Soci%C3%A9t%C3%A9%20de%20l%27histoire%20de%20Paris%20et%20de%20l%27Ile-de-France%2C%201991%2C%2042%2C%20p.%20219-259"/>
+   </rico:Person>
+   <rico:Person rdf:about="person/%C3%89lisabeth%20Rabut">
+      <rdfs:label xml:lang="fr">Élisabeth Rabut</rdfs:label>
+      <rico:name xml:lang="fr">Élisabeth Rabut</rico:name>
+      <rico:isAuthorOf rdf:resource="recordResource/%C2%AB%C2%A0Les%20Cholets%2C%20%C3%89tude%20historique%20et%20topographique%20d%E2%80%99un%20coll%C3%A8ge%20parisien%C2%A0%C2%BB%2C%20M%C3%A9moires%20de%20la%20f%C3%A9d%C3%A9ration%20des%20soci%C3%A9t%C3%A9s%20historiques%20et%20arch%C3%A9ologiques%20de%20Paris%20et%20d%E2%80%99%C3%8Ele%20de%20France%2C%201970%2C%20t.%2021%2C%20pp.%207-95%2C%20et%201971%2C%20t.%2022%2C%20pp.%20119-231."/>
+   </rico:Person>
+   <rico:Person rdf:about="person/%5BExposition.%20Paris.%20Chapelle%20de%20la%20Sorbonne.%201974.%20N%C2%B0%20240%5D%20La%20vie%20universitaire%20parisienne%20au%20XIIIe%20si%C3%A8cle">
+      <rdfs:label xml:lang="fr">[Exposition. Paris. Chapelle de la Sorbonne. 1974. N° 240] La vie universitaire parisienne au XIIIe siècle</rdfs:label>
+      <rico:name xml:lang="fr">[Exposition. Paris. Chapelle de la Sorbonne. 1974. N° 240] La vie universitaire parisienne au XIIIe siècle</rico:name>
+      <rico:isAuthorOf rdf:resource="recordResource/Paris%2C%20Biblioth%C3%A8que%20de%20la%20Sorbonne%2C%201974%2C%20p.%20175"/>
+   </rico:Person>
+   <rico:Person rdf:about="person/Du%20Boulay">
+      <rdfs:label xml:lang="fr">Du Boulay</rdfs:label>
+      <rico:name xml:lang="fr">Du Boulay</rico:name>
+      <rico:isAuthorOf rdf:resource="recordResource/Historia%20universitatis%20Parisiensis%2C%20III%2C%20p.%20305."/>
+      <rico:isAuthorOf rdf:resource="recordResource/Historia%20universitatis%20Parisiensis%2C%20III%2C%20p.%20383"/>
+   </rico:Person>
+   <rico:Person rdf:about="person/H.%20Denifle%20et%20E.%20Chatelain">
+      <rdfs:label xml:lang="fr">H. Denifle et E. Chatelain</rdfs:label>
+      <rico:name xml:lang="fr">H. Denifle et E. Chatelain</rico:name>
+      <rico:isAuthorOf rdf:resource="recordResource/Chartularium%20Universitatis%20Parisiensis...%2C%20Paris%2C%20Delalain%2C%20I%2C%201889%2C%20n%C2%B0%201298"/>
+      <rico:isAuthorOf rdf:resource="recordResource/Chartularium%20Universitatis%20Parisiensis...%2C%20Paris%2C%20Delalain%2C%20I%2C%201889%2C%20n%C2%B0%201299"/>
+      <rico:isAuthorOf rdf:resource="recordResource/Chartularium%20Universitatis%20Parisiensis...%2C%20Paris%2C%20Delalain%2C%20I%2C%201889%2C%20n%C2%B0%201300"/>
+      <rico:isAuthorOf rdf:resource="recordResource/Chartularium%20Universitatis%20Parisiensis...%2C%20Paris%2C%20Delalain%2C%20I%2C%201889%2C%20n%C2%B0%201350"/>
+      <rico:isAuthorOf rdf:resource="recordResource/Chartularium%20Universitatis%20Parisiensis...%2C%20Paris%2C%20Delalain%2C%20I%2C%201889%2C%20n%C2%B0%20413"/>
+   </rico:Person>
+</rdf:RDF>

@@ -1,0 +1,112 @@
+\label{sparql}
+\begin{verbatim}
+prefix oresm-onto: <http://data.oresm.fr/ontology#>
+prefix rico: <https://www.ica.org/standards/RiC/ontology#>
+prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+prefix xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX html: <http://www.w3.org/1999/xhtml>
+
+#Récupère chaque rico:Person et les tris par nom de famille.
+
+SELECT DISTINCT ?acteur ?prenom ?nomfamille (GROUP_CONCAT(DISTINCT 
+?occupationl;separator='|') as ?occupations) (GROUP_CONCAT(?normalise;
+separator = '\n') as ?toutes_dates) WHERE { 
+
+    ?acteur rdf:type rico:Person.
+    ?acteur rico:name ?nom.
+    BIND(REPLACE(?nom,'.*([A-Z][a-àâçéèêëîïôûùüÿñæœ]+) ?(?:\\(|$|\\[).*','$1') 
+    as ?nomfamille)
+    BIND(REPLACE(?nom,'^(.+?) .+','$1') as ?prenom)
+    
+    OPTIONNAL{
+    ?acteur rico:hasOrHadOccupationOfType ?occupation.
+    ?occupation rdfs:label ?occupationl
+    }
+    
+    ?record rico:isRelatedTo ?acteur; 
+    rdfs:label ?nom_record ; 
+    rdf:type ?record_ressource .
+    ?record_ressource rdfs:subClassOf* rico:RecordResource.
+   
+    OPTIONNAL{
+    ?record rico:isAssociatedWithDate ?date. 
+    ?date rico:normalizedDateValue ?normalise
+    }
+
+}GROUP BY ?acteur ?prenom ?nomfamille ORDER BY ?nomfamille
+
+
+---------------------------------------------------------
+
+#Ajoute une relation rico:knows pour chaque personne qui est témoin du même acte. 
+
+
+CONSTRUCT { ?personne1 rico:knows ?personne2 } WHERE { 
+	?record oresm-onto:aPourTemoin ?personne1; 
+            oresm-onto:aPourTemoin ?personne2.
+    FILTER (?personne2 != ?personne1)
+}
+
+
+----------------------------------------------------------
+#Compte le nombre de personne associé à une occupation.
+
+SELECT (COUNT(?personne) as ?combien) ?occupationNom WHERE {
+    ?personne rico:hasOrHadOccupationOfType ?occupation; rico:name ?noms.
+    ?occupation rico:name ?occupationNom
+} GROUP BY ?occupationNom
+
+---------------------------------------------------------
+\#Si le record a un testateur identifié alors c'est un testament
+
+
+CONSTRUCT {
+    ?testament 
+    rico:isDocumentaryFormTypeOf 
+    <http://data.oresm.fr/documentaryFormType/testament>
+} WHERE { 
+	?testateur oresm-onto:estTestateurDe ?testament.
+}
+
+---------------------------------------------------------
+#Compte le nombre d'archives par langue et par siècle.
+
+SELECT DISTINCT ?langueLabel ?siecle (COUNT(?record) as ?nombre) WHERE {
+    ?record rico:hasOrHadLanguage ?langue; rico:isAssociatedWithDate ?date.
+    ?langue skos:altLabel ?langueLabel.
+    ?date rico:normalizedDateValue ?normalise.
+    
+    BIND(REPLACE(STR(YEAR(?normalise)+100),'[0-9]{2}$',' ème siècle') as ?siecle)
+    
+} GROUP BY ?langueLabel ?siecle ORDER BY ?siecle
+
+---------------------------------------------------------
+#Possible requête pour lier une femme ou une veuve à son mari
+déjà présent dans le graphe identifié par le nom dans
+le descriptive Note
+
+PREFIX rico: <https://www.ica.org/standards/RiC/ontology#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX html: <http://www.w3.org/1999/xhtml>
+CONSTRUCT {
+    ?personne rico:hasOrHadSpouse ?acteur.
+} where { 
+    
+	?personne a rico:Person ; 
+        rico:descriptiveNote ?description; 
+        rico:name ?nom_personne.
+    ?acteur rdf:type rico:Agent; rico:name ?nom.
+    BIND(REPLACE(str(?description),
+    '[\\S\\s]+?(?=<html:p>)<html:p>([\\S\\s]+?) (\\[[^]]+\\])(?=<\\/html:p>)
+    <\\/html:p>[\\S\\s]+','$1$2') as ?role).
+    BIND(REPLACE(?role,"^[^A-Z]+(.*?)(?: et|,|\\[).*",'$1') as ?relatif).
+    BIND(REPLACE(?role,"^([^A-Z]+).*?(?: et|,|\\[).*",'$1') as ?relation).
+    
+    FILTER(?relatif != '')
+    FILTER(regex(?relatif,'[A-Z].*?[A-Z]'))
+    FILTER(regex(?nom,?relatif))
+    FILTER(regex(?relation,'femme|veuve'))
+}
+\end{verbatim}

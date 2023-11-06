@@ -1,0 +1,1312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lieux xmlns:dc="http://purl.org/dc/elements/1.1/"
+       xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+       xmlns:owl="http://www.w3.org/2002/07/owl#"
+       xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+       xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+       xmlns:rico="https://www.ica.org/standards/RiC/ontology#">
+   <lieu>
+      <nom>Villeneuve-le-Comte</nom>
+      <infos>
+         <infos>c-21bqjidcq-1m5ulyf6ube8j [cote FRAN M//145/A/1] (notice cardinal-lemoine-1)</infos>
+      </infos>
+      <infos>
+         <infos>c-21bqjjrnb--161ymr792nyh1 [cote FRAN M//145/A/2] (notice cardinal-lemoine-2)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Prévôté de Meaux</nom>
+      <infos>
+         <infos>c-21bqjidcq-1m5ulyf6ube8j [cote FRAN M//145/A/1] (notice cardinal-lemoine-1)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Officialité de Meaux</nom>
+      <infos>
+         <infos>c-21bqjjrnb--161ymr792nyh1 [cote FRAN M//145/A/2] (notice cardinal-lemoine-2)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Nogent-sur-Seine</nom>
+      <infos>
+         <infos>c-20o81meq2–17yydnkx387pa [cote FRAN M//145/A/3] (notice cardinal-lemoine-3)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Anglure</nom>
+      <infos>
+         <infos>c-20o81o0c0–1xuds056auc1w [cote FRAN M//145/A/4] (notice cardinal-lemoine-4)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Collège du Cardinal Lemoine</nom>
+      <infos>
+         <infos>c-20o81o0c0–1xuds056auc1w [cote FRAN M//145/A/4] (notice cardinal-lemoine-4)</infos>
+      </infos>
+      <infos>
+         <infos>c-20o81pnrs--uetqyg7jy3dy [cote FRAN M//145/A/6] (notice cardinal-lemoine-6)</infos>
+      </infos>
+      <infos>
+         <infos>c-20o81qelf-4ls2dui9kfsp [cote FRAN M//145/A/7] (notice cardinal-lemoine-7)</infos>
+      </infos>
+      <infos>
+         <infos>Calames-2020723147273212 [cote Bibliothèque de la Sorbonne (Paris), MSAUC 17 / I / Dossier 1 / 1] (notice cardinal-lemoine-12)</infos>
+      </infos>
+      <infos>
+         <infos>Calames-2020723157132783 [cote Bibliothèque de la Sorbonne (Paris), MSAUC 17 / I / Dossier 1 / 2] (notice cardinal-lemoine-13)</infos>
+      </infos>
+      <infos>
+         <infos>Calames-2020723167308514 [cote Bibliothèque de la Sorbonne (Paris), MSAUC 17 / I / Dossier 1 / 3] (notice cardinal-lemoine-14)</infos>
+      </infos>
+      <infos>
+         <infos>Calames-2020723167216165 [cote Bibliothèque de la Sorbonne (Paris), MSAUC 17 / I / Dossier 1 / 4] (notice cardinal-lemoine-15)</infos>
+      </infos>
+      <infos>
+         <infos>Calames-2020724167437120 [cote Bibliothèque de la Sorbonne (Paris), MSAUC 17 / I / Dossier 2 / 14] (notice cardinal-lemoine-18)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Amilly</nom>
+      <infos>
+         <infos>c-20o81o0c0–1xuds056auc1w [cote FRAN M//145/A/4] (notice cardinal-lemoine-4)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Fouju</nom>
+      <infos>
+         <infos>c-20o81ovf9-cim1qi8te4et [cote FRAN M//145/A/5] (notice cardinal-lemoine-5)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Arras</nom>
+      <infos>
+         <infos>c-20o81qelf-4ls2dui9kfsp [cote FRAN M//145/A/7] (notice cardinal-lemoine-7)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Pierrefitte</nom>
+      <infos>
+         <infos>c-9014m7ojq-11cy9b8rbabz5 [cote FRAN M//145/B/40] (notice cardinal-lemoine-11)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Archevêché de Paris</nom>
+      <coordonnees>48.8497, 2.3501</coordonnees>
+      <infos>
+         <infos>c-4hjwxyobu-lko65o85kw1y [cote FRAN M//111/1] (notice cholets-1)</infos>
+      </infos>
+      <infos>
+         <infos>c-4htagkj34-106fzxvbobx9k [cote FRAN M//111/5] (notice cholets-5)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Paris</nom>
+      <infos>
+         <infos>c-4htagila4--8hmcaqny5hej [cote FRAN M//111/2] (notice cholets-2)</infos>
+      </infos>
+      <infos>
+         <infos>c-4htagila4--8hmcaqny5hej [cote FRAN M//111/4] (notice cholets-4)</infos>
+      </infos>
+      <infos>
+         <infos>c-4hw92yp8s--11lbm8f623m5o [cote FRAN M//111/23/1] (notice cholets-28)</infos>
+      </infos>
+      <infos>
+         <infos>c-4hw92yp8s--11lbm8f623m5o [cote FRAN M//111/23/2] (notice cholets-29)</infos>
+      </infos>
+      <infos>
+         <infos>c-4hw92zske-vojbr9akg1oe [cote FRAN M//111/26] (notice cholets-32)</infos>
+      </infos>
+      <infos>
+         <infos>c-4hxmpcqyb-enj0cvc8fp1d [cote FRAN M//111/27] (notice cholets-33)</infos>
+      </infos>
+      <infos>
+         <infos>c-4hxmpepo8-17ghuajo82uqi [cote FRAN M//111/30] (notice cholets-36)</infos>
+      </infos>
+      <infos>
+         <infos>c-4i1k9lrmf--evtbiqhv9bq5 [cote FRAN M//111/32/1] (notice cholets-38)</infos>
+      </infos>
+      <infos>
+         <infos>c-4i2ka6ze9–265nvl9vgs49 [cote FRAN M//112/1] (notice cholets-45)</infos>
+      </infos>
+      <infos>
+         <infos>c-4ib5y0unk--12q4sf2uxvndt [cote FRAN M//112/4] (notice cholets-48)</infos>
+      </infos>
+      <infos>
+         <infos>c-4ib5y0unk--12q4sf2uxvndt [cote FRAN M//112/5] (notice cholets-49)</infos>
+      </infos>
+      <infos>
+         <infos>c-4ib5y0unk--12q4sf2uxvndt [cote FRAN M//112/5] (notice cholets-49)</infos>
+      </infos>
+      <infos>
+         <infos>c-4ib5y1kkc--19yv80x901l56 [cote FRAN M//112/10] (notice cholets-54)</infos>
+      </infos>
+      <infos>
+         <infos>c-2dkv1tvbv--mja3tjelazok [cote FRAN M//113/7] (notice cholets-104)</infos>
+      </infos>
+      <infos>
+         <infos>c-3npzqaxok--1qqhrtq30se5f [cote FRAN M//113/73] (notice cholets-173)</infos>
+      </infos>
+      <infos>
+         <infos>c-a1zs0ks0f-1puegop9b4hkb [cote FRAN M//115/B/3] (notice cholets-211)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Senlis</nom>
+      <coordonnees>49.1521, 2.5859</coordonnees>
+      <infos>
+         <infos>c-4htagjvx3--1dmeqgflyjyfq [cote FRAN M//111/3] (notice cholets-3)</infos>
+      </infos>
+      <infos>
+         <infos>c-4iw248gcp-zqdbc87txe2h [cote FRAN M//112/9] (notice cholets-53)</infos>
+      </infos>
+      <infos>
+         <infos>c-9xyebiuya--t44pm33jcjd3 [cote FRAN M//112/25] (notice cholets-70)</infos>
+      </infos>
+      <infos>
+         <infos>c-9xyebiuya--t44pm33jcjd3 [cote FRAN M//112/25] (notice cholets-70)</infos>
+      </infos>
+      <infos>
+         <infos> [cote FRAD060/G. 767/1] (notice cholets-234)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Archidiocèse de Rouen</nom>
+      <coordonnees>49.4367, 1.0949</coordonnees>
+      <infos>
+         <infos>c-4htagjvx3--1dmeqgflyjyfq [cote FRAN M//111/3] (notice cholets-3)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Cathédrale Notre-Dame de Rouen</nom>
+      <coordonnees>49.4368, 1.0946</coordonnees>
+      <infos>
+         <infos>c-4htagjvx3--1dmeqgflyjyfq [cote FRAN M//111/3] (notice cholets-3)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Montagne Sainte-Geneviève</nom>
+      <coordonnees>48.8177, 2.3449</coordonnees>
+      <infos>
+         <infos>c-4htagjvx3--1dmeqgflyjyfq [cote FRAN M//111/3] (notice cholets-3)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Diocèse suburbicaire de Porto-Santa Rufina</nom>
+      <coordonnees>42.002803981727766, 12.383224393334586</coordonnees>
+      <infos>
+         <infos>c-4htagila4--8hmcaqny5hej [cote FRAN M//111/4] (notice cholets-4)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Beauvais</nom>
+      <coordonnees>49.43293802830907, 2.0815734646972537</coordonnees>
+      <infos>
+         <infos>c-4htagkj34-106fzxvbobx9k [cote FRAN M//111/5] (notice cholets-5)</infos>
+      </infos>
+      <infos>
+         <infos>c-4htagn10e--1cbn42a8kuvwu [cote FRAN M//111/10] (notice cholets-11)</infos>
+      </infos>
+      <infos>
+         <infos>c-4hw92v64p-1gatzimswt07 [cote FRAN M//111/18] (notice cholets-22)</infos>
+      </infos>
+      <infos>
+         <infos>c-4hw92wh2o--wu5usdz89bhq [cote FRAN M//111/19/B] (notice cholets-24)</infos>
+      </infos>
+      <infos>
+         <infos>c-4hxmpd8ms-1pbagxf1wd6hi [cote FRAN M//111/28] (notice cholets-34)</infos>
+      </infos>
+      <infos>
+         <infos>c-3t5c3o1gm-khcbpobyctpo [cote FRAN M//114/34/1] (notice cholets-182)</infos>
+      </infos>
+      <infos>
+         <infos>c-3t5c3oydp-cued0lmwig77 [cote FRAN M//114/35/3] (notice cholets-185)</infos>
+      </infos>
+      <infos>
+         <infos> [cote FRAD060/G. 767/1] (notice cholets-234)</infos>
+      </infos>
+      <infos>
+         <infos> [cote FRAD060/G. 767/5] (notice cholets-236)</infos>
+      </infos>
+      <infos>
+         <infos> [cote FRAD060/G. 767/3] (notice cholets-237)</infos>
+      </infos>
+      <infos>
+         <infos> [cote FRAD060/G. 767/4] (notice cholets-238)</infos>
+      </infos>
+      <infos>
+         <infos> [cote FRAD060/G. 767/6] (notice cholets-239)</infos>
+      </infos>
+      <infos>
+         <infos> [cote FRAD060/G. 768/4] (notice cholets-244)</infos>
+      </infos>
+      <infos>
+         <infos> [cote FRAD060/G. 770/1] (notice cholets-267)</infos>
+      </infos>
+      <infos>
+         <infos> [cote FRAD060/G. 770/2] (notice cholets-268)</infos>
+      </infos>
+      <infos>
+         <infos> [cote FRAD060/G. 773/f.2-5] (notice cholets-270)</infos>
+      </infos>
+      <infos>
+         <infos> [cote FRAD060/G. 777/4] (notice cholets-276)</infos>
+      </infos>
+      <infos>
+         <infos> [cote FRAD077/D 5/7] (notice cholets-284)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Diocèse de Beauvais</nom>
+      <infos>
+         <infos>c-4htagl3tc--cfblfcuxt53u [cote FRAN M//111/6/1] (notice cholets-6)</infos>
+      </infos>
+      <infos>
+         <infos>c-4htagl3tc--cfblfcuxt53u [cote FRAN M//111/6/2] (notice cholets-7)</infos>
+      </infos>
+      <infos>
+         <infos>c-3t5c3o1gm-khcbpobyctpo [cote FRAN M//114/34/1] (notice cholets-182)</infos>
+      </infos>
+      <infos>
+         <infos> [cote FRAD060/G. 766/1] (notice cholets-227)</infos>
+      </infos>
+      <infos>
+         <infos> [cote FRAD060/G. 766/2] (notice cholets-228)</infos>
+      </infos>
+      <infos>
+         <infos> [cote FRAD060/G. 766/3] (notice cholets-229)</infos>
+      </infos>
+      <infos>
+         <infos> [cote FRAD060/G. 766/5] (notice cholets-231)</infos>
+      </infos>
+      <infos>
+         <infos> [cote FRAD060/G. 766/7] (notice cholets-233)</infos>
+      </infos>
+      <infos>
+         <infos> [cote FRAD060/G. 767/11] (notice cholets-240)</infos>
+      </infos>
+      <infos>
+         <infos> [cote FRAD060/G. 773/f.18-31] (notice cholets-273)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Diocèse d’Amiens</nom>
+      <infos>
+         <infos>c-4htagl3tc--cfblfcuxt53u [cote FRAN M//111/6/1] (notice cholets-6)</infos>
+      </infos>
+      <infos>
+         <infos>c-4htagl3tc--cfblfcuxt53u [cote FRAN M//111/6/2] (notice cholets-7)</infos>
+      </infos>
+      <infos>
+         <infos>c-4htagofb2--1k0t4vqosmwtf [cote FRAN M//111/13] (notice cholets-14)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Officialité de Paris</nom>
+      <infos>
+         <infos>c-4htaglmeq--yomtca2ojv9q [cote FRAN M//111/7] (notice cholets-8)</infos>
+      </infos>
+      <infos>
+         <infos>c-4htagovgo--4gye083xzsa6 [cote FRAN M//111/14] (notice cholets-15)</infos>
+      </infos>
+      <infos>
+         <infos>c-4hw92v64p-1gatzimswt07 [cote FRAN M//111/18] (notice cholets-22)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Chapelle de Saint-Symphorien</nom>
+      <infos>
+         <infos>c-4htaglmeq--yomtca2ojv9q [cote FRAN M//111/7] (notice cholets-8)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Temple</nom>
+      <infos>
+         <infos>c-4htagny8j--9y3skeln7i82 [cote FRAN M//111/12] (notice cholets-13)</infos>
+      </infos>
+      <infos>
+         <infos>c-4htagofb2--1k0t4vqosmwtf [cote FRAN M//111/13] (notice cholets-14)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Eglise de Buires</nom>
+      <infos>
+         <infos>c-4htagofb2--1k0t4vqosmwtf [cote FRAN M//111/13] (notice cholets-14)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Evêché de Paris</nom>
+      <infos>
+         <infos>c-4hw92tqx4-rcttz5ikh8iv [cote FRAN M//111/17/1] (notice cholets-20)</infos>
+      </infos>
+      <infos>
+         <infos>c-4hw92tqx4-rcttz5ikh8iv [cote FRAN M//111/17/2] (notice cholets-21)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Saint-Felix de Vetula</nom>
+      <infos>
+         <infos>c-4hw92xmj4--180cgwhz933ze [cote FRAN M//111/20] (notice cholets-25)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>diocèse de Nîmes</nom>
+      <infos>
+         <infos>c-4hw92xmj4--180cgwhz933ze [cote FRAN M//111/20] (notice cholets-25)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Beauquesne</nom>
+      <infos>
+         <infos>c-4hw92yp8s--11lbm8f623m5o [cote FRAN M//111/23/1] (notice cholets-28)</infos>
+      </infos>
+      <infos>
+         <infos>c-4hw92yp8s--11lbm8f623m5o [cote FRAN M//111/23/2] (notice cholets-29)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Amiens</nom>
+      <infos>
+         <infos>c-4hw92yp8s--11lbm8f623m5o [cote FRAN M//111/23/2] (notice cholets-29)</infos>
+      </infos>
+      <infos>
+         <infos>c-4hxmpcqyb-enj0cvc8fp1d [cote FRAN M//111/27] (notice cholets-33)</infos>
+      </infos>
+      <infos>
+         <infos>c-4hxmpe8aq--bauibqakl3zh [cote FRAN M//111/29] (notice cholets-35)</infos>
+      </infos>
+      <infos>
+         <infos>c-4hxmpf7np-1aj8w0abaspwe [cote FRAN M//111/31] (notice cholets-37)</infos>
+      </infos>
+      <infos>
+         <infos>c-4iw247w8f-10eads6lf83dz [cote FRAN M//112/6] (notice cholets-50)</infos>
+      </infos>
+      <infos>
+         <infos>c-9xyebjlh0-2newr0lclk6m [cote FRAN M//112/26] (notice cholets-71)</infos>
+      </infos>
+      <infos>
+         <infos>c-1zwsfkb99--spqwdypnzz10 [cote FRAN M//113/18] (notice cholets-115)</infos>
+      </infos>
+      <infos>
+         <infos>c-3t5c3n3xl--smv50yvj7kxh [cote FRAN M//114/33/3] (notice cholets-176)</infos>
+      </infos>
+      <infos>
+         <infos>c-3t5c3n3xl--smv50yvj7kxh [cote FRAN M//114/33/4] (notice cholets-177)</infos>
+      </infos>
+      <infos>
+         <infos>c-3t5c3n3xl--smv50yvj7kxh [cote FRAN M//114/33/6] (notice cholets-179)</infos>
+      </infos>
+      <infos>
+         <infos>c-3t5c3n3xl--smv50yvj7kxh [cote FRAN M//114/33/7] (notice cholets-180)</infos>
+      </infos>
+      <infos>
+         <infos>c-3t5c3oydp-cued0lmwig77 [cote FRAN M//114/35/2] (notice cholets-184)</infos>
+      </infos>
+      <infos>
+         <infos> [cote FRAD060/G. 770/1] (notice cholets-267)</infos>
+      </infos>
+      <infos>
+         <infos> [cote FRAD060/G. 770/2] (notice cholets-268)</infos>
+      </infos>
+      <infos>
+         <infos> [cote FRAD060/G. 777/4] (notice cholets-276)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Saint-Etienne-des-Grès</nom>
+      <infos>
+         <infos>c-4hw92zske-vojbr9akg1oe [cote FRAN M//111/26] (notice cholets-32)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Péronne</nom>
+      <infos>
+         <infos>c-4hxmpd8ms-1pbagxf1wd6hi [cote FRAN M//111/28] (notice cholets-34)</infos>
+      </infos>
+      <infos>
+         <infos>c-4i2k9q6m7–4y5edhemvpuz [cote FRAN M//111/37] (notice cholets-44)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Angicourt</nom>
+      <infos>
+         <infos>c-4hxmpd8ms-1pbagxf1wd6hi [cote FRAN M//111/28] (notice cholets-34)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Saint-Wulfran d’Abbeville</nom>
+      <infos>
+         <infos>c-4hxmpe8aq--bauibqakl3zh [cote FRAN M//111/29] (notice cholets-35)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Gaulainville</nom>
+      <infos>
+         <infos>c-4i1k9lrmf--evtbiqhv9bq5 [cote FRAN M//111/32/1] (notice cholets-38)</infos>
+      </infos>
+      <infos>
+         <infos>c-4i1k9mccn--j4zwde4kg1w7 [cote FRAN M//111/32/2] (notice cholets-39)</infos>
+      </infos>
+      <infos>
+         <infos>c-4i1k9n8cw-5w18sdpse2sy [cote FRAN M//111/34] (notice cholets-41)</infos>
+      </infos>
+      <infos>
+         <infos>c-4i1k9o1me--l434hl0of7q5 [cote FRAN M//111/36] (notice cholets-43)</infos>
+      </infos>
+      <infos>
+         <infos>c-9y1ya41j8–1itlkt66q8wrl [cote FRAN M//112/34] (notice cholets-79)</infos>
+      </infos>
+      <infos>
+         <infos>c-9y1ya4fk1-16cpegxe0kkr2 [cote FRAN M//112/40] (notice cholets-86)</infos>
+      </infos>
+      <infos>
+         <infos>c-9y1ya4tvs-40ecxjehyauk [cote FRAN M//112/43] (notice cholets-89)</infos>
+      </infos>
+      <infos>
+         <infos>c-9y1ya57wl-c6x8b3ae2lng [cote FRAN M//112/45] (notice cholets-91)</infos>
+      </infos>
+      <infos>
+         <infos>c-9y1ya5lxe--us5tftbysbn9 [cote FRAN M//112/46] (notice cholets-92)</infos>
+      </infos>
+      <infos>
+         <infos>c-1vq25fgqf-1akcu2wgw88ua [cote FRAN M//112/47] (notice cholets-93)</infos>
+      </infos>
+      <infos>
+         <infos>c-3nni19app-pj2fi4b969c3 [cote FRAN M//113/59] (notice cholets-159)</infos>
+      </infos>
+      <infos>
+         <infos>c-3npzqaxok--1qqhrtq30se5f [cote FRAN M//113/73] (notice cholets-173)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Mereville</nom>
+      <infos>
+         <infos>c-4i1k9mst8-zmk87kkqkf1l [cote FRAN M//111/33] (notice cholets-40)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Montrouge</nom>
+      <infos>
+         <infos>c-4i2ka6ze9–265nvl9vgs49 [cote FRAN M//112/1] (notice cholets-45)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Chartres</nom>
+      <infos>
+         <infos>c-4ib5xxtix-ba3e899amxvz [cote FRAN M//112/2] (notice cholets-46)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>rue Saint-Jacques, enseigne de la Mule</nom>
+      <infos>
+         <infos>c-1c7epi81r-u5w1fm0f93ij [cote FRAN M//112/3] (notice cholets-47)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Église du Saint-Sépulcre</nom>
+      <infos>
+         <infos>c-4ib5y0unk--12q4sf2uxvndt [cote FRAN M//112/4] (notice cholets-48)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Eglise du Saint-Sépulcre</nom>
+      <infos>
+         <infos>c-4ib5y0unk--12q4sf2uxvndt [cote FRAN M//112/5] (notice cholets-49)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Abbaye Sainte-Geneviève</nom>
+      <infos>
+         <infos>c-4iw247w8f-10eads6lf83dz [cote FRAN M//112/6] (notice cholets-50)</infos>
+      </infos>
+      <infos>
+         <infos>c-2dkv1vda3-1o7noud3jyct [cote FRAN M//113/8] (notice cholets-105)</infos>
+      </infos>
+      <infos>
+         <infos>c-2dkv1w6ji-2gjjpwei2npb [cote FRAN M//113/22] (notice cholets-119)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Abbaye Saint Germain-des-Près</nom>
+      <infos>
+         <infos>c-4iw247w8f-10eads6lf83dz [cote FRAN M//112/6] (notice cholets-50)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Eglise Saint-Etienne-des-Grès</nom>
+      <infos>
+         <infos>c-4iw247w8f-10eads6lf83dz [cote FRAN M//112/6] (notice cholets-50)</infos>
+      </infos>
+      <infos>
+         <infos>c-9xyeb646p--cdn2npvi1s89 [cote FRAN M//112/13] (notice cholets-57)</infos>
+      </infos>
+      <infos>
+         <infos>c-9xyeb646p--cdn2npvi1s89 [cote FRAN M//112/14] (notice cholets-58)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Chapelle du collège du Cardinal-Lemoine</nom>
+      <infos>
+         <infos>c-4ib5y17rf-vhsbajku1vti [cote FRAN M//112/7] (notice cholets-51)</infos>
+      </infos>
+      <infos>
+         <infos>c-4ib5y17rf-vhsbajku1vti [cote FRAN M//112/8] (notice cholets-52)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>collège des Cholets</nom>
+      <infos>
+         <infos>c-4ib5y17rf-vhsbajku1vti [cote FRAN M//112/7] (notice cholets-51)</infos>
+      </infos>
+      <infos>
+         <infos>c-4ib5y17rf-vhsbajku1vti [cote FRAN M//112/8] (notice cholets-52)</infos>
+      </infos>
+      <infos>
+         <infos>c-4ib5y1kkc--19yv80x901l56 [cote FRAN M//112/10] (notice cholets-54)</infos>
+      </infos>
+      <infos>
+         <infos>c-9xyebhc2z--1knlcrnrb69vx [cote FRAN M//112/23] (notice cholets-67)</infos>
+      </infos>
+      <infos>
+         <infos>c-9xyebhqpq-10jfpnb3jzjw5 [cote FRAN M//112/24/1] (notice cholets-68)</infos>
+      </infos>
+      <infos>
+         <infos>c-9xyebihue-w86u53xd81ye [cote FRAN M//112/24/2] (notice cholets-69)</infos>
+      </infos>
+      <infos>
+         <infos>c-9xyebiuya--t44pm33jcjd3 [cote FRAN M//112/25] (notice cholets-70)</infos>
+      </infos>
+      <infos>
+         <infos>c-9y1ya4tvs-40ecxjehyauk [cote FRAN M//112/43] (notice cholets-89)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Noyon</nom>
+      <infos>
+         <infos>c-1h6tb1p0m-1vltvkoby77z6 [cote FRAN M//112/11] (notice cholets-55)</infos>
+      </infos>
+      <infos>
+         <infos>c-2mf36q263-1pm6wzfoo4uwi [cote FRAN M//113/32] (notice cholets-130)</infos>
+      </infos>
+      <infos>
+         <infos>c-2mf36q263-1pm6wzfoo4uwi [cote FRAN M//113/37] (notice cholets-135)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>maison du Pressoir à Paris</nom>
+      <infos>
+         <infos>c-9xyeb646p--cdn2npvi1s89 [cote FRAN M//112/13] (notice cholets-57)</infos>
+      </infos>
+      <infos>
+         <infos>c-9xyeb646p--cdn2npvi1s89 [cote FRAN M//112/14] (notice cholets-58)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Béthisy-sur-Autonne</nom>
+      <infos>
+         <infos>c-9xyebcez7-xh7lij6r213i [cote FRAN M//112/15] (notice cholets-59)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Verberie</nom>
+      <infos>
+         <infos>c-9xyebcez7-xh7lij6r213i [cote FRAN M//112/15] (notice cholets-59)</infos>
+      </infos>
+      <infos>
+         <infos>c-9y1ya1o6k--waz7t6eke7z9 [cote FRAN M//112/33] (notice cholets-78)</infos>
+      </infos>
+      <infos>
+         <infos>c-9y1ya234a-v7lt6305psnr [cote FRAN M//112/37bis] (notice cholets-83)</infos>
+      </infos>
+      <infos>
+         <infos>c-9y1ya2vrt-f9w1zgoy0x21 [cote FRAN M//112/42] (notice cholets-88)</infos>
+      </infos>
+      <infos>
+         <infos>c-9y1ya3nte-gol01wgde30l [cote FRAN M//112/48] (notice cholets-94)</infos>
+      </infos>
+      <infos>
+         <infos>c-a1ck5mrvg-15v2301swk217 [cote FRAN M//113/1] (notice cholets-96)</infos>
+      </infos>
+      <infos>
+         <infos>c-1ybmayn9t-jyun7m1wit2w [cote FRAN M//113/2] (notice cholets-97)</infos>
+      </infos>
+      <infos>
+         <infos>c-1ybmb0dga-gq3ecceysvw4 [cote FRAN M//113/4/1] (notice cholets-99)</infos>
+      </infos>
+      <infos>
+         <infos>c-1ybmb0dga-gq3ecceysvw4 [cote FRAN M//113/4/2] (notice cholets-100)</infos>
+      </infos>
+      <infos>
+         <infos>c-2g51dfodk-13bofno7c8re [cote FRAN M//113/30] (notice cholets-127)</infos>
+      </infos>
+      <infos>
+         <infos>c-3nni17myz-myydsjk8ohbx [cote FRAN M//113/52] (notice cholets-150)</infos>
+      </infos>
+      <infos>
+         <infos>c-3npzq7k2c--ephzxm26mjk9 [cote FRAN M//113/61] (notice cholets-161)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Ruys</nom>
+      <infos>
+         <infos>c-9xyebdzoc-1fv7bdxbev60g [cote FRAN M//112/18] (notice cholets-62)</infos>
+      </infos>
+      <infos>
+         <infos>c-9xyebede5-1xxetxlfd3aiu [cote FRAN M//112/19] (notice cholets-63)</infos>
+      </infos>
+      <infos>
+         <infos>c-9xyebl4ca-3adhosoqr2mm [cote FRAN M//112/30] (notice cholets-74)</infos>
+      </infos>
+      <infos>
+         <infos>c-9y1y9yp6r--1s7maazv9110d [cote FRAN M//112/31] (notice cholets-75)</infos>
+      </infos>
+      <infos>
+         <infos>c-9y1ya0foe-q6y2thydo90m [cote FRAN M//112/35] (notice cholets-80)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Béthisy</nom>
+      <infos>
+         <infos>c-9xyebdzoc-1fv7bdxbev60g [cote FRAN M//112/18] (notice cholets-62)</infos>
+      </infos>
+      <infos>
+         <infos>c-9y1ya19jt-em0xj416x9tl [cote FRAN M//112/32] (notice cholets-77)</infos>
+      </infos>
+      <infos>
+         <infos>C-a1ck5l6ke-q2kdrfff27yy [cote FRAN M//112/49] (notice cholets-95)</infos>
+      </infos>
+      <infos>
+         <infos>c-1ybmayn9t-jyun7m1wit2w [cote FRAN M//113/2] (notice cholets-97)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>maison sise à Verberie à l’enseigne du Heaume et du Faucon</nom>
+      <infos>
+         <infos>c-9xyebihue-w86u53xd81ye [cote FRAN M//112/24/2] (notice cholets-69)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Marigny</nom>
+      <infos>
+         <infos>c-9xyebiuya--t44pm33jcjd3 [cote FRAN M//112/25] (notice cholets-70)</infos>
+      </infos>
+      <infos>
+         <infos>c-9xyebiuya--t44pm33jcjd3 [cote FRAN M//112/25] (notice cholets-70)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Compiègne</nom>
+      <infos>
+         <infos>c-9xyebiuya--t44pm33jcjd3 [cote FRAN M//112/25] (notice cholets-70)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Collège des Cholets</nom>
+      <coordonnees>48.84736218383409, 2.3447759557297774</coordonnees>
+      <infos>
+         <infos>c-9xyebjlh0-2newr0lclk6m [cote FRAN M//112/26] (notice cholets-71)</infos>
+      </infos>
+      <infos>
+         <infos>Calames-2021223152365522 [cote Bibliothèque de la Sorbonne (Paris), MSAUC 20 / I / Pièce 1] (notice cholets-224)</infos>
+      </infos>
+      <infos>
+         <infos>Calames-2021223152296673 [cote Bibliothèque de la Sorbonne (Paris), MSAUC 20 / I / Pièce 2] (notice cholets-225)</infos>
+      </infos>
+      <infos>
+         <infos>Calames-2021223152511764 [cote Bibliothèque de la Sorbonne (Paris), MSAUC 20 / I / Pièce 3] (notice cholets-226)</infos>
+      </infos>
+      <infos>
+         <infos> [cote FRAD060/G. 770/1] (notice cholets-267)</infos>
+      </infos>
+      <infos>
+         <infos> [cote FRAD060/G. 770/2] (notice cholets-268)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>faubourg Saint-Marcel</nom>
+      <infos>
+         <infos>c-9xyebjlh0-2newr0lclk6m [cote FRAN M//112/26] (notice cholets-71)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Eglise d’Amiens</nom>
+      <infos>
+         <infos>c-9xyebkd7m--nkg5tdpubsfr [cote FRAN M//112/29] (notice cholets-73)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Saint-Germain-lès-Verberie</nom>
+      <infos>
+         <infos>c-9y1y9zx2z-14ah4wctx3d1c [cote FRAN M//112/31bis] (notice cholets-76)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Roquemont</nom>
+      <infos>
+         <infos>c-9y1ya1o6k--waz7t6eke7z9 [cote FRAN M//112/33] (notice cholets-78)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>rue Saint-Jacques, à l’enseigne du Monde et de la Galée</nom>
+      <infos>
+         <infos>c-9y1ya6slq-x47p1117u0hy [cote FRAN M//112/36] (notice cholets-81)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>hôtel du Cerf, rue de la Calende</nom>
+      <infos>
+         <infos>c-9y1ya76mi--1cevngamlob3c [cote FRAN M//112/37] (notice cholets-82)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>rue Saint-Jacques</nom>
+      <infos>
+         <infos>c-9y1ya76mi--1cevngamlob3c [cote FRAN M//112/37] (notice cholets-82)</infos>
+      </infos>
+      <infos>
+         <infos>c-2qsr59z5o-1coy6cyo2rlvf [cote FRAN M//113/65] (notice cholets-165)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Raray</nom>
+      <infos>
+         <infos>c-9y1ya234a-v7lt6305psnr [cote FRAN M//112/37bis] (notice cholets-83)</infos>
+      </infos>
+      <infos>
+         <infos>c-1ybmb1baa--1fjogfp7i3y3f [cote FRAN M//113/6/1] (notice cholets-102)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Josas</nom>
+      <infos>
+         <infos>c-1xbderuwi-1vh0chureiijj [cote FRAN M//112/39] (notice cholets-85)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>clos Pally au Petit Saint-Germain près de Verberie</nom>
+      <infos>
+         <infos>c-9y1ya2hr1–17cemkbseda49 [cote FRAN M//112/41] (notice cholets-87)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Châtelet</nom>
+      <infos>
+         <infos>c-9y1ya4tvs-40ecxjehyauk [cote FRAN M//112/43] (notice cholets-89)</infos>
+      </infos>
+      <infos>
+         <infos>c-9y1ya57wl-c6x8b3ae2lng [cote FRAN M//112/45] (notice cholets-91)</infos>
+      </infos>
+      <infos>
+         <infos>c-1vq25fgqf-1akcu2wgw88ua [cote FRAN M//112/47] (notice cholets-93)</infos>
+      </infos>
+      <infos>
+         <infos>c-2bciu2cr4-eohnw3r1ju5l [cote FRAN M//113/20] (notice cholets-117)</infos>
+      </infos>
+      <infos>
+         <infos>c-2g51dfodk-13bofno7c8re [cote FRAN M//113/30] (notice cholets-127)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Coudray</nom>
+      <infos>
+         <infos>c-9y1ya4tvs-40ecxjehyauk [cote FRAN M//112/43] (notice cholets-89)</infos>
+      </infos>
+      <infos>
+         <infos>c-9y1ya57wl-c6x8b3ae2lng [cote FRAN M//112/45] (notice cholets-91)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>maison à Saint-Waast près de Verberie</nom>
+      <infos>
+         <infos>c-9y1ya39sm--k11eftg9ia9s [cote FRAN M//112/44] (notice cholets-90)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Valois</nom>
+      <infos>
+         <infos>C-a1ck5l6ke-q2kdrfff27yy [cote FRAN M//112/49] (notice cholets-95)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Saint-Wast les Verberie</nom>
+      <infos>
+         <infos>c-a1ck5mrvg-15v2301swk217 [cote FRAN M//113/1] (notice cholets-96)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>maison du Pressoir</nom>
+      <infos>
+         <infos>c-1zwsfdg25–13phrfc5wguzi [cote FRAN M//113/3] (notice cholets-98)</infos>
+      </infos>
+      <infos>
+         <infos>c-1zwsffzt1--qis2s9gmzoc8 [cote FRAN M//113/9] (notice cholets-106)</infos>
+      </infos>
+      <infos>
+         <infos>c-1zwsfgr8l-5rqxcx1pxanz [cote FRAN M//113/10] (notice cholets-107)</infos>
+      </infos>
+      <infos>
+         <infos>c-1zwsfhhr9-843rvv0y6w70 [cote FRAN M//113/12] (notice cholets-109)</infos>
+      </infos>
+      <infos>
+         <infos>c-2gxht0ug3-pbyvc1svvjj0 [cote FRAN M//113/36] (notice cholets-134)</infos>
+      </infos>
+      <infos>
+         <infos>c-2gxht1lvn-1dttkl4tiiift [cote FRAN M//113/41] (notice cholets-139)</infos>
+      </infos>
+      <infos>
+         <infos>c-2qupsl7ek-an3qe0aaikyf [cote FRAN M//113/62] (notice cholets-162)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>maison du Pressoir, rue Saint-Etienne-des-Grès</nom>
+      <infos>
+         <infos>c-1zwsff3hw--trn04hvjqhy2 [cote FRAN M//113/5] (notice cholets-101)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>maison du Monde et de la Galère, rue Saint-Jacques</nom>
+      <infos>
+         <infos>c-29ukho3tr--b59xvq8x19aq [cote FRAN M//113/6/2] (notice cholets-103)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>maison rue Saint-Jacques</nom>
+      <infos>
+         <infos>c-2dnbyahf3–1f9ibyrvhkq0x [cote FRAN M//113/11] (notice cholets-108)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>maison de Sainte-Catherine, rue Saint-Jacques</nom>
+      <infos>
+         <infos>c-1zwsfjlnj--1pe3tl9hqmuq [cote FRAN M//113/13] (notice cholets-110)</infos>
+      </infos>
+      <infos>
+         <infos>c-3kwt09l5w-vuse269h16k6 [cote FRAN M//113/57] (notice cholets-157)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>maison du Monde, rue Saint-Jacques</nom>
+      <infos>
+         <infos>c-29ukhpq1m--xy5cn5vb5sta [cote FRAN M//113/14] (notice cholets-111)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>maisons du Monde et de la Galère</nom>
+      <infos>
+         <infos>c-29ukhql4v-h64ejjkta5ct [cote FRAN M//113/15] (notice cholets-112)</infos>
+      </infos>
+      <infos>
+         <infos>c-29ukhrc9g--cy36duvto8ak [cote FRAN M//113/16] (notice cholets-113)</infos>
+      </infos>
+      <infos>
+         <infos>c-2bciu0j7x-7bq34uf5s3dg [cote FRAN M//113/17] (notice cholets-114)</infos>
+      </infos>
+      <infos>
+         <infos>c-2bciu3b72–1l3dszv1edrtd [cote FRAN M//113/26] (notice cholets-123)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>maisons du Monde et de la Gallère, rue Saint-Jacques</nom>
+      <infos>
+         <infos>c-2bciu2cr4-eohnw3r1ju5l [cote FRAN M//113/20] (notice cholets-117)</infos>
+      </infos>
+      <infos>
+         <infos>c-2bciu2cr4-eohnw3r1ju5l [cote FRAN M//113/21] (notice cholets-118)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Saint-Etienne-du-Mont</nom>
+      <infos>
+         <infos>c-2dkv1w6ji-2gjjpwei2npb [cote FRAN M//113/22] (notice cholets-119)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Abbaye Sainte-Genviève</nom>
+      <infos>
+         <infos>c-2dkv1w6ji-2gjjpwei2npb [cote FRAN M//113/23] (notice cholets-120)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Sainte-Etienne-du-Mont</nom>
+      <infos>
+         <infos>c-2dkv1w6ji-2gjjpwei2npb [cote FRAN M//113/23] (notice cholets-120)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>maison de la Gallère</nom>
+      <infos>
+         <infos>c-2bciu3b72–1l3dszv1edrtd [cote FRAN M//113/24] (notice cholets-121)</infos>
+      </infos>
+      <infos>
+         <infos>c-2iumw9t1g-1shrywxif0v9z [cote FRAN M//113/55/1] (notice cholets-153)</infos>
+      </infos>
+      <infos>
+         <infos>c-2iumw9t1g-1shrywxif0v9z [cote FRAN M//113/55/2] (notice cholets-154)</infos>
+      </infos>
+      <infos>
+         <infos>c-2iumw9t1g-1shrywxif0v9z [cote FRAN M//113/55/3] (notice cholets-155)</infos>
+      </infos>
+      <infos>
+         <infos>c-2qupsm1vv-3s4hlv41rg1l [cote FRAN M//113/63] (notice cholets-163)</infos>
+      </infos>
+      <infos>
+         <infos>c-2qupsmrhm-1jtlszrkxaes0 [cote FRAN M//113/64] (notice cholets-164)</infos>
+      </infos>
+      <infos>
+         <infos>c-3jgpvjgpt--h4bnjos9phom [cote FRAN M//113/66] (notice cholets-166)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>maison du Monde</nom>
+      <infos>
+         <infos>c-2cfxk3dxu--mugj3dp9mrjo [cote FRAN M//113/25] (notice cholets-122)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Maison de la Souche, près de Saint-Séverin</nom>
+      <infos>
+         <infos>c-2eqj00wyv--t3wrr38khr6c [cote FRAN M//113/27] (notice cholets-124)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Gleignes</nom>
+      <infos>
+         <infos>c-a1ck5qso1-1cyq2bqm4bagi [cote FRAN M//113/28] (notice cholets-125)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>maison de la Galère</nom>
+      <infos>
+         <infos>c-2bciu3b72–1l3dszv1edrtd [cote FRAN M//113/29] (notice cholets-126)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>maison du Miroir, rue Saint-Etienne-des-Grès</nom>
+      <infos>
+         <infos>c-2gxhsxino--1b65mwamzc9km [cote FRAN M//113/33] (notice cholets-131)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>maison de la rue Saint-Jacques à l’enseigne de l’Image-Saint-Jacques</nom>
+      <infos>
+         <infos>c-2gxhsz3ym--tgj47vg85z95 [cote FRAN M//113/34] (notice cholets-132)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>maison du Croissant, rue Saint-Jacques</nom>
+      <infos>
+         <infos>c-2gxht3134--o38xjdrxur8x [cote FRAN M//113/38] (notice cholets-136)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Abbeville</nom>
+      <infos>
+         <infos>c-2mf36sfti-136npycpl5mh2 [cote FRAN M//113/39] (notice cholets-137)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Glaignes</nom>
+      <infos>
+         <infos>c-2mf36t616–1kmreacadyupp [cote FRAN M//113/40] (notice cholets-138)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Auxerre</nom>
+      <infos>
+         <infos>c-2mf36tvxv-1098oo28wthj4 [cote FRAN M//113/42] (notice cholets-140)</infos>
+      </infos>
+      <infos>
+         <infos>c-2qol469d3–162nhpv96dxsg [cote FRAN M//113/49] (notice cholets-147)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Maison de la rue Saint-Jacques</nom>
+      <infos>
+         <infos>c-2iumw7d98--qf3l9kb80yek [cote FRAN M//113/46] (notice cholets-144)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Guyencourt</nom>
+      <infos>
+         <infos>c-2iumwg6v4–1ge1ziof3x3wk [cote FRAN M//113/50] (notice cholets-148)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Crépy-en-Valois</nom>
+      <infos>
+         <infos>c-3lzij8hie--hn5kjfu34gg7 [cote FRAN M//113/51] (notice cholets-149)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>maisons du Croissant et de Saint-Jacques du Pressoir</nom>
+      <infos>
+         <infos>c-2qupsjp5d-11v36tt87y64s [cote FRAN M//113/53] (notice cholets-151)</infos>
+      </infos>
+      <infos>
+         <infos>c-2qupsjp5d-11v36tt87y64s [cote FRAN M//113/54] (notice cholets-152)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>maison des petits Cholets</nom>
+      <infos>
+         <infos>c-2iumwbta2–17oxcalksvo3a [cote FRAN M//113/56] (notice cholets-156)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>maison du Miroir</nom>
+      <infos>
+         <infos>c-3ky6cvu5z-1onocy95xqonr [cote FRAN M//113/58] (notice cholets-158)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Notre-Dame</nom>
+      <infos>
+         <infos>c-2iumwe4so--fatdbvx5a4xz [cote FRAN M//113/60] (notice cholets-160)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Saint-Jean Le Rond</nom>
+      <infos>
+         <infos>c-3lzij7irg-1rtuwghatpqmj [cote FRAN M//113/71] (notice cholets-171)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Rhuis</nom>
+      <infos>
+         <infos>c-3npzq9r0c-6tk7flo15jsl [cote FRAN M//113/72] (notice cholets-172)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>maison des Cholets</nom>
+      <infos>
+         <infos>c-3t5c3n3xl--smv50yvj7kxh [cote FRAN M//114/33/1] (notice cholets-174)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Prévôté de Paris</nom>
+      <infos>
+         <infos>c-3t5c3n3xl--smv50yvj7kxh [cote FRAN M//114/33/5] (notice cholets-178)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Monthery</nom>
+      <infos>
+         <infos>c-a1o98mqux--cw315pptyqvg [cote FRAN M//115/A/A/2] (notice cholets-191)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Collège de Montaigu</nom>
+      <coordonnees>48.85, 2.35</coordonnees>
+      <infos>
+         <infos>c-a1o98mqux--cw315pptyqvg [cote FRAN M//115/A/A/6] (notice cholets-195)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Pronleroy</nom>
+      <infos>
+         <infos>c-a1o98mqux--cw315pptyqvg [cote FRAN M//115/A/C/2] (notice cholets-199)</infos>
+      </infos>
+      <infos>
+         <infos>c-a1o98mqux--cw315pptyqvg [cote FRAN M//115/A/C/3] (notice cholets-200)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Église Saint-Benoît-le-Bétourné</nom>
+      <coordonnees>48.8498847, 2.3445088</coordonnees>
+      <infos>
+         <infos>c-a1o98mqux--cw315pptyqvg [cote FRAN M//115/A/D/1] (notice cholets-202)</infos>
+      </infos>
+      <infos>
+         <infos>c-a1o98mqux--cw315pptyqvg [cote FRAN M//115/A/F/1] (notice cholets-204)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Maison de la Galère</nom>
+      <infos>
+         <infos>c-a1o98mqux--cw315pptyqvg [cote FRAN M//115/A/E/1] (notice cholets-203)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Hallencourt</nom>
+      <infos>
+         <infos>c-a1zs0ks0f-1puegop9b4hkb [cote FRAN M//115/B/1] (notice cholets-209)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Abbaye du Jard</nom>
+      <coordonnees>48.570763, 2.659949</coordonnees>
+      <infos>
+         <infos>c-a1zs0ks0f-1puegop9b4hkb [cote FRAN M//115/B/5] (notice cholets-213)</infos>
+      </infos>
+      <infos>
+         <infos>c-a1zs0ks0f-1puegop9b4hkb [cote FRAN M//115/B/6] (notice cholets-214)</infos>
+      </infos>
+      <infos>
+         <infos>c-a1zs0ks0f-1puegop9b4hkb [cote FRAN M//115/B/7] (notice cholets-215)</infos>
+      </infos>
+      <infos>
+         <infos>c-a1zs0ks0f-1puegop9b4hkb [cote FRAN M//115/B/8] (notice cholets-216)</infos>
+      </infos>
+      <infos>
+         <infos>c-a1zs0ks0f-1puegop9b4hkb [cote FRAN M//115/B/9] (notice cholets-217)</infos>
+      </infos>
+      <infos>
+         <infos>c-a1zs0ks0f-1puegop9b4hkb [cote FRAN M//115/B/10] (notice cholets-218)</infos>
+      </infos>
+      <infos>
+         <infos>c-a1zs0ks0f-1puegop9b4hkb [cote FRAN M//115/B/11] (notice cholets-219)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Vert-Saint-Denis</nom>
+      <infos>
+         <infos>c-a1zs0ks0f-1puegop9b4hkb [cote FRAN M//115/B/12] (notice cholets-220)</infos>
+      </infos>
+      <infos>
+         <infos>c-a1zs0ks0f-1puegop9b4hkb [cote FRAN M//115/B/13] (notice cholets-221)</infos>
+      </infos>
+      <infos>
+         <infos>c-a1zs0ks0f-1puegop9b4hkb [cote FRAN M//115/B/15] (notice cholets-223)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Diocèse d'Amiens</nom>
+      <infos>
+         <infos> [cote FRAD060/G. 766/1] (notice cholets-227)</infos>
+      </infos>
+      <infos>
+         <infos> [cote FRAD060/G. 766/2] (notice cholets-228)</infos>
+      </infos>
+      <infos>
+         <infos> [cote FRAD060/G. 766/3] (notice cholets-229)</infos>
+      </infos>
+      <infos>
+         <infos> [cote FRAD060/G. 766/5] (notice cholets-231)</infos>
+      </infos>
+      <infos>
+         <infos> [cote FRAD060/G. 766/7] (notice cholets-233)</infos>
+      </infos>
+      <infos>
+         <infos> [cote FRAD060/G. 767/11] (notice cholets-240)</infos>
+      </infos>
+      <infos>
+         <infos> [cote FRAD060/G. 773/f.18-31] (notice cholets-273)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Église Saint-Pierre de Beauvais</nom>
+      <infos>
+         <infos> [cote FRAD060/G. 767/12] (notice cholets-241)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Église de Paris</nom>
+      <infos>
+         <infos> [cote FRAD060/G. 767/12] (notice cholets-241)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Parlement de Paris</nom>
+      <infos>
+         <infos> [cote FRAD060/G. 767/12] (notice cholets-241)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Église de Beauvais</nom>
+      <infos>
+         <infos> [cote FRAD060/G. 768/1] (notice cholets-242)</infos>
+      </infos>
+      <infos>
+         <infos> [cote FRAD060/G. 768/3] (notice cholets-243)</infos>
+      </infos>
+      <infos>
+         <infos> [cote FRAD060/G. 768/5] (notice cholets-245)</infos>
+      </infos>
+      <infos>
+         <infos> [cote FRAD060/G. 768/6] (notice cholets-246)</infos>
+      </infos>
+      <infos>
+         <infos> [cote FRAD060/G. 768/7] (notice cholets-247)</infos>
+      </infos>
+      <infos>
+         <infos> [cote FRAD060/G. 768/52] (notice cholets-249)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Châtellenie de Montlhéry</nom>
+      <infos>
+         <infos> [cote FRAD060/G. 769/7] (notice cholets-256)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Le Jard</nom>
+      <infos>
+         <infos> [cote FRAD077/D 5/1] (notice cholets-279)</infos>
+      </infos>
+      <infos>
+         <infos> [cote FRAD077/D 5/5] (notice cholets-283)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Aubigny</nom>
+      <infos>
+         <infos> [cote FRAD077/D 5/1] (notice cholets-279)</infos>
+      </infos>
+      <infos>
+         <infos> [cote FRAD077/D 5/4] (notice cholets-282)</infos>
+      </infos>
+      <infos>
+         <infos> [cote FRAD077/D 5/5] (notice cholets-283)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Moutereau</nom>
+      <infos>
+         <infos> [cote FRAD077/D 5/1] (notice cholets-279)</infos>
+      </infos>
+      <infos>
+         <infos> [cote FRAD077/D 5/4] (notice cholets-282)</infos>
+      </infos>
+      <infos>
+         <infos> [cote FRAD077/D 5/5] (notice cholets-283)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Melun</nom>
+      <infos>
+         <infos> [cote FRAD077/D 5/1] (notice cholets-279)</infos>
+      </infos>
+      <infos>
+         <infos> [cote FRAD077/D 5/4] (notice cholets-282)</infos>
+      </infos>
+      <infos>
+         <infos> [cote FRAD077/D 5/5] (notice cholets-283)</infos>
+      </infos>
+      <infos>
+         <infos> [cote FRAD077/D 5/7] (notice cholets-284)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Montereau sur le Jard</nom>
+      <infos>
+         <infos> [cote FRAD077/D 5/2] (notice cholets-280)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Le Jars</nom>
+      <infos>
+         <infos> [cote FRAD077/D 5/4] (notice cholets-282)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Le Jart</nom>
+      <infos>
+         <infos> [cote FRAD077/D 5/7] (notice cholets-284)</infos>
+      </infos>
+   </lieu>
+   <lieu>
+      <nom>Monstrel</nom>
+      <infos>
+         <infos> [cote FRAD077/D 5/7] (notice cholets-284)</infos>
+      </infos>
+   </lieu>
+</lieux>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:html="http://www.w3.org/1999/xhtml"
+         xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:rico="https://www.ica.org/standards/RiC/ontology#"
+         xml:base="http://data.oresm.fr/">
+   <rico:RecordResource rdf:about="recordResource/or-hubant-35">
+      <rico:title xml:lang="fr">Copie de la fondation et des statuts du collège de Hubant ou de l'Ave Maria</rico:title>
+      <rdfs:label xml:lang="fr">Copie de la fondation et des statuts du collège de Hubant ou de l'Ave Maria</rdfs:label>
+      <rdfs:seeAlso rdf:resource="https://www.calames.abes.fr/pub/#details?id=Calames-201910161110533873"/>
+      <rico:hasOrHadLanguage rdf:resource="http://data.archives-nationales.culture.gouv.fr/language/FRAN_RI_100-name9"/>
+      <oresm-onto:nombreApproximatifNomsPersonnesPresents rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</oresm-onto:nombreApproximatifNomsPersonnesPresents>
+      <rico:hasInstantiation rdf:resource="instantiation/or-hubant-35"/>
+      <rico:isCopyOf rdf:resource="recordResource/or-hubant-21-virt1"/>
+      <rico:isCopyOf rdf:resource="recordResource/or-hubant-32-virt2"/>
+      <rico:isCopyOf rdf:resource="recordResource/or-hubant-29-virt1"/>
+   </rico:RecordResource>
+   <rico:Instantiation rdf:about="instantiation/or-hubant-35">
+      <rico:title xml:lang="fr">Copie de la fondation et des statuts du collège de Hubant ou de l'Ave Maria</rico:title>
+      <rdfs:label xml:lang="fr">Copie de la fondation et des statuts du collège de Hubant ou de l'Ave Maria</rdfs:label>
+      <rico:isInstantiationOf rdf:resource="recordResource/or-hubant-35"/>
+      <oresm-onto:estActuellementConservePar rdf:resource="corporateBody/050960067"/>
+      <rico:instantiationExtent xml:lang="fr">26 feuillets</rico:instantiationExtent>
+      <oresm-onto:presenceAutreMention rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</oresm-onto:presenceAutreMention>
+      <oresm-onto:presenceMentionDorsale rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</oresm-onto:presenceMentionDorsale>
+   </rico:Instantiation>
+   <rico:RecordResource rdf:about="recordResource/or-hubant-35-virt3">
+      <rdfs:label xml:lang="fr">Règlement du collège de Hubant par Jean, abbé de Sainte-Geneviève, et Pierre de Halliaco, grand maître du collège de Champagne, exécuteurs testamentaires de Jean de Hubant</rdfs:label>
+      <rico:title xml:lang="fr">Règlement du collège de Hubant par Jean, abbé de Sainte-Geneviève, et Pierre de Halliaco, grand maître du collège de Champagne, exécuteurs testamentaires de Jean de Hubant</rico:title>
+      <rico:hasCopy rdf:resource="recordResource/or-hubant-35"/>
+   </rico:RecordResource>
+   <rico:RecordResource rdf:about="recordResource/or-hubant-35-virt4">
+      <rdfs:label xml:lang="fr">Acte de l'official de Paris ...</rdfs:label>
+      <rico:title xml:lang="fr">Acte de l'official de Paris ...</rico:title>
+      <rico:hasCopy rdf:resource="recordResource/or-hubant-35"/>
+   </rico:RecordResource>
+</rdf:RDF>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:html="http://www.w3.org/1999/xhtml"
+         xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:rico="https://www.ica.org/standards/RiC/ontology#"
+         xml:base="http://data.oresm.fr/">
+   <rico:RecordResource rdf:about="recordResource/or-cholets-22">
+      <rico:title xml:lang="fr">Vidimus de l’official de Paris d’un vidimus du testament de Girard de Saint-Just, chanoine de Beauvais, l'un des exécuteurs testamentaires du cardinal Cholet</rico:title>
+      <rdfs:label xml:lang="fr">Vidimus de l’official de Paris d’un vidimus du testament de Girard de Saint-Just, chanoine de Beauvais, l'un des exécuteurs testamentaires du cardinal Cholet</rdfs:label>
+      <rdfs:seeAlso rdf:resource="https://www.siv.archives-nationales.culture.gouv.fr/siv/UD/FRAN_IR_032408/c-4hw92v64p-1gatzimswt07"/>
+      <rico:hasOrHadLanguage rdf:resource="http://data.archives-nationales.culture.gouv.fr/language/FRAN_RI_100-name9"/>
+      <oresm-onto:nombreApproximatifNomsPersonnesPresents rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</oresm-onto:nombreApproximatifNomsPersonnesPresents>
+      <rico:hasInstantiation rdf:resource="instantiation/or-cholets-22"/>
+   </rico:RecordResource>
+   <rico:Instantiation rdf:about="instantiation/or-cholets-22">
+      <rico:title xml:lang="fr">Vidimus de l’official de Paris d’un vidimus du testament de Girard de Saint-Just, chanoine de Beauvais, l'un des exécuteurs testamentaires du cardinal Cholet</rico:title>
+      <rdfs:label xml:lang="fr">Vidimus de l’official de Paris d’un vidimus du testament de Girard de Saint-Just, chanoine de Beauvais, l'un des exécuteurs testamentaires du cardinal Cholet</rdfs:label>
+      <rico:isInstantiationOf rdf:resource="recordResource/or-cholets-22"/>
+      <oresm-onto:estActuellementConservePar rdf:resource="corporateBody/005061"/>
+      <rico:height>343 mm</rico:height>
+      <rico:width>338 mm</rico:width>
+      <rico:instantiationExtent xml:lang="fr">1 pièce</rico:instantiationExtent>
+      <oresm-onto:presenceAutreMention rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</oresm-onto:presenceAutreMention>
+      <oresm-onto:descriptionAutreMention>Mention hors teneur</oresm-onto:descriptionAutreMention>
+      <oresm-onto:presenceMentionDorsale rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</oresm-onto:presenceMentionDorsale>
+      <oresm-onto:transcriptionDeLaOuLesMentionsDorsales>« M 111 n° 18 » ; « Copia testamenti Girardi de Sancto Justo alterne executore testamenti caridnalis Choletti 1327 » ; il y a un f barré ; « T » ; « Apographum testamenti M. Girardi de Sancto Justo 30 octobre 1305 5.E » ; « Fondation de deux […] Saint Just 10 octobre 1327 vidimus » ; « 20e pièce 46e liasse »</oresm-onto:transcriptionDeLaOuLesMentionsDorsales>
+      <rico:hasDerivedInstantiation rdf:resource="instantiation/or-cholets-22num"/>
+   </rico:Instantiation>
+   <rico:Instantiation rdf:about="instantiation/or-cholets-22num">
+      <rdfs:seeAlso rdf:resource="http://www.siv.archives-nationales.culture.gouv.fr/siv/UD/FRAN_IR_055360/c-4bvrx7u38--405f7qjmfxbd"/>
+   </rico:Instantiation>
+   <rico:RecordResource rdf:about="recordResource/or-cholets-22-virt1">
+      <rdfs:label xml:lang="fr">Vidimus de l’official de Noyon du testament de Girard de Saint-Just, chanoine de Beauvais, l'un des exécuteurs testamentaires du cardinal Cholet, fait le 30 octobre 1305</rdfs:label>
+      <rico:title xml:lang="fr">Vidimus de l’official de Noyon du testament de Girard de Saint-Just, chanoine de Beauvais, l'un des exécuteurs testamentaires du cardinal Cholet, fait le 30 octobre 1305</rico:title>
+      <oresm-onto:aPourVidimus rdf:resource="recordResource/or-cholets-22"/>
+      <rico:hasInstantiation>
+         <rico:Instantiation>
+            <rico:descriptiveNote xml:lang="fr">Acte non retrouvé à ce jour.</rico:descriptiveNote>
+            <rico:identifier>lost-3558b7a0-92eb-4386-b300-7a2a12ed57a4</rico:identifier>
+         </rico:Instantiation>
+      </rico:hasInstantiation>
+   </rico:RecordResource>
+</rdf:RDF>

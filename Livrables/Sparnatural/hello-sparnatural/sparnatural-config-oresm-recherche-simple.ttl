@@ -1,0 +1,175 @@
+@prefix : <https://sparna-git.github.io/sparnatural-demonstrateur-an/ontology#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@base <https://sparna-git.github.io/sparnatural-demonstrateur-an/ontology#> .
+
+<https://sparna-git.github.io/sparnatural-demonstrateur-an/ontology> rdf:type owl:Ontology ;
+                                                                      owl:imports <http://data.sparna.fr/ontologies/sparnatural-config-core> ,
+                                                                                  <http://data.sparna.fr/ontologies/sparnatural-config-datasources> .
+
+#################################################################
+#    Annotation properties
+#################################################################
+
+###  http://data.sparna.fr/ontologies/sparnatural-config-core#faIcon
+<http://data.sparna.fr/ontologies/sparnatural-config-core#faIcon> rdf:type owl:AnnotationProperty .
+
+
+###  http://data.sparna.fr/ontologies/sparnatural-config-core#sparqlString
+<http://data.sparna.fr/ontologies/sparnatural-config-core#sparqlString> rdf:type owl:AnnotationProperty .
+
+
+###  http://data.sparna.fr/ontologies/sparnatural-config-core#tooltip
+<http://data.sparna.fr/ontologies/sparnatural-config-core#tooltip> rdf:type owl:AnnotationProperty .
+
+
+###  http://data.sparna.fr/ontologies/sparnatural-config-datasources#queryTemplate
+<http://data.sparna.fr/ontologies/sparnatural-config-datasources#queryTemplate> rdf:type owl:AnnotationProperty .
+
+
+#################################################################
+#    Object Properties
+#################################################################
+
+###  http://data.sparna.fr/ontologies/sparnatural-config-core#AutocompleteProperty
+<http://data.sparna.fr/ontologies/sparnatural-config-core#AutocompleteProperty> rdf:type owl:ObjectProperty .
+
+
+###  http://data.sparna.fr/ontologies/sparnatural-config-core#ListProperty
+<http://data.sparna.fr/ontologies/sparnatural-config-core#ListProperty> rdf:type owl:ObjectProperty .
+
+
+###  http://data.sparna.fr/ontologies/sparnatural-config-core#NonSelectableProperty
+<http://data.sparna.fr/ontologies/sparnatural-config-core#NonSelectableProperty> rdf:type owl:ObjectProperty .
+
+
+###  http://data.sparna.fr/ontologies/sparnatural-config-core#SearchProperty
+<http://data.sparna.fr/ontologies/sparnatural-config-core#SearchProperty> rdf:type owl:ObjectProperty .
+
+
+###  http://data.sparna.fr/ontologies/sparnatural-config-core#TimeProperty-Year
+<http://data.sparna.fr/ontologies/sparnatural-config-core#TimeProperty-Year> rdf:type owl:ObjectProperty .
+
+
+###  https://sparna-git.github.io/sparnatural-demonstrateur-an/ontology#rechercheSimple
+:rechercheSimple rdf:type owl:ObjectProperty ;
+                 rdfs:subPropertyOf <http://data.sparna.fr/ontologies/sparnatural-config-core#SearchProperty> ;
+                 rdfs:domain :Objet ;
+                 rdfs:range :Champs ;
+                 <http://data.sparna.fr/ontologies/sparnatural-config-core#sparqlString> "<http://www.w3.org/2000/01/rdf-schema#label>" ;
+                 rdfs:label "recherche simple"@fr .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://data.sparna.fr/ontologies/sparnatural-config-core#SparnaturalClass
+<http://data.sparna.fr/ontologies/sparnatural-config-core#SparnaturalClass> rdf:type owl:Class .
+
+
+###  http://www.w3.org/2000/01/rdf-schema#Literal
+rdfs:Literal rdf:type owl:Class .
+
+
+###  https://sparna-git.github.io/sparnatural-demonstrateur-an/ontology#Champs
+:Champs rdf:type owl:Class ;
+        rdfs:subClassOf rdfs:Literal ;
+        <http://data.sparna.fr/ontologies/sparnatural-config-core#faIcon> "fa-solid fa-at" ;
+        rdfs:label "Champs de la recherche"@fr .
+
+
+###  https://sparna-git.github.io/sparnatural-demonstrateur-an/ontology#Objet
+:Objet rdf:type owl:Class ;
+       rdfs:subClassOf <http://data.sparna.fr/ontologies/sparnatural-config-core#SparnaturalClass> ;
+       <http://data.sparna.fr/ontologies/sparnatural-config-core#defaultLabelProperty> rdfs:label ;
+       <http://data.sparna.fr/ontologies/sparnatural-config-core#faIcon> "fa-solid fa-magnifying-glass" ;
+       <http://data.sparna.fr/ontologies/sparnatural-config-core#sparqlString> """?type VALUES ?type {<https://www.ica.org/standards/RiC/ontology#Person> <https://www.ica.org/standards/RiC/ontology#OccupationType> <https://www.ica.org/standards/RiC/ontology#RecordResource>
+<https://www.ica.org/standards/RiC/ontology#Date>
+<https://www.ica.org/standards/RiC/ontology#Type>
+<https://www.ica.org/standards/RiC/ontology#Identifier>
+<https://www.ica.org/standards/RiC/ontology#CorporateBody>
+<https://www.ica.org/standards/RiC/ontology#Place>
+<https://www.ica.org/standards/RiC/ontology#CarrierType>}""" ;
+       rdfs:comment "Tout objet dans la base de données"@fr ;
+       rdfs:label "Objet"@fr .
+
+
+#################################################################
+#    Individuals
+#################################################################
+
+###  https://sparna-git.github.io/sparnatural-demonstrateur-an/ontology#list_forme_redigee_alpha
+:list_forme_redigee_alpha rdf:type owl:NamedIndividual ,
+                                   <http://data.sparna.fr/ontologies/sparnatural-config-datasources#SparqlListDatasource> ;
+                          <http://data.sparna.fr/ontologies/sparnatural-config-datasources#queryTemplate> :query_list_forme_redigee_alpha .
+
+
+###  https://sparna-git.github.io/sparnatural-demonstrateur-an/ontology#list_rdfslabel_with_range_alpha
+:list_rdfslabel_with_range_alpha rdf:type owl:NamedIndividual ,
+                                          <http://data.sparna.fr/ontologies/sparnatural-config-datasources#SparqlDatasource> ;
+                                 <http://data.sparna.fr/ontologies/sparnatural-config-datasources#queryTemplate> <http://data.sparna.fr/ontologies/sparnatural-config-datasources#query_list_label_with_range_alpha> ;
+                                 <http://data.sparna.fr/ontologies/sparnatural-config-datasources#labelProperty> rdfs:label .
+
+
+###  https://sparna-git.github.io/sparnatural-demonstrateur-an/ontology#list_rdfslabel_with_range_count
+:list_rdfslabel_with_range_count rdf:type owl:NamedIndividual ,
+                                          <http://data.sparna.fr/ontologies/sparnatural-config-datasources#SparqlDatasource> ;
+                                 <http://data.sparna.fr/ontologies/sparnatural-config-datasources#queryTemplate> <http://data.sparna.fr/ontologies/sparnatural-config-datasources#query_list_label_with_range_count> ;
+                                 <http://data.sparna.fr/ontologies/sparnatural-config-datasources#labelProperty> rdfs:label .
+
+
+###  https://sparna-git.github.io/sparnatural-demonstrateur-an/ontology#list_skospreflabel_with_range_alpha
+:list_skospreflabel_with_range_alpha rdf:type owl:NamedIndividual ,
+                                              <http://data.sparna.fr/ontologies/sparnatural-config-datasources#SparqlDatasource> ;
+                                     <http://data.sparna.fr/ontologies/sparnatural-config-datasources#queryTemplate> <http://data.sparna.fr/ontologies/sparnatural-config-datasources#query_list_label_with_range_alpha> ;
+                                     <http://data.sparna.fr/ontologies/sparnatural-config-datasources#labelProperty> <http://www.w3.org/2004/02/skos/core#prefLabel> .
+
+
+###  https://sparna-git.github.io/sparnatural-demonstrateur-an/ontology#list_skospreflabel_with_range_count
+:list_skospreflabel_with_range_count rdf:type owl:NamedIndividual ,
+                                              <http://data.sparna.fr/ontologies/sparnatural-config-datasources#SparqlDatasource> ;
+                                     <http://data.sparna.fr/ontologies/sparnatural-config-datasources#queryTemplate> <http://data.sparna.fr/ontologies/sparnatural-config-datasources#query_list_label_with_range_count> ;
+                                     <http://data.sparna.fr/ontologies/sparnatural-config-datasources#labelProperty> <http://www.w3.org/2004/02/skos/core#prefLabel> .
+
+
+###  https://sparna-git.github.io/sparnatural-demonstrateur-an/ontology#query_list_forme_redigee_alpha
+:query_list_forme_redigee_alpha rdf:type owl:NamedIndividual ,
+                                         <http://data.sparna.fr/ontologies/sparnatural-config-datasources#SPARQLQuery> ;
+                                <http://data.sparna.fr/ontologies/sparnatural-config-datasources#queryString> """SELECT DISTINCT ?uri ?label
+WHERE {
+    ?domain $type $domain .
+    ?domain $property ?uri .
+    ?uri <https://www.ica.org/standards/RiC/ontology#normalizedDateValue> ?label .
+   
+}
+ORDER BY UCASE(?label)
+LIMIT 500""" .
+
+
+###  https://sparna-git.github.io/sparnatural-demonstrateur-an/ontology#query_search_forme_redigee_contains
+:query_search_forme_redigee_contains rdf:type owl:NamedIndividual ,
+                                              <http://data.sparna.fr/ontologies/sparnatural-config-datasources#SPARQLQuery> ;
+                                     <http://data.sparna.fr/ontologies/sparnatural-config-datasources#queryString> """SELECT DISTINCT ?uri ?label
+WHERE {
+  ?domain $type $domain .
+  ?domain $property ?uri .
+  ?uri $type $range .
+  ?uri <http://data.oresm.fr/ontology#formeFrancaiseRedigeeDate> ?label .
+  FILTER(isIRI(?uri))
+  FILTER(CONTAINS(LCASE(STR(?label)), LCASE(\"$key\"))) 
+} 
+ORDER BY UCASE(?label)
+LIMIT 15""" .
+
+
+###  https://sparna-git.github.io/sparnatural-demonstrateur-an/ontology#search_forme_redigee_contains
+:search_forme_redigee_contains rdf:type owl:NamedIndividual ,
+                                        <http://data.sparna.fr/ontologies/sparnatural-config-datasources#SparqlSearchDatasource> ;
+                               <http://data.sparna.fr/ontologies/sparnatural-config-datasources#queryTemplate> :query_search_forme_redigee_contains .
+
+
+###  Generated by the OWL API (version 4.5.25.2023-02-15T19:15:49Z) https://github.com/owlcs/owlapi

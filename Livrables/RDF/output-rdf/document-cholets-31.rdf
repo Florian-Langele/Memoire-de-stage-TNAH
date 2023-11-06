@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:html="http://www.w3.org/1999/xhtml"
+         xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:rico="https://www.ica.org/standards/RiC/ontology#"
+         xml:base="http://data.oresm.fr/">
+   <rico:RecordResource rdf:about="recordResource/or-cholets-31">
+      <rico:title xml:lang="fr">Fondation par Jeanne, femme de Jean Eustache, sommelier de l'échansonnerie du roi, de 40 sous parisis de rente et de deux messes au collège</rico:title>
+      <rdfs:label xml:lang="fr">Fondation par Jeanne, femme de Jean Eustache, sommelier de l'échansonnerie du roi, de 40 sous parisis de rente et de deux messes au collège</rdfs:label>
+      <rdfs:seeAlso rdf:resource="https://www.siv.archives-nationales.culture.gouv.fr/siv/UD/FRAN_IR_032408/c-4hxmpb5n8--xa30numkryn"/>
+      <rico:hasOrHadLanguage rdf:resource="http://data.archives-nationales.culture.gouv.fr/language/FRAN_RI_100-name4"/>
+      <oresm-onto:nombreApproximatifNomsPersonnesPresents rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</oresm-onto:nombreApproximatifNomsPersonnesPresents>
+      <rico:hasInstantiation rdf:resource="instantiation/or-cholets-31"/>
+   </rico:RecordResource>
+   <rico:Instantiation rdf:about="instantiation/or-cholets-31">
+      <rico:title xml:lang="fr">Fondation par Jeanne, femme de Jean Eustache, sommelier de l'échansonnerie du roi, de 40 sous parisis de rente et de deux messes au collège</rico:title>
+      <rdfs:label xml:lang="fr">Fondation par Jeanne, femme de Jean Eustache, sommelier de l'échansonnerie du roi, de 40 sous parisis de rente et de deux messes au collège</rdfs:label>
+      <rico:isInstantiationOf rdf:resource="recordResource/or-cholets-31"/>
+      <oresm-onto:estActuellementConservePar rdf:resource="corporateBody/005061"/>
+      <rico:height>506 mm</rico:height>
+      <rico:width>544 mm</rico:width>
+      <rico:instantiationExtent xml:lang="fr">1 pièce</rico:instantiationExtent>
+      <oresm-onto:presenceAutreMention rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</oresm-onto:presenceAutreMention>
+      <oresm-onto:descriptionAutreMention>Mention hors teneur</oresm-onto:descriptionAutreMention>
+      <oresm-onto:presenceMentionDorsale rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</oresm-onto:presenceMentionDorsale>
+      <oresm-onto:transcriptionDeLaOuLesMentionsDorsales>« Lettres de fondation des deux messes de Jeanne [?] » ; « Littera redditus in vico Petri Aulart ad [?] beate Marie » ; « Pour les Cholets » ; « [?] mil [?] cent soixante huit [?] sols de rente » ; « Paris XL parisis 1398 » ; « 40e pièce de la 44e liasse » ; « Fondation de deux messes hautes par la femme de Jean Eustache moyennant 40 s. de rente 1388 » ; « Fondation de deus messes par an par la femme Jean Eustache moiennant 40 s. parisis de rente 1388 10 may 10.F » ; « M 111 n° 25 »</oresm-onto:transcriptionDeLaOuLesMentionsDorsales>
+   </rico:Instantiation>
+   <rico:RecordResource rdf:about="recordResource/or-cholets-31-ins1">
+      <rdfs:label xml:lang="fr">Transcription de son propre acte confirmant les dispositions testamentaires de Jeanne, femme de Jean Eustache</rdfs:label>
+      <rico:title xml:lang="fr">Transcription de son propre acte confirmant les dispositions testamentaires de Jeanne, femme de Jean Eustache</rico:title>
+      <oresm-onto:inclutCopieDe rdf:resource="recordResource/or-cholets-31"/>
+      <rico:hasInstantiation>
+         <rico:Instantiation>
+            <rico:descriptiveNote xml:lang="fr">Acte non retrouvé à ce jour.</rico:descriptiveNote>
+            <rico:identifier>lost-2d705988-c067-4b6a-b600-5edc35bca5d2</rico:identifier>
+         </rico:Instantiation>
+      </rico:hasInstantiation>
+   </rico:RecordResource>
+</rdf:RDF>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:html="http://www.w3.org/1999/xhtml"
+         xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:rico="https://www.ica.org/standards/RiC/ontology#"
+         xml:base="http://data.oresm.fr/">
+   <rico:RecordResource rdf:about="recordResource/or-sorbonne-60">
+      <rico:title xml:lang="fr">Cartulaire 1263-1676</rico:title>
+      <rdfs:label xml:lang="fr">Cartulaire 1263-1676</rdfs:label>
+      <rdfs:seeAlso rdf:resource="https://www.siv.archives-nationales.culture.gouv.fr/siv/UD/FRAN_IR_032408/c-3q9p5ejy0--pkcc8uq01vhv"/>
+      <rico:hasInstantiation rdf:resource="instantiation/or-sorbonne-60"/>
+   </rico:RecordResource>
+   <rico:Instantiation rdf:about="instantiation/or-sorbonne-60">
+      <rico:title xml:lang="fr">Cartulaire 1263-1676</rico:title>
+      <rdfs:label xml:lang="fr">Cartulaire 1263-1676</rdfs:label>
+      <rico:isInstantiationOf rdf:resource="recordResource/or-sorbonne-60"/>
+      <oresm-onto:estActuellementConservePar rdf:resource="corporateBody/005061"/>
+   </rico:Instantiation>
+</rdf:RDF>

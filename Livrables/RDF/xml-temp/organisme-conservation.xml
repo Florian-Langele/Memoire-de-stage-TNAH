@@ -1,0 +1,3716 @@
+<?xml version="1.0" encoding="utf-8"?>
+<conservateurs xmlns:dc="http://purl.org/dc/elements/1.1/"
+               xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+               xmlns:owl="http://www.w3.org/2002/07/owl#"
+               xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+               xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+               xmlns:rico="https://www.ica.org/standards/RiC/ontology#">
+   <conservateur>
+      <nom>Collège Louis-le-Grand</nom>
+      <notice>arras-1</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>arras-1</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Collège Louis-le-Grand</nom>
+      <notice>arras-2</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>arras-2</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Empire français Direction générale des archives</nom>
+      <notice>arras-2</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Collège de Bayeux</nom>
+      <notice>bayeux-1</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Collège Louis-le-Grand</nom>
+      <notice>bayeux-1</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>bayeux-1</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Collège de Bayeux</nom>
+      <notice>bayeux-2</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Collège Louis-le-Grand</nom>
+      <notice>bayeux-2</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>bayeux-2</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>bayeux-3</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Collège de Bayeux</nom>
+      <notice>bayeux-4</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Collège Louis-le-Grand</nom>
+      <notice>bayeux-4</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>bayeux-4</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Collège de Bayeux</nom>
+      <notice>bayeux-9</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Empire Français Direction générale des archives</nom>
+      <notice>bayeux-9</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Collège de Bayeux</nom>
+      <notice>bayeux-10</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Collège Louis-le-Grand</nom>
+      <notice>bayeux-10</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Bibliothèque de l'Université</nom>
+      <notice>bayeux-10</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Collège de Bayeux</nom>
+      <notice>bayeux-11</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Collège Louis-le-Grand</nom>
+      <notice>bayeux-11</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Bibliothèque de l'Université</nom>
+      <notice>bayeux-11</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Collège Louis-le-Grand</nom>
+      <notice>bayeux-12</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Bibliothèque de l'Université</nom>
+      <notice>bayeux-12</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Collège Louis-le-Grand</nom>
+      <notice>bayeux-13</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Bibliothèque de l'Université</nom>
+      <notice>bayeux-13</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Collège Louis-le-Grand</nom>
+      <notice>bayeux-14</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Bibliothèque de l'Université</nom>
+      <notice>bayeux-14</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Collège Louis-le-Grand</nom>
+      <notice>bayeux-15</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Bibliothèque de l'Université</nom>
+      <notice>bayeux-15</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Collège Louis-le-Grand</nom>
+      <notice>bayeux-16</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Bibliothèque de l'Université</nom>
+      <notice>bayeux-16</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Collège Louis-le-Grand</nom>
+      <notice>bayeux-17</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Bibliothèque de l'Université</nom>
+      <notice>bayeux-17</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Collège Louis-le-Grand</nom>
+      <notice>bayeux-18</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Bibliothèque de l'Université</nom>
+      <notice>bayeux-18</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Collège Louis-le-Grand</nom>
+      <notice>bayeux-19</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Bibliothèque de l'Université</nom>
+      <notice>bayeux-19</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Collège Louis-le-Grand</nom>
+      <notice>bayeux-20</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Bibliothèque de l'Université</nom>
+      <notice>bayeux-20</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Collège Louis-le-Grand</nom>
+      <notice>bayeux-21</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Bibliothèque de l'Université</nom>
+      <notice>bayeux-21</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Collège Louis-le-Grand</nom>
+      <notice>bayeux-22</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Bibliothèque de l'Université</nom>
+      <notice>bayeux-22</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Collège Louis-le-Grand</nom>
+      <notice>bayeux-23</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Bibliothèque de l'Université</nom>
+      <notice>bayeux-23</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Bibliothèque de l'Université</nom>
+      <notice>bayeux-24</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Bibliothèque de l'Université</nom>
+      <notice>bayeux-25</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Bibliothèque de l'Université</nom>
+      <notice>bayeux-26</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Bibliothèque de l'Université</nom>
+      <notice>bayeux-27</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Bibliothèque de l'Université</nom>
+      <notice>bayeux-28</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Bibliothèque de l'Université</nom>
+      <notice>bayeux-29</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Ministère de l’instruction publique</nom>
+      <notice>cardinal-lemoine-12</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Bibliothèque de l'Université</nom>
+      <notice>cardinal-lemoine-12</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Ministère de l’instruction publique</nom>
+      <notice>cardinal-lemoine-13</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Bibliothèque de l'Université</nom>
+      <notice>cardinal-lemoine-13</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Ministère de l’instruction publique</nom>
+      <notice>cardinal-lemoine-14</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Bibliothèque de l'Université</nom>
+      <notice>cardinal-lemoine-14</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Ministère de l’instruction publique</nom>
+      <notice>cardinal-lemoine-15</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Bibliothèque de l'Université</nom>
+      <notice>cardinal-lemoine-15</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Ministère de l’instruction publique</nom>
+      <notice>cardinal-lemoine-16</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Bibliothèque de l'Université</nom>
+      <notice>cardinal-lemoine-16</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Ministère de l’instruction publique</nom>
+      <notice>cardinal-lemoine-17</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Bibliothèque de l'Université</nom>
+      <notice>cardinal-lemoine-17</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Ministère de l’instruction publique</nom>
+      <notice>cardinal-lemoine-18</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Bibliothèque de l'Université</nom>
+      <notice>cardinal-lemoine-18</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Ministère de l’instruction publique</nom>
+      <notice>cardinal-lemoine-19</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Bibliothèque de l'Université</nom>
+      <notice>cardinal-lemoine-19</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Collège Louis-le-Grand</nom>
+      <notice>cholets-6</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Collège Louis-le-Grand</nom>
+      <notice>cholets-17</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Bibliothèque de l’Université</nom>
+      <notice>cholets-224</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Bibliothèque de l’Université</nom>
+      <notice>cholets-225</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Bibliothèque de l’Université</nom>
+      <notice>cholets-226</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Bibliothèque de l'Université</nom>
+      <notice>cornouaille-1</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>cornouaille-2</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Collège Louis-le-Grand</nom>
+      <notice>cornouaille-3</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>cornouaille-3</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Collège Louis-le-Grand</nom>
+      <notice>cornouaille-4</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>cornouaille-4</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Collège Louis-le-Grand</nom>
+      <notice>cornouaille-5</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>cornouaille-5</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Collège Louis-le-Grand</nom>
+      <notice>cornouaille-6</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>cornouaille-6</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Collège Louis-le-Grand</nom>
+      <notice>cornouaille-7</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>cornouaille-7</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Collège Louis-le-Grand</nom>
+      <notice>cornouaille-8</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>cornouaille-8</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>cornouaille-9</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Collège Louis-le-Grand</nom>
+      <notice>cornouaille-10</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>cornouaille-10</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Collège Louis-le-Grand</nom>
+      <notice>cornouaille-11</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>cornouaille-11</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Collège Louis-le-Grand</nom>
+      <notice>cornouaille-12</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>cornouaille-12</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Collège Louis-le-Grand</nom>
+      <notice>cornouaille-13</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>cornouaille-13</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Collège Louis-le-Grand</nom>
+      <notice>cornouaille-14</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>cornouaille-14</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Empire Français Direction générale des archives</nom>
+      <notice>cornouaille-16</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Empire Français Direction générale des archives</nom>
+      <notice>cornouaille-18</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Empire Français Direction générale des archives</nom>
+      <notice>cornouaille-19</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>cornouaille-20</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>cornouaille-22</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>cornouaille-24</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>cornouaille-25</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>cornouaille-26</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>cornouaille-27</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>cornouaille-28</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-1</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-2</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-3</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-4</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-5</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-6</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-7</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-8</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-9</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-10</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-11</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-12</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-13</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-14</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Collège Louis-le-Grand</nom>
+      <notice>fortet-15</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-15</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Collège Louis-le-Grand</nom>
+      <notice>fortet-16</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Collège Louis-le-Grand</nom>
+      <notice>fortet-17</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-17</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Collège Louis-le-Grand</nom>
+      <notice>fortet-18</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-18</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Collège Louis-le-Grand</nom>
+      <notice>fortet-19</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-19</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Collège Louis-le-Grand</nom>
+      <notice>fortet-20</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-20</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Collège Louis-le-Grand</nom>
+      <notice>fortet-21</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-21</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Collège Louis-le-Grand</nom>
+      <notice>fortet-22</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-22</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Collège Louis-le-Grand</nom>
+      <notice>fortet-23</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-23</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Collège Louis-le-Grand</nom>
+      <notice>fortet-24</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-24</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Collège Louis-le-Grand</nom>
+      <notice>fortet-25</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-25</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Collège Louis-le-Grand</nom>
+      <notice>fortet-26</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-26</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Collège Louis-le-Grand</nom>
+      <notice>fortet-27</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-27</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Collège Louis-le-Grand</nom>
+      <notice>fortet-28</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-28</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-29</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-30</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-31</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-32</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-33</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-34</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-35</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-36</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-37</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-38</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-39</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-40</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-41</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-42</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-43</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-44</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-45</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-46</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-47</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-48</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-49</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-50</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-51</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-52</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-53</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-54</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-55</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-57</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-58</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-59</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-60</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-61</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-62</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-63</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-64</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-66</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-67</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-68</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-69</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-70</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-71</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-72</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-73</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-74</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-75</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-76</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-77</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-78</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-79</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-80</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-81</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-82</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-83</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-84</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-85</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-86</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-87</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-88</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-90</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-91</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-92</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-93</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-94</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-95</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-96</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-97</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-98</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-99</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-101</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-102</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-103</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-104</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-105</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-106</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-107</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-108</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-109</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-110</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-111</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-112</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-113</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-114</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-115</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-116</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-117</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-118</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-119</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-120</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-121</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-122</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-123</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-124</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-125</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-126</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-127</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-128</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-130</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-131</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-132</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-134</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-135</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-136</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-137</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-138</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-139</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-140</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-141</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-142</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-143</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-144</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-145</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-146</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-147</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-148</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-149</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-150</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-151</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-152</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-153</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-160</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-161</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-162</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-163</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-164</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-165</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-166</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-167</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-168</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-169</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-170</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-171</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-172</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-173</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-174</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-175</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-176</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-177</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-178</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-179</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-180</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-181</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-182</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-183</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-184</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-185</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-186</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-187</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-188</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-189</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-190</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-191</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-192</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-193</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-194</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-195</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-196</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-197</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-198</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-199</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-200</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-201</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-202</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-203</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-204</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-206</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-207</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-208</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-209</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-210</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-212</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-213</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-214</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-215</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-216</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-217</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-218</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-219</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-220</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-221</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-222</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-223</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-224</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-225</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-226</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-227</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-228</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-229</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-231</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-232</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-233</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-234</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-235</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-236</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-237</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-238</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-239</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-240</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-241</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-242</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-243</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-244</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-245</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-246</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-247</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-248</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-249</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-250</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-251</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-252</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-253</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-254</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-255</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-256</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-257</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-258</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-260</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-261</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-262</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-263</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-264</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-265</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-266</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-267</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-268</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-269</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-270</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-271</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-272</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-273</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-274</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-275</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-276</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-277</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-278</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-279</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-280</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-281</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-282</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-283</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-284</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-285</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-286</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-287</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-288</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-289</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-290</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-291</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-292</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-293</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-294</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-295</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-296</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-297</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-298</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-299</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-300</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-301</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-302</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-303</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-304</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-306</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-307</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-308</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-309</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-310</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-311</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-312</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-313</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-314</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-315</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-316</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-317</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-318</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-319</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-320</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-321</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-322</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-323</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-324</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-325</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-326</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-327</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-328</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-329</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-330</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-331</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-332</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-333</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-334</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-335</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-336</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-337</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-338</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-339</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-340</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-341</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-342</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-343</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-344</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-345</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-346</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-347</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-348</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-349</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-350</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-351</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-352</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-354</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-355</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-356</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-357</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-359</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-360</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-361</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-363</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-364</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-365</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-366</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-367</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-368</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-369</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-370</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-371</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-372</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-373</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-374</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-375</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-376</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-377</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-378</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-379</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-380</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-381</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-382</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-383</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-384</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-385</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-386</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-387</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-388</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-389</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-390</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-391</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-392</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-393</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-394</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-395</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-396</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-397</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-398</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-399</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-400</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-401</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-402</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-403</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-404</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-405</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-406</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-407</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-408</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-409</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-410</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-411</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-412</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-413</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-414</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-416</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-417</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-418</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-419</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-420</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-421</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-422</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-423</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-424</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-425</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-426</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-427</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-428</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-429</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-431</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-432</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-433</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-434</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-435</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-436</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-437</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-439</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-463</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-464</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-465</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-466</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-467</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-468</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-469</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-470</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-471</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-472</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-473</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-475</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-477</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-478</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-479</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-480</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-481</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-482</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-483</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-484</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-485</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-486</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-487</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-489</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-490</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>fortet-491</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>hubant-1</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Collège Louis-le-Grand</nom>
+      <notice>hubant-2</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>hubant-2</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Collège Louis-le-Grand</nom>
+      <notice>hubant-3</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>hubant-3</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Collège Louis-le-Grand</nom>
+      <notice>hubant-4</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>hubant-4</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Collège Louis-le-Grand</nom>
+      <notice>hubant-5</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>hubant-5</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>hubant-6</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Collège Louis-le-Grand</nom>
+      <notice>hubant-7</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>hubant-7</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Collège Louis-le-Grand</nom>
+      <notice>hubant-8</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>hubant-8</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>hubant-9</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Collège Louis-le-Grand</nom>
+      <notice>hubant-10</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>hubant-10</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Collège Louis-le-Grand</nom>
+      <notice>hubant-11</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>hubant-11</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Collège Louis-le-Grand</nom>
+      <notice>hubant-12</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>hubant-12</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Collège Louis-le-Grand</nom>
+      <notice>hubant-13</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>hubant-13</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Collège Louis-le-Grand</nom>
+      <notice>hubant-14</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>hubant-14</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>hubant-15</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Collège Louis-le-Grand</nom>
+      <notice>hubant-16</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>hubant-16</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>hubant-17</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Collège Louis-le-Grand</nom>
+      <notice>hubant-18</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>hubant-18</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Collège Louis-le-Grand</nom>
+      <notice>hubant-19</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>hubant-19</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Collège Louis-le-Grand</nom>
+      <notice>hubant-20</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>hubant-20</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Collège Louis-le-Grand</nom>
+      <notice>hubant-21</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>hubant-21</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>hubant-22</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>hubant-23</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>hubant-24</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>hubant-25</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Collège Louis-le-Grand</nom>
+      <notice>hubant-26</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>hubant-26</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Collège Louis-le-Grand</nom>
+      <notice>hubant-27</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>hubant-27</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Collège Louis-le-Grand</nom>
+      <notice>hubant-28</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>hubant-28</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Collège Louis-le-Grand</nom>
+      <notice>hubant-29</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>hubant-29</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Collège Louis-le-Grand</nom>
+      <notice>hubant-30</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>hubant-30</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Collège Louis-le-Grand</nom>
+      <notice>hubant-31</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>hubant-31</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Bibliothèque de l'Université</nom>
+      <notice>hubant-32</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Bibliothèque de l'Université</nom>
+      <notice>hubant-33</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Bibliothèque de l'Université</nom>
+      <notice>hubant-34</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Bibliothèque de l'Université de France</nom>
+      <notice>hubant-35</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Bibliothèque de l'Université de France</nom>
+      <notice>la-marche-1</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-2</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-3</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-4</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-5</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Empire Français Direction générale des archives</nom>
+      <notice>la-marche-6</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-6</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-7</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-8</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-9</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-10</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-11</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-12</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Empire Français Direction générale des archives</nom>
+      <notice>la-marche-13</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Empire Français Direction générale des archives</nom>
+      <notice>la-marche-14</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-14</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-15</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-16</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-18</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-19</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-20</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-21</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-22</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-23</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-24</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-25</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-26</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-29</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-30</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-31</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-32</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-33</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-34</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-35</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-36</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-37</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-38</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-39</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-40</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-41</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-42</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-45</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-46</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-47</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-49</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-51</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-52</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-53</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-54</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-55</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-56</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-57</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-58</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-59</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-60</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-61</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-62</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-63</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-64</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-65</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-66</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-67</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-68</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-69</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-70</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-71</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-72</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-73</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-75</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-76</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-77</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-78</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-79</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-80</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-81</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-82</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Empire Français Direction générale des archives</nom>
+      <notice>la-marche-82</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-83</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-84</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Empire Français Direction générale des archives</nom>
+      <notice>la-marche-85</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-86</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-87</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-88</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-89</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-90</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-91</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-92</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-93</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-94</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-95</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-96</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-97</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-99</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-100</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-101</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-102</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-103</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-104</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-105</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-106</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-107</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>la-marche-108</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Bibliothèque de l'Université</nom>
+      <notice>la-marche-110</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Bibliothèque de l'Université</nom>
+      <notice>la-marche-111</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Bibliothèque de l'Université</nom>
+      <notice>la-marche-112</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Bibliothèque de l'Université</nom>
+      <notice>la-marche-113</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Bibliothèque de l'Université</nom>
+      <notice>la-marche-114</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Bibliothèque de l'Université</nom>
+      <notice>la-marche-115</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Bibliothèque de l'Université</nom>
+      <notice>la-marche-116</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Bibliothèque de l'Université</nom>
+      <notice>la-marche-117</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Bibliothèque de l'Université</nom>
+      <notice>la-marche-118</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Bibliothèque de l'Université</nom>
+      <notice>la-marche-119</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Bibliothèque de l'Université</nom>
+      <notice>la-marche-120</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Bibliothèque de l'Université</nom>
+      <notice>la-marche-121</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Bibliothèque de l'Université</nom>
+      <notice>la-marche-122</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Bibliothèque de l'Université MS Sorbonne</nom>
+      <notice>la-marche-123</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Bibliothèque de l'Université MS Sorbonne</nom>
+      <notice>la-marche-124</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Bibliothèque de l'Université MS Sorbonne</nom>
+      <notice>la-marche-125</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Bibliothèque de l'Université MS Sorbonne</nom>
+      <notice>la-marche-126</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>lisieux-1</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>lisieux-2</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>lisieux-4</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>lisieux-5</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>lisieux-6</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>lisieux-7</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>lisieux-8</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Bibliothèque de l'Université</nom>
+      <notice>lisieux-9</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Bibliothèque de l'Université</nom>
+      <notice>lisieux-10</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Bibliothèque de l'Université</nom>
+      <notice>lisieux-13</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Bibliothèque de l'Université</nom>
+      <notice>lisieux-14</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Bibliothèque de l'Université</nom>
+      <notice>lisieux-15</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Bibliothèque de l'Université</nom>
+      <notice>lisieux-16</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Bibliothèque de l'Université de France</nom>
+      <notice>lisieux-21</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-1</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-2</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-3</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-4</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-5</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-6</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-7</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-9</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-10</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-11</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-12</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-13</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-14</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-15</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-16</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-17</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-18</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-19</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-20</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-21</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-22</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-23</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-24</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-25</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-27</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-28</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-30</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-31</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-32</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-33</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-34</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-35</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-36</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-37</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-38</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-39</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-40</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-41</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-42</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-43</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-44</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-45</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-47</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-48</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-49</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-50</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-51</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-52</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-53</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-54</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-55</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-56</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-57</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-58</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-59</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-60</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-61</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-62</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-63</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-64</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-65</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-66</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Empire français Direction générale des archives</nom>
+      <notice>navarre-68</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-69</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-70</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-71</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-74</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-75</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-76</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-77</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-78</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-79</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-80</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-81</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-82</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-83</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-84</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-85</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-86</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-87</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-88</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-89</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>navarre-90</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Empire Français Direction générale des archives</nom>
+      <notice>sorbonne-1</notice>
+   </conservateur>
+   <conservateur>
+      <nom>R. F. Bibliothèque nationale Man.</nom>
+      <notice>sorbonne-1</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Arrêté du 19 avril 1862 Échange</nom>
+      <notice>sorbonne-1</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>sorbonne-2</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>sorbonne-3</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>sorbonne-4</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>sorbonne-5</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>sorbonne-6</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>sorbonne-7</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>sorbonne-8</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>sorbonne-9</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>sorbonne-10</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>sorbonne-11</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume</nom>
+      <notice>sorbonne-12</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>sorbonne-12</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>sorbonne-13</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>sorbonne-14</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>sorbonne-15</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>sorbonne-16</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>sorbonne-17</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume</nom>
+      <notice>sorbonne-18</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>sorbonne-18</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume</nom>
+      <notice>sorbonne-19</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>sorbonne-19</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>sorbonne-20</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>sorbonne-21</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>sorbonne-23</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>sorbonne-26</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Bibliothèque impériale Man.</nom>
+      <notice>sorbonne-27</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Arrêté du 19 avril 1862 Échange</nom>
+      <notice>sorbonne-27</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Empire français Direction générale des archives</nom>
+      <notice>sorbonne-27</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Bibliothèque impériale Man.</nom>
+      <notice>sorbonne-28</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Arrêté du 19 avril 1862 Échange</nom>
+      <notice>sorbonne-28</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Empire français Direction générale des archives</nom>
+      <notice>sorbonne-28</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Bibliothèque impériale Man.</nom>
+      <notice>sorbonne-29</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Arrêté du 19 avril 1862 Échange</nom>
+      <notice>sorbonne-29</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Empire français Direction générale des archives</nom>
+      <notice>sorbonne-29</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Bibliothèque impériale Man.</nom>
+      <notice>sorbonne-30</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Arrêté du 19 avril 1862 Échange</nom>
+      <notice>sorbonne-30</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Empire français Direction générale des archives</nom>
+      <notice>sorbonne-30</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Bibliothèque impériale Man.</nom>
+      <notice>sorbonne-31</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Arrêté du 19 avril 1862 Échange</nom>
+      <notice>sorbonne-31</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Empire français Direction générale des archives</nom>
+      <notice>sorbonne-31</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Bibliothèque impériale Man.</nom>
+      <notice>sorbonne-32</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Arrêté du 19 avril 1862 Échange</nom>
+      <notice>sorbonne-32</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Empire français Direction générale des archives</nom>
+      <notice>sorbonne-32</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Bibliothèque impériale Man.</nom>
+      <notice>sorbonne-33</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Arrêté du 19 avril 1862 Échange</nom>
+      <notice>sorbonne-33</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Empire français Direction générale des archives</nom>
+      <notice>sorbonne-33</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>sorbonne-34</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Empire Français Direction générale des archives</nom>
+      <notice>sorbonne-35</notice>
+   </conservateur>
+   <conservateur>
+      <nom>R. F. Bibliothèque nationale Man.</nom>
+      <notice>sorbonne-35</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Arrêté du 19 avril 1862 Échange</nom>
+      <notice>sorbonne-35</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Empire Français Direction générale des archives</nom>
+      <notice>sorbonne-36</notice>
+   </conservateur>
+   <conservateur>
+      <nom>R. F. Bibliothèque nationale Man.</nom>
+      <notice>sorbonne-36</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Arrêté du 19 avril 1862 Échange</nom>
+      <notice>sorbonne-36</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Empire Français Direction générale des archives</nom>
+      <notice>sorbonne-37</notice>
+   </conservateur>
+   <conservateur>
+      <nom>R. F. Bibliothèque nationale Man.</nom>
+      <notice>sorbonne-37</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Arrêté du 19 avril 1862 Échange</nom>
+      <notice>sorbonne-37</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Empire Français Direction générale des archives</nom>
+      <notice>sorbonne-38</notice>
+   </conservateur>
+   <conservateur>
+      <nom>R. F. Bibliothèque nationale Man.</nom>
+      <notice>sorbonne-38</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Arrêté du 19 avril 1862 Échange</nom>
+      <notice>sorbonne-38</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Empire Français Direction générale des archives</nom>
+      <notice>sorbonne-39</notice>
+   </conservateur>
+   <conservateur>
+      <nom>R. F. Bibliothèque nationale Man.</nom>
+      <notice>sorbonne-39</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Arrêté du 19 avril 1862 Échange</nom>
+      <notice>sorbonne-39</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>sorbonne-40</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>sorbonne-41</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>sorbonne-42</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>sorbonne-43</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>sorbonne-45</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume</nom>
+      <notice>sorbonne-46</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>sorbonne-46</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>sorbonne-47</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume</nom>
+      <notice>sorbonne-48</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>sorbonne-48</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume</nom>
+      <notice>sorbonne-49</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume</nom>
+      <notice>sorbonne-50</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>sorbonne-50</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume</nom>
+      <notice>sorbonne-51</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>sorbonne-51</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume</nom>
+      <notice>sorbonne-52</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume</nom>
+      <notice>sorbonne-53</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>sorbonne-53</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>sorbonne-54</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>sorbonne-55</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>sorbonne-56</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives du Royaume Sect. Hist.</nom>
+      <notice>sorbonne-57</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Archives de l'ancienne université de Paris</nom>
+      <notice>sorbonne-58</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Ministère de l'instruction publique Bureau des Archives</nom>
+      <notice>sorbonne-58</notice>
+   </conservateur>
+   <conservateur>
+      <nom>Bibliothèque de l'Université</nom>
+      <notice>sorbonne-58</notice>
+   </conservateur>
+</conservateurs>

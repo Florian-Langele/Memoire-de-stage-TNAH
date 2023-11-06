@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:html="http://www.w3.org/1999/xhtml"
+         xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:rico="https://www.ica.org/standards/RiC/ontology#"
+         xml:base="http://data.oresm.fr/">
+   <rico:RecordResource rdf:about="recordResource/or-dix-huit-3">
+      <rico:title xml:lang="fr">Lettre patente de Barbedor, doyen du chapitre Notre-Dame, par laquelle il constate que le sieur Jocius de Londres, de retour de Jérusalem, a acquis de l’Hôtel-Dieu une maison de 52 livres, pour y établir 18 écoliers</rico:title>
+      <rdfs:label xml:lang="fr">Lettre patente de Barbedor, doyen du chapitre Notre-Dame, par laquelle il constate que le sieur Jocius de Londres, de retour de Jérusalem, a acquis de l’Hôtel-Dieu une maison de 52 livres, pour y établir 18 écoliers</rdfs:label>
+      <rdfs:seeAlso rdf:resource="https://www.siv.archives-nationales.culture.gouv.fr/siv/UD/FRAN_IR_032408/c-7s764gp4p--1quw58tn64nrg"/>
+      <rico:hasOrHadLanguage rdf:resource="http://data.archives-nationales.culture.gouv.fr/language/FRAN_RI_100-name9"/>
+      <oresm-onto:nombreApproximatifNomsPersonnesPresents rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</oresm-onto:nombreApproximatifNomsPersonnesPresents>
+      <rico:hasInstantiation rdf:resource="instantiation/or-dix-huit-3"/>
+   </rico:RecordResource>
+   <rico:Instantiation rdf:about="instantiation/or-dix-huit-3">
+      <rico:title xml:lang="fr">Lettre patente de Barbedor, doyen du chapitre Notre-Dame, par laquelle il constate que le sieur Jocius de Londres, de retour de Jérusalem, a acquis de l’Hôtel-Dieu une maison de 52 livres, pour y établir 18 écoliers</rico:title>
+      <rdfs:label xml:lang="fr">Lettre patente de Barbedor, doyen du chapitre Notre-Dame, par laquelle il constate que le sieur Jocius de Londres, de retour de Jérusalem, a acquis de l’Hôtel-Dieu une maison de 52 livres, pour y établir 18 écoliers</rdfs:label>
+      <rico:isInstantiationOf rdf:resource="recordResource/or-dix-huit-3"/>
+      <oresm-onto:estActuellementConservePar rdf:resource="corporateBody/005061"/>
+      <rico:instantiationExtent xml:lang="fr">1 folio</rico:instantiationExtent>
+      <oresm-onto:presenceAutreMention rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</oresm-onto:presenceAutreMention>
+      <oresm-onto:presenceMentionDorsale rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</oresm-onto:presenceMentionDorsale>
+   </rico:Instantiation>
+</rdf:RDF>

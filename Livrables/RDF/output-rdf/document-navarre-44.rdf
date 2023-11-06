@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:html="http://www.w3.org/1999/xhtml"
+         xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:rico="https://www.ica.org/standards/RiC/ontology#"
+         xml:base="http://data.oresm.fr/">
+   <rico:RecordResource rdf:about="recordResource/or-navarre-44">
+      <rico:title xml:lang="fr">Information faite au collège de Champagne par Jean Boulart, examinateur au Châtelet de Paris, suite à la requête présentée au roi par Étienne Loret, maître du collège de Navarre, et Louis Lassere, proviseur du collège</rico:title>
+      <rdfs:label xml:lang="fr">Information faite au collège de Champagne par Jean Boulart, examinateur au Châtelet de Paris, suite à la requête présentée au roi par Étienne Loret, maître du collège de Navarre, et Louis Lassere, proviseur du collège</rdfs:label>
+      <rdfs:seeAlso rdf:resource="https://www.siv.archives-nationales.culture.gouv.fr/siv/UD/FRAN_IR_032408/c-1noqvvtwz-oz9ue4reovng"/>
+      <rico:hasOrHadLanguage rdf:resource="http://data.archives-nationales.culture.gouv.fr/language/FRAN_RI_100-name4"/>
+      <oresm-onto:nombreApproximatifNomsPersonnesPresents rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</oresm-onto:nombreApproximatifNomsPersonnesPresents>
+      <oresm-onto:presenceDeSceau rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</oresm-onto:presenceDeSceau>
+      <oresm-onto:noteSceau>Traces de sceaux de cire rouge</oresm-onto:noteSceau>
+      <rico:hasInstantiation rdf:resource="instantiation/or-navarre-44"/>
+   </rico:RecordResource>
+   <rico:Instantiation rdf:about="instantiation/or-navarre-44">
+      <rico:title xml:lang="fr">Information faite au collège de Champagne par Jean Boulart, examinateur au Châtelet de Paris, suite à la requête présentée au roi par Étienne Loret, maître du collège de Navarre, et Louis Lassere, proviseur du collège</rico:title>
+      <rdfs:label xml:lang="fr">Information faite au collège de Champagne par Jean Boulart, examinateur au Châtelet de Paris, suite à la requête présentée au roi par Étienne Loret, maître du collège de Navarre, et Louis Lassere, proviseur du collège</rdfs:label>
+      <rico:isInstantiationOf rdf:resource="recordResource/or-navarre-44"/>
+      <oresm-onto:estActuellementConservePar rdf:resource="corporateBody/005061"/>
+      <rico:instantiationExtent xml:lang="fr">17 fol.</rico:instantiationExtent>
+      <oresm-onto:presenceAutreMention rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</oresm-onto:presenceAutreMention>
+      <oresm-onto:presenceMentionDorsale rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</oresm-onto:presenceMentionDorsale>
+   </rico:Instantiation>
+</rdf:RDF>

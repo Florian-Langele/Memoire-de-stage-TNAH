@@ -1,0 +1,30 @@
+@use '../../../base';
+@use '../../../mixins';
+.ClassTypeId{
+    display: flex;
+    span.unselect{
+        position: relative;
+        top:-10px;
+        right:29px
+    }
+
+    &.Highlited {
+        @include mixins.arrow-back-colors(var(--primary-color-main), #fff);
+		@include mixins.arrow-front-colors(var(--primary-color-main), #fff);
+        .nice-select{
+            border-radius: unset;
+            color: #fff;
+            background-color: var(--primary-color-main);
+            border-color: #fff;
+        }
+        &.VariableSelected{
+            @include mixins.arrow-front-colors(var(--primary-color-main), var(--secondary-color-important));
+            @include mixins.arrow-back-colors(var(--primary-color-main), var(--secondary-color-important));
+            .nice-select{
+                border-color: var(--secondary-color-important);
+            }
+        }
+	}
+
+
+}

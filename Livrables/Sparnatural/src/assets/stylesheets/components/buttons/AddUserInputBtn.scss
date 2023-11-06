@@ -1,0 +1,12 @@
+.button-add {
+    border: 3px solid var(--primary-color-main);
+    border-radius: 15px;
+    background: #fff;
+    padding: 0 10px;
+    line-height: 25px;
+    margin-left: 5px;
+    &:hover {
+        color: var(--primary-color-main);
+        cursor: pointer;
+    }
+}

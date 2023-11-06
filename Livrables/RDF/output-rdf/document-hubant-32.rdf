@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:html="http://www.w3.org/1999/xhtml"
+         xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:rico="https://www.ica.org/standards/RiC/ontology#"
+         xml:base="http://data.oresm.fr/">
+   <rico:RecordResource rdf:about="recordResource/or-hubant-32">
+      <rico:title xml:lang="fr">Copie du livre de la fondation du collège d'Hubant dit de l'Ave Maria fondé en l'université de Paris, tirée sur l'original latin écrit en lettres gothiques</rico:title>
+      <rdfs:label xml:lang="fr">Copie du livre de la fondation du collège d'Hubant dit de l'Ave Maria fondé en l'université de Paris, tirée sur l'original latin écrit en lettres gothiques</rdfs:label>
+      <rdfs:seeAlso rdf:resource="https://www.calames.abes.fr/pub/#details?id=Calames-202132143378222"/>
+      <rico:hasOrHadLanguage rdf:resource="http://data.archives-nationales.culture.gouv.fr/language/FRAN_RI_100-name9"/>
+      <rico:hasOrHadLanguage rdf:resource="http://data.archives-nationales.culture.gouv.fr/language/FRAN_RI_100-name4"/>
+      <oresm-onto:nombreApproximatifNomsPersonnesPresents rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">50</oresm-onto:nombreApproximatifNomsPersonnesPresents>
+      <rico:hasInstantiation rdf:resource="instantiation/or-hubant-32"/>
+      <rico:isCopyOf rdf:resource="recordResource/or-hubant-29-virt1"/>
+   </rico:RecordResource>
+   <rico:Instantiation rdf:about="instantiation/or-hubant-32">
+      <rico:title xml:lang="fr">Copie du livre de la fondation du collège d'Hubant dit de l'Ave Maria fondé en l'université de Paris, tirée sur l'original latin écrit en lettres gothiques</rico:title>
+      <rdfs:label xml:lang="fr">Copie du livre de la fondation du collège d'Hubant dit de l'Ave Maria fondé en l'université de Paris, tirée sur l'original latin écrit en lettres gothiques</rdfs:label>
+      <rico:isInstantiationOf rdf:resource="recordResource/or-hubant-32"/>
+      <oresm-onto:estActuellementConservePar rdf:resource="corporateBody/050960067"/>
+      <rico:height>387 mm</rico:height>
+      <rico:width>258 mm</rico:width>
+      <rico:instantiationExtent xml:lang="fr">67 pages</rico:instantiationExtent>
+      <oresm-onto:presenceAutreMention rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</oresm-onto:presenceAutreMention>
+      <oresm-onto:presenceMentionDorsale rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</oresm-onto:presenceMentionDorsale>
+   </rico:Instantiation>
+   <rico:RecordResource rdf:about="recordResource/or-hubant-32-virt1">
+      <rdfs:label xml:lang="fr">Acte de Clément VI confirmant la fondation de 6 écoliers, chapelain et maître par Jean de Hubant</rdfs:label>
+      <rico:title xml:lang="fr">Acte de Clément VI confirmant la fondation de 6 écoliers, chapelain et maître par Jean de Hubant</rico:title>
+      <rico:hasCopy rdf:resource="recordResource/or-hubant-32"/>
+   </rico:RecordResource>
+   <rico:RecordResource rdf:about="recordResource/or-hubant-32-virt2">
+      <rdfs:label xml:lang="fr">Acte de l'official de Paris confirmant la fondation de 6 écoliers par Jean de Hubant</rdfs:label>
+      <rico:title xml:lang="fr">Acte de l'official de Paris confirmant la fondation de 6 écoliers par Jean de Hubant</rico:title>
+      <rico:hasCopy rdf:resource="recordResource/or-hubant-32"/>
+   </rico:RecordResource>
+   <rico:RecordResource rdf:about="recordResource/or-hubant-32-virt3">
+      <rdfs:label xml:lang="fr">Acte de l'official de Paris confirmant la donation par Jean de Hubant de tous ses biens aux écoliers fondés par lui</rdfs:label>
+      <rico:title xml:lang="fr">Acte de l'official de Paris confirmant la donation par Jean de Hubant de tous ses biens aux écoliers fondés par lui</rico:title>
+      <rico:hasCopy rdf:resource="recordResource/or-hubant-32"/>
+   </rico:RecordResource>
+   <rico:RecordResource rdf:about="recordResource/or-hubant-32-virt4">
+      <rdfs:label xml:lang="fr">Règlement du collège de Hubant par l'abbé de Sainte-Geneviève</rdfs:label>
+      <rico:title xml:lang="fr">Règlement du collège de Hubant par l'abbé de Sainte-Geneviève</rico:title>
+      <rico:hasCopy rdf:resource="recordResource/or-hubant-32"/>
+   </rico:RecordResource>
+   <rico:RecordResource rdf:about="recordResource/or-hubant-32-virt5">
+      <rdfs:label xml:lang="fr">Vidimus de la prévôté de Paris d'un acte de l'abbé de Sainte-Geneviève concernant la chapelle du collège de Hubant</rdfs:label>
+      <rico:title xml:lang="fr">Vidimus de la prévôté de Paris d'un acte de l'abbé de Sainte-Geneviève concernant la chapelle du collège de Hubant</rico:title>
+      <rico:hasCopy rdf:resource="recordResource/or-hubant-32"/>
+   </rico:RecordResource>
+   <rico:RecordResource rdf:about="recordResource/or-hubant-32-virt6">
+      <rdfs:label xml:lang="fr">Acte de Benoît XII</rdfs:label>
+      <rico:title xml:lang="fr">Acte de Benoît XII</rico:title>
+      <rico:hasCopy rdf:resource="recordResource/or-hubant-32"/>
+   </rico:RecordResource>
+   <rico:RecordResource rdf:about="recordResource/or-hubant-32-virt7">
+      <rdfs:label xml:lang="fr">Acte de l'abbé de Sainte-Geneviève concernant la fondation de 5 écoliers par Jean de Hubant</rdfs:label>
+      <rico:title xml:lang="fr">Acte de l'abbé de Sainte-Geneviève concernant la fondation de 5 écoliers par Jean de Hubant</rico:title>
+      <rico:hasCopy rdf:resource="recordResource/or-hubant-32"/>
+   </rico:RecordResource>
+   <rico:RecordResource rdf:about="recordResource/or-hubant-32-virt8">
+      <rdfs:label xml:lang="fr">Acte de Benoît XII confirmant la fondation de la chapelle du collège de Hubant</rdfs:label>
+      <rico:title xml:lang="fr">Acte de Benoît XII confirmant la fondation de la chapelle du collège de Hubant</rico:title>
+      <rico:hasCopy rdf:resource="recordResource/or-hubant-32"/>
+   </rico:RecordResource>
+   <rico:RecordResource rdf:about="recordResource/or-hubant-32-virt9">
+      <rdfs:label xml:lang="fr">Règlement du collège de Hubant par Jean, abbé de Sainte-Geneviève, et Pierre de Halliaco, maître du collège de Champagne, exécuteurs testamentaires de Jean de Hubant</rdfs:label>
+      <rico:title xml:lang="fr">Règlement du collège de Hubant par Jean, abbé de Sainte-Geneviève, et Pierre de Halliaco, maître du collège de Champagne, exécuteurs testamentaires de Jean de Hubant</rico:title>
+      <rico:hasCopy rdf:resource="recordResource/or-hubant-32"/>
+   </rico:RecordResource>
+   <rico:RecordResource rdf:about="recordResource/or-hubant-32-virt11">
+      <rdfs:label xml:lang="fr">Acte de l'abbé de Sainte-Geneviève et de Stéphane Loret, maître en théologie au collège de Navarre, supérieurs du collège de Hubant, qui ordonne que les comptes du collège leur soient rendus par Philippe Boyssot, principal, et qui nomme 3 nouveaux boursiers</rdfs:label>
+      <rico:title xml:lang="fr">Acte de l'abbé de Sainte-Geneviève et de Stéphane Loret, maître en théologie au collège de Navarre, supérieurs du collège de Hubant, qui ordonne que les comptes du collège leur soient rendus par Philippe Boyssot, principal, et qui nomme 3 nouveaux boursiers</rico:title>
+      <rico:hasCopy rdf:resource="recordResource/or-hubant-32"/>
+   </rico:RecordResource>
+</rdf:RDF>

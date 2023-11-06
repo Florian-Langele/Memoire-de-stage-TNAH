@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:html="http://www.w3.org/1999/xhtml"
+         xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:rico="https://www.ica.org/standards/RiC/ontology#"
+         xml:base="http://data.oresm.fr/">
+   <rico:RecordResource rdf:about="recordResource/or-cholets-284">
+      <rico:title xml:lang="fr">Vidimus de l'official de Beauvais de l'acte par lequel Pierre de Tyverny et Philippe, sa femme, vendent à messires Évrad de Noyentel et Gérard de Saint-Just, chanoines de Beauvais, exécuteurs du testament de feu Jean Cholet, cardinal et prêtre du titre de Sainte-Cécile, les dîmes du Jart et de Monsterel, près Melun</rico:title>
+      <rdfs:label xml:lang="fr">Vidimus de l'official de Beauvais de l'acte par lequel Pierre de Tyverny et Philippe, sa femme, vendent à messires Évrad de Noyentel et Gérard de Saint-Just, chanoines de Beauvais, exécuteurs du testament de feu Jean Cholet, cardinal et prêtre du titre de Sainte-Cécile, les dîmes du Jart et de Monsterel, près Melun</rdfs:label>
+      <rico:hasOrHadLanguage rdf:resource="http://data.archives-nationales.culture.gouv.fr/language/FRAN_RI_100-name9"/>
+      <rico:hasOrHadLanguage rdf:resource="http://data.archives-nationales.culture.gouv.fr/language/FRAN_RI_100-name4"/>
+      <oresm-onto:nombreApproximatifNomsPersonnesPresents rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</oresm-onto:nombreApproximatifNomsPersonnesPresents>
+      <oresm-onto:presenceDeSceau rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</oresm-onto:presenceDeSceau>
+      <oresm-onto:noteSceau>Scellé</oresm-onto:noteSceau>
+      <rico:hasInstantiation rdf:resource="instantiation/or-cholets-284"/>
+   </rico:RecordResource>
+   <rico:Instantiation rdf:about="instantiation/or-cholets-284">
+      <rico:title xml:lang="fr">Vidimus de l'official de Beauvais de l'acte par lequel Pierre de Tyverny et Philippe, sa femme, vendent à messires Évrad de Noyentel et Gérard de Saint-Just, chanoines de Beauvais, exécuteurs du testament de feu Jean Cholet, cardinal et prêtre du titre de Sainte-Cécile, les dîmes du Jart et de Monsterel, près Melun</rico:title>
+      <rdfs:label xml:lang="fr">Vidimus de l'official de Beauvais de l'acte par lequel Pierre de Tyverny et Philippe, sa femme, vendent à messires Évrad de Noyentel et Gérard de Saint-Just, chanoines de Beauvais, exécuteurs du testament de feu Jean Cholet, cardinal et prêtre du titre de Sainte-Cécile, les dîmes du Jart et de Monsterel, près Melun</rdfs:label>
+      <rico:isInstantiationOf rdf:resource="recordResource/or-cholets-284"/>
+      <oresm-onto:estActuellementConservePar rdf:resource="corporateBody/029050421"/>
+      <rico:instantiationExtent xml:lang="fr">1 pièce</rico:instantiationExtent>
+      <rico:physicalCharacteristics xml:lang="fr">Scellé</rico:physicalCharacteristics>
+      <oresm-onto:presenceAutreMention rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</oresm-onto:presenceAutreMention>
+      <oresm-onto:presenceMentionDorsale rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</oresm-onto:presenceMentionDorsale>
+   </rico:Instantiation>
+   <rico:RecordResource rdf:about="recordResource/or-cholets-284-virt1">
+      <rdfs:label xml:lang="fr">Acte par lequel Pierre de Tyverny et Philippe, sa femme, vendent à messires Évrad de Noyentel et Gérard de Saint-Just, chanoines de Beauvais, exécuteurs du testament de feu Jean Cholet, cardinal et prêtre du titre de Sainte-Cécile, les dîmes du Jart et de Monsterel, près Melun</rdfs:label>
+      <rico:title xml:lang="fr">Acte par lequel Pierre de Tyverny et Philippe, sa femme, vendent à messires Évrad de Noyentel et Gérard de Saint-Just, chanoines de Beauvais, exécuteurs du testament de feu Jean Cholet, cardinal et prêtre du titre de Sainte-Cécile, les dîmes du Jart et de Monsterel, près Melun</rico:title>
+      <oresm-onto:aPourVidimus rdf:resource="recordResource/or-cholets-284"/>
+   </rico:RecordResource>
+</rdf:RDF>

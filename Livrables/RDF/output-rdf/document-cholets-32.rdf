@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:html="http://www.w3.org/1999/xhtml"
+         xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:rico="https://www.ica.org/standards/RiC/ontology#"
+         xml:base="http://data.oresm.fr/">
+   <rico:RecordResource rdf:about="recordResource/or-cholets-32">
+      <rico:title xml:lang="fr">Copie d'une déposition de témoins pour Jean Boilliat, chanoine de Saint-Étienne-des-Grès à Paris, contre les maîtres et écoliers du collège au sujet d’une rente sur l’« ostel des maistres et escolliers des Grans Choles »</rico:title>
+      <rdfs:label xml:lang="fr">Copie d'une déposition de témoins pour Jean Boilliat, chanoine de Saint-Étienne-des-Grès à Paris, contre les maîtres et écoliers du collège au sujet d’une rente sur l’« ostel des maistres et escolliers des Grans Choles »</rdfs:label>
+      <rdfs:seeAlso rdf:resource="https://www.siv.archives-nationales.culture.gouv.fr/siv/UD/FRAN_IR_032408/c-4hw92zske-vojbr9akg1oe"/>
+      <rico:hasOrHadLanguage rdf:resource="http://data.archives-nationales.culture.gouv.fr/language/FRAN_RI_100-name4"/>
+      <oresm-onto:nombreApproximatifNomsPersonnesPresents rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">50</oresm-onto:nombreApproximatifNomsPersonnesPresents>
+      <rico:hasInstantiation rdf:resource="instantiation/or-cholets-32"/>
+   </rico:RecordResource>
+   <rico:Instantiation rdf:about="instantiation/or-cholets-32">
+      <rico:title xml:lang="fr">Copie d'une déposition de témoins pour Jean Boilliat, chanoine de Saint-Étienne-des-Grès à Paris, contre les maîtres et écoliers du collège au sujet d’une rente sur l’« ostel des maistres et escolliers des Grans Choles »</rico:title>
+      <rdfs:label xml:lang="fr">Copie d'une déposition de témoins pour Jean Boilliat, chanoine de Saint-Étienne-des-Grès à Paris, contre les maîtres et écoliers du collège au sujet d’une rente sur l’« ostel des maistres et escolliers des Grans Choles »</rdfs:label>
+      <rico:isInstantiationOf rdf:resource="recordResource/or-cholets-32"/>
+      <oresm-onto:estActuellementConservePar rdf:resource="corporateBody/005061"/>
+      <rico:height>9400 mm</rico:height>
+      <rico:width>210 mm</rico:width>
+      <rico:instantiationExtent xml:lang="fr">1 pièce</rico:instantiationExtent>
+      <oresm-onto:presenceAutreMention rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</oresm-onto:presenceAutreMention>
+      <oresm-onto:presenceMentionDorsale rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</oresm-onto:presenceMentionDorsale>
+      <oresm-onto:transcriptionDeLaOuLesMentionsDorsales>« Collège des Cholets » ; « Coppie des tesmoings excritz pour messire Jehan Boilliat contre les maistres et escolliers des Choles XV [?] » ; « 1392 » ; « M 111 n° 26 » ; « E »</oresm-onto:transcriptionDeLaOuLesMentionsDorsales>
+   </rico:Instantiation>
+   <rico:RecordResource rdf:about="recordResource/or-cholets-32-virt1">
+      <rdfs:label xml:lang="fr">Déposition de témoins pour Jean Boilliat, chanoine de Saint-Étienne-des-Grès à Paris, contre les maîtres et écoliers du collège au sujet d’une rente sur l’« ostel des maistres et escolliers des Grans Choles »</rdfs:label>
+      <rico:title xml:lang="fr">Déposition de témoins pour Jean Boilliat, chanoine de Saint-Étienne-des-Grès à Paris, contre les maîtres et écoliers du collège au sujet d’une rente sur l’« ostel des maistres et escolliers des Grans Choles »</rico:title>
+      <rico:hasCopy rdf:resource="recordResource/or-cholets-32"/>
+   </rico:RecordResource>
+</rdf:RDF>

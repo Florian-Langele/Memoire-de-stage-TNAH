@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:html="http://www.w3.org/1999/xhtml"
+         xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:rico="https://www.ica.org/standards/RiC/ontology#"
+         xml:base="http://data.oresm.fr/">
+   <rico:RecordResource rdf:about="recordResource/or-cholets-5">
+      <rico:title xml:lang="fr">Vidimus de l'official de Paris de la fondation du collège par Évrard de Noyelles et Gérard de Saint-Just, chanoines de Beauvais, exécuteurs testamentaires du cardinal Cholet</rico:title>
+      <rdfs:label xml:lang="fr">Vidimus de l'official de Paris de la fondation du collège par Évrard de Noyelles et Gérard de Saint-Just, chanoines de Beauvais, exécuteurs testamentaires du cardinal Cholet</rdfs:label>
+      <rdfs:seeAlso rdf:resource="https://www.siv.archives-nationales.culture.gouv.fr/siv/UD/FRAN_IR_032408/c-4htagkj34-106fzxvbobx9k"/>
+      <rico:hasOrHadLanguage rdf:resource="http://data.archives-nationales.culture.gouv.fr/language/FRAN_RI_100-name9"/>
+      <oresm-onto:nombreApproximatifNomsPersonnesPresents rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</oresm-onto:nombreApproximatifNomsPersonnesPresents>
+      <rico:hasInstantiation rdf:resource="instantiation/or-cholets-5"/>
+   </rico:RecordResource>
+   <rico:Instantiation rdf:about="instantiation/or-cholets-5">
+      <rico:title xml:lang="fr">Vidimus de l'official de Paris de la fondation du collège par Évrard de Noyelles et Gérard de Saint-Just, chanoines de Beauvais, exécuteurs testamentaires du cardinal Cholet</rico:title>
+      <rdfs:label xml:lang="fr">Vidimus de l'official de Paris de la fondation du collège par Évrard de Noyelles et Gérard de Saint-Just, chanoines de Beauvais, exécuteurs testamentaires du cardinal Cholet</rdfs:label>
+      <rico:isInstantiationOf rdf:resource="recordResource/or-cholets-5"/>
+      <oresm-onto:estActuellementConservePar rdf:resource="corporateBody/005061"/>
+      <rico:height>544 mm</rico:height>
+      <rico:width>422 mm</rico:width>
+      <rico:instantiationExtent xml:lang="fr">1 pièce</rico:instantiationExtent>
+      <oresm-onto:presenceAutreMention rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</oresm-onto:presenceAutreMention>
+      <oresm-onto:descriptionAutreMention>Mention hors teneur</oresm-onto:descriptionAutreMention>
+      <oresm-onto:presenceMentionDorsale rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</oresm-onto:presenceMentionDorsale>
+      <oresm-onto:transcriptionDeLaOuLesMentionsDorsales>"R" ; "Transcriptum prime ordinationis magistrorum Evrardi de Noyentelo et Gyrardi de sancto Justo executorum testamenti cardinalis Choleti" ; "Apographum [...] ordinationis […] domus" ; "5L" ; "25e piece 46e liasse" ; "[?]" ; "M 111 n° 5"</oresm-onto:transcriptionDeLaOuLesMentionsDorsales>
+   </rico:Instantiation>
+   <rico:RecordResource rdf:about="recordResource/or-cholets-5-virt1">
+      <rdfs:label xml:lang="fr">Fondation du collège des Cholets par Évrard de Noyelles et Gérard de Saint-Just, chanoines de Beauvais, exécuteurs testamentaires du cardinal Cholet : justification de l’emploi des sommes léguées par le cardinal, notamment contruction d’un tombeau, amortissement et réparation de la maison sur la montagne Sainte-Geneviève, fondation d’une rente pour les écoliers, achat de livres et d’ustensiles</rdfs:label>
+      <rico:title xml:lang="fr">Fondation du collège des Cholets par Évrard de Noyelles et Gérard de Saint-Just, chanoines de Beauvais, exécuteurs testamentaires du cardinal Cholet : justification de l’emploi des sommes léguées par le cardinal, notamment contruction d’un tombeau, amortissement et réparation de la maison sur la montagne Sainte-Geneviève, fondation d’une rente pour les écoliers, achat de livres et d’ustensiles</rico:title>
+      <oresm-onto:aPourVidimus rdf:resource="recordResource/or-cholets-5"/>
+      <rico:hasInstantiation>
+         <rico:Instantiation>
+            <rico:descriptiveNote xml:lang="fr">Acte non retrouvé à ce jour.</rico:descriptiveNote>
+            <rico:identifier>lost-60ed5435-93b2-44da-954f-4ddd88065f6a</rico:identifier>
+         </rico:Instantiation>
+      </rico:hasInstantiation>
+   </rico:RecordResource>
+</rdf:RDF>

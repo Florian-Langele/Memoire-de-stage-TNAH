@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:html="http://www.w3.org/1999/xhtml"
+         xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:rico="https://www.ica.org/standards/RiC/ontology#"
+         xml:base="http://data.oresm.fr/">
+   <rico:RecordResource rdf:about="recordResource/or-cholets-15">
+      <rico:title xml:lang="fr">Vidimus de l'official de Paris d'une bulle de Boniface VIII qui confie au cardinal Lemoine l’achèvement de l’exécution du testament du cardinal Cholet</rico:title>
+      <rdfs:label xml:lang="fr">Vidimus de l'official de Paris d'une bulle de Boniface VIII qui confie au cardinal Lemoine l’achèvement de l’exécution du testament du cardinal Cholet</rdfs:label>
+      <rdfs:seeAlso rdf:resource="https://www.siv.archives-nationales.culture.gouv.fr/siv/UD/FRAN_IR_032408/c-4htagovgo--4gye083xzsa6"/>
+      <rico:hasOrHadLanguage rdf:resource="http://data.archives-nationales.culture.gouv.fr/language/FRAN_RI_100-name9"/>
+      <oresm-onto:nombreApproximatifNomsPersonnesPresents rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</oresm-onto:nombreApproximatifNomsPersonnesPresents>
+      <rico:hasInstantiation rdf:resource="instantiation/or-cholets-15"/>
+   </rico:RecordResource>
+   <rico:Instantiation rdf:about="instantiation/or-cholets-15">
+      <rico:title xml:lang="fr">Vidimus de l'official de Paris d'une bulle de Boniface VIII qui confie au cardinal Lemoine l’achèvement de l’exécution du testament du cardinal Cholet</rico:title>
+      <rdfs:label xml:lang="fr">Vidimus de l'official de Paris d'une bulle de Boniface VIII qui confie au cardinal Lemoine l’achèvement de l’exécution du testament du cardinal Cholet</rdfs:label>
+      <rico:isInstantiationOf rdf:resource="recordResource/or-cholets-15"/>
+      <oresm-onto:estActuellementConservePar rdf:resource="corporateBody/005061"/>
+      <rico:height>192 mm</rico:height>
+      <rico:width>295 mm</rico:width>
+      <rico:instantiationExtent xml:lang="fr">1 pièce</rico:instantiationExtent>
+      <oresm-onto:presenceAutreMention rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</oresm-onto:presenceAutreMention>
+      <oresm-onto:descriptionAutreMention>Mention hors teneur</oresm-onto:descriptionAutreMention>
+      <oresm-onto:presenceMentionDorsale rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</oresm-onto:presenceMentionDorsale>
+      <oresm-onto:transcriptionDeLaOuLesMentionsDorsales>"Vidimus huius bulla ab officialis Pairiensi L.J." ; "M 111 n° 14" ; il y a un H barré ; "Litera de vidimus bulle Bonifacii ad cardinalem Monachi qua subsituitur in executione testamenti cardinalis Choletti et [?] in dicto testamento" ; "Copia littere [?] domini Monachi [...] domini Choleti C.e"</oresm-onto:transcriptionDeLaOuLesMentionsDorsales>
+   </rico:Instantiation>
+   <rico:RecordResource rdf:about="recordResource/or-cholets-15-virt1">
+      <rdfs:label xml:lang="fr">Bulle de Boniface VIII qui confie au cardinal Lemoine l’achèvement de l’exécution du testament du cardinal Cholet</rdfs:label>
+      <rico:title xml:lang="fr">Bulle de Boniface VIII qui confie au cardinal Lemoine l’achèvement de l’exécution du testament du cardinal Cholet</rico:title>
+      <oresm-onto:aPourVidimus rdf:resource="recordResource/or-cholets-15"/>
+      <rico:hasInstantiation>
+         <rico:Instantiation>
+            <rico:descriptiveNote xml:lang="fr">Acte non retrouvé à ce jour.</rico:descriptiveNote>
+            <rico:identifier>lost-5144788d-8ef1-44bd-8613-090938f56a51</rico:identifier>
+         </rico:Instantiation>
+      </rico:hasInstantiation>
+   </rico:RecordResource>
+</rdf:RDF>

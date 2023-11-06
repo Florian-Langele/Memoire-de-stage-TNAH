@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<roles xmlns:dc="http://purl.org/dc/elements/1.1/"
+       xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+       xmlns:owl="http://www.w3.org/2002/07/owl#"
+       xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+       xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+       xmlns:rico="https://www.ica.org/standards/RiC/ontology#">
+   <role/>
+   <role>auteur</role>
+   <role>auteur / bénéficiaire</role>
+   <role>auteur / donateur</role>
+   <role>auteur / rédacteur</role>
+   <role>auteur / rédacteur / testateur</role>
+   <role>auteur / testateur</role>
+   <role>auteur / testateur / personne concernée</role>
+   <role>auteur/testateur</role>
+   <role>bénéficiaire</role>
+   <role>destinataire</role>
+   <role>destinataire / auteur</role>
+   <role>destinataire / bénéficiaire</role>
+   <role>donataire</role>
+   <role>donateur</role>
+   <role>donateur / auteur</role>
+   <role>personne concernée</role>
+   <role>personne concernée / auteur</role>
+   <role>personne concernée / testateur</role>
+   <role>rédacteur</role>
+   <role>testateur</role>
+   <role>témoin</role>
+</roles>

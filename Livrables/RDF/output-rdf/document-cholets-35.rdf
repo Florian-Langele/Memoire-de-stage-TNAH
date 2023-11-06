@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:html="http://www.w3.org/1999/xhtml"
+         xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:rico="https://www.ica.org/standards/RiC/ontology#"
+         xml:base="http://data.oresm.fr/">
+   <rico:RecordResource rdf:about="recordResource/or-cholets-35">
+      <rico:title xml:lang="fr">Inventaire des biens de feu Jean Cadel, trésorier de Saint-Wulfran d'Abbeville et chanoine d'Amiens</rico:title>
+      <rdfs:label xml:lang="fr">Inventaire des biens de feu Jean Cadel, trésorier de Saint-Wulfran d'Abbeville et chanoine d'Amiens</rdfs:label>
+      <rdfs:seeAlso rdf:resource="https://www.siv.archives-nationales.culture.gouv.fr/siv/UD/FRAN_IR_032408/c-4hxmpe8aq--bauibqakl3zh"/>
+      <rico:hasOrHadLanguage rdf:resource="http://data.archives-nationales.culture.gouv.fr/language/FRAN_RI_100-name4"/>
+      <oresm-onto:nombreApproximatifNomsPersonnesPresents rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</oresm-onto:nombreApproximatifNomsPersonnesPresents>
+      <rico:hasInstantiation rdf:resource="instantiation/or-cholets-35"/>
+   </rico:RecordResource>
+   <rico:Instantiation rdf:about="instantiation/or-cholets-35">
+      <rico:title xml:lang="fr">Inventaire des biens de feu Jean Cadel, trésorier de Saint-Wulfran d'Abbeville et chanoine d'Amiens</rico:title>
+      <rdfs:label xml:lang="fr">Inventaire des biens de feu Jean Cadel, trésorier de Saint-Wulfran d'Abbeville et chanoine d'Amiens</rdfs:label>
+      <rico:isInstantiationOf rdf:resource="recordResource/or-cholets-35"/>
+      <oresm-onto:estActuellementConservePar rdf:resource="corporateBody/005061"/>
+      <rico:height>888 mm</rico:height>
+      <rico:width>530 mm</rico:width>
+      <rico:instantiationExtent xml:lang="fr">1 pièce</rico:instantiationExtent>
+      <oresm-onto:presenceAutreMention rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</oresm-onto:presenceAutreMention>
+      <oresm-onto:descriptionAutreMention>Mention hors teneur</oresm-onto:descriptionAutreMention>
+      <oresm-onto:presenceMentionDorsale rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</oresm-onto:presenceMentionDorsale>
+      <oresm-onto:transcriptionDeLaOuLesMentionsDorsales>« Inventaire des bien de monsieur Cadel » ; « Inventaire des biens de Jean Cadel 1395 6 septembre 10.A. » ; « M 111 n° 29 » ; « 45e pièce de la 44e liasse » ; « C’est l’inventaire des biens de feu messire Jehan Cadel jadi chanoine d’Amiens et trésorier d’Abbeville qui furent trouvez à Paris T » ; « Par ceste inventaire appert que il ly avoit [?] on fit l’inventaire des biens de feu messire Jehan Maillart et messire Jehan Cadel par lesquelles il apperoit que Michel Gosselin avoit ballié cédé et transporté la succession qui li appartenoit de feu maistre Jehan Cadel, jadi procureur en Parlement, a messire Jehan Cadel et au prouffit de le [?] dudit maistre Jehan Cadel, lesquelles seront balliés a maistre Robert Petit clerc, avent le testament de feu maistre Jehan Cadel, jadi procureur en Parlement, duquel la clause est avent les lettres qui en ceste boite sont mises. Item en ycelle est faicte mention comment [?] ceda et transporta le droit qui luy appartenoit par le lais a ycelle fait par le dit feu maistre Jehan Cadel dessus nommé a messire Cadel. Item et en apres par ceste inventaire appert comment le donateur messire Jehan Cadel chanoine d’Amient a pris et esté en possession foy et hommage des choses contencieuses et ces deux lettres [?] sont en la main de maistre Jehan de Trenlieres. T »</oresm-onto:transcriptionDeLaOuLesMentionsDorsales>
+   </rico:Instantiation>
+</rdf:RDF>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:html="http://www.w3.org/1999/xhtml"
+         xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:rico="https://www.ica.org/standards/RiC/ontology#"
+         xml:base="http://data.oresm.fr/">
+   <rico:RecordResource rdf:about="recordResource/or-cholets-4">
+      <rico:title xml:lang="fr">Vidimus par Mathieu, évêque de Porto-Santa Rufina, du testament du cardinal Cholet, fondateur du collège, par lequel entre autres, il fait un don aux étudiants en théologie de la faculté de Paris</rico:title>
+      <rdfs:label xml:lang="fr">Vidimus par Mathieu, évêque de Porto-Santa Rufina, du testament du cardinal Cholet, fondateur du collège, par lequel entre autres, il fait un don aux étudiants en théologie de la faculté de Paris</rdfs:label>
+      <rdfs:seeAlso rdf:resource="https://www.siv.archives-nationales.culture.gouv.fr/siv/UD/FRAN_IR_032408/c-4htagila4--8hmcaqny5hej"/>
+      <rico:hasOrHadLanguage rdf:resource="http://data.archives-nationales.culture.gouv.fr/language/FRAN_RI_100-name9"/>
+      <oresm-onto:nombreApproximatifNomsPersonnesPresents rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</oresm-onto:nombreApproximatifNomsPersonnesPresents>
+      <oresm-onto:presenceDeSceau rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</oresm-onto:presenceDeSceau>
+      <oresm-onto:noteSceau>Sceau de cire rouge</oresm-onto:noteSceau>
+      <rico:isRecordResourceAssociatedWithRecordResource rdf:resource="recordResource/or-cholets-2"/>
+      <rico:isRecordResourceAssociatedWithRecordResource rdf:resource="recordResource/or-cholets-25"/>
+      <rico:isRecordResourceAssociatedWithRecordResource rdf:resource="recordResource/or-cholets-26"/>
+      <rico:isRecordResourceAssociatedWithRecordResource rdf:resource="recordResource/or-cholets-27"/>
+      <rico:isRecordResourceAssociatedWithRecordResource rdf:resource="recordResource/or-cholets-28"/>
+      <rico:isRecordResourceAssociatedWithRecordResource rdf:resource="recordResource/or-cholets-29"/>
+      <rico:isRecordResourceAssociatedWithRecordResource rdf:resource="recordResource/or-cholets-30"/>
+      <rico:isRecordResourceAssociatedWithRecordResource rdf:resource="recordResource/or-cholets-31"/>
+      <rico:isRecordResourceAssociatedWithRecordResource rdf:resource="recordResource/or-cholets-32"/>
+      <rico:isRecordResourceAssociatedWithRecordResource rdf:resource="recordResource/or-cholets-33"/>
+      <rico:isRecordResourceAssociatedWithRecordResource rdf:resource="recordResource/or-cholets-34"/>
+      <rico:isRecordResourceAssociatedWithRecordResource rdf:resource="recordResource/or-cholets-35"/>
+      <rico:hasInstantiation rdf:resource="instantiation/or-cholets-4"/>
+      <oresm-onto:estVidimusDe rdf:resource="recordResource/or-cholets-2"/>
+   </rico:RecordResource>
+   <rico:Instantiation rdf:about="instantiation/or-cholets-4">
+      <rico:title xml:lang="fr">Vidimus par Mathieu, évêque de Porto-Santa Rufina, du testament du cardinal Cholet, fondateur du collège, par lequel entre autres, il fait un don aux étudiants en théologie de la faculté de Paris</rico:title>
+      <rdfs:label xml:lang="fr">Vidimus par Mathieu, évêque de Porto-Santa Rufina, du testament du cardinal Cholet, fondateur du collège, par lequel entre autres, il fait un don aux étudiants en théologie de la faculté de Paris</rdfs:label>
+      <rico:isInstantiationOf rdf:resource="recordResource/or-cholets-4"/>
+      <oresm-onto:estActuellementConservePar rdf:resource="corporateBody/005061"/>
+      <rico:height>530 mm</rico:height>
+      <rico:width>791 mm</rico:width>
+      <rico:instantiationExtent xml:lang="fr">1 pièce</rico:instantiationExtent>
+      <rico:physicalCharacteristics xml:lang="fr">Sceau de cire rouge</rico:physicalCharacteristics>
+      <oresm-onto:presenceAutreMention rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</oresm-onto:presenceAutreMention>
+      <oresm-onto:presenceMentionDorsale rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</oresm-onto:presenceMentionDorsale>
+      <oresm-onto:transcriptionDeLaOuLesMentionsDorsales>"Instrumentum in quo de verbo ad verbum describitur testamentum cardinalis Choleti vidimus 1292 4 août I.D." ; il y a un E barré ; "Instrumentum et vidimus [?] cardinalis Choleti 1292 sede vacante die 4 augusti" ; "M 111 n° 4" ; "Instrumentum et vidimus testamenti fundatoris [?]"</oresm-onto:transcriptionDeLaOuLesMentionsDorsales>
+   </rico:Instantiation>
+</rdf:RDF>

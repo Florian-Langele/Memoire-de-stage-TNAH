@@ -1,0 +1,26 @@
+.optionalArrow {
+    height: 48px;
+    width:34px;
+    margin-right: -20px;
+    position: relative;
+    cursor:pointer;
+    svg {
+        stroke: var(--silver-color-light);
+        stroke-width: 3px;
+        path{
+            filter:url(#filter19278);
+        }
+        fill: var(--secondary-color-main);
+        stroke-width: 2.5px;
+        position: absolute;
+        z-index: 1;
+        left: -7px;
+    }
+    &.disabledbutton {
+        svg{
+            fill: gray;
+            opacity: 0.4;
+        }
+        pointer-events: none;
+    }
+}

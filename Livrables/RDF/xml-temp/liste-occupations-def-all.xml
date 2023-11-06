@@ -1,0 +1,1057 @@
+<?xml version="1.0" encoding="utf-8"?>
+<occupations-def xmlns:dc="http://purl.org/dc/elements/1.1/"
+                 xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+                 xmlns:owl="http://www.w3.org/2002/07/owl#"
+                 xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+                 xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+                 xmlns:rico="https://www.ica.org/standards/RiC/ontology#">
+   <occupation>[?] en la prévôté de Courcelles-en-Brie</occupation>
+   <occupation>abbé de Fécamp</occupation>
+   <occupation>abbé de Ferrières au diocèse de Sens</occupation>
+   <occupation>abbé de la Grande Confrérie de Notre-Dame</occupation>
+   <occupation>abbé de la Sainte-Trinité de Fécamp</occupation>
+   <occupation>abbé de la Trinité de Fécamp</occupation>
+   <occupation>abbé de Sainte-Geneviève</occupation>
+   <occupation>abbé de Saint-Georges</occupation>
+   <occupation>abbé de Saint-Jean-du-Jard</occupation>
+   <occupation>abbé de Saint-Vaast d’Arras</occupation>
+   <occupation>abbé de Saint-Victor</occupation>
+   <occupation>abbé de Saint-Vincent de Senlis</occupation>
+   <occupation>aîné des enfants de chœur</occupation>
+   <occupation>ancien boursier du collège de Fortet</occupation>
+   <occupation>ancien receveur général de l’université de Paris</occupation>
+   <occupation>ancien recteur de l’université de Paris</occupation>
+   <occupation>archer de la compagnie de Conconnas</occupation>
+   <occupation>archer de la compagnie du marquis de Nomeny</occupation>
+   <occupation>archevêque d’Aix</occupation>
+   <occupation>archidiacre à Cambrai</occupation>
+   <occupation>archidiacre de Châlons</occupation>
+   <occupation>archidiacre de Grand Caux</occupation>
+   <occupation>archidiacre de l’église de Paris</occupation>
+   <occupation>archidiacre de Rouen</occupation>
+   <occupation>archidiacre de Tournais</occupation>
+   <occupation>archidiacre d’Arras</occupation>
+   <occupation>archidiacre d’Utrecht</occupation>
+   <occupation>archidiacre et chanoine de l’église de Paris</occupation>
+   <occupation>archidiacre et chanoine de Verdun</occupation>
+   <occupation>archiprêtre d’Aurillac</occupation>
+   <occupation>archiviste du chapitre de l’église de Paris</occupation>
+   <occupation>aumônier du roi</occupation>
+   <occupation>auparavant femme de feu Marin Trosnyer</occupation>
+   <occupation>auparavant femme de Marin Crosnier</occupation>
+   <occupation>avocat à la cour ecclésiastique</occupation>
+   <occupation>avocat au grand conseil</occupation>
+   <occupation>avocat au parlement</occupation>
+   <occupation>avocat au Parlement</occupation>
+   <occupation>avocat au parlement de Paris</occupation>
+   <occupation>avocat au siège royal de Péronne</occupation>
+   <occupation>avocat en cour d’église</occupation>
+   <occupation>avocat en cour ecclésiastique</occupation>
+   <occupation>avocat en la cour de [?] de la ville de Péronne</occupation>
+   <occupation>avocat en la cour de parlement</occupation>
+   <occupation>avocat en parlement</occupation>
+   <occupation>avocat en Parlement</occupation>
+   <occupation>bachelier</occupation>
+   <occupation>bachelier en décret</occupation>
+   <occupation>bachelier en droit canonique</occupation>
+   <occupation>bachelier en théologie</occupation>
+   <occupation>bachelier ès arts</occupation>
+   <occupation>bachelier ès droit</occupation>
+   <occupation>bachelier ès lois</occupation>
+   <occupation>bailli de l’évêque de Paris</occupation>
+   <occupation>bailli de Melun</occupation>
+   <occupation>bailli de Paris</occupation>
+   <occupation>bailli de Troyes</occupation>
+   <occupation>barbier</occupation>
+   <occupation>barbier à Paris</occupation>
+   <occupation>barbier et bourgeois de Paris</occupation>
+   <occupation>baron et seigneur d’Allègre</occupation>
+   <occupation>batteur d’or</occupation>
+   <occupation>bénéficier en l’église de Paris</occupation>
+   <occupation>boucher au mont Sainte-Geneviève</occupation>
+   <occupation>boulanger demeurant au collège de Navarre</occupation>
+   <occupation>boulanger forain</occupation>
+   <occupation>bourgeois de la ville d’Aurillac</occupation>
+   <occupation>bourgeois de la ville d’Aurillac en Auvergne</occupation>
+   <occupation>bourgeois de Paris</occupation>
+   <occupation>bourgeoise de Paris</occupation>
+   <occupation>bourgeois en la ville d’Agen</occupation>
+   <occupation>boursier artien du collège de Navarre</occupation>
+   <occupation>boursier du collège de Bayeux</occupation>
+   <occupation>boursier du collège de Cornouaille</occupation>
+   <occupation>boursier du collège de Fortet</occupation>
+   <occupation>boursier du collège de Hubant</occupation>
+   <occupation>boursier du collège de la Marche</occupation>
+   <occupation>boursier du collège de Lisieux</occupation>
+   <occupation>boursier du collège de Navarre</occupation>
+   <occupation>boursier du collège des Cholets</occupation>
+   <occupation>boursier du collège des Dix-Huit</occupation>
+   <occupation>boursier du collège de Sorbonne</occupation>
+   <occupation>boursier du collège de Torcy</occupation>
+   <occupation>boursier du collège du Cardinal Lemoine</occupation>
+   <occupation>boursier et maître du collège des Dix-Huit</occupation>
+   <occupation>boursier et prieur du collège des Dix-Huit</occupation>
+   <occupation>boursier et procureur du collège des Dix-Huit</occupation>
+   <occupation>boursier théologien du collège de Lisieux</occupation>
+   <occupation>boursier théologien du collège de Navarre</occupation>
+   <occupation>boursier théologien du collège des Cholets</occupation>
+   <occupation>capitaine de cinquante hommes d’armes</occupation>
+   <occupation>cardinal</occupation>
+   <occupation>cardinal de Beauvais</occupation>
+   <occupation>cardinal de Coutances</occupation>
+   <occupation>cardinal de saint Pierre et Marcellin</occupation>
+   <occupation>carreleur de souliers</occupation>
+   <occupation>cellérier des Célestins de Notre-Dame de Paris</occupation>
+   <occupation>chambellan du roi</occupation>
+   <occupation>chambrier de l’église de Paris</occupation>
+   <occupation>chambrier de l’église de Sainte Geneviève de Paris au Mont</occupation>
+   <occupation>chambrier de l’église Sainte Geneviève au Mont de Paris</occupation>
+   <occupation>chambrier de l’église Sainte-Geneviève au Mont de Paris</occupation>
+   <occupation>chancelier de France</occupation>
+   <occupation>chancelier de l’église de Paris</occupation>
+   <occupation>chancelier de l’église d’Amiens</occupation>
+   <occupation>chancelier de l’église et de l’université de Paris</occupation>
+   <occupation>chancelier de l’église et université de Paris</occupation>
+   <occupation>chancelier de l’université de Paris</occupation>
+   <occupation>chancelier de Paris</occupation>
+   <occupation>chancelier et chanoine de l’église de Beauvais</occupation>
+   <occupation>chancellier</occupation>
+   <occupation>chanoine</occupation>
+   <occupation>chanoine de Bayeux</occupation>
+   <occupation>chanoine de Beauvais</occupation>
+   <occupation>chanoine de Cambrai</occupation>
+   <occupation>chanoine de Liège</occupation>
+   <occupation>chanoine de l’église collégiale Sainte-Opportune à Paris</occupation>
+   <occupation>chanoine de l’église de Paris</occupation>
+   <occupation>chanoine de l’église Saint-Benoît-le-Bétourné</occupation>
+   <occupation>chanoine de l’église Saint-Vaast de Beauvais</occupation>
+   <occupation>chanoine de Narbonne</occupation>
+   <occupation>chanoine de Nevers</occupation>
+   <occupation>chanoine de Nîmes</occupation>
+   <occupation>chanoine de Notre-Dame</occupation>
+   <occupation>chanoine de Notre-Dame de Paris</occupation>
+   <occupation>chanoine de Noyon</occupation>
+   <occupation>chanoine de Paris</occupation>
+   <occupation>chanoine de Paris, de Nantes et de Cornouaille</occupation>
+   <occupation>chanoine de Saint-Benoît-le-Bétourné</occupation>
+   <occupation>chanoine de Sainte-Opportune</occupation>
+   <occupation>chanoine de Saint-Étienne-des-Grès</occupation>
+   <occupation>chanoine de Saint-Étienne-des-Grès à Paris</occupation>
+   <occupation>chanoine de Saint-Géry de Cambrai</occupation>
+   <occupation>chanoine de Saint-Jean de Liège</occupation>
+   <occupation>chanoine de Saint-Jean-Le-Rond</occupation>
+   <occupation>chanoine de Thérouanne</occupation>
+   <occupation>chanoine de Tours</occupation>
+   <occupation>chanoine d’Amiens</occupation>
+   <occupation>chanoine d’Auxerre</occupation>
+   <occupation>chanoine en l’église de Noyon</occupation>
+   <occupation>chanoine et archidiacre de Verdun</occupation>
+   <occupation>chanoine et chambrier de l’église de Paris</occupation>
+   <occupation>chanoine et chancelier de l’église de Beauvais</occupation>
+   <occupation>chanoine et chancelier de l’église et université de Paris</occupation>
+   <occupation>chanoine et pénitencier de Coutances</occupation>
+   <occupation>chanoine et pénitencier de l’église de Beauvais</occupation>
+   <occupation>chanoine et pénitencier de l’église de Paris</occupation>
+   <occupation>chanoine et sous-chantre de l’église de Paris</occupation>
+   <occupation>chanoine prébandé de l’église Sainte-Geneviève-du-Mont</occupation>
+   <occupation>chanoine prébendé de Beauvais</occupation>
+   <occupation>chanoine prébendé de l’église cathédrale d’Auxerre</occupation>
+   <occupation>chanoine prébendé de l’église de Paris</occupation>
+   <occupation>chanoine semi-prébendé de Saint-Benoît-le-Bétourné</occupation>
+   <occupation>chantre</occupation>
+   <occupation>chantre de Bayeux</occupation>
+   <occupation>chantre et chanoine à Abbeville</occupation>
+   <occupation>chantre et chanoine de Saint-Vulfran à Abbeville</occupation>
+   <occupation>chapelain</occupation>
+   <occupation>chapelain au collège de Navarre</occupation>
+   <occupation>chapelain de la chapelle de Saint-Pierre le Martyr fondée en la chapelle Saint-Laurent en l’église de Paris</occupation>
+   <occupation>chapelain de la chapelle du collège de Navarre</occupation>
+   <occupation>chapelain de la chapelle du roi</occupation>
+   <occupation>chapelain de la chapelle Notre-Dame de Bonnes Nouvelles à Compiègne</occupation>
+   <occupation>chapelain de la chapelle Saint-Pierre en l’église de Paris à l’autel Saint-Laurent</occupation>
+   <occupation>chapelain de l’église de Paris</occupation>
+   <occupation>chapelain de Saint-Germain-l’Auxerrois</occupation>
+   <occupation>chapelain du collège de Cornouaille</occupation>
+   <occupation>chapelain du collège de Hubant</occupation>
+   <occupation>chapelain du collège de la Marche</occupation>
+   <occupation>chapelain du collège de Navarre</occupation>
+   <occupation>chapelain du collège des Dix-Huit</occupation>
+   <occupation>chapelain en l’église de Paris</occupation>
+   <occupation>chapelain et procureur du collège de la Marche</occupation>
+   <occupation>chapelain perpétuel du collège de Navarre</occupation>
+   <occupation>charpentier juré de l’église de Paris</occupation>
+   <occupation>charpentier juré du roi</occupation>
+   <occupation>charron</occupation>
+   <occupation>chevalier</occupation>
+   <occupation>chevalier, seigneur et baron de Treignel</occupation>
+   <occupation>chevalier, seigneur et baron du Tresnel</occupation>
+   <occupation>chevalier baron de Treignel de Marigny</occupation>
+   <occupation>chevalier de l’ordre du roi</occupation>
+   <occupation>chevalier seigneur de Linières</occupation>
+   <occupation>chevalier seigneur de Tresnel</occupation>
+   <occupation>chevecier de Saint-Étienne-des-Grès</occupation>
+   <occupation>chirurgien</occupation>
+   <occupation>chirurgien demeurant à Péronne</occupation>
+   <occupation>chirurgien et barbier</occupation>
+   <occupation>clerc</occupation>
+   <occupation>clerc à Paris</occupation>
+   <occupation>clerc au collège de Navarre</occupation>
+   <occupation>clerc boursier du collège de Fortet</occupation>
+   <occupation>clerc commis juré à la châtellenie et prévôté de Béthisy et Verberie</occupation>
+   <occupation>clerc de Beauvais</occupation>
+   <occupation>clerc de chapelle au collège de Navarre</occupation>
+   <occupation>clerc de Germain Janneau, examinateur au Châtelet de Paris</occupation>
+   <occupation>clerc de la chapelle du collège de Navarre</occupation>
+   <occupation>clerc de la chappelle du collège de Navarre</occupation>
+   <occupation>clerc de la société de la Sorbonne</occupation>
+   <occupation>clerc de la société des maîtres de la maison de Sorbonne</occupation>
+   <occupation>clerc de la Sorbonne</occupation>
+   <occupation>clerc de la ville d’Aurillac</occupation>
+   <occupation>clerc de la ville d’Aurillac du diocèse de Saint-Flour</occupation>
+   <occupation>clerc de l’église de Beauvais</occupation>
+   <occupation>clerc de Noyon</occupation>
+   <occupation>clerc de Paris</occupation>
+   <occupation>clerc de Saint-Flour</occupation>
+   <occupation>clerc du diocèse de Bath</occupation>
+   <occupation>clerc du diocèse de Beauvais</occupation>
+   <occupation>clerc du diocèse de Chartres</occupation>
+   <occupation>clerc du diocèse de Cornouaille</occupation>
+   <occupation>clerc du diocèse de Dol</occupation>
+   <occupation>clerc du diocèse de Limoges</occupation>
+   <occupation>clerc du diocèse de Lyon</occupation>
+   <occupation>clerc du diocèse de Nevers</occupation>
+   <occupation>clerc du diocèse de Noyon</occupation>
+   <occupation>clerc du diocèse de Paris</occupation>
+   <occupation>clerc du diocèse de Reims</occupation>
+   <occupation>clerc du diocèse de Rouen</occupation>
+   <occupation>clerc du diocèse de Saint-Flour</occupation>
+   <occupation>clerc du diocèse de Séez</occupation>
+   <occupation>clerc du diocèse de Sens</occupation>
+   <occupation>clerc du diocèse de Soissons</occupation>
+   <occupation>clerc du diocèse de Troyes</occupation>
+   <occupation>clerc du diocèse d’Amiens</occupation>
+   <occupation>clerc du diocèse d’Arras</occupation>
+   <occupation>clerc d’Amiens</occupation>
+   <occupation>clerc d’Aurillac</occupation>
+   <occupation>clerc d’Aurillac du diocèse de Saint-Flour</occupation>
+   <occupation>clerc écolier à Paris</occupation>
+   <occupation>clerc et conseiller du roi</occupation>
+   <occupation>clerc et notaire du roi</occupation>
+   <occupation>clerc juré commis à la châtellenie et prévôté de Béthisy et Verberie</occupation>
+   <occupation>clerc juré commis au tabellionnage de la prévôté de Béthisy et Verberie</occupation>
+   <occupation>clerc juré de la prévôté de Chantemelle</occupation>
+   <occupation>clerc juré de l’officialité de Meaux</occupation>
+   <occupation>clerc juré du tabellionage de la prévôté de Saint-Mihiel</occupation>
+   <occupation>clerc notaire au Châteler de Paris</occupation>
+   <occupation>clerc notaire au Châtelet de Paris</occupation>
+   <occupation>clerc notaire du roi au Châtelet</occupation>
+   <occupation>clerc notaire du roi au Châtelet de Paris</occupation>
+   <occupation>clerc notaire juré au Châtelet</occupation>
+   <occupation>clerc perpétuel du collège de Navarre</occupation>
+   <occupation>clerc promoteur de l’église de Paris</occupation>
+   <occupation>clerc royal</occupation>
+   <occupation>clerc substitut juré au lieu de Courcelles-en-Brie pour l’absence du tabellion de Marolles-sur-Seine</occupation>
+   <occupation>clerc substitut juré et commis au lieu de Courcelles-en-Brie en l’absence du tabellion de Marolles-sur-Seine</occupation>
+   <occupation>clerc tabellion juré</occupation>
+   <occupation>clerc tabellion juré de la châtellenie de Rochefort</occupation>
+   <occupation>clerc tabellion public</occupation>
+   <occupation>clerc tonsuré du collège de Fortet</occupation>
+   <occupation>commandataire perpétuel de Flavigny</occupation>
+   <occupation>commissaire au Châtelet de Paris</occupation>
+   <occupation>commissaire de l’évêque de Paris pour les causes testamentaires</occupation>
+   <occupation>commissaire et examinateur royal aux bailliage et prévôté de Melun</occupation>
+   <occupation>commissaire spécial du diocèse de Paris pour les causes testamentaires</occupation>
+   <occupation>compagnon et boursier du collège de Sorbonne</occupation>
+   <occupation>comte de Dampmartin</occupation>
+   <occupation>comtesse de Dampmartin</occupation>
+   <occupation>confesseur ordinaire du roi</occupation>
+   <occupation>conseiller, aumônier et prédicateur ordinaire du roi</occupation>
+   <occupation>conseiller à Roye</occupation>
+   <occupation>conseiller au bailliage et siège présidial du Haut-Auvergne établi en la ville d’Aurillac</occupation>
+   <occupation>conseiller au bailliage et siège présidial du haut pays d’Auvergne établi à Aurillac</occupation>
+   <occupation>conseiller au Parlement</occupation>
+   <occupation>conseiller au Parlement de Paris</occupation>
+   <occupation>conseiller au siège présidial d’Aurillac</occupation>
+   <occupation>conseiller du roi</occupation>
+   <occupation>conseiller du roi au bailliage du Haut-Auvergne et siège présidial d’Aurillac</occupation>
+   <occupation>conseiller du roi au Parlement</occupation>
+   <occupation>conseiller du roi au siège présidial de Haut-Auvergne établi à Aurillac</occupation>
+   <occupation>conseiller du roi en la cour présidiale du haut pays d’Auvergne établie en la ville d’Aurillac</occupation>
+   <occupation>conseiller du roi en la cour présidiale du haut pays et montagnes d’Auvergne établie à Aurillac</occupation>
+   <occupation>conseiller du roi en Parlement</occupation>
+   <occupation>conseiller du trésor de Robert d’Anjou</occupation>
+   <occupation>conseiller d’Aurillac</occupation>
+   <occupation>conseiller en Parlement</occupation>
+   <occupation>conseiller et consul d’Aurillac</occupation>
+   <occupation>conseiller et lieutenant du roi à Noyon</occupation>
+   <occupation>conseiller et lieutenant général au bailliage des montagnes d’Auvergne</occupation>
+   <occupation>conseiller et maître des requêtes du roi</occupation>
+   <occupation>conservateur des privilèges de l’université de Paris</occupation>
+   <occupation>cordonnier</occupation>
+   <occupation>coudeur de draps</occupation>
+   <occupation>cousin de Pierre Fortet</occupation>
+   <occupation>cousin germain de Paul de Cambefort</occupation>
+   <occupation>couturier</occupation>
+   <occupation>couvreur de maisons à Paris</occupation>
+   <occupation>curé de Beaumont le Bois au diocès de Sens</occupation>
+   <occupation>curé de Beaumont le Boys</occupation>
+   <occupation>curé de Benis</occupation>
+   <occupation>curé de Condé en Brye</occupation>
+   <occupation>curé de Conflans près le pont de Charenton</occupation>
+   <occupation>curé de l’église paroissiale de Saint Étienne du Mont</occupation>
+   <occupation>curé de l’église paroissiale Saint-Étienne au Mont Sainte-Geneviève</occupation>
+   <occupation>curé de l’église paroissiale Saint-Jean-en-Grève à Paris</occupation>
+   <occupation>curé de l’église Sainte-Hillaire à Paris</occupation>
+   <occupation>curé de Monstreul aux Lihons ou diocès de Soissons</occupation>
+   <occupation>curé de Montereau sur le Jar</occupation>
+   <occupation>curé de Saint Denis de Haguelon au diocèse de Rouen</occupation>
+   <occupation>curé de Saint Jacques de La Villette</occupation>
+   <occupation>curé de Saint-Jean-en-Grève</occupation>
+   <occupation>curé de Saint-Nicolas de Raray</occupation>
+   <occupation>curé de Vert-Saint-Denis</occupation>
+   <occupation>curé de Villeneuve Saint Georges</occupation>
+   <occupation>curé de Villeneuve-Saint-Georges</occupation>
+   <occupation>curé du Coudray</occupation>
+   <occupation>curé du Coudray et de Gaulainville</occupation>
+   <occupation>curé du Mesnil-Aubry</occupation>
+   <occupation>cursor en philosophie</occupation>
+   <occupation>custos du collège des Cholets</occupation>
+   <occupation>dépencier des grammairiens du collège de Navarre</occupation>
+   <occupation>de son vivant boursier du collège des Dix-Huit</occupation>
+   <occupation>de son vivant boursier théologien du collège de Lisieux</occupation>
+   <occupation>de son vivant docteur en décret et chanoine de l’église de Paris</occupation>
+   <occupation>de son vivant docteur régent en théologie</occupation>
+   <occupation>de son vivant principal du collège des Bons Enfants</occupation>
+   <occupation>de son vivant régent du collège de Lisieux</occupation>
+   <occupation>docteur</occupation>
+   <occupation>docteur de la maison et société de Sorbonne</occupation>
+   <occupation>docteur en chacun droit</occupation>
+   <occupation>docteur en décret</occupation>
+   <occupation>docteur en droit</occupation>
+   <occupation>docteur en droit canon</occupation>
+   <occupation>docteur en droit canon et civil</occupation>
+   <occupation>docteur en droit canonique</occupation>
+   <occupation>docteur en lois et en décrets</occupation>
+   <occupation>docteur en médecine</occupation>
+   <occupation>docteur en médecine à Aix</occupation>
+   <occupation>docteur en théologi</occupation>
+   <occupation>docteur en théologie</occupation>
+   <occupation>docteur ès droit</occupation>
+   <occupation>docteur ès droits</occupation>
+   <occupation>docteur ès lois</occupation>
+   <occupation>docteur régent en la faculté de médecine</occupation>
+   <occupation>docteur régent en la faculté de médecine de Paris</occupation>
+   <occupation>docteur régent en la faculté de théologie</occupation>
+   <occupation>docteur régent en théologie</occupation>
+   <occupation>doyen de la Grande Confrérie de Notre-Dame</occupation>
+   <occupation>doyen de la province de Sens en l’université de Paris</occupation>
+   <occupation>doyen de l’église de Paris</occupation>
+   <occupation>doyen de l’église d’Amiens</occupation>
+   <occupation>doyen de l’église Saint-Pierre de Beauvais</occupation>
+   <occupation>doyen de Notre-Dame</occupation>
+   <occupation>doyen de Rouen</occupation>
+   <occupation>doyen des lecteurs du collège des lecteurs du roi</occupation>
+   <occupation>doyen des lecteurs du collège du roi</occupation>
+   <occupation>doyen des lecteurs du roi</occupation>
+   <occupation>doyen du chapitre de Beauvais</occupation>
+   <occupation>doyen du collège des lecteurs du roi</occupation>
+   <occupation>doyen et chanoine de l’église de Beauvais</occupation>
+   <occupation>doyen et chanoine de l’église de Paris</occupation>
+   <occupation>doyen et chanoine de Saint-Vulfran d’Abbeville</occupation>
+   <occupation>échevin de la ville de Paris</occupation>
+   <occupation>écolier</occupation>
+   <occupation>écolier à Paris</occupation>
+   <occupation>écolier au collège de Fortet</occupation>
+   <occupation>écolier de l’hospice de Becond</occupation>
+   <occupation>écolier demeurant au Bourg Saint-Nicolas de Monstereau-fault-Yonne</occupation>
+   <occupation>écolier demeurant au collège de Fortet</occupation>
+   <occupation>écolier demeurant au collège de Lisieux</occupation>
+   <occupation>écolier de Paris</occupation>
+   <occupation>écolier en l’université de Paris</occupation>
+   <occupation>écolier étudiant à Bourges au collège de messieurs de la compagnie du nom de Jésus</occupation>
+   <occupation>écolier étudiant à Paris</occupation>
+   <occupation>écolier étudiant au collège de Fortet</occupation>
+   <occupation>écolier étudiant au collège de messieurs de la compagnie du nom de Jésus à Bourges</occupation>
+   <occupation>écolier étudiant au collège d’Aurillac</occupation>
+   <occupation>écolier étudiant aux lois en l’université de Toulouse</occupation>
+   <occupation>écolier étudiant en l’université de Paris</occupation>
+   <occupation>écolier étudiant en l’université de Paris en la faculté de décret</occupation>
+   <occupation>écolier étudiant en l’université de Paris et au collège de Fortet</occupation>
+   <occupation>écolier étudiant et demeurant au collège de Fortet</occupation>
+   <occupation>écolier natif de la ville d’Aurillac</occupation>
+   <occupation>écolier natif de Saint-Flour</occupation>
+   <occupation>écolier natif et habitant de la ville d’Aurillac</occupation>
+   <occupation>écuyer</occupation>
+   <occupation>enfant de chœur</occupation>
+   <occupation>enfant de chœur de l’église de Paris</occupation>
+   <occupation>enfant mineure de Loys Le Royer</occupation>
+   <occupation>enfant natif d’Aurillac</occupation>
+   <occupation>en son vivant boursier du collège des Dix-Huit</occupation>
+   <occupation>en son vivant chancelier de l’église de Paris</occupation>
+   <occupation>en son vivant imprimeur à Paris</occupation>
+   <occupation>épicier et bourgeois de Paris</occupation>
+   <occupation>étudiant</occupation>
+   <occupation>étudiant à Paris</occupation>
+   <occupation>étudiant à Paris ès bourse de Sorbonne</occupation>
+   <occupation>étudiant en théologie en l’université de Paris</occupation>
+   <occupation>évêque de Bayeux</occupation>
+   <occupation>évêque de Cambrai</occupation>
+   <occupation>évêque de Limoges</occupation>
+   <occupation>évêque de Lisieux</occupation>
+   <occupation>évêque de Luxeuil</occupation>
+   <occupation>évêque de Meaux</occupation>
+   <occupation>évêque de Morène en Écosse</occupation>
+   <occupation>évêque de Nevers</occupation>
+   <occupation>évêque de Noyon</occupation>
+   <occupation>évêque de Paris</occupation>
+   <occupation>évêque de Porto Santa-Rufina</occupation>
+   <occupation>évêque de Senlis</occupation>
+   <occupation>évêque de Tibériade</occupation>
+   <occupation>évêque de Tusculum</occupation>
+   <occupation>évêque du Mans</occupation>
+   <occupation>évêque d’Évreux</occupation>
+   <occupation>examinateur au Châtelet</occupation>
+   <occupation>examinateur au Châtelet de Paris</occupation>
+   <occupation>examinateur et commissaire au Châtelet de Paris</occupation>
+   <occupation>exécuteur du testament de Nicolas Warin</occupation>
+   <occupation>faiseur de souliers</occupation>
+   <occupation>femme de Bertrand Bardin</occupation>
+   <occupation>femme de Charles Gallois</occupation>
+   <occupation>femme de Claude Patroillart</occupation>
+   <occupation>femme de Denis Marcel</occupation>
+   <occupation>femme de feu Jean Warin</occupation>
+   <occupation>femme de François Bruyère</occupation>
+   <occupation>femme de Françosi Feuilleret</occupation>
+   <occupation>femme de Guillaume des Prés</occupation>
+   <occupation>femme de Hebert Langlois</occupation>
+   <occupation>femme de Jean, sire du Châtel-lez-Nangis</occupation>
+   <occupation>femme de Jean Blossier</occupation>
+   <occupation>femme de Jean Coutant</occupation>
+   <occupation>femme de Jean Denis</occupation>
+   <occupation>femme de Jean des Fossés</occupation>
+   <occupation>femme de Jean Eustache</occupation>
+   <occupation>femme de Jean Pouppon dit de Bourges</occupation>
+   <occupation>femme de Jehan Cornyoust</occupation>
+   <occupation>femme de Jehan des Marestz</occupation>
+   <occupation>femme de Jehan du Pré</occupation>
+   <occupation>femme de Jehan Rogier</occupation>
+   <occupation>femme de Lucian Cormy</occupation>
+   <occupation>femme de Marin de Trosnyer</occupation>
+   <occupation>femme de Nicolas Boule</occupation>
+   <occupation>femme de Nicolas Boulle</occupation>
+   <occupation>femme de Nicolas de Paci</occupation>
+   <occupation>femme de NICOLAS Le Court</occupation>
+   <occupation>femme de Nicolas Tabouret</occupation>
+   <occupation>femme de Philippe Beaufils</occupation>
+   <occupation>femme de Pierre Bernard</occupation>
+   <occupation>femme de Pierre Cousin</occupation>
+   <occupation>femme de Pierre de Tyverny</occupation>
+   <occupation>femme de Pierre Flamignon</occupation>
+   <occupation>femme de Pierre Gaudil</occupation>
+   <occupation>femme d’Adrien de Sarsy</occupation>
+   <occupation>femme d’Ambroys Chatard</occupation>
+   <occupation>femme d’Augustin Bonnault</occupation>
+   <occupation>femme d’Estienne Cornyou</occupation>
+   <occupation>femme d’Estienne Cornyoust</occupation>
+   <occupation>fermier de Marguerite Thury, dame de Poigny, en sa terre de Dorfeure près de Rambouillet</occupation>
+   <occupation>fiancée de Henri Doujan</occupation>
+   <occupation>fille à marier</occupation>
+   <occupation>fille de Jean Savary</occupation>
+   <occupation>fille de Pierre Pichard</occupation>
+   <occupation>fille de Regnaut Le Normant</occupation>
+   <occupation>fille et héritière de Pierre Oudart et Claude Lessillart</occupation>
+   <occupation>fils de Gerauld Vigier</occupation>
+   <occupation>fils de Guillaume Hocquefou</occupation>
+   <occupation>fils de Jean Carrière</occupation>
+   <occupation>fils de Jean Tesson et de Jeanne Beauchesne</occupation>
+   <occupation>fils de Jean Tesson et Jeanne Beauchesne</occupation>
+   <occupation>fils de maître Anthoine Tremollet</occupation>
+   <occupation>fils de maître Gerauld du Laurens et de Delphine de Cinqarbres</occupation>
+   <occupation>fils de maître Pierre Spinassol</occupation>
+   <occupation>fils de Nicolas Le Court</occupation>
+   <occupation>fils de Pierre Flamignon et Marie Watin</occupation>
+   <occupation>fils d’Antoine de Cambefort</occupation>
+   <occupation>fils d’Antoine de Cambefort et Delfine du Series</occupation>
+   <occupation>fils d’Antoine Tremolet</occupation>
+   <occupation>fils d’Estienne Cornyoust</occupation>
+   <occupation>fils et héritier de Pierre Oudart et Claude Lessillart</occupation>
+   <occupation>forme proviseur</occupation>
+   <occupation>frère de Hugo Fortet</occupation>
+   <occupation>frère d’Antoine Cambefort</occupation>
+   <occupation>frère mineur</occupation>
+   <occupation>garde de la justice de Gleignes</occupation>
+   <occupation>garde de la prévôté de Melun</occupation>
+   <occupation>garde de la prévôté de Paris</occupation>
+   <occupation>garde de la prévôté de Sens</occupation>
+   <occupation>garde de la prévôté et châtellenie de Tournan en Brie</occupation>
+   <occupation>garde des sceaux aux causes de la châtellenie de Rochefort</occupation>
+   <occupation>garde des sceaux aux obligations de la châtellenie et prévôté de Béthisy et Verberie</occupation>
+   <occupation>garde des sceaux de la châtellenie de Béthisy et Verberie</occupation>
+   <occupation>garde des sceaux établis aux contrats du haut pays et bailliage des montagnes d’Auvergne</occupation>
+   <occupation>garde du scel de []</occupation>
+   <occupation>garde du scel de la baillie de Senlis établie en la prévôté de Migy</occupation>
+   <occupation>garde du scel de la baillie de Vermandois</occupation>
+   <occupation>garde du scel de la prévôté de Chantemelle</occupation>
+   <occupation>garde du scel de la prévôté de Château-Landon</occupation>
+   <occupation>garde du scel de la prévôté de Meaux</occupation>
+   <occupation>garde du scel de la prévôté de Moret</occupation>
+   <occupation>garde du scel de la prévôté de Paris</occupation>
+   <occupation>garde du scel de la prévôté de Provins</occupation>
+   <occupation>garde du scel de la prévôté de Sens</occupation>
+   <occupation>garde du scel du bailliage de Vermandois</occupation>
+   <occupation>garde du scel du bailliage d’Amiens</occupation>
+   <occupation>garde du scel du tabellionage de la prévôté de Saint-Mihiel</occupation>
+   <occupation>garde du scel établi aux contrats en la baronie de Linières</occupation>
+   <occupation>garde du scel établi aux contrats en la prévôté d’Issoudun</occupation>
+   <occupation>gentilhomme de la chambre du roi</occupation>
+   <occupation>gentilhomme florentin</occupation>
+   <occupation>gentilhomme ordinaire de la chambre du roi</occupation>
+   <occupation>gouverneur</occupation>
+   <occupation>gradué ès arts</occupation>
+   <occupation>grand maître des arbalétriers de France</occupation>
+   <occupation>grand-maître du collège de Navarre</occupation>
+   <occupation>grand-maître du collège des Cholets</occupation>
+   <occupation>grand maître temporel du collège de Louis le Grand</occupation>
+   <occupation>grand vicaire de l’église de Paris</occupation>
+   <occupation>grand vicaire de Notre-Dame de Paris</occupation>
+   <occupation>grand vicaire en l’église de Paris</occupation>
+   <occupation>graveur de sceaux</occupation>
+   <occupation>greffier</occupation>
+   <occupation>greffier de la prévôté de Saint-Quentin en Vermandois</occupation>
+   <occupation>greffier juré de la prévôté de Melun</occupation>
+   <occupation>greffier tabellion du bailliage de l’abbaye royale de Sainte-Geneviève au Mont de Paris</occupation>
+   <occupation>habitant de la paroisse de Courcelles-en-Brie</occupation>
+   <occupation>habitante et native de Courcelles-en-Brie</occupation>
+   <occupation>habitant et natif de Courcelles-en-Brie</occupation>
+   <occupation>héritier de feu Gilles Legoux</occupation>
+   <occupation>héritier de Jehan Lesueur le jeune</occupation>
+   <occupation>héritier de Pierre Fortet</occupation>
+   <occupation>héritière de Jehan de Paillard</occupation>
+   <occupation>héritière de Jehan Lesueur le jeune</occupation>
+   <occupation>huissier au Parlement de Paris</occupation>
+   <occupation>huissier de la cour de Parlement</occupation>
+   <occupation>huissier du roi</occupation>
+   <occupation>huissier du roi aux requêtes du palais</occupation>
+   <occupation>huissier en la cour de parlement</occupation>
+   <occupation>jadis cardinal</occupation>
+   <occupation>jadis clerc du prince d’Achaïe</occupation>
+   <occupation>jadis curé de l’église paroissiale de Bobiers au diocèse de Rouen</occupation>
+   <occupation>jadis docteur en théologie et chantre de l’église de Paris</occupation>
+   <occupation>jadis évêque de Bayeux</occupation>
+   <occupation>jadis évêque de Paris</occupation>
+   <occupation>jadis prêtre du diocèse de Toul</occupation>
+   <occupation>jadis spé des enfants de chœur de l’église de Paris</occupation>
+   <occupation>juge et garde des sceaux au bailliage des montagnes d’Auvergne</occupation>
+   <occupation>juge et garde des sceaux établis aux contrats du haut pays d’Auvergne</occupation>
+   <occupation>juge et garde des sceaux établis aux contrats du haut pays et bailliage des montagnes d’Auvergne</occupation>
+   <occupation>juge ordinaire d’Aurillac</occupation>
+   <occupation>juré de Nogent-sur-Seine</occupation>
+   <occupation>laboureur</occupation>
+   <occupation>laboureur à Grais en Brie</occupation>
+   <occupation>laboureur demeurant à La Pissotte, paroisse de Monstereul</occupation>
+   <occupation>laboureur demeurant à Monstereul</occupation>
+   <occupation>laboureur de vignes</occupation>
+   <occupation>laboureur de vignes demeurant à Rueil</occupation>
+   <occupation>lecteur des Sentences</occupation>
+   <occupation>lecteur du roi</occupation>
+   <occupation>lecteur du roi en lettres hébraïques et chaldaïques</occupation>
+   <occupation>lecteur et professeur en lettres hébraïques et chaldaïques</occupation>
+   <occupation>lecteur ordinaire du roi en lettres hébraïque et chaldaïques</occupation>
+   <occupation>lecteur ordinaire du roi en lettres hébraïque et chaldaïques, principal du collège de Fortet</occupation>
+   <occupation>lecteur ordinaire du roi en lettres hébraïques et chaldaïques</occupation>
+   <occupation>lecteur ordinaire du roi en lettres hébraïques et chaldaïques en l’université de Paris</occupation>
+   <occupation>lecteur ordinaire du roi ès lettres hébraïques et chaldaïques</occupation>
+   <occupation>lecteur ordinaire ès lettres hébraïques et chaldaïques</occupation>
+   <occupation>légat</occupation>
+   <occupation>libraire</occupation>
+   <occupation>licencié en décret</occupation>
+   <occupation>licencié en droit</occupation>
+   <occupation>licencié en droit canon</occupation>
+   <occupation>licencié en droit canon et civil</occupation>
+   <occupation>licencié en droit canonique</occupation>
+   <occupation>licencié en droits</occupation>
+   <occupation>licencié en lois</occupation>
+   <occupation>licencié en médecine</occupation>
+   <occupation>licencié en moderne en l’université de Paris</occupation>
+   <occupation>licencié en théologie</occupation>
+   <occupation>licencié ès arts</occupation>
+   <occupation>licencié ès droits</occupation>
+   <occupation>licencié ès lois</occupation>
+   <occupation>lieutenant au Châtelet</occupation>
+   <occupation>lieutenant de Béthisy</occupation>
+   <occupation>lieutenant de cinquante hommes d’armes</occupation>
+   <occupation>lieutenant de Péronne</occupation>
+   <occupation>lieutenant du bailli du comté de Noyon</occupation>
+   <occupation>lieutenant du bailli du marquisat de Neelle</occupation>
+   <occupation>lieutenant du bailli d’Amiens</occupation>
+   <occupation>lieutenant du juge ordinaire de la temporalité de la ville d’Orilliac</occupation>
+   <occupation>lieutenant du prévôt de Béthisy et Verberie</occupation>
+   <occupation>lieutenant du prévôt de Roberval</occupation>
+   <occupation>lieutenant et juge présidial au bailliage des montagnes et haut pays d’Auvergne</occupation>
+   <occupation>lieutenant général au bailliage des montagnes d’Auvergne</occupation>
+   <occupation>lieutenant général de Jean de Sanbiez, bailli de Melun</occupation>
+   <occupation>maçon à Paris</occupation>
+   <occupation>maçon demeurant à Paris</occupation>
+   <occupation>maçon demeurant à Seaulx le Grand</occupation>
+   <occupation>maçon juré du roi</occupation>
+   <occupation>maçon juré du roi en l’office de maçonnerie</occupation>
+   <occupation>maitre</occupation>
+   <occupation>maître</occupation>
+   <occupation>maître, docteur en théologie</occupation>
+   <occupation>maître, licencié en théologie</occupation>
+   <occupation>maître, procureur du collège de Fortet</occupation>
+   <occupation>maître apothicaire et épicier</occupation>
+   <occupation>maître au collège de la Marche</occupation>
+   <occupation>maître barbier</occupation>
+   <occupation>maître barbier chirurgien à Paris</occupation>
+   <occupation>maître barbier chirurgien bourgeois de Paris</occupation>
+   <occupation>maître barbier et chirurgien à Paris</occupation>
+   <occupation>maître baudroyeur de cuir à Paris</occupation>
+   <occupation>maître boulanger</occupation>
+   <occupation>maître boulanger à Paris</occupation>
+   <occupation>maître cordonnier</occupation>
+   <occupation>maître couvreur de maisons à Paris</occupation>
+   <occupation>maître de camp des enseignes de la garde de sa majesté</occupation>
+   <occupation>maître de camp des enseignes de sa majesté</occupation>
+   <occupation>maître de l’université de Reims</occupation>
+   <occupation>maître des artiens</occupation>
+   <occupation>maître des artiens du collège de Navarre</occupation>
+   <occupation>maître des basses œuvres</occupation>
+   <occupation>maître des basses œuvres à Paris</occupation>
+   <occupation>maître des basses œuvres demeurant à Paris</occupation>
+   <occupation>maître des grammairiens</occupation>
+   <occupation>maître des grammairiens du collège de Navarre</occupation>
+   <occupation>maître des requêres ordinaires du roi</occupation>
+   <occupation>maître du collège de Campanie</occupation>
+   <occupation>maître du collège de Champagne</occupation>
+   <occupation>maître du collège de Fortet</occupation>
+   <occupation>maître du collège de la Marche</occupation>
+   <occupation>maître du collège de Navarre</occupation>
+   <occupation>maître du collège des Bons Enfants</occupation>
+   <occupation>maître du collège des Dix-Huit</occupation>
+   <occupation>maître d’hôtel de monsieur de Cossains</occupation>
+   <occupation>maître d’hôtel et archer de la compagnie du seigneur de Causseins</occupation>
+   <occupation>maître en médecine</occupation>
+   <occupation>maître en théologie</occupation>
+   <occupation>maître en théologie au collège de Navarre</occupation>
+   <occupation>maître ès arts</occupation>
+   <occupation>maître ès arts et théologie</occupation>
+   <occupation>maître et principal du collège de la Marche</occupation>
+   <occupation>maître et principal du collège des Dix-Huit</occupation>
+   <occupation>maître et proviseur de la maison des maîtres et écoliers de Sorbonne</occupation>
+   <occupation>maître et proviseur du collège de Harcourt</occupation>
+   <occupation>maître fripier bourgeois de Paris</occupation>
+   <occupation>maître maçon à Paris</occupation>
+   <occupation>maître maçon et couvreur à Paris</occupation>
+   <occupation>maître maréchal à Paris</occupation>
+   <occupation>maître orfèvre</occupation>
+   <occupation>maître pâtissier</occupation>
+   <occupation>maître pâtissier à Paris</occupation>
+   <occupation>maître pâtissier et oublaier</occupation>
+   <occupation>maître pâtissier et oublayer</occupation>
+   <occupation>maître pâtissier oublayer</occupation>
+   <occupation>maître paveur à Paris</occupation>
+   <occupation>maître pourpointier à Paris</occupation>
+   <occupation>maître pourpointier demeurant à Paris</occupation>
+   <occupation>maître principal du collège de la Marche</occupation>
+   <occupation>maître-régent à la faculté de théologie</occupation>
+   <occupation>maître régent en théologie</occupation>
+   <occupation>maître savetier à Paris</occupation>
+   <occupation>maître serrurier de la ville de Paris</occupation>
+   <occupation>maître verrier à Paris</occupation>
+   <occupation>manouvrier</occupation>
+   <occupation>marchand</occupation>
+   <occupation>marchand à Étampes</occupation>
+   <occupation>marchand à Paris</occupation>
+   <occupation>marchand apothicaire</occupation>
+   <occupation>marchand apothicaire bourgeois de Paris</occupation>
+   <occupation>marchand apothicaire et bourgeois de Paris</occupation>
+   <occupation>marchand apothicaire et épicier bourgeois de Paris</occupation>
+   <occupation>marchand boucher</occupation>
+   <occupation>marchand boucher à Paris</occupation>
+   <occupation>marchand boucher bourgeois de Paris</occupation>
+   <occupation>marchand boucher de la boucherie Saint-Germain-des-Prés</occupation>
+   <occupation>marchand boulanger à Paris</occupation>
+   <occupation>marchand bourgeois de Paris</occupation>
+   <occupation>marchand cordonnier</occupation>
+   <occupation>marchand demeurant aux faubourgs de Tournan-en-Brie</occupation>
+   <occupation>marchand de Sens</occupation>
+   <occupation>marchand de soie bourgeois de Paris</occupation>
+   <occupation>marchand de vins</occupation>
+   <occupation>marchand drapier</occupation>
+   <occupation>marchand drapier bourgeois de Paris</occupation>
+   <occupation>marchand drapier chaussetier et bourgeois de Paris</occupation>
+   <occupation>marchand drapier et bourgeois de Paris</occupation>
+   <occupation>marchand drapier et chaussetier bourgeois de Paris</occupation>
+   <occupation>marchand épicier</occupation>
+   <occupation>marchand épicier à Paris</occupation>
+   <occupation>marchand épicier bourgeois de Paris</occupation>
+   <occupation>marchand épicier et bourgeois de Paris</occupation>
+   <occupation>marchand et bourgeois de Paris</occupation>
+   <occupation>marchand et hôtelier</occupation>
+   <occupation>marchand fripier à Paris</occupation>
+   <occupation>marchand fripier bourgeois de Paris</occupation>
+   <occupation>marchand hôtelier et bourgeois de Paris</occupation>
+   <occupation>marchand joullier bourgeois de Paris</occupation>
+   <occupation>marchand laboureur</occupation>
+   <occupation>marchand laboureur demeurant à Roissy-en-France</occupation>
+   <occupation>marchand libraire et relieur</occupation>
+   <occupation>marchand maître apothicaire épicier bourgeois de Paris</occupation>
+   <occupation>marchand mercier</occupation>
+   <occupation>marchand pâtissier</occupation>
+   <occupation>marchand pignier et tabletier</occupation>
+   <occupation>marchand potier d’étain bourgeois de Paris</occupation>
+   <occupation>marchand tavernier bourgeois de Paris</occupation>
+   <occupation>marchant d’Aurillac</occupation>
+   <occupation>maréchal de forge en l’écurie de la reine mère du roi</occupation>
+   <occupation>marguillier de l’église de Saint-Martin de Courcelles-en-Brie</occupation>
+   <occupation>marguillier de l’église Saint-Martin de Courcelles-en-Brie</occupation>
+   <occupation>marguillier de l’œuvre et fabrique de l’église Sainte-Geneviève des Ardans</occupation>
+   <occupation>menuisier</occupation>
+   <occupation>menuisier à Paris</occupation>
+   <occupation>menuisier demeurant à Paris</occupation>
+   <occupation>mère de Guillaume et Marie Oudart</occupation>
+   <occupation>moine et curé de l’église Sainte-Geneviève ou Mont de Paris</occupation>
+   <occupation>naguère boursier du collège de Hubant</occupation>
+   <occupation>nonce du pape Clément VI</occupation>
+   <occupation>notaire</occupation>
+   <occupation>notaire apostolique</occupation>
+   <occupation>notaire au Châtelet</occupation>
+   <occupation>notaire au Châtelet de Paris</occupation>
+   <occupation>notaire de la conservation</occupation>
+   <occupation>notaire de la cour de Paris</occupation>
+   <occupation>notaire de la cour épiscopale de Paris</occupation>
+   <occupation>notaire de la prévôté d’Issoudun</occupation>
+   <occupation>notaire des doyen et chapitre de l’église de Paris</occupation>
+   <occupation>notaire du chapitre de l’église de Paris</occupation>
+   <occupation>notaire du chapitre de Paris</occupation>
+   <occupation>notaire du roi</occupation>
+   <occupation>notaire du roi au Châtelet</occupation>
+   <occupation>notaire épiscopal à Paris</occupation>
+   <occupation>notaire établi par le roi à la prévôté de Noyon</occupation>
+   <occupation>notaire et secrétaire du chapitre de Paris</occupation>
+   <occupation>notaire et secrétaire du roi</occupation>
+   <occupation>notaire garde-note au Châtelet de Paris</occupation>
+   <occupation>notaire garde-note du roi au Châtelet de Paris</occupation>
+   <occupation>notaire juré de la cour de Paris</occupation>
+   <occupation>notaire juré de la cour de Paris par l’autorité apostolique et impériale</occupation>
+   <occupation>notaire juré de l’archevêché de Paris</occupation>
+   <occupation>notaire juré de l’officialité de Paris</occupation>
+   <occupation>notaire juré par l’autorité apostolique et impériale</occupation>
+   <occupation>notaire par l’autorité apostolique et par celle de la cour épiscopale de Paris</occupation>
+   <occupation>notaire public</occupation>
+   <occupation>notaire public du diocèse d’Amiens par l’autorité impériale</occupation>
+   <occupation>notaire public par l’autorité apostolique</occupation>
+   <occupation>notaire public par l’autorité apostolique, impériale et de l’université de Paris</occupation>
+   <occupation>notaire public par l’autorité apostolique, impériale et par celle de la cour épiscopale de Liège</occupation>
+   <occupation>notaire public par l’autorité apostolique et impériale</occupation>
+   <occupation>notaire public par l’autorité apostolique et par celle de la cour de la conservation des privilèges de l’université et de la cour épiscopale de Paris</occupation>
+   <occupation>notaire public par l’autorité apostolique et par celle de la cour épiscopale de Nevers</occupation>
+   <occupation>notaire public par l’autorité apostolique et par celle de la cour épiscopale de Paris</occupation>
+   <occupation>notaire public par l’autorité apostolique et par celle de la cour épiscopale et de la conservation des privilèges apostoliques de l’université de Paris</occupation>
+   <occupation>notaire public par l’autorité impériale</occupation>
+   <occupation>notaire public par l’autourité apostolique et impériale</occupation>
+   <occupation>notaire royal</occupation>
+   <occupation>notaire royal de la ville d’Aurillac</occupation>
+   <occupation>notaire royal en la ville d’Aurillac</occupation>
+   <occupation>notaire royal juré</occupation>
+   <occupation>official du chancelier de l’église de Paris</occupation>
+   <occupation>oncle maternel de Hugues Borye</occupation>
+   <occupation>orfèvre</occupation>
+   <occupation>orfèvre et bourgeois de Paris</occupation>
+   <occupation>pape</occupation>
+   <occupation>pâtissier</occupation>
+   <occupation>pâtissier et oublaier</occupation>
+   <occupation>pâtissier et oublayer</occupation>
+   <occupation>patriarche de Constantinople</occupation>
+   <occupation>pauvre écolier</occupation>
+   <occupation>pauvre écolier étudiant à l’université de Paris</occupation>
+   <occupation>pauvre écolier étudiant au collège de Fortet</occupation>
+   <occupation>pauvre écolier étudiant en l’université de Paris</occupation>
+   <occupation>pauvre écolier orphelin étudiant au collège de Fortet</occupation>
+   <occupation>pauvre étudiant en l’université de Paris</occupation>
+   <occupation>pêcheur</occupation>
+   <occupation>peintre</occupation>
+   <occupation>pelletier bourgeois de Paris</occupation>
+   <occupation>pénitencier du chapitre de Notre-Dame</occupation>
+   <occupation>pénitencier du chapitre de Paris</occupation>
+   <occupation>pénitentiaire</occupation>
+   <occupation>père de Guillaume et Marie Oudart</occupation>
+   <occupation>physicien régent au collège de la Marche</occupation>
+   <occupation>plus ancien conseiller et magistrat au bailliage et siège présidial de la ville d’Aurillac</occupation>
+   <occupation>praticien</occupation>
+   <occupation>praticien en cour d’église</occupation>
+   <occupation>praticien en cour laie</occupation>
+   <occupation>praticien en cour laye</occupation>
+   <occupation>préchantre et chanoine de l’église d’Amiens</occupation>
+   <occupation>premier chambellan de monseigneur de Guyenne</occupation>
+   <occupation>premier et plus ancien boursier du collège de Fortet</occupation>
+   <occupation>premier et seul clerc au greffe des présidents et trésoriers généraux de France en Picardie au bureau établi en la ville d’Amiens</occupation>
+   <occupation>premier huissier au Parlement de Paris</occupation>
+   <occupation>premier sergent à cheval au Châtelet de Paris</occupation>
+   <occupation>premier sergent du bailli de Vermandois</occupation>
+   <occupation>président de la Chambre des comptes</occupation>
+   <occupation>président de la chambre des enquêtes</occupation>
+   <occupation>président des enquêtes du palais</occupation>
+   <occupation>président d’Aurillac</occupation>
+   <occupation>président en Parlement</occupation>
+   <occupation>président et premier régent du collège de la Marche</occupation>
+   <occupation>prêtre</occupation>
+   <occupation>prêtre, chapelain et lieutenant</occupation>
+   <occupation>prêtre à Paris</occupation>
+   <occupation>prêtre bénéficié en l’église de Paris</occupation>
+   <occupation>prêtre cardinal de Bourbon</occupation>
+   <occupation>prêtre cardinal de Sainte-Cécile</occupation>
+   <occupation>prêtre-cardinal de Sainte-Suzanne</occupation>
+   <occupation>prêtre cardinal de Saint-Martin-aux-Monts</occupation>
+   <occupation>prêtre cardinal de Saints-Marcellin-et-Pierre</occupation>
+   <occupation>prêtre de la paroisse Saint-Paul</occupation>
+   <occupation>prêtre de l’église de Paris</occupation>
+   <occupation>prêtre de Saint-Martin de Courcelles-en-Brie</occupation>
+   <occupation>prêtre du diocèse de Bourges</occupation>
+   <occupation>prêtre du diocèse de Cahors</occupation>
+   <occupation>prêtre du diocèse de Chartres</occupation>
+   <occupation>prêtre du diocèse de Lisieux</occupation>
+   <occupation>prêtre du diocèse de Meaux</occupation>
+   <occupation>prêtre du diocèse de Nevers, bachelier en décret</occupation>
+   <occupation>prêtre du diocèse de Paris</occupation>
+   <occupation>prêtre du diocèse de Rouen</occupation>
+   <occupation>prêtre du diocèse de Saint-Flour</occupation>
+   <occupation>prêtre du diocèse de Troyes</occupation>
+   <occupation>prêtre du diocèse du Mans</occupation>
+   <occupation>prêtre du diocèse d’Evreux</occupation>
+   <occupation>prêtre d’Aschaffenbourg</occupation>
+   <occupation>prêtre en l’église Saint-Paul à Paris</occupation>
+   <occupation>prévôt de Béthisy et Verberie</occupation>
+   <occupation>prévôt de la Grande Confrérie aux bourgeois de Paris</occupation>
+   <occupation>prévôt de la Grande Confrérie de Notre-Dame</occupation>
+   <occupation>prévôt de Moret</occupation>
+   <occupation>prévôt de Paris</occupation>
+   <occupation>prévôt des marchands</occupation>
+   <occupation>prévôt de Viezcourt</occupation>
+   <occupation>prieur de Langres</occupation>
+   <occupation>prieur de l’ordre des frères de l’ordre de saint Guillaume à Paris</occupation>
+   <occupation>prieur de Saint-Vaast d’Arras</occupation>
+   <occupation>prieur des écoliers de Cluny à Paris</occupation>
+   <occupation>prieur du collège des Cholets</occupation>
+   <occupation>prieur du collège des Dix-Huit</occupation>
+   <occupation>prieur du collège de Sorbonne</occupation>
+   <occupation>prieur du collège du Cardinal Lemoine</occupation>
+   <occupation>prieur du couvent des frères de l’ordre de saint Guillaume</occupation>
+   <occupation>prieur du prieuré de Novo Castro de l’ordre de saint Benoît au diocèse de Toul</occupation>
+   <occupation>prieur et boursier du collège des Dix-Huit</occupation>
+   <occupation>prieur provincial des Célestins de France</occupation>
+   <occupation>principal clerc de maître Ayrault procureur en Parlement</occupation>
+   <occupation>principal de l’hospice de Becond</occupation>
+   <occupation>principal des artiens du collège de Lisieux</occupation>
+   <occupation>principal des artiens du collège de Navarre</occupation>
+   <occupation>principal des grammairiens du collège de Navarre</occupation>
+   <occupation>principal du collège de Bayeux</occupation>
+   <occupation>principal du collège de Cornouaille</occupation>
+   <occupation>principal du collège de Fortet</occupation>
+   <occupation>principal du collège de Hubant</occupation>
+   <occupation>principal du collège de la Marche</occupation>
+   <occupation>principal du collège de Lisieux</occupation>
+   <occupation>principal du collège de l’Ave Maria</occupation>
+   <occupation>principal du collège des Bons Enfants</occupation>
+   <occupation>principal du collège des Dix-Huit</occupation>
+   <occupation>principal du collège de Torcy</occupation>
+   <occupation>principal pédagogien du collège de la Marche</occupation>
+   <occupation>procureur</occupation>
+   <occupation>procureur au Châtelet de Paris</occupation>
+   <occupation>procureur au Parlement</occupation>
+   <occupation>procureur au Parlement de Paris</occupation>
+   <occupation>procureur de Florent Delacourt</occupation>
+   <occupation>procureur de la Sorbonne</occupation>
+   <occupation>procureur de l’abbaye de Sainte-Geneviève</occupation>
+   <occupation>procureur de maître François Tonnel</occupation>
+   <occupation>procureur de maître Jehan Lebegue</occupation>
+   <occupation>procureur de Pierre Ducros</occupation>
+   <occupation>procureur de Pierre Lefevre</occupation>
+   <occupation>procureur des Célestins de Notre-Dame de Paris</occupation>
+   <occupation>procureur des Célestins de Villeneuve-lès-Soissons</occupation>
+   <occupation>procureur des écoliers de la maison de Sorbonne</occupation>
+   <occupation>procureur des maîtres, boursiers et écoliers du collège des Cholets</occupation>
+   <occupation>procureur des maîtres de la maison de Sorbonne</occupation>
+   <occupation>procureur du collège de Bayeux</occupation>
+   <occupation>procureur du collège de Cornouaille</occupation>
+   <occupation>procureur du collège de Fortet</occupation>
+   <occupation>procureur du collège de la Marche</occupation>
+   <occupation>procureur du collège de Lisieux</occupation>
+   <occupation>procureur du collège de Notre-Dame</occupation>
+   <occupation>procureur du collège de Rethel</occupation>
+   <occupation>procureur du collège des Cholets</occupation>
+   <occupation>procureur du collège des Dix-Huit</occupation>
+   <occupation>procureur du collège des Lombards</occupation>
+   <occupation>procureur du collège de Sorbonne</occupation>
+   <occupation>procureur du monastère de Notre-Dame des Célestins de Paris</occupation>
+   <occupation>procureur du roi au bailliage de [Crépy en] Valois</occupation>
+   <occupation>procureur du roi en la cour de [?]</occupation>
+   <occupation>procureur d’Antoine Bigot</occupation>
+   <occupation>procureur en parlement</occupation>
+   <occupation>procureur en Parlement</occupation>
+   <occupation>procureur ès cours ecclésiastiques</occupation>
+   <occupation>procureur et boursier du collège des Dix-Huit</occupation>
+   <occupation>procureur et chapelain du collège de Hubant</occupation>
+   <occupation>procureur et chapelain du collège de la Marche</occupation>
+   <occupation>procureur et principal du collège de la Marche</occupation>
+   <occupation>procureur et receveur du collège de Fortet</occupation>
+   <occupation>procureur et receveur du collège Mignon</occupation>
+   <occupation>procureur général du roi</occupation>
+   <occupation>professeur de sa majesté en lettres hébraïques et chaldaïques</occupation>
+   <occupation>professeur de sa majesté ès lettres hébraïques et chaldaïques</occupation>
+   <occupation>professeur de théologie</occupation>
+   <occupation>professeur du roi en lettres hébraïques et chaldaïques</occupation>
+   <occupation>professeur en l’université de Paris</occupation>
+   <occupation>professeur en théologie</occupation>
+   <occupation>professeur ordinaire du roi en lettres hébraïques et chaldaïques</occupation>
+   <occupation>professeur pour sa majesté ès lettres hébraïques et chaldaïques</occupation>
+   <occupation>provincial de tous les Célestins de deça les monts</occupation>
+   <occupation>proviseur de la Sorbonne</occupation>
+   <occupation>proviseur des grands boursiers théologiens du collège des Cholets</occupation>
+   <occupation>proviseur du collège de Fortet</occupation>
+   <occupation>proviseur du collège de Harcourt</occupation>
+   <occupation>proviseur du collège de Navarre</occupation>
+   <occupation>receveur de la ville de Paris</occupation>
+   <occupation>receveur de l’évêque de Paris</occupation>
+   <occupation>receveur de Paris</occupation>
+   <occupation>receveur du collège de Fortet</occupation>
+   <occupation>receveur du collège du Cardinal Lemoine</occupation>
+   <occupation>receveur du domaine du roi au bailliage des Montagnes d’Auvergne au siège d’Aurillac</occupation>
+   <occupation>receveur et payeur des gages et droits de messieurs de la cour de Parlement</occupation>
+   <occupation>receveur et procureur du collège des Cholets</occupation>
+   <occupation>receveur fermier du collège des Cholets</occupation>
+   <occupation>recteur de l’église de Buires</occupation>
+   <occupation>recteur de l’église de Pleire dans le diocèse de Tréguier</occupation>
+   <occupation>recteur de l’église de Pletre dans le diocèse de Tréguier</occupation>
+   <occupation>recteur de l’église Saint-Eustache</occupation>
+   <occupation>recteur de l’université de Paris</occupation>
+   <occupation>recteur de l’Université de Paris</occupation>
+   <occupation>régent</occupation>
+   <occupation>régent au collège de la Marche</occupation>
+   <occupation>régent du collège de Navarre</occupation>
+   <occupation>régent du collège de Torcy</occupation>
+   <occupation>régent en théologie</occupation>
+   <occupation>reine de France</occupation>
+   <occupation>reine de France et de Navarre</occupation>
+   <occupation>relieur de livres juré en l’université de Paris</occupation>
+   <occupation>religieux des Célestins de Notre-Dame de Paris</occupation>
+   <occupation>religieux du couvent de la Sainte Vierge du Carmel à Paris</occupation>
+   <occupation>roi</occupation>
+   <occupation>roi de France</occupation>
+   <occupation>roi de France et de Pologne</occupation>
+   <occupation>roi de Jérusalem et de Sicile</occupation>
+   <occupation>roi des Francs</occupation>
+   <occupation>savetier</occupation>
+   <occupation>scribe de l’université de Paris</occupation>
+   <occupation>scribe du chapitre Notre-Dame</occupation>
+   <occupation>secrétaire du chapitre de Paris</occupation>
+   <occupation>secrétaire du roi</occupation>
+   <occupation>secrétaire ou notaire du chapitre de l’église de Paris</occupation>
+   <occupation>seigneur de Boulainville, de Verneuil sur Oise, de Riou en Normandie et de Villiers Adam en la conté de Beaumont</occupation>
+   <occupation>seigneur de Cesy, Champvallon, Saint-Quentin Le Verger et Perrigny La Roze</occupation>
+   <occupation>seigneur de Cesy et de Champvallon</occupation>
+   <occupation>seigneur de Chatillon</occupation>
+   <occupation>seigneur de Chocqueuse</occupation>
+   <occupation>seigneur de Grigny</occupation>
+   <occupation>seigneur de La Brunye</occupation>
+   <occupation>seigneur de la Motte et de Dombasle</occupation>
+   <occupation>seigneur de la Porte</occupation>
+   <occupation>seigneur de La Porte et de Gaudreville</occupation>
+   <occupation>seigneur de Marolles près de Montlhéry</occupation>
+   <occupation>seigneur de Montroysse</occupation>
+   <occupation>seigneur de Saint-Bonnot et de Saint-Florantin</occupation>
+   <occupation>seigneur de Sauqueuzes, Bouville, Bacouel, Fay, Herleville, Faucot, Estrée, Fusleux, Enbreville, Chenpuis et Floury</occupation>
+   <occupation>seigneur de Torcy</occupation>
+   <occupation>seigneur de Torcy et de Blainville</occupation>
+   <occupation>seigneur de Troham</occupation>
+   <occupation>seigneur de Vaurs</occupation>
+   <occupation>seigneur de Viry</occupation>
+   <occupation>seigneur de Voyennes</occupation>
+   <occupation>seigneur de Voyennes et Courtemence</occupation>
+   <occupation>seigneur et baron de Lignières</occupation>
+   <occupation>seingeur de Versigny</occupation>
+   <occupation>sergent</occupation>
+   <occupation>sergent à cheval au Châtelet de Paris</occupation>
+   <occupation>sergent à cheval aux bailliage et prévôté de Melun</occupation>
+   <occupation>sergent au Châtelet de Paris</occupation>
+   <occupation>sergent à verge</occupation>
+   <occupation>sergent à verge au Châtelet</occupation>
+   <occupation>sergent à verge au Châtelet de Paris</occupation>
+   <occupation>sergent royal en la gouvernance et prévôté foraine de Roye</occupation>
+   <occupation>serrurier</occupation>
+   <occupation>serrurier demeurant à Laval</occupation>
+   <occupation>sieur de Chocqueuse, Bouvillier, Barouel, Fay, Herleville, Foucaultot, Estrée, Fusleux, Ambreville, Champuys et Fleury</occupation>
+   <occupation>sieur de Chocqueuse et de Fleury</occupation>
+   <occupation>sieur de Choqueuze et de Fleury</occupation>
+   <occupation>sieur de Marolles près de Montlhéry</occupation>
+   <occupation>sieur de Montbartouyn</occupation>
+   <occupation>sieur de Ruys</occupation>
+   <occupation>sieur de Voienne</occupation>
+   <occupation>sieur de Voyennes et de Courtemance</occupation>
+   <occupation>sieur de Voyennes et de Courtemanche</occupation>
+   <occupation>sire de Bobigny</occupation>
+   <occupation>sire de Bonneval</occupation>
+   <occupation>sire du Chastel et de Nangis</occupation>
+   <occupation>sire du Châtel-lez-Nangis</occupation>
+   <occupation>sœur de Guillaume Oudard</occupation>
+   <occupation>sous-chantre de l’église de Paris</occupation>
+   <occupation>sous-maître des artiens du collège de Navarre</occupation>
+   <occupation>sous-maître des grammairiens du collège de Navarre</occupation>
+   <occupation>sous-maître du collège de Navarre</occupation>
+   <occupation>spé des enfants de chœur de l’église de Paris</occupation>
+   <occupation>supérieur des Célestins de Notre-Dame de Paris</occupation>
+   <occupation>tabellion</occupation>
+   <occupation>tabellion juré</occupation>
+   <occupation>tabellion juré commis à la châtellenie et prévôté de Béthisy et Verberie</occupation>
+   <occupation>tabellion public par l’autorité apostolique</occupation>
+   <occupation>tabellion royal à la châtellenie et prévôté de Béthisy et Verberie</occupation>
+   <occupation>tisserand</occupation>
+   <occupation>tonnelier</occupation>
+   <occupation>trésorier de la Sainte-Chapelle</occupation>
+   <occupation>trésorier du palais</occupation>
+   <occupation>trésorier et chanoine de l’église de Verdun</occupation>
+   <occupation>trésorier et conseiller du roi</occupation>
+   <occupation>trésoriers à Paris</occupation>
+   <occupation>tuilier</occupation>
+   <occupation>tuteur de Jean de Sercy</occupation>
+   <occupation>valet de chambre de monsieur le duc d’Orléans</occupation>
+   <occupation>vannier bourgeois de Paris</occupation>
+   <occupation>veuve Charles de Folleville</occupation>
+   <occupation>veuve de Blaize Le Prince</occupation>
+   <occupation>veuve de Charles de Folleville</occupation>
+   <occupation>veuve de Claude Vaultier, marchand fripier et bourgeois de Paris</occupation>
+   <occupation>veuve de Denis Coteret</occupation>
+   <occupation>veuve de Guillaume Chaudière, marchand libraire bourgeois de Paris</occupation>
+   <occupation>veuve de Guillaume de la Haye</occupation>
+   <occupation>veuve de Guillaume Luillier, maître des requêtes</occupation>
+   <occupation>veuve de Jean Cruchart</occupation>
+   <occupation>veuve de Jean Delarue</occupation>
+   <occupation>veuve de Jean Giverne</occupation>
+   <occupation>veuve de Jean Henault, maître serrurier à Paris</occupation>
+   <occupation>veuve de Jean Hucher</occupation>
+   <occupation>veuve de Jean Tronçon</occupation>
+   <occupation>veuve de Nicolas Boulle</occupation>
+   <occupation>veuve de Nicolas Caillaut</occupation>
+   <occupation>veuve de Nicolas Pecquée</occupation>
+   <occupation>veuve de Nicolas Syon</occupation>
+   <occupation>veuve de Nicolas Syon, maître enlumineur</occupation>
+   <occupation>veuve de Philibert de Beaujeu</occupation>
+   <occupation>veuve de Philippe Barillet</occupation>
+   <occupation>veuve de Pierre du Fortet</occupation>
+   <occupation>veuve de Pierre Le Gras</occupation>
+   <occupation>veuve de Pierre Oudard</occupation>
+   <occupation>veuve de Pierre Pichard</occupation>
+   <occupation>veuve de Simon Vostre</occupation>
+   <occupation>veuve de Valleran Perrochet</occupation>
+   <occupation>veuve de Valleren Perochet</occupation>
+   <occupation>veuve d’Anthoine Bigot</occupation>
+   <occupation>veuve d’Arthus Mullot</occupation>
+   <occupation>veuve d’Estienne Cassin</occupation>
+   <occupation>vicaire général de Jean du Bellay, cardinal et évêque de Paris</occupation>
+   <occupation>vicaire général de l’archevêque de Sens</occupation>
+   <occupation>vicaire général de l’évêque de Paris</occupation>
+   <occupation>vicomte de Caltot et de Bunrechy</occupation>
+   <occupation>vicomte de Caltot et de Bunrecy</occupation>
+   <occupation>vigneron</occupation>
+</occupations-def>

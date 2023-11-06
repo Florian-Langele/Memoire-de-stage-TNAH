@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:html="http://www.w3.org/1999/xhtml"
+         xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:rico="https://www.ica.org/standards/RiC/ontology#"
+         xml:base="http://data.oresm.fr/">
+   <rico:RecordResource rdf:about="recordResource/or-cholets-23">
+      <rico:title xml:lang="fr">Donation faite au collège par le cardinal Lemoine sur ses biens et ceux du cardinal Cholet</rico:title>
+      <rdfs:label xml:lang="fr">Donation faite au collège par le cardinal Lemoine sur ses biens et ceux du cardinal Cholet</rdfs:label>
+      <rdfs:seeAlso rdf:resource="https://www.siv.archives-nationales.culture.gouv.fr/siv/UD/FRAN_IR_032408/c-4hw92vutl-10f2wyy8pfj6l"/>
+      <rico:hasOrHadLanguage rdf:resource="http://data.archives-nationales.culture.gouv.fr/language/FRAN_RI_100-name9"/>
+      <oresm-onto:nombreApproximatifNomsPersonnesPresents rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</oresm-onto:nombreApproximatifNomsPersonnesPresents>
+      <oresm-onto:presenceDeSceau rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</oresm-onto:presenceDeSceau>
+      <oresm-onto:noteSceau>Fragment de sceau de cire rouge</oresm-onto:noteSceau>
+      <rico:hasInstantiation rdf:resource="instantiation/or-cholets-23"/>
+   </rico:RecordResource>
+   <rico:Instantiation rdf:about="instantiation/or-cholets-23">
+      <rico:title xml:lang="fr">Donation faite au collège par le cardinal Lemoine sur ses biens et ceux du cardinal Cholet</rico:title>
+      <rdfs:label xml:lang="fr">Donation faite au collège par le cardinal Lemoine sur ses biens et ceux du cardinal Cholet</rdfs:label>
+      <rico:isInstantiationOf rdf:resource="recordResource/or-cholets-23"/>
+      <oresm-onto:estActuellementConservePar rdf:resource="corporateBody/005061"/>
+      <rico:height>317 mm</rico:height>
+      <rico:width>258 mm</rico:width>
+      <rico:instantiationExtent xml:lang="fr">1 pièce</rico:instantiationExtent>
+      <oresm-onto:presenceAutreMention rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</oresm-onto:presenceAutreMention>
+      <oresm-onto:presenceMentionDorsale rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</oresm-onto:presenceMentionDorsale>
+      <oresm-onto:transcriptionDeLaOuLesMentionsDorsales>« Littera super ordinatione facta bonorum in quibus erat exequitor cardinalis Monachi 31 aout 1308 I.L. » ; « Dixième pièce de la 44e liasse » ; « P » ; « Litera super ordinatione facta per dominum Johannem Monachi de executionis […] exequitor » ; [?] ; M 111 n° 19 a</oresm-onto:transcriptionDeLaOuLesMentionsDorsales>
+   </rico:Instantiation>
+</rdf:RDF>

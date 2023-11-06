@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:html="http://www.w3.org/1999/xhtml"
+         xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:rico="https://www.ica.org/standards/RiC/ontology#"
+         xml:base="http://data.oresm.fr/">
+   <rico:RecordResource rdf:about="recordResource/or-hubant-12">
+      <rico:title xml:lang="fr">Copie du vidimus de l'official de Paris de la deuxième fondation du collège de Hubant du 4 avril 1346 par Jean de Hubant</rico:title>
+      <rdfs:label xml:lang="fr">Copie du vidimus de l'official de Paris de la deuxième fondation du collège de Hubant du 4 avril 1346 par Jean de Hubant</rdfs:label>
+      <rdfs:seeAlso rdf:resource="https://www.siv.archives-nationales.culture.gouv.fr/siv/UD/FRAN_IR_032408/c-6y38djno4--1cr1jsl4rglfb"/>
+      <rico:hasOrHadLanguage rdf:resource="http://data.archives-nationales.culture.gouv.fr/language/FRAN_RI_100-name9"/>
+      <oresm-onto:nombreApproximatifNomsPersonnesPresents rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</oresm-onto:nombreApproximatifNomsPersonnesPresents>
+      <rico:hasInstantiation rdf:resource="instantiation/or-hubant-12"/>
+   </rico:RecordResource>
+   <rico:Instantiation rdf:about="instantiation/or-hubant-12">
+      <rico:title xml:lang="fr">Copie du vidimus de l'official de Paris de la deuxième fondation du collège de Hubant du 4 avril 1346 par Jean de Hubant</rico:title>
+      <rdfs:label xml:lang="fr">Copie du vidimus de l'official de Paris de la deuxième fondation du collège de Hubant du 4 avril 1346 par Jean de Hubant</rdfs:label>
+      <rico:isInstantiationOf rdf:resource="recordResource/or-hubant-12"/>
+      <oresm-onto:estActuellementConservePar rdf:resource="corporateBody/005061"/>
+      <rico:instantiationExtent xml:lang="fr">Cahier 8 fol.</rico:instantiationExtent>
+      <oresm-onto:presenceAutreMention rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</oresm-onto:presenceAutreMention>
+      <oresm-onto:presenceMentionDorsale rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</oresm-onto:presenceMentionDorsale>
+   </rico:Instantiation>
+   <rico:RecordResource rdf:about="recordResource/or-hubant-12-virt1">
+      <rdfs:label xml:lang="fr">Vidimus de l'official de Paris de la deuxième fondation du collège de Hubant du 4 avril 1346 par Jean de Hubant</rdfs:label>
+      <rico:title xml:lang="fr">Vidimus de l'official de Paris de la deuxième fondation du collège de Hubant du 4 avril 1346 par Jean de Hubant</rico:title>
+      <rico:hasCopy rdf:resource="recordResource/or-hubant-12"/>
+   </rico:RecordResource>
+</rdf:RDF>

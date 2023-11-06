@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:html="http://www.w3.org/1999/xhtml"
+         xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:rico="https://www.ica.org/standards/RiC/ontology#"
+         xml:base="http://data.oresm.fr/">
+   <rico:RecordResource rdf:about="recordResource/or-la-marche-29">
+      <rico:title xml:lang="fr">L'abbé de Sainte-Geneviève amortit les biens du collège de la Marche situés dans la censive de Sainte-Geneviève : 2 maisons rue d’Amboise qui ont appartenu au patriarche de Constantinople, 3 maisons en la rue Perdue formant la chapelle et la principale habitation du collège, 2 maisons à l’enseigne de la Nef d’argent et de la Cuillère, une maison face au collège de Laon qui a appartenu à Pierre d’Achières, une maison à l’enseigne de la Serpente rue Saint-Victor, une maison en la rue Saint-Nicolas du Chardonnet, 2 maisons en la rue des Lavandières, et plusieurs rentes</rico:title>
+      <rdfs:label xml:lang="fr">L'abbé de Sainte-Geneviève amortit les biens du collège de la Marche situés dans la censive de Sainte-Geneviève : 2 maisons rue d’Amboise qui ont appartenu au patriarche de Constantinople, 3 maisons en la rue Perdue formant la chapelle et la principale habitation du collège, 2 maisons à l’enseigne de la Nef d’argent et de la Cuillère, une maison face au collège de Laon qui a appartenu à Pierre d’Achières, une maison à l’enseigne de la Serpente rue Saint-Victor, une maison en la rue Saint-Nicolas du Chardonnet, 2 maisons en la rue des Lavandières, et plusieurs rentes</rdfs:label>
+      <rdfs:seeAlso rdf:resource="https://www.siv.archives-nationales.culture.gouv.fr/siv/UD/FRAN_IR_032408/c-7u7jblxef-1qdfbm7o8wy0q"/>
+      <rico:hasOrHadLanguage rdf:resource="http://data.archives-nationales.culture.gouv.fr/language/FRAN_RI_100-name4"/>
+      <oresm-onto:nombreApproximatifNomsPersonnesPresents rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</oresm-onto:nombreApproximatifNomsPersonnesPresents>
+      <rico:hasInstantiation rdf:resource="instantiation/or-la-marche-29"/>
+   </rico:RecordResource>
+   <rico:Instantiation rdf:about="instantiation/or-la-marche-29">
+      <rico:title xml:lang="fr">L'abbé de Sainte-Geneviève amortit les biens du collège de la Marche situés dans la censive de Sainte-Geneviève : 2 maisons rue d’Amboise qui ont appartenu au patriarche de Constantinople, 3 maisons en la rue Perdue formant la chapelle et la principale habitation du collège, 2 maisons à l’enseigne de la Nef d’argent et de la Cuillère, une maison face au collège de Laon qui a appartenu à Pierre d’Achières, une maison à l’enseigne de la Serpente rue Saint-Victor, une maison en la rue Saint-Nicolas du Chardonnet, 2 maisons en la rue des Lavandières, et plusieurs rentes</rico:title>
+      <rdfs:label xml:lang="fr">L'abbé de Sainte-Geneviève amortit les biens du collège de la Marche situés dans la censive de Sainte-Geneviève : 2 maisons rue d’Amboise qui ont appartenu au patriarche de Constantinople, 3 maisons en la rue Perdue formant la chapelle et la principale habitation du collège, 2 maisons à l’enseigne de la Nef d’argent et de la Cuillère, une maison face au collège de Laon qui a appartenu à Pierre d’Achières, une maison à l’enseigne de la Serpente rue Saint-Victor, une maison en la rue Saint-Nicolas du Chardonnet, 2 maisons en la rue des Lavandières, et plusieurs rentes</rdfs:label>
+      <rico:isInstantiationOf rdf:resource="recordResource/or-la-marche-29"/>
+      <oresm-onto:estActuellementConservePar rdf:resource="corporateBody/005061"/>
+      <rico:instantiationExtent xml:lang="fr">1 pièce</rico:instantiationExtent>
+      <oresm-onto:presenceAutreMention rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</oresm-onto:presenceAutreMention>
+      <oresm-onto:presenceMentionDorsale rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</oresm-onto:presenceMentionDorsale>
+   </rico:Instantiation>
+</rdf:RDF>

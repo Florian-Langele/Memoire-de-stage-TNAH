@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:html="http://www.w3.org/1999/xhtml"
+         xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:rico="https://www.ica.org/standards/RiC/ontology#"
+         xml:base="http://data.oresm.fr/">
+   <rico:RecordResource rdf:about="recordResource/or-cholets-8">
+      <rico:title xml:lang="fr">Vidimus de l'official de Paris d'une bulle de Boniface VIII qui institue la chapelle de Saint-Symphorien</rico:title>
+      <rdfs:label xml:lang="fr">Vidimus de l'official de Paris d'une bulle de Boniface VIII qui institue la chapelle de Saint-Symphorien</rdfs:label>
+      <rdfs:seeAlso rdf:resource="https://www.siv.archives-nationales.culture.gouv.fr/siv/UD/FRAN_IR_032408/c-4htaglmeq--yomtca2ojv9q"/>
+      <rico:hasOrHadLanguage rdf:resource="http://data.archives-nationales.culture.gouv.fr/language/FRAN_RI_100-name9"/>
+      <oresm-onto:nombreApproximatifNomsPersonnesPresents rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</oresm-onto:nombreApproximatifNomsPersonnesPresents>
+      <rico:hasInstantiation rdf:resource="instantiation/or-cholets-8"/>
+   </rico:RecordResource>
+   <rico:Instantiation rdf:about="instantiation/or-cholets-8">
+      <rico:title xml:lang="fr">Vidimus de l'official de Paris d'une bulle de Boniface VIII qui institue la chapelle de Saint-Symphorien</rico:title>
+      <rdfs:label xml:lang="fr">Vidimus de l'official de Paris d'une bulle de Boniface VIII qui institue la chapelle de Saint-Symphorien</rdfs:label>
+      <rico:isInstantiationOf rdf:resource="recordResource/or-cholets-8"/>
+      <oresm-onto:estActuellementConservePar rdf:resource="corporateBody/005061"/>
+      <rico:height>142 mm</rico:height>
+      <rico:width>537 mm</rico:width>
+      <rico:instantiationExtent xml:lang="fr">1 pièce</rico:instantiationExtent>
+      <oresm-onto:presenceAutreMention rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</oresm-onto:presenceAutreMention>
+      <oresm-onto:descriptionAutreMention>Mention hors teneur</oresm-onto:descriptionAutreMention>
+      <oresm-onto:presenceMentionDorsale rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</oresm-onto:presenceMentionDorsale>
+      <oresm-onto:transcriptionDeLaOuLesMentionsDorsales>"Littere capelle sancti Symphoriam" ; "Littera vidimus officialis Parisiensis bulla qua datur bursariis capella sancti Symphoriani 1297 13 janvier 2.G." ; "B5" ; "Litera officialis parisiensis qua confirmata concessio capelle sancti Symphorium et abbate bursariis huius domus" ; "C" ; "M 111 n° 7"</oresm-onto:transcriptionDeLaOuLesMentionsDorsales>
+   </rico:Instantiation>
+   <rico:RecordResource rdf:about="recordResource/or-cholets-8-virt1">
+      <rdfs:label xml:lang="fr">Bulle de Boniface VIII qui institue la chapelle de Saint-Symphorien</rdfs:label>
+      <rico:title xml:lang="fr">Bulle de Boniface VIII qui institue la chapelle de Saint-Symphorien</rico:title>
+      <oresm-onto:aPourVidimus rdf:resource="recordResource/or-cholets-8"/>
+      <rico:hasInstantiation>
+         <rico:Instantiation>
+            <rico:descriptiveNote xml:lang="fr">Acte non retrouvé à ce jour.</rico:descriptiveNote>
+            <rico:identifier>lost-84e18d69-0398-4d29-8d37-9c7b00701485</rico:identifier>
+         </rico:Instantiation>
+      </rico:hasInstantiation>
+   </rico:RecordResource>
+</rdf:RDF>

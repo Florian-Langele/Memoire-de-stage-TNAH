@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:html="http://www.w3.org/1999/xhtml"
+         xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:rico="https://www.ica.org/standards/RiC/ontology#"
+         xml:base="http://data.oresm.fr/">
+   <rico:RecordResource rdf:about="recordResource/or-cholets-246">
+      <rico:title xml:lang="fr">Mandement de Claude Gouyne, doyen de l'église de Beauvais et proviseur du collège des Cholets, au collège des Cholets pour qu'Arnoul de Langlet soit admis comme boursier</rico:title>
+      <rdfs:label xml:lang="fr">Mandement de Claude Gouyne, doyen de l'église de Beauvais et proviseur du collège des Cholets, au collège des Cholets pour qu'Arnoul de Langlet soit admis comme boursier</rdfs:label>
+      <rico:hasOrHadLanguage rdf:resource="http://data.archives-nationales.culture.gouv.fr/language/FRAN_RI_100-name9"/>
+      <oresm-onto:nombreApproximatifNomsPersonnesPresents rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</oresm-onto:nombreApproximatifNomsPersonnesPresents>
+      <oresm-onto:presenceDeSceau rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</oresm-onto:presenceDeSceau>
+      <oresm-onto:noteSceau>Scellé</oresm-onto:noteSceau>
+      <rico:hasInstantiation rdf:resource="instantiation/or-cholets-246"/>
+   </rico:RecordResource>
+   <rico:Instantiation rdf:about="instantiation/or-cholets-246">
+      <rico:title xml:lang="fr">Mandement de Claude Gouyne, doyen de l'église de Beauvais et proviseur du collège des Cholets, au collège des Cholets pour qu'Arnoul de Langlet soit admis comme boursier</rico:title>
+      <rdfs:label xml:lang="fr">Mandement de Claude Gouyne, doyen de l'église de Beauvais et proviseur du collège des Cholets, au collège des Cholets pour qu'Arnoul de Langlet soit admis comme boursier</rdfs:label>
+      <rico:isInstantiationOf rdf:resource="recordResource/or-cholets-246"/>
+      <oresm-onto:estActuellementConservePar rdf:resource="corporateBody/028173465"/>
+      <rico:instantiationExtent xml:lang="fr">1 pièce</rico:instantiationExtent>
+      <rico:physicalCharacteristics xml:lang="fr">Scellé</rico:physicalCharacteristics>
+      <oresm-onto:presenceAutreMention rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">false</oresm-onto:presenceAutreMention>
+   </rico:Instantiation>
+</rdf:RDF>

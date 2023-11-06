@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:html="http://www.w3.org/1999/xhtml"
+         xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:rico="https://www.ica.org/standards/RiC/ontology#"
+         xml:base="http://data.oresm.fr/">
+   <rico:RecordResource rdf:about="recordResource/or-la-marche-1">
+      <rico:title xml:lang="fr">Copie de la fondation et des statuts du collège de la Marche</rico:title>
+      <rdfs:label xml:lang="fr">Copie de la fondation et des statuts du collège de la Marche</rdfs:label>
+      <rdfs:seeAlso rdf:resource="https://www.calames.abes.fr/pub/#details?id=Calames-2019101616105582813"/>
+      <rico:hasOrHadLanguage rdf:resource="http://data.archives-nationales.culture.gouv.fr/language/FRAN_RI_100-name9"/>
+      <rico:hasOrHadLanguage rdf:resource="http://data.archives-nationales.culture.gouv.fr/language/FRAN_RI_100-name4"/>
+      <oresm-onto:nombreApproximatifNomsPersonnesPresents rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</oresm-onto:nombreApproximatifNomsPersonnesPresents>
+      <rico:hasInstantiation rdf:resource="instantiation/or-la-marche-1"/>
+   </rico:RecordResource>
+   <rico:Instantiation rdf:about="instantiation/or-la-marche-1">
+      <rico:title xml:lang="fr">Copie de la fondation et des statuts du collège de la Marche</rico:title>
+      <rdfs:label xml:lang="fr">Copie de la fondation et des statuts du collège de la Marche</rdfs:label>
+      <rico:isInstantiationOf rdf:resource="recordResource/or-la-marche-1"/>
+      <oresm-onto:estActuellementConservePar rdf:resource="corporateBody/050960067"/>
+      <rico:instantiationExtent xml:lang="fr">31 feuillets</rico:instantiationExtent>
+   </rico:Instantiation>
+   <rico:RecordResource rdf:about="recordResource/or-la-marche-1-virt1">
+      <rdfs:label xml:lang="fr">Statuts du collège de la Marche</rdfs:label>
+      <rico:title xml:lang="fr">Statuts du collège de la Marche</rico:title>
+      <rico:hasCopy rdf:resource="recordResource/or-la-marche-1"/>
+   </rico:RecordResource>
+   <rico:RecordResource rdf:about="recordResource/or-la-marche-1-virt2">
+      <rdfs:label xml:lang="fr">Règlements pour les pensionnaires du collège de la Marche</rdfs:label>
+      <rico:title xml:lang="fr">Règlements pour les pensionnaires du collège de la Marche</rico:title>
+      <rico:hasCopy rdf:resource="recordResource/or-la-marche-1"/>
+   </rico:RecordResource>
+</rdf:RDF>

@@ -1,0 +1,1418 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bibliographies xmlns:dc="http://purl.org/dc/elements/1.1/"
+                xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+                xmlns:owl="http://www.w3.org/2002/07/owl#"
+                xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+                xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+                xmlns:rico="https://www.ica.org/standards/RiC/ontology#">
+   <bibliographie>
+      <valeur>Histoire de la ville de Paris, V, Paris, 1725, p. 785-788</valeur>
+      <auteur>Michel Félibien</auteur>
+      <notice>bayeux-10</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>Histoire de la ville de Paris, V, Paris, 1725, p. 759-760.</valeur>
+      <auteur>Michel Félibien</auteur>
+      <notice>bayeux-15</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>Histoire de la ville de Paris, V, Paris, 1725, p. 785-788</valeur>
+      <auteur>Michel Félibien</auteur>
+      <notice>bayeux-16</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>Histoire de la ville de Paris, V, Paris, 1725, p. 759-760.</valeur>
+      <auteur>Michel Félibien</auteur>
+      <notice>bayeux-21</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>Histoire de la ville de Paris, V, Paris, 1725, p. 785-788</valeur>
+      <auteur>Michel Félibien</auteur>
+      <notice>bayeux-22</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>Histoire de la ville de Paris, V, Paris, 1725, p. 759-760.</valeur>
+      <auteur>Michel Félibien</auteur>
+      <notice>bayeux-28</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Cardinal Lemoine », Les collèges français 16e-18e siècle. Répertoire 3, Publications de l'Institut national de recherche pédagogique, 2002, 10-3, pp. 130-138</valeur>
+      <auteur>Marie-Madeleine Compère</auteur>
+      <notice>cardinal-lemoine-1</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Le Collège du cardinal Lemoine », Mémoires de la Société de l'histoire de Paris et de l'Ile-de-France, tome III, Paris, H. Champion, 1876, pp. 42-81</valeur>
+      <auteur>Charles Jourdain</auteur>
+      <notice>cardinal-lemoine-1</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Cardinal Lemoine », Les collèges français 16e-18e siècle. Répertoire 3, Publications de l'Institut national de recherche pédagogique, 2002, 10-3, pp. 130-138</valeur>
+      <auteur>Marie-Madeleine Compère</auteur>
+      <notice>cardinal-lemoine-2</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Le Collège du cardinal Lemoine », Mémoires de la Société de l'histoire de Paris et de l'Ile-de-France, tome III, Paris, H. Champion, 1876, pp. 42-81</valeur>
+      <auteur>Charles Jourdain</auteur>
+      <notice>cardinal-lemoine-2</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Cardinal Lemoine », Les collèges français 16e-18e siècle. Répertoire 3, Publications de l'Institut national de recherche pédagogique, 2002, 10-3, pp. 130-138</valeur>
+      <auteur>Marie-Madeleine Compère</auteur>
+      <notice>cardinal-lemoine-3</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Le Collège du cardinal Lemoine », Mémoires de la Société de l'histoire de Paris et de l'Ile-de-France, tome III, Paris, H. Champion, 1876, pp. 42-81</valeur>
+      <auteur>Charles Jourdain</auteur>
+      <notice>cardinal-lemoine-3</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Cardinal Lemoine », Les collèges français 16e-18e siècle. Répertoire 3, Publications de l'Institut national de recherche pédagogique, 2002, 10-3, pp. 130-138</valeur>
+      <auteur>Marie-Madeleine Compère</auteur>
+      <notice>cardinal-lemoine-4</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Le Collège du cardinal Lemoine », Mémoires de la Société de l'histoire de Paris et de l'Ile-de-France, tome III, Paris, H. Champion, 1876, pp. 42-81</valeur>
+      <auteur>Charles Jourdain</auteur>
+      <notice>cardinal-lemoine-4</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Cardinal Lemoine », Les collèges français 16e-18e siècle. Répertoire 3, Publications de l'Institut national de recherche pédagogique, 2002, 10-3, pp. 130-138</valeur>
+      <auteur>Marie-Madeleine Compère</auteur>
+      <notice>cardinal-lemoine-5</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Le Collège du cardinal Lemoine », Mémoires de la Société de l'histoire de Paris et de l'Ile-de-France, tome III, Paris, H. Champion, 1876, pp. 42-81</valeur>
+      <auteur>Charles Jourdain</auteur>
+      <notice>cardinal-lemoine-5</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Cardinal Lemoine », Les collèges français 16e-18e siècle. Répertoire 3, Publications de l'Institut national de recherche pédagogique, 2002, 10-3, pp. 130-138</valeur>
+      <auteur>Marie-Madeleine Compère</auteur>
+      <notice>cardinal-lemoine-6</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Le Collège du cardinal Lemoine », Mémoires de la Société de l'histoire de Paris et de l'Ile-de-France, tome III, Paris, H. Champion, 1876, pp. 42-81</valeur>
+      <auteur>Charles Jourdain</auteur>
+      <notice>cardinal-lemoine-6</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Cardinal Lemoine », Les collèges français 16e-18e siècle. Répertoire 3, Publications de l'Institut national de recherche pédagogique, 2002, 10-3, pp. 130-138</valeur>
+      <auteur>Marie-Madeleine Compère</auteur>
+      <notice>cardinal-lemoine-7</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Le Collège du cardinal Lemoine », Mémoires de la Société de l'histoire de Paris et de l'Ile-de-France, tome III, Paris, H. Champion, 1876, pp. 42-81</valeur>
+      <auteur>Charles Jourdain</auteur>
+      <notice>cardinal-lemoine-7</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Cardinal Lemoine », Les collèges français 16e-18e siècle. Répertoire 3, Publications de l'Institut national de recherche pédagogique, 2002, 10-3, pp. 130-138</valeur>
+      <auteur>Marie-Madeleine Compère</auteur>
+      <notice>cardinal-lemoine-11</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Le Collège du cardinal Lemoine », Mémoires de la Société de l'histoire de Paris et de l'Ile-de-France, tome III, Paris, H. Champion, 1876, pp. 42-81</valeur>
+      <auteur>Charles Jourdain</auteur>
+      <notice>cardinal-lemoine-11</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Cardinal Lemoine », Les collèges français 16e-18e siècle. Répertoire 3, Publications de l'Institut national de recherche pédagogique, 2002, 10-3, pp. 130-138</valeur>
+      <auteur>Marie-Madeleine Compère</auteur>
+      <notice>cardinal-lemoine-12</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Le Collège du cardinal Lemoine », Mémoires de la Société de l'histoire de Paris et de l'Ile-de-France, tome III, Paris, H. Champion, 1876, pp. 42-81</valeur>
+      <auteur>Charles Jourdain</auteur>
+      <notice>cardinal-lemoine-12</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Cardinal Lemoine », Les collèges français 16e-18e siècle. Répertoire 3, Publications de l'Institut national de recherche pédagogique, 2002, 10-3, pp. 130-138</valeur>
+      <auteur>Marie-Madeleine Compère</auteur>
+      <notice>cardinal-lemoine-13</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Le Collège du cardinal Lemoine », Mémoires de la Société de l'histoire de Paris et de l'Ile-de-France, tome III, Paris, H. Champion, 1876, pp. 42-81</valeur>
+      <auteur>Charles Jourdain</auteur>
+      <notice>cardinal-lemoine-13</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Cardinal Lemoine », Les collèges français 16e-18e siècle. Répertoire 3, Publications de l'Institut national de recherche pédagogique, 2002, 10-3, pp. 130-138</valeur>
+      <auteur>Marie-Madeleine Compère</auteur>
+      <notice>cardinal-lemoine-14</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Le Collège du cardinal Lemoine », Mémoires de la Société de l'histoire de Paris et de l'Ile-de-France, tome III, Paris, H. Champion, 1876, pp. 42-81</valeur>
+      <auteur>Charles Jourdain</auteur>
+      <notice>cardinal-lemoine-14</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Cardinal Lemoine », Les collèges français 16e-18e siècle. Répertoire 3, Publications de l'Institut national de recherche pédagogique, 2002, 10-3, pp. 130-138</valeur>
+      <auteur>Marie-Madeleine Compère</auteur>
+      <notice>cardinal-lemoine-15</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Le collège du cardinal Lemoine au XVIe siècle », Bulletin de la société de l'Histoire de Paris et de l'Île-de-France, Société de l'histoire de Paris et de l'Ile-de-France, 1991, 42, p. 219-259</valeur>
+      <auteur>Nathalie Gorochov</auteur>
+      <notice>cardinal-lemoine-15</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Le Collège du cardinal Lemoine », Mémoires de la Société de l'histoire de Paris et de l'Ile-de-France, tome III, Paris, H. Champion, 1876, pp. 42-81</valeur>
+      <auteur>Charles Jourdain</auteur>
+      <notice>cardinal-lemoine-15</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Cardinal Lemoine », Les collèges français 16e-18e siècle. Répertoire 3, Publications de l'Institut national de recherche pédagogique, 2002, 10-3, pp. 130-138</valeur>
+      <auteur>Marie-Madeleine Compère</auteur>
+      <notice>cardinal-lemoine-16</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Le Collège du cardinal Lemoine », Mémoires de la Société de l'histoire de Paris et de l'Ile-de-France, tome III, Paris, H. Champion, 1876, pp. 42-81</valeur>
+      <auteur>Charles Jourdain</auteur>
+      <notice>cardinal-lemoine-16</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Cardinal Lemoine », Les collèges français 16e-18e siècle. Répertoire 3, Publications de l'Institut national de recherche pédagogique, 2002, 10-3, pp. 130-138</valeur>
+      <auteur>Marie-Madeleine Compère</auteur>
+      <notice>cardinal-lemoine-17</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Le Collège du cardinal Lemoine », Mémoires de la Société de l'histoire de Paris et de l'Ile-de-France, tome III, Paris, H. Champion, 1876, pp. 42-81</valeur>
+      <auteur>Charles Jourdain</auteur>
+      <notice>cardinal-lemoine-17</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Cardinal Lemoine », Les collèges français 16e-18e siècle. Répertoire 3, Publications de l'Institut national de recherche pédagogique, 2002, 10-3, pp. 130-138</valeur>
+      <auteur>Marie-Madeleine Compère</auteur>
+      <notice>cardinal-lemoine-18</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Le Collège du cardinal Lemoine », Mémoires de la Société de l'histoire de Paris et de l'Ile-de-France, tome III, Paris, H. Champion, 1876, pp. 42-81</valeur>
+      <auteur>Charles Jourdain</auteur>
+      <notice>cardinal-lemoine-18</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Cardinal Lemoine », Les collèges français 16e-18e siècle. Répertoire 3, Publications de l'Institut national de recherche pédagogique, 2002, 10-3, pp. 130-138</valeur>
+      <auteur>Marie-Madeleine Compère</auteur>
+      <notice>cardinal-lemoine-19</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Le Collège du cardinal Lemoine », Mémoires de la Société de l'histoire de Paris et de l'Ile-de-France, tome III, Paris, H. Champion, 1876, pp. 42-81</valeur>
+      <auteur>Charles Jourdain</auteur>
+      <notice>cardinal-lemoine-19</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-1</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-2</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-3</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-4</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-5</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-6</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-7</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-8</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-9</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-10</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-11</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-12</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-13</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-14</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-15</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-16</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-17</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-18</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-19</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-20</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-21</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-22</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-23</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-24</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-25</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-28</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-29</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-30</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-31</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-32</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-33</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-34</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-35</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-36</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-37</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-38</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-39</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-40</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-41</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-42</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-43</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-44</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-45</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-46</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-47</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-48</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-49</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-50</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-51</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-52</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-53</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-54</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-55</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-56</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-57</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-58</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-59</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-62</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-63</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-64</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-65</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-66</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-67</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-68</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-69</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-70</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-71</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-72</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-73</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-74</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-75</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-76</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-77</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-78</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-79</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-80</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-81</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-82</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-83</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-84</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-85</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-86</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-87</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-88</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-89</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-90</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-91</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-92</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-93</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-94</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-95</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-96</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-97</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-98</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-99</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-100</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-101</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-102</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-103</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-104</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-105</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-106</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-107</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-108</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-109</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-110</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-111</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-112</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-113</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-114</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-115</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-116</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-117</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-118</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-119</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-120</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-121</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-122</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-123</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-124</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-125</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-126</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-127</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-128</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-129</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-130</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-131</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-132</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-133</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-134</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-135</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-136</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-137</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-138</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-139</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-140</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-141</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-143</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-144</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-145</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-146</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-147</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-148</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-149</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-150</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-151</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-152</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-153</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-154</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-155</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-156</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-157</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-158</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-159</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-160</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-161</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-162</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-163</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-164</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-165</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-166</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-167</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-168</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-169</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-171</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-172</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-173</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-174</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-175</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-176</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-177</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-178</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-179</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-180</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-181</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-182</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-183</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-184</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-185</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-186</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-187</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-188</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-189</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-190</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-191</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-192</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-193</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-194</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-195</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-196</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-197</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-198</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-199</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-200</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-201</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-202</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-203</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-204</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-205</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-206</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-207</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-208</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-209</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-210</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-211</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-212</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-213</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-214</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-215</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-216</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-217</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-218</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-219</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-220</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-221</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-222</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-223</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-224</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-225</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>« Les Cholets, Étude historique et topographique d’un collège parisien », Mémoires de la fédération des sociétés historiques et archéologiques de Paris et d’Île de France, 1970, t. 21, pp. 7-95, et 1971, t. 22, pp. 119-231.</valeur>
+      <auteur>Élisabeth Rabut</auteur>
+      <notice>cholets-226</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>Histoire de la ville de Paris, tome III, Paris, 1727, p. 494-505</valeur>
+      <auteur>Michel Félibien</auteur>
+      <notice>cornouaille-1</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>Index chronologicus chartarum pertinentium ad historiam universitatis Parisiensis, Paris, Hachette, 1862, n° 1546</valeur>
+      <auteur>Charles Jourdain</auteur>
+      <notice>la-marche-114</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>Index chronologicus chartarum pertinentium ad historiam universitatis Parisiensis, Paris, Hachette, 1862, n° 1759</valeur>
+      <auteur>Charles Jourdain</auteur>
+      <notice>la-marche-120</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>Index chronologicus chartarum pertinentium ad historiam universitatis Parisiensis, Paris, Hachette, n° 1347</valeur>
+      <auteur>Charles Jourdain</auteur>
+      <notice>lisieux-13</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>Index chronologicus chartarum pertinentium ad historiam universitatis Parisiensis, Paris, Hachette, 1862, n° 1755</valeur>
+      <auteur>Charles Jourdain</auteur>
+      <notice>lisieux-14</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>Index chronologicus chartarum pertinentium ad historiam universitatis Parisiensis, Paris, Hachette, 1862, n° 1812</valeur>
+      <auteur>Charles Jourdain</auteur>
+      <notice>lisieux-15</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>Paris, Bibliothèque de la Sorbonne, 1974, p. 175</valeur>
+      <auteur>[Exposition. Paris. Chapelle de la Sorbonne. 1974. N° 240] La vie universitaire parisienne au XIIIe siècle</auteur>
+      <notice>sorbonne-58</notice>
+   </bibliographie>
+   <bibliographie>
+      <valeur>Index chronologicus chartarum pertinentium ad historiam universitatis Parisiensis, Paris, Hachette, n° 388</valeur>
+      <auteur>Charles Jourdain</auteur>
+      <edite>cardinal-lemoine-16</edite>
+   </bibliographie>
+   <bibliographie>
+      <valeur>Index chronologicus chartarum pertinentium ad historiam universitatis Parisiensis, Paris, Hachette, n° 388</valeur>
+      <auteur>Charles Jourdain</auteur>
+      <edite>cardinal-lemoine-17</edite>
+   </bibliographie>
+   <bibliographie>
+      <valeur>Index chronologicus chartarum pertinentium ad historiam universitatis Parisiensis, Paris, Hachette, n° 405</valeur>
+      <auteur>Charles Jourdain</auteur>
+      <edite>cardinal-lemoine-18</edite>
+   </bibliographie>
+   <bibliographie>
+      <valeur>Index chronologicus chartarum pertinentium ad historiam universitatis Parisiensis, Paris, Hachette, n° 427</valeur>
+      <auteur>Charles Jourdain</auteur>
+      <edite>cardinal-lemoine-19</edite>
+   </bibliographie>
+   <bibliographie>
+      <valeur>Index chronologicus chartarum pertinentium ad historiam universitatis Parisiensis, Paris, Hachette, 1862, n° 1104</valeur>
+      <auteur>Charles Jourdain</auteur>
+      <edite>cholets-225</edite>
+   </bibliographie>
+   <bibliographie>
+      <valeur>Index chronologicus chartarum pertinentium ad historiam universitatis Parisiensis, Paris, Hachette, 1862, n° 1879</valeur>
+      <auteur>Charles Jourdain</auteur>
+      <edite>cholets-226</edite>
+   </bibliographie>
+   <bibliographie>
+      <valeur>Index chronologicus chartarum pertinentium ad historiam universitatis Parisiensis, Paris, Hachette, 1862, n° 1904</valeur>
+      <auteur>Charles Jourdain</auteur>
+      <edite>cholets-226</edite>
+   </bibliographie>
+   <bibliographie>
+      <valeur>Historia universitatis Parisiensis, III, p. 305.</valeur>
+      <auteur>Du Boulay</auteur>
+      <edite>sorbonne-1</edite>
+   </bibliographie>
+   <bibliographie>
+      <valeur>Index chronologicus chartarum pertinentium ad historiam universitatis Parisiensis, Paris, Hachette, 1862, n°136</valeur>
+      <auteur>Charles Jourdain</auteur>
+      <edite>sorbonne-1</edite>
+   </bibliographie>
+   <bibliographie>
+      <valeur>Index chronologicus chartarum pertinentium ad historiam universitatis Parisiensis, Paris, Hachette, 1862, n°315</valeur>
+      <auteur>Charles Jourdain</auteur>
+      <edite>sorbonne-3</edite>
+   </bibliographie>
+   <bibliographie>
+      <valeur>Chartularium Universitatis Parisiensis..., Paris, Delalain, I, 1889, n° 1298</valeur>
+      <auteur>H. Denifle et E. Chatelain</auteur>
+      <edite>sorbonne-35</edite>
+   </bibliographie>
+   <bibliographie>
+      <valeur>Chartularium Universitatis Parisiensis..., Paris, Delalain, I, 1889, n° 1299</valeur>
+      <auteur>H. Denifle et E. Chatelain</auteur>
+      <edite>sorbonne-37</edite>
+   </bibliographie>
+   <bibliographie>
+      <valeur>Chartularium Universitatis Parisiensis..., Paris, Delalain, I, 1889, n° 1300</valeur>
+      <auteur>H. Denifle et E. Chatelain</auteur>
+      <edite>sorbonne-38</edite>
+   </bibliographie>
+   <bibliographie>
+      <valeur>Chartularium Universitatis Parisiensis..., Paris, Delalain, I, 1889, n° 1350</valeur>
+      <auteur>H. Denifle et E. Chatelain</auteur>
+      <edite>sorbonne-39</edite>
+   </bibliographie>
+   <bibliographie>
+      <valeur>Historia universitatis Parisiensis, III, p. 383</valeur>
+      <auteur>Du Boulay</auteur>
+      <edite>sorbonne-58</edite>
+   </bibliographie>
+   <bibliographie>
+      <valeur>Chartularium Universitatis Parisiensis..., Paris, Delalain, I, 1889, n° 413</valeur>
+      <auteur>H. Denifle et E. Chatelain</auteur>
+      <edite>sorbonne-58</edite>
+   </bibliographie>
+</bibliographies>

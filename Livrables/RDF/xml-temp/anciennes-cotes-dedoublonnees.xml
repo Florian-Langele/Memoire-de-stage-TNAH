@@ -1,0 +1,5551 @@
+<?xml version="1.0" encoding="utf-8"?>
+<anciennes-cotes xmlns:dc="http://purl.org/dc/elements/1.1/"
+                 xmlns:oresm-onto="http://data.oresm.fr/ontology#"
+                 xmlns:owl="http://www.w3.org/2002/07/owl#"
+                 xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+                 xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+                 xmlns:rico="https://www.ica.org/standards/RiC/ontology#">
+   <ancienne-cote>
+      <nom>troisième de la dix neuvième cotte</nom>
+      <info>FRAN/M//79/1||arras-1::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>quatrième de la dix neuvième cotte</nom>
+      <info>FRAN/M//79/2||arras-2::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>33 cotte 18e</nom>
+      <info>FRAN/M//87/1||bayeux-1::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>87e et dernière cotte 14</nom>
+      <info>FRAN/M//87/7||bayeux-2::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>86e cotte 14</nom>
+      <info>FRAN/M//87/8/1||bayeux-3::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>85e cotte 14e</nom>
+      <info>FRAN/M//87/8/2||bayeux-4::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>mil quatorze</nom>
+      <info>FRAN/M//87/102||bayeux-7::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>première de la cotte trente quatre</nom>
+      <info>FRAN/M//87/103||bayeux-8::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>11e cotte 5</nom>
+      <info>FRAN/M//87/105||bayeux-9::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>N° 663 2e regtre</nom>
+      <info>Bibliothèque de la Sorbonne (Paris), MSAUC 19 / III (pièces A/D) / Pièce A||bayeux-10::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>trois cotte douze</nom>
+      <info>Bibliothèque de la Sorbonne (Paris), MSAUC 19 / III (pièces A/D) / Pièce B||bayeux-11::</info>
+      <info>Bibliothèque de la Sorbonne (Paris), MSAUC 19 / III (pièces A_D)/III (pièces A/D) / Pièce B / F. 1r-2r et 14r-15r||bayeux-12::</info>
+      <info>Bibliothèque de la Sorbonne (Paris), MSAUC 19 / III (pièces A_D)/III (pièces A/D) / Pièce B / F. 2r-9r et 15r-22r||bayeux-13::</info>
+      <info>Bibliothèque de la Sorbonne (Paris), MSAUC 19 / III (pièces A_D)/III (pièces A/D) / Pièce B / F. 9v-10v et 22r-23r||bayeux-14::</info>
+      <info>Bibliothèque de la Sorbonne (Paris), MSAUC 19 / III (pièces A_D)/III (pièces A/D) / Pièce B / F. 25v-39v||bayeux-15::</info>
+      <info>Bibliothèque de la Sorbonne (Paris), MSAUC 19 / III (pièces A_D)/III (pièces A/D) / Pièce B / F. 40r-45r||bayeux-16::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>première de la première liasse</nom>
+      <info>FRAN/M//105/3||bons-enfants-1::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>onzième de la 1re</nom>
+      <info>FRAN/M//105/7/1||bons-enfants-3::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>dizième de la 1re</nom>
+      <info>FRAN/M//105/7/2||bons-enfants-4::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>neuvième de la 1re</nom>
+      <info>FRAN/M//105/7/3||bons-enfants-5::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>huitième de la 1re</nom>
+      <info>FRAN/M//105/7/4||bons-enfants-6::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>pre liasse deux cent seize</nom>
+      <info>FRAN/M//105/7/5||bons-enfants-7::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>septième de la 1re</nom>
+      <info>FRAN/M//105/7/6||bons-enfants-8::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>sizième de la 1re</nom>
+      <info>FRAN/M//105/7/7||bons-enfants-9::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>cinquie de la 1re</nom>
+      <info>FRAN/M//105/7/8||bons-enfants-10::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>armoire 2 liasse 69 n° 1re</nom>
+      <info>FRAN/M//106/29||bons-enfants-11::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>première cotte soixante neuvième</nom>
+      <info>FRAN/M//106/29||bons-enfants-11::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>armoire 2 liasse 69 n° 2</nom>
+      <info>FRAN/M//106/30||bons-enfants-12::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>seconde cotte soixante neuvième</nom>
+      <info>FRAN/M//106/30||bons-enfants-12::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>armoire 2 liasse 69 n° 3</nom>
+      <info>FRAN/M//106/31||bons-enfants-13::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>troisième cotte soixante neuvième</nom>
+      <info>FRAN/M//106/31||bons-enfants-13::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>armoire 2 liasse 69 n° 4</nom>
+      <info>FRAN/M//106/32||bons-enfants-14::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>quatrième cotte soixante neuvième</nom>
+      <info>FRAN/M//106/32||bons-enfants-14::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>armoire 2 liasse 69 n° 5</nom>
+      <info>FRAN/M//106/33||bons-enfants-15::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>cinquième cotte soixante neuvième</nom>
+      <info>FRAN/M//106/33||bons-enfants-15::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>armoire 2 liasse 69 n° 6</nom>
+      <info>FRAN/M//106/34||bons-enfants-16::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>sixième cotte soixante neuvième</nom>
+      <info>FRAN/M//106/34||bons-enfants-16::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>armoire 2 liasse 69 n° 7</nom>
+      <info>FRAN/M//106/35||bons-enfants-17::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>septième cotte soixante neuvième</nom>
+      <info>FRAN/M//106/35||bons-enfants-17::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>armoire 2 liasse 69 n° 8</nom>
+      <info>FRAN/M//106/36||bons-enfants-18::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>huitième cotte soixante neuvième</nom>
+      <info>FRAN/M//106/36||bons-enfants-18::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>armoire 2 liasse 69 n° 10</nom>
+      <info>FRAN/M//106/37||bons-enfants-19::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>dixième cotte soixante neuvième</nom>
+      <info>FRAN/M//106/37||bons-enfants-19::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>39</nom>
+      <info>FRAN M//145/A/1||cardinal-lemoine-1::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>dix cote première</nom>
+      <info>FRAN M//145/A/1||cardinal-lemoine-1::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>n° 29</nom>
+      <info>FRAN M//145/A/2||cardinal-lemoine-2::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>douze cote première</nom>
+      <info>FRAN M//145/A/2||cardinal-lemoine-2::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>n° 7</nom>
+      <info>FRAN M//145/A/3||cardinal-lemoine-3::</info>
+      <info>FRAN/M//121/17||dix-huit-23::</info>
+      <info>FRAN/M//180/A/8||navarre-10::</info>
+      <info>FRAN/M//180/A/9||navarre-11::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>Ch. 12. Quatre cote première</nom>
+      <info>FRAN M//145/A/3||cardinal-lemoine-3::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>n° 13</nom>
+      <info>FRAN M//145/A/4||cardinal-lemoine-4::</info>
+      <info>FRAN/M//121/25||dix-huit-36::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>Ch. 13. Quatre cote première</nom>
+      <info>FRAN M//145/A/4||cardinal-lemoine-4::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>n° 20</nom>
+      <info>FRAN M//145/A/5||cardinal-lemoine-5::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>Chap. 14. Quatre cote première</nom>
+      <info>FRAN M//145/A/5||cardinal-lemoine-5::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>Chap. 33. Première cote première</nom>
+      <info>FRAN M//145/A/6||cardinal-lemoine-6::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>n° 5</nom>
+      <info>FRAN M//145/A/7||cardinal-lemoine-7::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>Chap. 33. Onze cote première</nom>
+      <info>FRAN M//145/A/7||cardinal-lemoine-7::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>k.k.</nom>
+      <info>FRAN M//145/B/40||cardinal-lemoine-11::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>cotte 13 Regnault 1710</nom>
+      <info>FRAN M//145/B/40||cardinal-lemoine-11::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>Chap 34 Soixante un cote première</nom>
+      <info>FRAN M//145/B/40||cardinal-lemoine-11::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>F II B</nom>
+      <info>Bibliothèque de la Sorbonne (Paris), MSAUC 17 / I / Dossier 1 / 1||cardinal-lemoine-12::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>12</nom>
+      <info>Bibliothèque de la Sorbonne (Paris), MSAUC 17 / I / Dossier 1 / 2||cardinal-lemoine-13::</info>
+      <info>FRAN/M//117/1/4||cornouaille-18::</info>
+      <info>FRAN/M//128/1/27||fortet-281::</info>
+      <info>FRAN/M//128/11/3||fortet-365::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>cotte 12 Regnault</nom>
+      <info>Bibliothèque de la Sorbonne (Paris), MSAUC 17 / I / Dossier 1 / 2||cardinal-lemoine-13::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>trois bis chap. deux</nom>
+      <info>Bibliothèque de la Sorbonne (Paris), MSAUC 17 / I / Dossier 1 / 2||cardinal-lemoine-13::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>13</nom>
+      <info>Bibliothèque de la Sorbonne (Paris), MSAUC 17 / I / Dossier 1 / 3||cardinal-lemoine-14::</info>
+      <info>FRAN/M//117/1/5||cornouaille-19::</info>
+      <info>FRAN/M//128/7/1||fortet-336::</info>
+      <info>FRAN/M//128/11/12||fortet-370::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>cotte 13 Regnault</nom>
+      <info>Bibliothèque de la Sorbonne (Paris), MSAUC 17 / I / Dossier 1 / 3||cardinal-lemoine-14::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>quatre chap. deux</nom>
+      <info>Bibliothèque de la Sorbonne (Paris), MSAUC 17 / I / Dossier 1 / 3||cardinal-lemoine-14::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>F II A</nom>
+      <info>Bibliothèque de la Sorbonne (Paris), MSAUC 17 / I / Dossier 1 / 4||cardinal-lemoine-15::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>Chap 38 sixième pièce</nom>
+      <info>Bibliothèque de la Sorbonne (Paris), MSAUC 17 / I / Dossier 2 / 13||cardinal-lemoine-16::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>Chap 38 septième pièce</nom>
+      <info>Bibliothèque de la Sorbonne (Paris), MSAUC 17 / I / Dossier 2 / 13bis||cardinal-lemoine-17::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>6</nom>
+      <info>Bibliothèque de la Sorbonne (Paris), MSAUC 17 / I / Dossier 2 / 14||cardinal-lemoine-18::</info>
+      <info>FRAN/M//127/6/2||fortet-243::</info>
+      <info>FRAN/M//128/11/17||fortet-375::</info>
+      <info>FRAN/M//171/29||la-marche-30::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>vingt cinq chap. premier</nom>
+      <info>Bibliothèque de la Sorbonne (Paris), MSAUC 17 / I / Dossier 2 / 14||cardinal-lemoine-18::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>cotte 4 Regnault</nom>
+      <info>Bibliothèque de la Sorbonne (Paris), MSAUC 17 / I / Dossier 2 / 15||cardinal-lemoine-19::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>Chap. deux vingt quatrième pièce</nom>
+      <info>Bibliothèque de la Sorbonne (Paris), MSAUC 17 / I / Dossier 2 / 15||cardinal-lemoine-19::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>N° 502.2°</nom>
+      <info>FRAD077/D 1/1||cardinal-lemoine-20::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>1ère pièce des 4 attachées ensemble du costé 1 suivant le repertoire laiette 9</nom>
+      <info>FRAD077/E 42/1||cardinal-lemoine-132::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>1ère pièce de la 1ère liasse cotte A</nom>
+      <info>FRAD077/E 42/1||cardinal-lemoine-132::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>cotte a</nom>
+      <info>FRAD077/E 42/1||cardinal-lemoine-132::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>N° 24</nom>
+      <info>FRAD077/E 42/1||cardinal-lemoine-132::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>2de pièce des 4 attachées ensemble de la layette 9 du repertoire sur le bien de Brers Aumons C.1.</nom>
+      <info>FRAD077/E 42/2||cardinal-lemoine-133::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>B.4. 1 pièce</nom>
+      <info>FRAD077/E 42/2||cardinal-lemoine-133::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>2e pièce de la 1re liasse cotte A</nom>
+      <info>FRAD077/E 42/2||cardinal-lemoine-133::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>N° 25</nom>
+      <info>FRAD077/E 42/2||cardinal-lemoine-133::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>troisiesme pièce des 4 attachées ensemble du costé 1 du repertoire laiette 9</nom>
+      <info>FRAD077/E 42/3||cardinal-lemoine-134::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>B.4. 3 pièce</nom>
+      <info>FRAD077/E 42/3||cardinal-lemoine-134::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>3e pièce de la 1re liasse cotte A</nom>
+      <info>FRAD077/E 42/3||cardinal-lemoine-134::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>N° 26</nom>
+      <info>FRAD077/E 42/3||cardinal-lemoine-134::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>4ème pièce du coté 1er du repertoire laiette 9</nom>
+      <info>FRAD077/E 42/4||cardinal-lemoine-135::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>B.4. 4e pièce</nom>
+      <info>FRAD077/E 42/4||cardinal-lemoine-135::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>4e pièce de la 1re liasse cotte A</nom>
+      <info>FRAD077/E 42/4||cardinal-lemoine-135::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>N° 27</nom>
+      <info>FRAD077/E 42/4||cardinal-lemoine-135::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>cote 10 de la layette 9 du repertoire</nom>
+      <info>FRAD077/E 42/5||cardinal-lemoine-136::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>8e pièce cotte D</nom>
+      <info>FRAD077/E 42/5||cardinal-lemoine-136::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>2e pièce 2e liasse cotte A</nom>
+      <info>FRAD077/E 42/5||cardinal-lemoine-136::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>N° 28</nom>
+      <info>FRAD077/E 42/5||cardinal-lemoine-136::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>cote 10 de la laiette 9 du repertoire</nom>
+      <info>FRAD077/E 42/6||cardinal-lemoine-137::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>cotte D 6e pièce</nom>
+      <info>FRAD077/E 42/6||cardinal-lemoine-137::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>3e pièce de la 2e liasse cotte A</nom>
+      <info>FRAD077/E 42/6||cardinal-lemoine-137::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>N° 29</nom>
+      <info>FRAD077/E 42/6||cardinal-lemoine-137::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>cote 15 de la layette 9 du repertoire</nom>
+      <info>FRAD077/E 42/7||cardinal-lemoine-138::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>B 5. 5e liasse</nom>
+      <info>FRAD077/E 42/7||cardinal-lemoine-138::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>4ème pce cotte A 2e liasse</nom>
+      <info>FRAD077/E 42/7||cardinal-lemoine-138::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>N° 30</nom>
+      <info>FRAD077/E 42/7||cardinal-lemoine-138::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>cote 13 de la layette 9 du repertoire</nom>
+      <info>FRAD077/E 42/9||cardinal-lemoine-139::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>cotte A 1re pièce de la 3e liasse</nom>
+      <info>FRAD077/E 42/9||cardinal-lemoine-139::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>N° 32</nom>
+      <info>FRAD077/E 42/9||cardinal-lemoine-139::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>cotte A 2e pce de la 3e liasse</nom>
+      <info>FRAD077/E 42/10||cardinal-lemoine-140::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>9e pièce cotte D</nom>
+      <info>FRAD077/E 42/10||cardinal-lemoine-140::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>N° 33</nom>
+      <info>FRAD077/E 42/10||cardinal-lemoine-140::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>cote 14 de la laiette 9 du repertoire</nom>
+      <info>FRAD077/E 43/1||cardinal-lemoine-141::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>B.4. 3e pièce</nom>
+      <info>FRAD077/E 43/1||cardinal-lemoine-141::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>I.C.</nom>
+      <info>FRAN M//111/1||cholets-1::<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>D</nom>
+      <info>FRAN M//111/1||cholets-1::</info>
+      <info>FRAN M//112/37||cholets-82::</info>
+      <info>FRAN M//113/5||cholets-101::</info>
+      <info>FRAN M//113/6/1||cholets-102::</info>
+      <info>FRAN M//113/24||cholets-121::</info>
+      <info>FRAN/M//129/A/3/33||fortet-403::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>Troisième pièce de la 44e liasse</nom>
+      <info>FRAN M//111/1||cholets-1::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>I.A.</nom>
+      <info>FRAN M//111/2||cholets-2::<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>Première pièce de la quarante quatrième liasse</nom>
+      <info>FRAN M//111/2||cholets-2::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>A.a.a.a.</nom>
+      <info>FRAN M//111/3||cholets-3::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>I.E.</nom>
+      <info>FRAN M//111/3||cholets-3::<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>Cinquième pièce de la 44e liasse</nom>
+      <info>FRAN M//111/3||cholets-3::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>1290 4 K1058</nom>
+      <info>FRAN M//111/3||cholets-3::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>I.D.</nom>
+      <info>FRAN M//111/4||cholets-4::<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>5L</nom>
+      <info>FRAN M//111/5||cholets-5::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>R</nom>
+      <info>FRAN M//111/5||cholets-5::</info>
+      <info>FRAN M//113/1||cholets-96::</info>
+      <info>FRAN/M//129/A/3/16||fortet-386::</info>
+      <info>FRAN/M//180/A/10/1||navarre-12::<date>XVIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>25e pièce 46e liasse</nom>
+      <info>FRAN M//111/5||cholets-5::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>2.G.</nom>
+      <info>FRAN M//111/7||cholets-8::<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>B5</nom>
+      <info>FRAN M//111/7||cholets-8::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>C</nom>
+      <info>FRAN M//111/7||cholets-8::</info>
+      <info>FRAN M//112/2||cholets-46::</info>
+      <info>FRAN M//112/10||cholets-54::</info>
+      <info>FRAN M//112/31||cholets-75::</info>
+      <info>FRAN M//112/37||cholets-82::</info>
+      <info>FRAN M//113/2||cholets-97::</info>
+      <info>FRAN M//113/3||cholets-98::</info>
+      <info>FRAN M//113/6/2||cholets-103::</info>
+      <info>FRAN M//113/65||cholets-165::</info>
+      <info>FRAN/M//129/A/3/35||fortet-405::</info>
+      <info>FRAN/M//180/A/5||navarre-5::<date>XVIIe s.</date>
+      </info>
+      <info>FRAN/M//180/A/6/1||navarre-6::<date>XVIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>Sixième pièce de la trente troisième liasse</nom>
+      <info>FRAN M//111/7||cholets-8::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>I.H.</nom>
+      <info>FRAN M//111/8||cholets-9::<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>C.c</nom>
+      <info>FRAN M//111/8||cholets-9::<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>Huitième piece de la 44e liasse</nom>
+      <info>FRAN M//111/8||cholets-9::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>I.G.</nom>
+      <info>FRAN M//111/9||cholets-10::<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>B6</nom>
+      <info>FRAN M//111/9||cholets-10::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>Septième piece de la 44e liasse</nom>
+      <info>FRAN M//111/9||cholets-10::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>5B</nom>
+      <info>FRAN M//111/10||cholets-11::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>F</nom>
+      <info>FRAN M//111/10||cholets-11::</info>
+      <info>FRAN M//113/14||cholets-111::</info>
+      <info>FRAN M//113/19||cholets-116::</info>
+      <info>FRAN M//113/26||cholets-123::</info>
+      <info>FRAN/M//129/A/3/31||fortet-401::</info>
+      <info>FRAN/M//172/19/B||la-marche-62::</info>
+      <info>FRAN/M//172/29/A||la-marche-73::</info>
+      <info>FRAN/M//180/A/10/2||navarre-13::<date>XVIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>15e pièce 46e liasse</nom>
+      <info>FRAN M//111/10||cholets-11::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>I.J.</nom>
+      <info>FRAN M//111/11||cholets-12::<date>XVIIIe s.</date>
+      </info>
+      <info>FRAN M//112/47||cholets-93::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>e</nom>
+      <info>FRAN M//111/11||cholets-12::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>Neuvième piece de la 44e liasse</nom>
+      <info>FRAN M//111/11||cholets-12::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>6.D.</nom>
+      <info>FRAN M//111/12||cholets-13::<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>T.7</nom>
+      <info>FRAN M//111/12||cholets-13::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>L.J.</nom>
+      <info>FRAN M//111/14||cholets-15::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>C.e</nom>
+      <info>FRAN M//111/14||cholets-15::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>Septième pièce de la 33e liasse</nom>
+      <info>FRAN M//111/14||cholets-15::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>5.C.</nom>
+      <info>FRAN M//111/16/1||cholets-18::<date>XVIIIe s.</date>
+      </info>
+      <info>FRAN M//111/16/2||cholets-19::<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>18e pièce 46e liasse</nom>
+      <info>FRAN M//111/16/1||cholets-18::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>16e pièce 46e liasse</nom>
+      <info>FRAN M//111/16/2||cholets-19::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>5.D.</nom>
+      <info>FRAN M//111/17/1||cholets-20::<date>XVIIIe s.</date>
+      </info>
+      <info>FRAN M//111/17/2||cholets-21::<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>G5</nom>
+      <info>FRAN M//111/17/1||cholets-20::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>19e pièce 46e liasse</nom>
+      <info>FRAN M//111/17/1||cholets-20::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>5.E</nom>
+      <info>FRAN M//111/18||cholets-22::<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>T</nom>
+      <info>FRAN M//111/18||cholets-22::</info>
+      <info>FRAN M//111/29||cholets-35::</info>
+      <info>FRAN M//113/12||cholets-109::</info>
+      <info>FRAN M//113/25||cholets-122::</info>
+      <info>FRAN M//113/47||cholets-145::</info>
+      <info>FRAN M//113/68||cholets-168::</info>
+      <info>FRAN/M//128/3/9||fortet-329::</info>
+      <info>FRAN/M//129/A/3/14||fortet-384::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>20e pièce 46e liasse</nom>
+      <info>FRAN M//111/18||cholets-22::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>I.L.</nom>
+      <info>FRAN M//111/19/A||cholets-23::<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>P</nom>
+      <info>FRAN M//111/19/A||cholets-23::</info>
+      <info>FRAN/M//129/A/3/20||fortet-390::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>5F</nom>
+      <info>FRAN M//111/19/B||cholets-24::<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>21 pièce 46e liasse</nom>
+      <info>FRAN M//111/19/B||cholets-24::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>L : 1147 A</nom>
+      <info>FRAN M//111/19/B||cholets-24::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>O.7</nom>
+      <info>FRAN M//111/23/1||cholets-28::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>G.5</nom>
+      <info>FRAN M//111/23/1||cholets-28::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>28e pièce 38e liasse</nom>
+      <info>FRAN M//111/23/1||cholets-28::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>27e pièce 38e liasse</nom>
+      <info>FRAN M//111/23/2||cholets-29::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>10.D</nom>
+      <info>FRAN M//111/24||cholets-30::<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>42e pièce de la 44e liasse</nom>
+      <info>FRAN M//111/24||cholets-30::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>10.F</nom>
+      <info>FRAN M//111/25||cholets-31::<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>40e pièce de la 44e liasse</nom>
+      <info>FRAN M//111/25||cholets-31::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>E</nom>
+      <info>FRAN M//111/26||cholets-32::</info>
+      <info>FRAN M//112/37bis||cholets-83::</info>
+      <info>FRAN M//112/39||cholets-85::</info>
+      <info>FRAN M//113/6/2||cholets-103::</info>
+      <info>FRAN M//113/10||cholets-107::</info>
+      <info>FRAN/M//129/A/3/32||fortet-402::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>10.E</nom>
+      <info>FRAN M//111/27||cholets-33::<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>1393 A</nom>
+      <info>FRAN M//111/27||cholets-33::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>41e pièce de la 44e liasse</nom>
+      <info>FRAN M//111/27||cholets-33::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>B</nom>
+      <info>FRAN M//111/28||cholets-34::</info>
+      <info>FRAN M//112/31bis||cholets-76::</info>
+      <info>FRAN M//112/36||cholets-81::</info>
+      <info>FRAN M//112/37||cholets-82::</info>
+      <info>FRAN M//112/42||cholets-88::</info>
+      <info>FRAN M//113/54||cholets-152::</info>
+      <info>FRAN M//113/55/3||cholets-155::</info>
+      <info>FRAN/M//126/11/B||fortet-110::</info>
+      <info>FRAN/M//126/24||fortet-122::</info>
+      <info>FRAN/M//129/A/3/36||fortet-406::</info>
+      <info>FRAN/M//172/31||la-marche-76::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>Onzième de la 37e liasse et dernière</nom>
+      <info>FRAN M//111/28||cholets-34::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>10.A.</nom>
+      <info>FRAN M//111/29||cholets-35::<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>45e pièce de la 44e liasse</nom>
+      <info>FRAN M//111/29||cholets-35::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>10.B.</nom>
+      <info>FRAN M//111/30||cholets-36::<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>44e pièce de la 44e liasse</nom>
+      <info>FRAN M//111/30||cholets-36::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>32e pièce de la 75e liasse</nom>
+      <info>FRAN M//111/32/1||cholets-38::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>24e pièce de la 75e liasse</nom>
+      <info>FRAN M//111/32/2||cholets-39::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>29e pièce de la 75e liasse</nom>
+      <info>FRAN M//111/33||cholets-40::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>31e pièce de la 75e liasse</nom>
+      <info>FRAN M//111/34||cholets-41::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>10.G</nom>
+      <info>FRAN M//111/35||cholets-42::<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>49e pièce de la 44e liasse</nom>
+      <info>FRAN M//111/35||cholets-42::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>I.G</nom>
+      <info>FRAN M//111/36||cholets-43::<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>62e pièce 81e liasse</nom>
+      <info>FRAN M//111/36||cholets-43::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>5.G</nom>
+      <info>FRAN M//111/37||cholets-44::<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>22e pièce 46e liasse</nom>
+      <info>FRAN M//111/37||cholets-44::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>20e pièce de la 107e liasse</nom>
+      <info>FRAN M//112/1||cholets-45::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>10.H</nom>
+      <info>FRAN M//112/2||cholets-46::<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>38e pièce de la 44e liasse</nom>
+      <info>FRAN M//112/2||cholets-46::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>54e pièce et dernière de la 44e liasse</nom>
+      <info>FRAN M//112/4||cholets-48::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>52e pièce de la 44e liasse</nom>
+      <info>FRAN M//112/5||cholets-49::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>4C.</nom>
+      <info>FRAN M//112/6||cholets-50::<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>50e pièce de la 44e liasse</nom>
+      <info>FRAN M//112/6||cholets-50::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>3e pièce de la 29e liasse</nom>
+      <info>FRAN M//112/7||cholets-51::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>53e pièce de la 44e liasse</nom>
+      <info>FRAN M//112/8||cholets-52::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>71e pièce de la 94e cotte</nom>
+      <info>FRAN M//112/9||cholets-53::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>C.</nom>
+      <info>FRAN M//112/10||cholets-54::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>51e pièce de la 44e liasse</nom>
+      <info>FRAN M//112/10||cholets-54::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>10.T.</nom>
+      <info>FRAN M//112/11||cholets-55::<date>XVIIIe s.</date>
+      </info>
+      <info>FRAN M//113/47||cholets-145::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>[?]</nom>
+      <info>FRAN M//112/11||cholets-55::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>37e pièce de la 44e liasse</nom>
+      <info>FRAN M//112/11||cholets-55::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>EF</nom>
+      <info>FRAN M//112/13||cholets-57::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>A</nom>
+      <info>FRAN M//112/13||cholets-57::</info>
+      <info>FRAN M//112/14||cholets-58::</info>
+      <info>FRAN M//112/36||cholets-81::</info>
+      <info>FRAN M//114/44||cholets-187::</info>
+      <info>FRAN/M//74/10||sorbonne-11::</info>
+      <info>FRAN/M//74/13||sorbonne-16::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>46 de la cotte 77</nom>
+      <info>FRAN M//112/13||cholets-57::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>G</nom>
+      <info>FRAN M//112/14||cholets-58::</info>
+      <info>FRAN M//112/41||cholets-87::</info>
+      <info>FRAN M//113/7||cholets-104::</info>
+      <info>FRAN/M//129/A/3/30||fortet-400::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>1ere pièce cotte 80</nom>
+      <info>FRAN M//112/14||cholets-58::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>17e de la 110e liasse</nom>
+      <info>FRAN M//112/18||cholets-62::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>16e de la 110e liasse</nom>
+      <info>FRAN M//112/19||cholets-63::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>15e de la 110e liasse</nom>
+      <info>FRAN M//112/20||cholets-64::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>14e de la 110e liasse</nom>
+      <info>FRAN M//112/21||cholets-65::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>13e de la 110e liasse</nom>
+      <info>FRAN M//112/22||cholets-66::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>12e de la 110e liasse</nom>
+      <info>FRAN M//112/23||cholets-67::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>11e de la 110e liasse</nom>
+      <info>FRAN M//112/24/1||cholets-68::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>9e de la 110e liasse</nom>
+      <info>FRAN M//112/24/2||cholets-69::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>30 de la 39e liasse</nom>
+      <info>FRAN M//112/25||cholets-70::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>9L</nom>
+      <info>FRAN M//112/26||cholets-71::<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>10e et dernière de la cotte 53</nom>
+      <info>FRAN M//112/26||cholets-71::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>5e de la cotte 53</nom>
+      <info>FRAN M//112/27-28||cholets-72::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>9A</nom>
+      <info>FRAN M//112/29||cholets-73::<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>1ère de la cotte 53</nom>
+      <info>FRAN M//112/29||cholets-73::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>H</nom>
+      <info>FRAN M//112/30||cholets-74::</info>
+      <info>FRAN M//113/31/1||cholets-128::</info>
+      <info>FRAN M//113/63||cholets-163::</info>
+      <info>FRAN/M//129/A/3/29||fortet-399::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>Deuxième inventorié de la cotte trente</nom>
+      <info>FRAN M//112/30||cholets-74::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>J</nom>
+      <info>FRAN M//112/31||cholets-75::</info>
+      <info>FRAN M//113/20||cholets-117::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>V.S.</nom>
+      <info>FRAN M//112/31||cholets-75::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>7e de la 110e liasse</nom>
+      <info>FRAN M//112/31||cholets-75::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>BJ</nom>
+      <info>FRAN M//112/31bis||cholets-76::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>Quatre vingt onzième inventorié cotte trente</nom>
+      <info>FRAN M//112/31bis||cholets-76::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>BD</nom>
+      <info>FRAN M//112/32||cholets-77::</info>
+      <info>FRAN M//113/28||cholets-125::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>Quatre vingt troisième inventorié cotte trente</nom>
+      <info>FRAN M//112/32||cholets-77::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>41e de la 97e liasse</nom>
+      <info>FRAN M//112/33||cholets-78::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>27e de la 15e</nom>
+      <info>FRAN M//112/34||cholets-79::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>Neufvième inventorié cotte trente</nom>
+      <info>FRAN M//112/35||cholets-80::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>226 de la 106e</nom>
+      <info>FRAN M//112/36||cholets-81::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>k</nom>
+      <info>FRAN M//112/37||cholets-82::</info>
+      <info>FRAN M//113/21||cholets-118::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>227 de la 106e</nom>
+      <info>FRAN M//112/37||cholets-82::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>39e et dernière pièce de la soixante unième liasse</nom>
+      <info>FRAN M//112/37bis||cholets-83::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>6e bis de la 29e liasse</nom>
+      <info>FRAN M//112/38||cholets-84::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>10.L.</nom>
+      <info>FRAN M//112/39||cholets-85::<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom> 36e pièce de la 44e liasse</nom>
+      <info>FRAN M//112/39||cholets-85::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>N.N</nom>
+      <info>FRAN M//112/40||cholets-86::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>25e de la 75e</nom>
+      <info>FRAN M//112/40||cholets-86::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>B.O.</nom>
+      <info>FRAN M//112/41||cholets-87::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>AY</nom>
+      <info>FRAN M//112/42||cholets-88::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>53 de la 45e liasse</nom>
+      <info>FRAN M//112/42||cholets-88::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>69e 81e liasse</nom>
+      <info>FRAN M//112/43||cholets-89::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>Trente cinquième inventorié cotte trente</nom>
+      <info>FRAN M//112/44||cholets-90::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>Quarente huitième inventorié cotte trente</nom>
+      <info>FRAN M//112/44||cholets-90::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>22e de la 75e</nom>
+      <info>FRAN M//112/45||cholets-91::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>23e de la 75e</nom>
+      <info>FRAN M//112/46||cholets-92::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>26e de la 75e</nom>
+      <info>FRAN M//112/47||cholets-93::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>20e de la cotte 48e</nom>
+      <info>FRAN M//112/48||cholets-94::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>M.2.</nom>
+      <info>FRAN M//112/49||cholets-95::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>I6</nom>
+      <info>FRAN M//112/49||cholets-95::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>1ère pièce de la 32e liasse</nom>
+      <info>FRAN M//112/49||cholets-95::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>1ère pièce de la 3e liasse</nom>
+      <info>FRAN M//112/49||cholets-95::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom> Cinquante septième inventorié cotte trente</nom>
+      <info>FRAN M//113/1||cholets-96::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>8e de la liasse 59</nom>
+      <info>FRAN M//113/2||cholets-97::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>EG</nom>
+      <info>FRAN M//113/3||cholets-98::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>45 de la cotte 77</nom>
+      <info>FRAN M//113/3||cholets-98::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>IIIIXX XIXe inventorié cotte 30</nom>
+      <info>FRAN M//113/4/1||cholets-99::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>IIIIXX VIIIe inventorié cotte trente</nom>
+      <info>FRAN M//113/4/2||cholets-100::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>EH</nom>
+      <info>FRAN M//113/5||cholets-101::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>44 de la cotte 77</nom>
+      <info>FRAN M//113/5||cholets-101::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>19e de la 110e liasse</nom>
+      <info>FRAN M//113/6/1||cholets-102::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>229 de la 106e</nom>
+      <info>FRAN M//113/6/2||cholets-103::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>5.M.</nom>
+      <info>FRAN M//113/7||cholets-104::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>27e pièce 46e liasse</nom>
+      <info>FRAN M//113/7||cholets-104::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>26e pièce 46e liasse</nom>
+      <info>FRAN M//113/8||cholets-105::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>EJ</nom>
+      <info>FRAN M//113/9||cholets-106::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>43e de la cotte 77</nom>
+      <info>FRAN M//113/9||cholets-106::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>EM</nom>
+      <info>FRAN M//113/10||cholets-107::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>39 de la cotte 77</nom>
+      <info>FRAN M//113/10||cholets-107::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>84e pièce cotte 85</nom>
+      <info>FRAN M//113/11||cholets-108::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>EN</nom>
+      <info>FRAN M//113/12||cholets-109::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>Num. 3°</nom>
+      <info>FRAN M//113/12||cholets-109::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>40 de la cotte 77</nom>
+      <info>FRAN M//113/12||cholets-109::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>O</nom>
+      <info>FRAN M//113/13||cholets-110::</info>
+      <info>FRAN/M//129/A/3/19||fortet-389::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>Première pièce de la 132e liasse</nom>
+      <info>FRAN M//113/13||cholets-110::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>B. B.</nom>
+      <info>FRAN M//113/14||cholets-111::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>230 de la 106e</nom>
+      <info>FRAN M//113/14||cholets-111::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>231 de la 106e</nom>
+      <info>FRAN M//113/15||cholets-112::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>I</nom>
+      <info>FRAN M//113/16||cholets-113::</info>
+      <info>FRAN/M//128/1/36||fortet-290::</info>
+      <info>FRAN/M//129/A/3/28||fortet-398::</info>
+      <info>FRAN/M//87/7||bayeux-2::FRAN/M//87/100<date>1700</date>
+      </info>
+      <info>FRAN/M//87/8/2||bayeux-4::FRAN/M//87/100<date>1700</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>k. k.</nom>
+      <info>FRAN M//113/16||cholets-113::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>235 cotte 106</nom>
+      <info>FRAN M//113/16||cholets-113::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>L</nom>
+      <info>FRAN M//113/17||cholets-114::</info>
+      <info>FRAN/M//129/A/3/27||fortet-397::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>236 cotte 106</nom>
+      <info>FRAN M//113/17||cholets-114::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>neant</nom>
+      <info>FRAN M//113/18||cholets-115::</info>
+      <info>FRAN M//113/27||cholets-124::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>20e de la 97e liasse</nom>
+      <info>FRAN M//113/18||cholets-115::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>10.M</nom>
+      <info>FRAN M//113/19||cholets-116::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>35e pièce de la 44e l.</nom>
+      <info>FRAN M//113/19||cholets-116::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom> 68e de la cotte 101</nom>
+      <info>FRAN M//113/20||cholets-117::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>63e de la cotte 101</nom>
+      <info>FRAN M//113/21||cholets-118::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>5.N.</nom>
+      <info>FRAN M//113/22||cholets-119::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>29e pièce 46e liasse</nom>
+      <info>FRAN M//113/22||cholets-119::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>28e pièce 46e liasse</nom>
+      <info>FRAN M//113/23||cholets-120::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom> 57e de la cotte 101</nom>
+      <info>FRAN M//113/24||cholets-121::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>55e de la cotte 101</nom>
+      <info>FRAN M//113/25||cholets-122::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>59e de la cotte 101</nom>
+      <info>FRAN M//113/26||cholets-123::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>13e pièce cotte 98</nom>
+      <info>FRAN M//113/27||cholets-124::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>Quatre vingtième inventaire cotte trente</nom>
+      <info>FRAN M//113/28||cholets-125::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>kkk</nom>
+      <info>FRAN M//113/29||cholets-126::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>62e de la cotte 101</nom>
+      <info>FRAN M//113/29||cholets-126::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>BA</nom>
+      <info>FRAN M//113/30||cholets-127::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>17e de la liasse 59</nom>
+      <info>FRAN M//113/30||cholets-127::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>EO</nom>
+      <info>FRAN M//113/31/1||cholets-128::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>Num. 4°</nom>
+      <info>FRAN M//113/31/1||cholets-128::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>2e pièce cotte 80</nom>
+      <info>FRAN M//113/31/1||cholets-128::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>41 de la cotte 77</nom>
+      <info>FRAN M//113/31/2||cholets-129::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>10 N.</nom>
+      <info>FRAN M//113/32||cholets-130::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>34e pièce de la 44e liasse</nom>
+      <info>FRAN M//113/32||cholets-130::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>4e de la 126 l.</nom>
+      <info>FRAN M//113/33||cholets-131::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>83e pièce cotte 85</nom>
+      <info>FRAN M//113/34||cholets-132::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>10.O.</nom>
+      <info>FRAN M//113/35||cholets-133::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>33e pièce de la 44e l.</nom>
+      <info>FRAN M//113/35||cholets-133::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>3e de la 125e cotte</nom>
+      <info>FRAN M//113/36||cholets-134::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>10.P.</nom>
+      <info>FRAN M//113/37||cholets-135::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>32e pièce de la 44e</nom>
+      <info>FRAN M//113/37||cholets-135::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>25e de la vingt-huitième liasse</nom>
+      <info>FRAN M//113/38||cholets-136::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>10.Q.</nom>
+      <info>FRAN M//113/39||cholets-137::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>31e pièce de la 44e l.</nom>
+      <info>FRAN M//113/39||cholets-137::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>B.D</nom>
+      <info>FRAN M//113/40||cholets-138::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>Quatre vingt deuxième inventorié cotte trente </nom>
+      <info>FRAN M//113/40||cholets-138::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>2e de la 125e cotte</nom>
+      <info>FRAN M//113/41||cholets-139::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>10.R.</nom>
+      <info>FRAN M//113/42||cholets-140::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>30e pièce de la 44e l.</nom>
+      <info>FRAN M//113/42||cholets-140::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>10 S.</nom>
+      <info>FRAN M//113/43||cholets-141::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>29e pièce de la 44e l.</nom>
+      <info>FRAN M//113/43||cholets-141::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>10 T</nom>
+      <info>FRAN M//113/45||cholets-143::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>N</nom>
+      <info>FRAN M//113/45||cholets-143::</info>
+      <info>FRAN/M//129/A/3/25||fortet-395::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>28e pièce de la 44e l.</nom>
+      <info>FRAN M//113/45||cholets-143::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>36e de la 180e cotte</nom>
+      <info>FRAN M//113/46||cholets-144::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>27e pièce de la 44e l.</nom>
+      <info>FRAN M//113/47||cholets-145::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>10.V.</nom>
+      <info>FRAN M//113/49||cholets-147::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>26e pièce de la 44e l.</nom>
+      <info>FRAN M//113/49||cholets-147::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>10.Y.</nom>
+      <info>FRAN M//113/50||cholets-148::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>Y</nom>
+      <info>FRAN M//113/50||cholets-148::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>22e pièce de la 44e l.</nom>
+      <info>FRAN M//113/50||cholets-148::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>B &amp; neant</nom>
+      <info>FRAN M//113/51||cholets-149::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>Quatorzième inventorié cotte trente</nom>
+      <info>FRAN M//113/51||cholets-149::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>troisième 90e cotte</nom>
+      <info>FRAN M//113/52||cholets-150::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>2C</nom>
+      <info>FRAN M//113/53||cholets-151::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>Num. 8°</nom>
+      <info>FRAN M//113/53||cholets-151::</info>
+      <info>FRAN M//113/54||cholets-152::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>80e 70e l.</nom>
+      <info>FRAN M//113/53||cholets-151::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>ET</nom>
+      <info>FRAN M//113/54||cholets-152::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>7e pièce cotte 80</nom>
+      <info>FRAN M//113/54||cholets-152::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>3e de la 133e liasse</nom>
+      <info>FRAN M//113/55/1||cholets-153::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>2e de la 133e liasse</nom>
+      <info>FRAN M//113/55/2||cholets-154::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>6e de la 133e liasse</nom>
+      <info>FRAN M//113/55/3||cholets-155::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>Deux cent quarante trois de la 76e liasse</nom>
+      <info>FRAN M//113/56||cholets-156::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>2e de la 127e cotte</nom>
+      <info>FRAN M//113/57||cholets-157::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>8e de la 126 l.</nom>
+      <info>FRAN M//113/58||cholets-158::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>174e 81e liasse</nom>
+      <info>FRAN M//113/59||cholets-159::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>10 Z.</nom>
+      <info>FRAN M//113/60||cholets-160::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>21e pièce de la 44e l.</nom>
+      <info>FRAN M//113/60||cholets-160::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>9e de la liasse 59</nom>
+      <info>FRAN M//113/61||cholets-161::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>4e de la 125e cotte</nom>
+      <info>FRAN M//113/62||cholets-162::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>4e de la 133e liasse</nom>
+      <info>FRAN M//113/63||cholets-163::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>10e pièce cotte 123</nom>
+      <info>FRAN M//113/64||cholets-164::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>5e de la 133e liasse</nom>
+      <info>FRAN M//113/65||cholets-165::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>9e pièce cotte 123</nom>
+      <info>FRAN M//113/66||cholets-166::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>10.[?]</nom>
+      <info>FRAN M//113/67||cholets-167::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>20e pièce de la 44e l.</nom>
+      <info>FRAN M//113/67||cholets-167::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>10.a.a</nom>
+      <info>FRAN M//113/68||cholets-168::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>Dix neuvième pièce de la 44e l.</nom>
+      <info>FRAN M//113/68||cholets-168::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>10 b.b.</nom>
+      <info>FRAN M//113/69||cholets-169::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>Dix huitième pièce de la 44e l.</nom>
+      <info>FRAN M//113/69||cholets-169::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>10 c.c.</nom>
+      <info>FRAN M//113/71||cholets-171::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>Dix septième pièce de la 44e l.</nom>
+      <info>FRAN M//113/71||cholets-171::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>BL</nom>
+      <info>FRAN M//113/72||cholets-172::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>Soixante quatorze inventorié cotte trente</nom>
+      <info>FRAN M//113/72||cholets-172::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>116e 81e liasse</nom>
+      <info>FRAN M//113/73||cholets-173::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>3e de la liasse 47e</nom>
+      <info>FRAN M//114/33/1||cholets-174::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>8.A</nom>
+      <info>FRAN M//114/33/2||cholets-175::<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>1ère de la liasse 47e </nom>
+      <info>FRAN M//114/33/2||cholets-175::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>8 C</nom>
+      <info>FRAN M//114/33/3||cholets-176::<date>XVIIIe s.</date>
+      </info>
+      <info>FRAN M//114/33/4||cholets-177::<date>XVIIIe s.</date>
+      </info>
+      <info>FRAN M//114/33/5||cholets-178::<date>XVIIIe s.</date>
+      </info>
+      <info>FRAN M//114/33/6||cholets-179::<date>XVIIIe s.</date>
+      </info>
+      <info>FRAN M//114/33/7||cholets-180::<date>XVIIIe s.</date>
+      </info>
+      <info>FRAN M//114/33/8||cholets-181::<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>20e de la liasse 47e</nom>
+      <info>FRAN M//114/33/3||cholets-176::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>19e de la liasse 47e</nom>
+      <info>FRAN M//114/33/4||cholets-177::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>22e et dernière de la liasse 47e</nom>
+      <info>FRAN M//114/33/5||cholets-178::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>16e de la liasse 47e</nom>
+      <info>FRAN M//114/33/6||cholets-179::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>15e de la liasse 47e</nom>
+      <info>FRAN M//114/33/7||cholets-180::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>14e de la liasse 47e</nom>
+      <info>FRAN M//114/33/8||cholets-181::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>D.d.</nom>
+      <info>FRAN M//114/34/1||cholets-182::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>2e de la liasse 47e</nom>
+      <info>FRAN M//114/34/1||cholets-182::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>17e de la quatrième liasse</nom>
+      <info>FRAN M//114/35/1||cholets-183::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>18e de la quatrième liasse</nom>
+      <info>FRAN M//114/35/2||cholets-184::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>25e de la quatrième liasse</nom>
+      <info>FRAN M//114/35/3||cholets-185::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>7.D.</nom>
+      <info>FRAN M//114/40||cholets-186::</info>
+      <info>FRAN M//115/A/B/1||cholets-196::<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>10ème de la quarante cinquième</nom>
+      <info>FRAN M//114/40||cholets-186::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>4e de la cotte 62</nom>
+      <info>FRAN M//114/44||cholets-187::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>19e de la 1ère liasse</nom>
+      <info>FRAN M//114/45||cholets-188::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>78e de la 31 liasse et dernière</nom>
+      <info>FRAN M//115/A/A/1||cholets-190::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>74e de la 31 liasse</nom>
+      <info>FRAN M//115/A/A/2||cholets-191::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>7.B.</nom>
+      <info>FRAN M//115/A/A/3||cholets-192::<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>75e de la 31e liasse</nom>
+      <info>FRAN M//115/A/A/3||cholets-192::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>45e de la 31e liasse</nom>
+      <info>FRAN M//115/A/A/4||cholets-193::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>7.E.</nom>
+      <info>FRAN M//115/A/A/5||cholets-194::<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>28e de la 31e liasse</nom>
+      <info>FRAN M//115/A/A/5||cholets-194::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>7.C.</nom>
+      <info>FRAN M//115/A/A/6||cholets-195::<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>2e de la cotte 62</nom>
+      <info>FRAN M//115/A/A/6||cholets-195::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>48e de la 31e liasse</nom>
+      <info>FRAN M//115/A/B/1||cholets-196::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>47e de la 31e liasse</nom>
+      <info>FRAN M//115/A/B/2||cholets-197::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>56e de la 118e liasse</nom>
+      <info>FRAN M//115/A/C/1||cholets-198::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>57e de la 118e liasse</nom>
+      <info>FRAN M//115/A/C/2||cholets-199::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>58e de la 118e liasse</nom>
+      <info>FRAN M//115/A/C/3||cholets-200::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>59e de la 118e liasse</nom>
+      <info>FRAN M//115/A/C/4||cholets-201::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>7.H.</nom>
+      <info>FRAN M//115/A/D/1||cholets-202::<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>36e de la 31e liasse</nom>
+      <info>FRAN M//115/A/D/1||cholets-202::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>17e de la 133e liasse</nom>
+      <info>FRAN M//115/A/E/1||cholets-203::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>7 F.</nom>
+      <info>FRAN M//115/A/F/1||cholets-204::<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>75e de la 31e liasse bis</nom>
+      <info>FRAN M//115/A/F/1||cholets-204::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>7.G.</nom>
+      <info>FRAN M//115/A/G/1||cholets-205::<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>6e de la 31e liasse</nom>
+      <info>FRAN M//115/A/G/1||cholets-205::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>73e de la 31e liasse</nom>
+      <info>FRAN M//115/A/H/1||cholets-206::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>7 L.</nom>
+      <info>FRAN M//115/A/H/2||cholets-207::<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>73e pièce 38e liasse</nom>
+      <info>FRAN M//115/A/H/2||cholets-207::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>74e de la 31e liasse</nom>
+      <info>FRAN M//115/A/H/3||cholets-208::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>2ème de la 137e</nom>
+      <info>FRAN M//115/B/1||cholets-209::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>18e pièce cotte 82</nom>
+      <info>FRAN M//115/B/2||cholets-210::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>41e de la 137e cotte bis</nom>
+      <info>FRAN M//115/B/4||cholets-212::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>71e et dernière de la cotte 137 bis</nom>
+      <info>FRAN M//115/B/5||cholets-213::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>70e de la 137e cotte bis</nom>
+      <info>FRAN M//115/B/8||cholets-216::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>69e de la 137e cotte bis</nom>
+      <info>FRAN M//115/B/9||cholets-217::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>67 de la 137e cotte bis</nom>
+      <info>FRAN M//115/B/10||cholets-218::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>39 de la 137e cotte bis</nom>
+      <info>FRAN M//115/B/11||cholets-219::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>1ère pièce cotte 82</nom>
+      <info>FRAN M//115/B/15||cholets-223::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>3e pièce 63e liasse</nom>
+      <info>Bibliothèque de la Sorbonne (Paris), MSAUC 20 / I / Pièce 1||cholets-224::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>4e pièce 63e liasse</nom>
+      <info>Bibliothèque de la Sorbonne (Paris), MSAUC 20 / I / Pièce 1||cholets-224::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>5e pièce 63e liasse</nom>
+      <info>Bibliothèque de la Sorbonne (Paris), MSAUC 20 / I / Pièce 1||cholets-224::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>48e de la quatrième liasse</nom>
+      <info>Bibliothèque de la Sorbonne (Paris), MSAUC 20 / I / Pièce 2||cholets-225::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>167e de la 43e liasse</nom>
+      <info>Bibliothèque de la Sorbonne (Paris), MSAUC 20 / I / Pièce 3||cholets-226::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>XVIII</nom>
+      <info>FRAD060/G. 767/1||cholets-234::<date>XVe s.-XVIe s.</date>
+      </info>
+      <info>FRAN/M//121/21/1||dix-huit-27::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>XIIII</nom>
+      <info>FRAD060/G. 767/2||cholets-235::<date>XVe s.-XVIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>XXI</nom>
+      <info>FRAD060/G. 768/1||cholets-242::<date>XVe s.-XVIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>CN</nom>
+      <info>FRAD077/D 5/1||cholets-279::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>20e de la 79 l.</nom>
+      <info>FRAD077/D 5/1||cholets-279::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>D. 4</nom>
+      <info>FRAD077/D 5/1||cholets-279::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>3 D 4</nom>
+      <info>FRAD077/D 5/1||cholets-279::</info>
+      <info>FRAD077/D 5/3||cholets-281::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>3 D 7</nom>
+      <info>FRAD077/D 5/2||cholets-280::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>n° 4731 du s. gal du district</nom>
+      <info>FRAD077/D 5/2||cholets-280::</info>
+      <info>FRAD077/D 5/4||cholets-282::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>n° 4731 du sce gal du district</nom>
+      <info>FRAD077/D 5/3||cholets-281::</info>
+      <info>FRAD077/D 5/5||cholets-283::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>3 D 5</nom>
+      <info>FRAD077/D 5/4||cholets-282::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>3 D 3</nom>
+      <info>FRAD077/D 5/5||cholets-283::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>CM</nom>
+      <info>FRAD077/D 5/7||cholets-284::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>19e de la 79e l.</nom>
+      <info>FRAD077/D 5/7||cholets-284::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>F.9.A</nom>
+      <info>Bibliothèque de la Sorbonne (Paris), MSAUC 20 / III (pièce 1)||cornouaille-1::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>39e cotte 17</nom>
+      <info>FRAN/M//116/A/4||cornouaille-5::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>40e cotte 17</nom>
+      <info>FRAN/M//116/A/5||cornouaille-6::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>41e cotte 17</nom>
+      <info>FRAN/M//116/A/6||cornouaille-7::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>28 cote 14</nom>
+      <info>FRAN/M//116/A/7 bis||cornouaille-9::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>9</nom>
+      <info>FRAN/M//117/1/2||cornouaille-16::</info>
+      <info>FRAN/M//128/1/13||fortet-267::</info>
+      <info>FRAN/M//171/38||la-marche-39::</info>
+      <info>FRAN/M//172/14||la-marche-56::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>11 de la cotte 22.</nom>
+      <info>FRAN/M//117/1/2||cornouaille-16::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>11</nom>
+      <info>FRAN/M//117/1/3||cornouaille-17::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>10. de la cotte 22.</nom>
+      <info>FRAN/M//117/1/3||cornouaille-17::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>9. de la cotte 22.</nom>
+      <info>FRAN/M//117/1/4||cornouaille-18::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>8. de la cotte 22.</nom>
+      <info>FRAN/M//117/1/5||cornouaille-19::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>11 cote 29</nom>
+      <info>FRAN/M//117/3/1||cornouaille-20::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>10 cotte 29</nom>
+      <info>FRAN/M//117/3/2||cornouaille-21::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>invent. XLIII</nom>
+      <info>FRAN/M//117/3/3||cornouaille-22::<date>XVIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>9 cotte 29</nom>
+      <info>FRAN/M//117/3/3||cornouaille-22::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>14</nom>
+      <info>FRAN/M//117/3/4||cornouaille-23::</info>
+      <info>FRAN/M//128/1/52||fortet-304::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>8. cotte 29</nom>
+      <info>FRAN/M//117/3/4||cornouaille-23::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>16</nom>
+      <info>FRAN/M//117/3/5||cornouaille-24::</info>
+      <info>FRAN/M//128/1/25||fortet-279::</info>
+      <info>FRAN/M//172/18||la-marche-60::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>6 cotte 29</nom>
+      <info>FRAN/M//117/3/5||cornouaille-24::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>7 cote 29</nom>
+      <info>FRAN/M//117/3/6||cornouaille-25::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>5 cotte 29</nom>
+      <info>FRAN/M//117/3/7||cornouaille-26::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>19</nom>
+      <info>FRAN/M//117/3/8||cornouaille-27::</info>
+      <info>FRAN/M//128/4/7||fortet-331::</info>
+      <info>FRAN/M//171/2||la-marche-3::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>4. cote 29</nom>
+      <info>FRAN/M//117/3/8||cornouaille-27::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>20</nom>
+      <info>FRAN/M//117/3/9||cornouaille-28::</info>
+      <info>FRAN/M//127/5/16||fortet-237::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>3. cote 29</nom>
+      <info>FRAN/M//117/3/9||cornouaille-28::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>3e cotte 3</nom>
+      <info>FRAN/M//121/1||dix-huit-1::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>n° 16 5e pièce</nom>
+      <info>FRAN/M//121/1||dix-huit-1::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>première inventoriée soixante six</nom>
+      <info>FRAN/M//121/3/A||dix-huit-3::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>2e [] première</nom>
+      <info>FRAN/M//121/3/A||dix-huit-3::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>cinquième dernière inventoriée soixante dix</nom>
+      <info>FRAN/M//121/3/B||dix-huit-4::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>troisième cotte première</nom>
+      <info>FRAN/M//121/3/B||dix-huit-4::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>trois cotte soixante six</nom>
+      <info>FRAN/M//121/5||dix-huit-7::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>quatrième cotte première</nom>
+      <info>FRAN/M//121/5||dix-huit-7::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>trois</nom>
+      <info>FRAN/M//121/6||dix-huit-8::</info>
+      <info>FRAN/M//123/B/6||fortet-11::</info>
+      <info>FRAN/M//129/A/3/39||fortet-409::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>cinquième cotte première</nom>
+      <info>FRAN/M//121/6||dix-huit-8::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>n° 3</nom>
+      <info>FRAN/M//121/6||dix-huit-8::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>première de la 9e liasse</nom>
+      <info>FRAN/M//121/7/A||dix-huit-9::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>n° 24</nom>
+      <info>FRAN/M//121/7/A||dix-huit-9::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>2e de la 4e l.</nom>
+      <info>FRAN/M//121/8||dix-huit-11::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>n° 17 6e pièce</nom>
+      <info>FRAN/M//121/8||dix-huit-11::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>neuf</nom>
+      <info>FRAN/M//121/9||dix-huit-12::</info>
+      <info>FRAN/M//129/A/3/33||fortet-403::</info>
+      <info>FRAN/M//129/A/3/34||fortet-404::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>sixième et dernière cotte première</nom>
+      <info>FRAN/M//121/9||dix-huit-12::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>quatre soixante dix</nom>
+      <info>FRAN/M//121/9||dix-huit-12::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>n° 4</nom>
+      <info>FRAN/M//121/9||dix-huit-12::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>3e de la 4e l.</nom>
+      <info>FRAN/M//121/10||dix-huit-13::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>n° 17 5e pi</nom>
+      <info>FRAN/M//121/10||dix-huit-13::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>74</nom>
+      <info>FRAN/M//121/10||dix-huit-13::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>6e de la 4e liasse</nom>
+      <info>FRAN/M//121/13/B||dix-huit-18::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>2e de la 9e</nom>
+      <info>FRAN/M//121/14||dix-huit-21::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>n° 27 2e pièce</nom>
+      <info>FRAN/M//121/14||dix-huit-21::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>n° 17 1ère pièce de l'inventaire de M. Denise</nom>
+      <info>FRAN/M//121/14||dix-huit-21::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>douze</nom>
+      <info>FRAN/M//121/16||dix-huit-22::</info>
+      <info>FRAN/M//129/A/3/30||fortet-400::</info>
+      <info>FRAN/M//129/A/3/31||fortet-401::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>15e cotte 3</nom>
+      <info>FRAN/M//121/16||dix-huit-22::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>n° 6</nom>
+      <info>FRAN/M//121/16||dix-huit-22::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>six</nom>
+      <info>FRAN/M//121/17||dix-huit-23::</info>
+      <info>FRAN/M//129/A/3/36||fortet-406::</info>
+      <info>FRAN/M//129/A/3/38||fortet-408::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>17e cotte 3</nom>
+      <info>FRAN/M//121/17||dix-huit-23::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>quatorze</nom>
+      <info>FRAN/M//121/18||dix-huit-24::</info>
+      <info>FRAN/M//129/A/3/28||fortet-398::</info>
+      <info>FRAN/M//129/A/3/29||fortet-399::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>14e cotte 3</nom>
+      <info>FRAN/M//121/18||dix-huit-24::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>n° 8</nom>
+      <info>FRAN/M//121/18||dix-huit-24::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>onze</nom>
+      <info>FRAN/M//121/19||dix-huit-25::</info>
+      <info>FRAN/M//129/A/3/31||fortet-401::</info>
+      <info>FRAN/M//129/A/3/32||fortet-402::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>13e cotte 3</nom>
+      <info>FRAN/M//121/19||dix-huit-25::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>n° 9</nom>
+      <info>FRAN/M//121/19||dix-huit-25::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>treize</nom>
+      <info>FRAN/M//121/20||dix-huit-26::</info>
+      <info>FRAN/M//129/A/3/29||fortet-399::</info>
+      <info>FRAN/M//129/A/3/30||fortet-400::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>12e cotte 3</nom>
+      <info>FRAN/M//121/20||dix-huit-26::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>n° 10</nom>
+      <info>FRAN/M//121/20||dix-huit-26::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>18e cotte 3</nom>
+      <info>FRAN/M//121/21/1||dix-huit-27::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>n° 11</nom>
+      <info>FRAN/M//121/21/1||dix-huit-27::</info>
+      <info>FRAN/M//121/21/2||dix-huit-28::</info>
+      <info>FRAN/M//121/21/3||dix-huit-29::</info>
+      <info>FRAN/M//121/22/1||dix-huit-30::</info>
+      <info>FRAN/M//121/23/1||dix-huit-32::</info>
+      <info>FRAN/M//121/23/2||dix-huit-33::</info>
+      <info>FRAN/M//121/24/1||dix-huit-34::</info>
+      <info>FRAN/M//121/24/2||dix-huit-35::</info>
+      <info>FRAN/M//74/14ter||sorbonne-19::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>25 et dernière cotte 3</nom>
+      <info>FRAN/M//121/21/2||dix-huit-28::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>20 cotte 3</nom>
+      <info>FRAN/M//121/21/3||dix-huit-29::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>vingt</nom>
+      <info>FRAN/M//121/22/1||dix-huit-30::</info>
+      <info>FRAN/M//129/A/3/20||fortet-390::</info>
+      <info>FRAN/M//129/A/3/22||fortet-392::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>19 cotte 3</nom>
+      <info>FRAN/M//121/22/1||dix-huit-30::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>vingt cinq</nom>
+      <info>FRAN/M//121/22/2||dix-huit-31::</info>
+      <info>FRAN/M//128/4/7||fortet-331::</info>
+      <info>FRAN/M//129/A/3/17||fortet-387::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>11e cotte 3</nom>
+      <info>FRAN/M//121/22/2||dix-huit-31::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>n° 12</nom>
+      <info>FRAN/M//121/22/2||dix-huit-31::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>vingt une</nom>
+      <info>FRAN/M//121/23/1||dix-huit-32::</info>
+      <info>FRAN/M//129/A/3/18||fortet-388::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>23 cotte 3</nom>
+      <info>FRAN/M//121/23/1||dix-huit-32::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>24 cotte 3</nom>
+      <info>FRAN/M//121/23/2||dix-huit-33::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>vingt deux</nom>
+      <info>FRAN/M//121/24/1||dix-huit-34::</info>
+      <info>FRAN/M//129/A/3/16||fortet-386::</info>
+      <info>FRAN/M//129/A/3/20||fortet-390::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>21 cotte 3</nom>
+      <info>FRAN/M//121/24/1||dix-huit-34::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>22 cotte 3</nom>
+      <info>FRAN/M//121/24/2||dix-huit-35::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>vingt six</nom>
+      <info>FRAN/M//121/25||dix-huit-36::</info>
+      <info>FRAN/M//129/A/3/12||fortet-382::</info>
+      <info>FRAN/M//129/A/3/16||fortet-386::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>10e cotte 3</nom>
+      <info>FRAN/M//121/25||dix-huit-36::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>vingt sept</nom>
+      <info>FRAN/M//121/26||dix-huit-37::</info>
+      <info>FRAN/M//129/A/3/15||fortet-385::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>9e cotte 3</nom>
+      <info>FRAN/M//121/26||dix-huit-37::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>n° 14</nom>
+      <info>FRAN/M//121/26||dix-huit-37::</info>
+      <info>FRAN/M//180/B/54/1||navarre-74::</info>
+      <info>FRAN/M//180/B/54/2||navarre-75::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>invent. huict</nom>
+      <info>FRAN/M//121/27||dix-huit-38::<date>XVIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>première de la cotte 3</nom>
+      <info>FRAN/M//121/27||dix-huit-38::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>n° 17</nom>
+      <info>FRAN/M//121/27||dix-huit-38::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>X X X</nom>
+      <info>FRAN/M//121/92||dix-huit-57::<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>première de la 4e l.</nom>
+      <info>FRAN/M//121/92||dix-huit-57::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>71</nom>
+      <info>FRAN/M//121/92||dix-huit-57::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>n° 17 – 4e pièce</nom>
+      <info>FRAN/M//121/92||dix-huit-57::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>7e cotte 3</nom>
+      <info>FRAN/M//121/96||dix-huit-60::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>n° 16 1ère pièce</nom>
+      <info>FRAN/M//121/96||dix-huit-60::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>8e et dernière pièce de la cotte 8</nom>
+      <info>FRAN/M//122/29/1||dix-huit-66::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>97</nom>
+      <info>FRAN/M//122/29/1||dix-huit-66::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>n° 21</nom>
+      <info>FRAN/M//122/29/1||dix-huit-66::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>7e cotte 8</nom>
+      <info>FRAN/M//122/29/2||dix-huit-67::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>98</nom>
+      <info>FRAN/M//122/29/2||dix-huit-67::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>6. cotte 8</nom>
+      <info>FRAN/M//122/29/3||dix-huit-68::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>99</nom>
+      <info>FRAN/M//122/29/3||dix-huit-68::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>5e cotte 8e</nom>
+      <info>FRAN/M//122/29/4||dix-huit-69::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>100</nom>
+      <info>FRAN/M//122/29/4||dix-huit-69::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>4e cotte 8e</nom>
+      <info>FRAN/M//122/29/5||dix-huit-70::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>101</nom>
+      <info>FRAN/M//122/29/5||dix-huit-70::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>3e cotte 8e</nom>
+      <info>FRAN/M//122/29/6||dix-huit-71::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>2e cotte 8e</nom>
+      <info>FRAN/M//122/29/7||dix-huit-72::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>102</nom>
+      <info>FRAN/M//122/29/7||dix-huit-72::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>21 cotte 6</nom>
+      <info>FRAN/M//122/30||dix-huit-73::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>76</nom>
+      <info>FRAN/M//122/30||dix-huit-73::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>20 cotte 6</nom>
+      <info>FRAN/M//122/31||dix-huit-74::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>77</nom>
+      <info>FRAN/M//122/31||dix-huit-74::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>34 et dernière cotte 6</nom>
+      <info>FRAN/M//122/33/1||dix-huit-91::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>84</nom>
+      <info>FRAN/M//122/33/1||dix-huit-91::</info>
+      <info>FRAN/M//75/156/4||sorbonne-49::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>33 cotte 6</nom>
+      <info>FRAN/M//122/33/2||dix-huit-92::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>79</nom>
+      <info>FRAN/M//122/33/2||dix-huit-92::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>32 cotte 6</nom>
+      <info>FRAN/M//122/33/3||dix-huit-93::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>80</nom>
+      <info>FRAN/M//122/33/3||dix-huit-93::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>31 cotte 6</nom>
+      <info>FRAN/M//122/33/4||dix-huit-94::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>81</nom>
+      <info>FRAN/M//122/33/4||dix-huit-94::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>30 cotte 6</nom>
+      <info>FRAN/M//122/33/5||dix-huit-95::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>85</nom>
+      <info>FRAN/M//122/33/5||dix-huit-95::</info>
+      <info>FRAN/M//75/156/8||sorbonne-53::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>29 cotte 6</nom>
+      <info>FRAN/M//122/33/6||dix-huit-96::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>86</nom>
+      <info>FRAN/M//122/33/6||dix-huit-96::</info>
+      <info>FRAN/M//75/156/7||sorbonne-52::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>28 cotte 6</nom>
+      <info>FRAN/M//122/33/7||dix-huit-97::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>87</nom>
+      <info>FRAN/M//122/33/7||dix-huit-97::</info>
+      <info>FRAN/M//171/38||la-marche-39::</info>
+      <info>FRAN/M//75/156/1||sorbonne-46::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>27 cotte 6</nom>
+      <info>FRAN/M//122/33/8||dix-huit-98::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>88</nom>
+      <info>FRAN/M//122/33/8||dix-huit-98::</info>
+      <info>FRAN/M//75/156/6||sorbonne-51::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>26 cotte 6</nom>
+      <info>FRAN/M//122/33/9||dix-huit-99::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>89</nom>
+      <info>FRAN/M//122/33/9||dix-huit-99::</info>
+      <info>FRAN/M//75/156/3||sorbonne-48::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>25 cotte 6</nom>
+      <info>FRAN/M//122/33/10||dix-huit-100::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>90</nom>
+      <info>FRAN/M//122/33/10||dix-huit-100::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>24 cotte 6</nom>
+      <info>FRAN/M//122/33/11||dix-huit-101::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>82</nom>
+      <info>FRAN/M//122/33/11||dix-huit-101::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>23 cotte 6</nom>
+      <info>FRAN/M//122/33/12||dix-huit-102::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>83</nom>
+      <info>FRAN/M//122/33/12||dix-huit-102::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>inventorie XXXVI</nom>
+      <info>FRAN/M//122/34/1||dix-huit-103::<date>XVIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>16. cotte 7</nom>
+      <info>FRAN/M//122/34/1||dix-huit-103::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>95</nom>
+      <info>FRAN/M//122/34/1||dix-huit-103::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>15. cotte 7</nom>
+      <info>FRAN/M//122/34/2||dix-huit-104::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>91</nom>
+      <info>FRAN/M//122/34/2||dix-huit-104::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>22. cotte 6</nom>
+      <info>FRAN/M//122/39||dix-huit-105::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>deux cens []</nom>
+      <info>FRAN/M//122/39||dix-huit-105::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>53 cotte 24</nom>
+      <info>FRAN/M//123/A/1/2||fortet-2::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>armoire 14 liasse 6 n° 2</nom>
+      <info>FRAN/M//123/A/2/1||fortet-3::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>quarante six deuxieme</nom>
+      <info>FRAN/M//123/A/2/3||fortet-5::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>armoire 14 liasse 6e n° 1er</nom>
+      <info>FRAN/M//123/A/2/4||fortet-6::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>armoire 14 liasse 6 n° 3</nom>
+      <info>FRAN/M//123/A/2/5||fortet-7::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>armoire 14 liasse 6 n° 4</nom>
+      <info>FRAN/M//123/B/3||fortet-8::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>armoire 14 liasse 6 n° 5</nom>
+      <info>FRAN/M//123/B/4||fortet-9::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>armoire 14 liasse 6 n° 6</nom>
+      <info>FRAN/M//123/B/5||fortet-10::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>armoire 14 liasse 6 n° 7</nom>
+      <info>FRAN/M//123/B/6||fortet-11::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>armoire 14 liasse 6 n° 9</nom>
+      <info>FRAN/M//123/B/7||fortet-12::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>quatre</nom>
+      <info>FRAN/M//123/B/8||fortet-13::</info>
+      <info>FRAN/M//129/A/3/38||fortet-408::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>liasse 2 n° 9 bis quia in utroque titulo idem refertur</nom>
+      <info>FRAN/M//123/B/8||fortet-13::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>inventaire soixante ung</nom>
+      <info>FRAN/M//123/B/15/1||fortet-15::<date>XVIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>cotte cinq</nom>
+      <info>FRAN/M//123/B/15/1||fortet-15::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>53. cotte 4</nom>
+      <info>FRAN/M//123/B/15/1||fortet-15::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>inventaire soixante deux</nom>
+      <info>FRAN/M//123/B/16||fortet-17::<date>XVIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>huictiesme</nom>
+      <info>FRAN/M//123/B/16||fortet-17::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>17. cotte 5</nom>
+      <info>FRAN/M//123/B/16||fortet-17::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>quarente quatre</nom>
+      <info>FRAN/M//123/B/17||fortet-18::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>18. cotte 5</nom>
+      <info>FRAN/M//123/B/17||fortet-18::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>inventaire LXVII</nom>
+      <info>FRAN/M//123/B/19||fortet-19::<date>XVIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>cotte six</nom>
+      <info>FRAN/M//123/B/19||fortet-19::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>8e de la 16e</nom>
+      <info>FRAN/M//123/B/19||fortet-19::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>39. cotte 5</nom>
+      <info>FRAN/M//123/B/20||fortet-20::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>inventaire LXVIII</nom>
+      <info>FRAN/M//123/B/21||fortet-21::<date>XVIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>cotté six</nom>
+      <info>FRAN/M//123/B/21||fortet-21::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>9e de la 16e</nom>
+      <info>FRAN/M//123/B/21||fortet-21::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>6e de la 16e</nom>
+      <info>FRAN/M//123/B/22||fortet-22::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>47. cotte 8</nom>
+      <info>FRAN/M//123/B/23||fortet-23::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>inventaire LXX</nom>
+      <info>FRAN/M//123/B/24||fortet-24::<date>XVIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>11. cotte 2</nom>
+      <info>FRAN/M//123/B/24||fortet-24::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>50. cotte 4</nom>
+      <info>FRAN/M//123/B/30/A||fortet-25::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>46. cotte 4</nom>
+      <info>FRAN/M//123/B/30/B||fortet-26::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>cotte 3.</nom>
+      <info>FRAN/M//123/B/30/C||fortet-27::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>52. cotte 4</nom>
+      <info>FRAN/M//123/B/30/C||fortet-27::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>cotte sept</nom>
+      <info>FRAN/M//123/B/31||fortet-28::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>51. cotte 4</nom>
+      <info>FRAN/M//123/B/31||fortet-28::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>armoire 14 liasse 1re n° 8</nom>
+      <info>FRAN/M//123/B/35/5||fortet-31::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>70. cotte 1ère</nom>
+      <info>FRAN/M//124/1||fortet-34::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>51. cotte 2.</nom>
+      <info>FRAN/M//124/2||fortet-35::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>64. cotte 5</nom>
+      <info>FRAN/M//124/3||fortet-36::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>56 cotte 6</nom>
+      <info>FRAN/M//124/4||fortet-37::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>60 cotte 6</nom>
+      <info>FRAN/M//124/5||fortet-38::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>91. cotte 4.</nom>
+      <info>FRAN/M//124/6||fortet-39::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>10 de la 8e</nom>
+      <info>FRAN/M//124/7||fortet-40::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>14. de la cotte 4</nom>
+      <info>FRAN/M//124/17||fortet-41::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>16. de la cotte 4</nom>
+      <info>FRAN/M//124/18||fortet-42::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>15. de la cotte 4</nom>
+      <info>FRAN/M//124/19||fortet-43::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>17. de la cotte 4</nom>
+      <info>FRAN/M//124/20||fortet-44::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>49 cotte 6</nom>
+      <info>FRAN/M//124/21||fortet-45::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>18. de la cotte 4</nom>
+      <info>FRAN/M//124/22||fortet-46::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>19. de la cotte 4</nom>
+      <info>FRAN/M//124/23||fortet-47::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>20. de la cotte 4</nom>
+      <info>FRAN/M//124/24||fortet-48::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>21. de la cotte 4</nom>
+      <info>FRAN/M//124/25||fortet-49::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>22. de la cotte 4</nom>
+      <info>FRAN/M//124/26||fortet-50::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>23 de la cotte 4</nom>
+      <info>FRAN/M//124/27||fortet-51::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>24 de la cotte 4</nom>
+      <info>FRAN/M//124/28||fortet-52::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>66. cotte 1ère</nom>
+      <info>FRAN/M//124/29||fortet-53::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>1ère de la cotte 8e</nom>
+      <info>FRAN/M//124/30||fortet-54::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>26 de la 8e</nom>
+      <info>FRAN/M//124/31||fortet-55::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>22e de la 8e</nom>
+      <info>FRAN/M//124/32||fortet-56::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>55. cotte 2.</nom>
+      <info>FRAN/M//124/33||fortet-57::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>2 cotte 7</nom>
+      <info>FRAN/M//124/34||fortet-58::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>80. cotte 5</nom>
+      <info>FRAN/M//124/35||fortet-59::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>1er cotte 7</nom>
+      <info>FRAN/M//124/36||fortet-60::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>32 de la 8e</nom>
+      <info>FRAN/M//124/37||fortet-61::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>56. cotte 1ère</nom>
+      <info>FRAN/M//124/38||fortet-62::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>82. cotte 5</nom>
+      <info>FRAN/M//124/39||fortet-63::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>76. cotte 5</nom>
+      <info>FRAN/M//124/40||fortet-64::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>69 cotte 1ère</nom>
+      <info>FRAN/M//124/41||fortet-65::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>64. cotte 2.</nom>
+      <info>FRAN/M//124/42||fortet-66::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>54 cotte 6</nom>
+      <info>FRAN/M//124/43||fortet-67::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>55 cotte 6</nom>
+      <info>FRAN/M//124/44||fortet-68::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>57. cotte 6</nom>
+      <info>FRAN/M//124/45||fortet-69::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>58 cotte 6</nom>
+      <info>FRAN/M//124/46||fortet-70::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>59 cotte 6</nom>
+      <info>FRAN/M//124/47||fortet-71::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>61 cotte 6</nom>
+      <info>FRAN/M//124/48||fortet-72::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>7 de la 8e</nom>
+      <info>FRAN/M//124/49||fortet-73::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>15. cotte 2.</nom>
+      <info>FRAN/M//124/50||fortet-74::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>5e de la 8e</nom>
+      <info>FRAN/M//124/51||fortet-75::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>19 de la 8e</nom>
+      <info>FRAN/M//124/52||fortet-76::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>14. cotte 2.</nom>
+      <info>FRAN/M//124/53||fortet-77::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>9 de la 8e</nom>
+      <info>FRAN/M//124/54||fortet-78::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>11 de la 8e</nom>
+      <info>FRAN/M//124/55||fortet-79::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>8e de la 8e</nom>
+      <info>FRAN/M//124/56||fortet-80::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>44 cotte 6</nom>
+      <info>FRAN/M//124/57||fortet-81::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>14 de la 8e</nom>
+      <info>FRAN/M//124/58||fortet-82::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>11e de la 27e cotte</nom>
+      <info>FRAN/M//125/45||fortet-84::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>9e de la 27e cotte</nom>
+      <info>FRAN/M//125/46||fortet-85::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>13e de la 27e cotte</nom>
+      <info>FRAN/M//125/47||fortet-86::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>27 cotte 5e</nom>
+      <info>FRAN/M//125/51||fortet-87::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>IIIIXX XVII</nom>
+      <info>FRAN/M//126/1/A||fortet-88::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>34. cotte 10.</nom>
+      <info>FRAN/M//126/1/A||fortet-88::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>32. cotte 10.</nom>
+      <info>FRAN/M//126/1/B||fortet-89::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>31. cotte 10.</nom>
+      <info>FRAN/M//126/1/C||fortet-90::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>1. cotte 9</nom>
+      <info>FRAN/M//126/2/A||fortet-91::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>C IIII</nom>
+      <info>FRAN/M//126/2/B||fortet-92::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>2. cotte 9</nom>
+      <info>FRAN/M//126/2/B||fortet-92::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>5. cotte 9</nom>
+      <info>FRAN/M//126/2/C||fortet-93::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>7. cotte 9</nom>
+      <info>FRAN/M//126/2/D||fortet-94::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>6. cotte 9</nom>
+      <info>FRAN/M//126/2/E||fortet-96::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>3. cotte 9</nom>
+      <info>FRAN/M//126/2/F||fortet-97::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>4. cotte 9</nom>
+      <info>FRAN/M//126/2/Fbis||fortet-98::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>33. cotte 10</nom>
+      <info>FRAN/M//126/3||fortet-99::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>36. cotte 10</nom>
+      <info>FRAN/M//126/4/A||fortet-100::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>37e. cotte 10. et dernière</nom>
+      <info>FRAN/M//126/4/B||fortet-101::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>52 de la 8e</nom>
+      <info>FRAN/M//126/5||fortet-102::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>cotte 4.</nom>
+      <info>FRAN/M//126/5||fortet-102::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>59 de la 8e</nom>
+      <info>FRAN/M//126/6/A||fortet-103::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>58 de la 8e</nom>
+      <info>FRAN/M//126/6/B||fortet-104::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>35. cotte 10</nom>
+      <info>FRAN/M//126/7||fortet-105::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>inventaire dix neuf</nom>
+      <info>FRAN/M//126/8||fortet-106::<date>XVIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>38 cotte 7</nom>
+      <info>FRAN/M//126/8||fortet-106::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>36 cotte 7</nom>
+      <info>FRAN/M//126/9||fortet-107::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>76. cotte 2.</nom>
+      <info>FRAN/M//126/10||fortet-108::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>inventaire vingt trois</nom>
+      <info>FRAN/M//126/11/A||fortet-109::<date>XVIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>54 cotte 7</nom>
+      <info>FRAN/M//126/11/A||fortet-109::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>53 cotte 7</nom>
+      <info>FRAN/M//126/11/B||fortet-110::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>1. cotte 5</nom>
+      <info>FRAN/M//126/12||fortet-111::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>première de la cotte 10</nom>
+      <info>FRAN/M//126/13||fortet-112::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>7. cotte 5.</nom>
+      <info>FRAN/M//126/14||fortet-113::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>inventaire trente cinq</nom>
+      <info>FRAN/M//126/15||fortet-114::<date>XVIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>35 cotte 7</nom>
+      <info>FRAN/M//126/15||fortet-114::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>3. cotte 5</nom>
+      <info>FRAN/M//126/16||fortet-115::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>inventaire quarente six</nom>
+      <info>FRAN/M//126/17||fortet-116::<date>XVIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>41 cotte 7</nom>
+      <info>FRAN/M//126/17||fortet-116::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>30. cotte 10.</nom>
+      <info>FRAN/M//126/18||fortet-117::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>inventaire quarente huict</nom>
+      <info>FRAN/M//126/19||fortet-118::<date>XVIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>59 cotte 7</nom>
+      <info>FRAN/M//126/19||fortet-118::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>74e. de la cotte 45.</nom>
+      <info>FRAN/M//126/20||fortet-119::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>inventaire quarente ung</nom>
+      <info>FRAN/M//126/21||fortet-120::<date>XVIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>2. cotte 5</nom>
+      <info>FRAN/M//126/21||fortet-120::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>22. cotte 5</nom>
+      <info>FRAN/M//126/22||fortet-121::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>10. de la cotte 55.</nom>
+      <info>FRAN/M//126/24||fortet-122::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>89e de la cotte 45</nom>
+      <info>FRAN/M//126/25||fortet-123::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>88e de la cotte 45</nom>
+      <info>FRAN/M//126/25||fortet-123::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>60e. de la cotte 45.</nom>
+      <info>FRAN/M//126/26/1||fortet-124::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>59e. de la cotte 45.</nom>
+      <info>FRAN/M//126/26/2||fortet-125::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>58e. de la cotte 45.</nom>
+      <info>FRAN/M//126/26/3||fortet-126::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>104e de la cotte 45.</nom>
+      <info>FRAN/M//126/26/5||fortet-127::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>63e. de la cotte 45.</nom>
+      <info>FRAN/M//126/26/6||fortet-128::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>62e. de la cotte 45.</nom>
+      <info>FRAN/M//126/26/7||fortet-129::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>61e. de la cotte 45.</nom>
+      <info>FRAN/M//126/26/8||fortet-130::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>inventaire cinquante cinq</nom>
+      <info>FRAN/M//126/27/1||fortet-131::<date>XVIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>34 cotte 7</nom>
+      <info>FRAN/M//126/27/1||fortet-131::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>33 cotte 7</nom>
+      <info>FRAN/M//126/27/2||fortet-132::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>32 cotte 7</nom>
+      <info>FRAN/M//126/27/3||fortet-133::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>31 cotte 7</nom>
+      <info>FRAN/M//126/27/4||fortet-134::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>30 cotte 7.</nom>
+      <info>FRAN/M//126/27/5||fortet-135::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>54 de la 3e cotte</nom>
+      <info>FRAN/M//126/28/1||fortet-136::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>53e de la 3e cotte</nom>
+      <info>FRAN/M//126/28/2||fortet-137::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>39 cotte 7</nom>
+      <info>FRAN/M//126/29||fortet-138::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>36e. de la 3e. cotte</nom>
+      <info>FRAN/M//126/30||fortet-139::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>72e. de la cotte 45.</nom>
+      <info>FRAN/M//126/31/1||fortet-140::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>95. de la cotte 45.</nom>
+      <info>FRAN/M//126/31/2||fortet-141::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>94e. de la cotte 45.</nom>
+      <info>FRAN/M//126/31/3||fortet-142::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>46. cotte 2.</nom>
+      <info>FRAN/M//126/32||fortet-143::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>44. cotte 2.</nom>
+      <info>FRAN/M//126/33||fortet-144::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>45. cotte 2.</nom>
+      <info>FRAN/M//126/34||fortet-145::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>57 cotte 7</nom>
+      <info>FRAN/M//126/35||fortet-146::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>27e. de la 5e. cotte</nom>
+      <info>FRAN/M//126/36||fortet-147::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>58e. de la 5e. cotte</nom>
+      <info>FRAN/M//126/37||fortet-148::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>89 cotte 2.</nom>
+      <info>FRAN/M//126/45/1||fortet-149::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>88. cotte 2.</nom>
+      <info>FRAN/M//126/45/2||fortet-150::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>87. cotte 2.</nom>
+      <info>FRAN/M//126/45/3||fortet-151::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>86. cotte 2.</nom>
+      <info>FRAN/M//126/45/4||fortet-152::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>85. cotte 2.</nom>
+      <info>FRAN/M//126/45/5||fortet-153::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>89 de la 46e cotte</nom>
+      <info>FRAN/M//126/53/1||fortet-154::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>105e. de la cotte 45.</nom>
+      <info>FRAN/M//126/53/1||fortet-154::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>28 ter cotte 10</nom>
+      <info>FRAN/M//126/53/3||fortet-155::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>72 cotte 7</nom>
+      <info>FRAN/M//126/53/5||fortet-157::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>71 cotte 7</nom>
+      <info>FRAN/M//126/53/6||fortet-158::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>72 ter cotte 15</nom>
+      <info>FRAN/M//126/53/7||fortet-159::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>31</nom>
+      <info>FRAN/M//127/2/28||fortet-200::</info>
+      <info>FRAN/M//180/A/16/C||navarre-21::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>34</nom>
+      <info>FRAN/M//127/2/31||fortet-203::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>17</nom>
+      <info>FRAN/M//127/5/2||fortet-223::</info>
+      <info>FRAN/M//129/A/2/2||fortet-378::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>25</nom>
+      <info>FRAN/M//127/5/17||fortet-238::</info>
+      <info>FRAN/M//128/10/1||fortet-349::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>22</nom>
+      <info>FRAN/M//127/5/20||fortet-241::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>29</nom>
+      <info>FRAN/M//127/6/6||fortet-247::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>33</nom>
+      <info>FRAN/M//127/6/7||fortet-248::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>44</nom>
+      <info>FRAN/M//127/6/9||fortet-250::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>26</nom>
+      <info>FRAN/M//127/6/10||fortet-251::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>10</nom>
+      <info>FRAN/M//128/1/6||fortet-260::</info>
+      <info>FRAN/M//131/12||fortet-488::</info>
+      <info>FRAN/M//135/2/1||hubant-1::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>XLI</nom>
+      <info>FRAN/M//128/1/22||fortet-276::</info>
+      <info>FRAN/M//128/1/23||fortet-277::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>quarantiesme</nom>
+      <info>FRAN/M//128/1/22||fortet-276::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>M</nom>
+      <info>FRAN/M//128/1/22||fortet-276::</info>
+      <info>FRAN/M//129/A/3/26||fortet-396::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>armoire 14 liasse 7 n° 11</nom>
+      <info>FRAN/M//128/1/23||fortet-277::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>cinquante une et derniere</nom>
+      <info>FRAN/M//128/1/24||fortet-278::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>armoire 14 liasse 7 n° 11 bis</nom>
+      <info>FRAN/M//128/1/24||fortet-278::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>armoire 14 liasse 7 n° 12</nom>
+      <info>FRAN/M//128/1/25||fortet-279::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>armoire 14 liasse 7 n° 18</nom>
+      <info>FRAN/M//128/1/27||fortet-281::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>7</nom>
+      <info>FRAN/M//128/1/35||fortet-289::</info>
+      <info>FRAN/M//131/1/3||fortet-463::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>armoire 14 liasse 7 n° 9</nom>
+      <info>FRAN/M//128/1/35||fortet-289::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>trente huit</nom>
+      <info>FRAN/M//128/1/36||fortet-290::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>4</nom>
+      <info>FRAN/M//128/1/36||fortet-290::</info>
+      <info>FRAN/M//172/3||la-marche-45::</info>
+      <info>FRAN/M//172/18||la-marche-60::</info>
+      <info>FRAN/M//172/31||la-marche-76::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>armoire 14 liasse 7 n° 6</nom>
+      <info>FRAN/M//128/1/36||fortet-290::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>cinquante</nom>
+      <info>FRAN/M//128/1/40||fortet-292::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>armoire 14 liasse 7 n° 10</nom>
+      <info>FRAN/M//128/1/42||fortet-294::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>15</nom>
+      <info>FRAN/M//128/1/50||fortet-302::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>armoire 14 liasse 7 n°</nom>
+      <info>FRAN/M//128/1/57||fortet-309::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>Q</nom>
+      <info>FRAN/M//128/1/67||fortet-319::</info>
+      <info>FRAN/M//129/A/3/18||fortet-388::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>8</nom>
+      <info>FRAN/M//128/3/1||fortet-321::</info>
+      <info>FRAN/M//129/A/2/1||fortet-377::</info>
+      <info>FRAN/M//172/20/A||la-marche-63::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>premiere</nom>
+      <info>FRAN/M//128/3/1||fortet-321::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>armoire 14 liasse 7 n° 2</nom>
+      <info>FRAN/M//128/3/1||fortet-321::</info>
+      <info>FRAN/M//128/3/7||fortet-327::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>5</nom>
+      <info>FRAN/M//128/3/5||fortet-325::</info>
+      <info>FRAN/M//128/11/2||fortet-364::</info>
+      <info>FRAN/M//135/2/6||hubant-6::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>armoire liasse 7 n° 4</nom>
+      <info>FRAN/M//128/3/6||fortet-326::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>quarante</nom>
+      <info>FRAN/M//128/3/8||fortet-328::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>armoire 14 liasse 7 n° 7</nom>
+      <info>FRAN/M//128/3/8||fortet-328::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>trente neuf</nom>
+      <info>FRAN/M//128/3/9||fortet-329::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>armoire 14 liasse 7 n° 8</nom>
+      <info>FRAN/M//128/3/9||fortet-329::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>armoire 14 liasse 7 n° 3</nom>
+      <info>FRAN/M//128/3/10||fortet-330::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>trente une</nom>
+      <info>FRAN/M//128/4/7||fortet-331::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>armoire 14 liasse 7 n° 26</nom>
+      <info>FRAN/M//128/4/8||fortet-332::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>armoire 14 liasse 7 n° 25</nom>
+      <info>FRAN/M//128/6/1||fortet-333::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>24</nom>
+      <info>FRAN/M//128/7/5||fortet-340::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>23</nom>
+      <info>FRAN/M//128/7/9||fortet-344::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>armoire 14 liasse 6 n° 8</nom>
+      <info>FRAN/M//128/9/1||fortet-345::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>armoire 14 liasse 2 n° 1er</nom>
+      <info>FRAN/M//128/10/1||fortet-349::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>armoire 14 liasse 2 n° 10</nom>
+      <info>FRAN/M//128/10/2||fortet-350::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>armoire 14 liasse 2 n° 2</nom>
+      <info>FRAN/M//128/10/6||fortet-354::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>armoire 14 liasse 2 n° 3 4 5 et 6</nom>
+      <info>FRAN/M//128/10/7||fortet-355::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>armoire 14 liasse 2 n° 5</nom>
+      <info>FRAN/M//128/10/8||fortet-356::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>armoire 14 liasse 2 n° 6</nom>
+      <info>FRAN/M//128/10/9||fortet-357::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>armoire 14 liasse 2 n° 4</nom>
+      <info>FRAN/M//128/10/10||fortet-358::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>armoire 14 liasse 3 n° 8</nom>
+      <info>FRAN/M//128/10/12||fortet-360::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>armoire 14 liasse 2 n° 9</nom>
+      <info>FRAN/M//128/10/13||fortet-361::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>armoire 14 liasse 3 n° 1</nom>
+      <info>FRAN/M//128/11/1||fortet-363::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>armoire 14 liasse 3 n° 2</nom>
+      <info>FRAN/M//128/11/2||fortet-364::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>armoire 14 liasse 3 n° 3</nom>
+      <info>FRAN/M//128/11/3||fortet-365::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>armoire 14 liasse 3 n° 4</nom>
+      <info>FRAN/M//128/11/4||fortet-366::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>49</nom>
+      <info>FRAN/M//128/11/13||fortet-371::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>47</nom>
+      <info>FRAN/M//128/11/15||fortet-373::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>48</nom>
+      <info>FRAN/M//128/11/21||fortet-376::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>armoire 14 liasse 1re n° 7</nom>
+      <info>FRAN/M//129/A/3/1||fortet-379::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>armoire 14 liasse 1re n° 6</nom>
+      <info>FRAN/M//129/A/3/3||fortet-381::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>trente deux</nom>
+      <info>FRAN/M//129/A/3/12||fortet-382::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>vingt neuf</nom>
+      <info>FRAN/M//129/A/3/13||fortet-383::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>vingt huit</nom>
+      <info>FRAN/M//129/A/3/14||fortet-384::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>vingt quatre</nom>
+      <info>FRAN/M//129/A/3/14||fortet-384::</info>
+      <info>FRAN/M//129/A/3/18||fortet-388::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>S</nom>
+      <info>FRAN/M//129/A/3/15||fortet-385::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>vingt trois</nom>
+      <info>FRAN/M//129/A/3/15||fortet-385::</info>
+      <info>FRAN/M//129/A/3/19||fortet-389::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>dix neuf</nom>
+      <info>FRAN/M//129/A/3/19||fortet-389::</info>
+      <info>FRAN/M//129/A/3/23||fortet-393::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>dix huit</nom>
+      <info>FRAN/M//129/A/3/21||fortet-391::</info>
+      <info>FRAN/M//129/A/3/25||fortet-395::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>dix sept</nom>
+      <info>FRAN/M//129/A/3/24||fortet-394::</info>
+      <info>FRAN/M//129/A/3/26||fortet-396::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>seize</nom>
+      <info>FRAN/M//129/A/3/25||fortet-395::</info>
+      <info>FRAN/M//129/A/3/27||fortet-397::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>quinze</nom>
+      <info>FRAN/M//129/A/3/27||fortet-397::</info>
+      <info>FRAN/M//129/A/3/28||fortet-398::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>dix</nom>
+      <info>FRAN/M//129/A/3/32||fortet-402::</info>
+      <info>FRAN/M//129/A/3/33||fortet-403::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>huit</nom>
+      <info>FRAN/M//129/A/3/34||fortet-404::</info>
+      <info>FRAN/M//129/A/3/35||fortet-405::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>sept</nom>
+      <info>FRAN/M//129/A/3/35||fortet-405::</info>
+      <info>FRAN/M//129/A/3/36||fortet-406::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>Cinq</nom>
+      <info>FRAN/M//129/A/3/37||fortet-407::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>a</nom>
+      <info>FRAN/M//129/A/3/38||fortet-408::</info>
+      <info>FRAN/M//74/14||sorbonne-17::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>inventaire quinze</nom>
+      <info>FRAN/M//129/B/23/1||fortet-419::<date>XVIe s.</date>
+      </info>
+      <info>FRAN/M//146/A/7||lisieux-8::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>26. cotte 2.</nom>
+      <info>FRAN/M//129/B/23/1||fortet-419::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>25. cotte 2.</nom>
+      <info>FRAN/M//129/B/23/2||fortet-420::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>24. cotte 2.</nom>
+      <info>FRAN/M//129/B/23/3||fortet-421::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>23. cotte 2.</nom>
+      <info>FRAN/M//129/B/23/4||fortet-422::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>22. cotte 2</nom>
+      <info>FRAN/M//129/B/23/5||fortet-423::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>22 bis cotte 2.</nom>
+      <info>FRAN/M//129/B/23/6||fortet-424::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>21. cotte 2.</nom>
+      <info>FRAN/M//129/B/23/7||fortet-425::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>20. cotte 2.</nom>
+      <info>FRAN/M//129/B/23/8||fortet-426::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>19. cotte 2.</nom>
+      <info>FRAN/M//129/B/23/9||fortet-427::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>18. cotte 2.</nom>
+      <info>FRAN/M//129/B/23/10||fortet-428::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>80 cotte 7</nom>
+      <info>FRAN/M//129/B/24/1||fortet-429::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>79 cotte 7</nom>
+      <info>FRAN/M//129/B/24/2||fortet-430::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>1e de la 53e</nom>
+      <info>FRAN/M//130/1||fortet-431::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>quatrième de la 93</nom>
+      <info>FRAN/M//130/4||fortet-434::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>3e de la 53e</nom>
+      <info>FRAN/M//130/12||fortet-439::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>46</nom>
+      <info>FRAN/M//131/1/7||fortet-467::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>45</nom>
+      <info>FRAN/M//131/1/8||fortet-468::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>50</nom>
+      <info>FRAN/M//131/1/9||fortet-469::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>une</nom>
+      <info>FRAN/M//131/1/10||fortet-470::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>cotte 7</nom>
+      <info>FRAN/M//131/9||fortet-485::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>PIIII</nom>
+      <info>FRAN/M//135/2/1||hubant-1::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>CVI</nom>
+      <info>FRAN/M//135/2/1||hubant-1::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>h</nom>
+      <info>FRAN/M//135/2/1||hubant-1::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>PVII</nom>
+      <info>FRAN/M//135/2/6||hubant-6::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>XXVI</nom>
+      <info>FRAN/M//135/2/6||hubant-6::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>l</nom>
+      <info>FRAN/M//135/2/6||hubant-6::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>.f.</nom>
+      <info>FRAN/M//171/1||la-marche-2::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>.A.</nom>
+      <info>FRAN/M//171/2||la-marche-3::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>invent. VI</nom>
+      <info>FRAN/M//171/3||la-marche-4::<date>XVIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>invent. V</nom>
+      <info>FRAN/M//171/4||la-marche-5::<date>XVIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>.C.</nom>
+      <info>FRAN/M//171/4||la-marche-5::</info>
+      <info>FRAN/M//172/16||la-marche-58::</info>
+      <info>FRAN/M//172/17||la-marche-59::</info>
+      <info>FRAN/M//172/18||la-marche-60::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>5e layette et 2e de la 2e liasse</nom>
+      <info>FRAN/M//171/4||la-marche-5::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>invent. III</nom>
+      <info>FRAN/M//171/6||la-marche-7::<date>XVIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>1re layette 2e de la 1re liasse</nom>
+      <info>FRAN/M//171/7||la-marche-8::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>invent. IX</nom>
+      <info>FRAN/M//171/11||la-marche-12::<date>XVIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>invent. X</nom>
+      <info>FRAN/M//171/12||la-marche-13::<date>XVIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>invent. VIII</nom>
+      <info>FRAN/M//171/13||la-marche-14::<date>XVIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>13e layette 1ère de la 2e liasse</nom>
+      <info>FRAN/M//171/13||la-marche-14::</info>
+      <info>FRAN/M//172/27||la-marche-71::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>Ière layette 6e de la 1re liasse</nom>
+      <info>FRAN/M//171/14||la-marche-15::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>trois cotte sept</nom>
+      <info>FRAN/M//171/14||la-marche-15::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>invent. II in statutis collegii</nom>
+      <info>FRAN/M//171/15||la-marche-16::<date>XVIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>25 8</nom>
+      <info>FRAN/M//171/15||la-marche-16::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>Ière layette 8e de la 1ère liasse</nom>
+      <info>FRAN/M//171/15||la-marche-16::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>quatre cotte sept</nom>
+      <info>FRAN/M//171/15||la-marche-16::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>invent.</nom>
+      <info>FRAN/M//171/16||la-marche-17::<date>XVIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>Ière layette 10e de la 1ère liasse</nom>
+      <info>FRAN/M//171/16||la-marche-17::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>cinqe contenant six feuilles de parchemin inventoriée cotte sept</nom>
+      <info>FRAN/M//171/16||la-marche-17::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>invent. III in statutis</nom>
+      <info>FRAN/M//171/17||la-marche-18::<date>XVIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>8 12</nom>
+      <info>FRAN/M//171/17||la-marche-18::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>I. layette 12. de la 1. liasse</nom>
+      <info>FRAN/M//171/17||la-marche-18::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>six cotte sept</nom>
+      <info>FRAN/M//171/17||la-marche-18::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>invent. IIII in statutis</nom>
+      <info>FRAN/M//171/18||la-marche-19::<date>XVIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>6 11</nom>
+      <info>FRAN/M//171/18||la-marche-19::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>Ière layette 11e de la 1re liasse</nom>
+      <info>FRAN/M//171/18||la-marche-19::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>sept cotte sept</nom>
+      <info>FRAN/M//171/18||la-marche-19::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>invent. LXXIX in statutis</nom>
+      <info>FRAN/M//171/19||la-marche-20::<date>XVIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>15 14</nom>
+      <info>FRAN/M//171/19||la-marche-20::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>Ire layette 14e de la Ire liasse</nom>
+      <info>FRAN/M//171/19||la-marche-20::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>huit cotte sept</nom>
+      <info>FRAN/M//171/19||la-marche-20::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>Ière layette 16e de la 1ère liasse</nom>
+      <info>FRAN/M//171/20||la-marche-21::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>neuve et dernière inventoriée cotte sept</nom>
+      <info>FRAN/M//171/20||la-marche-21::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>invent. I in statuti collegii</nom>
+      <info>FRAN/M//171/21||la-marche-22::<date>XVIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>Ire layette 5e de la 1re liasse</nom>
+      <info>FRAN/M//171/21||la-marche-22::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>deuxe cotte sept</nom>
+      <info>FRAN/M//171/21||la-marche-22::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>4 7</nom>
+      <info>FRAN/M//171/22||la-marche-23::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>Ire layette 7e de la Ire liasse</nom>
+      <info>FRAN/M//171/22||la-marche-23::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>invent. LI</nom>
+      <info>FRAN/M//171/23||la-marche-24::<date>XVIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>5e layette 1re de la 1re liasse</nom>
+      <info>FRAN/M//171/23||la-marche-24::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>n° 435 1er reg.re</nom>
+      <info>FRAN/M//171/23||la-marche-24::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>première inventoriée cotte quinze</nom>
+      <info>FRAN/M//171/23||la-marche-24::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>2 38</nom>
+      <info>FRAN/M//171/24||la-marche-25::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>5e layette 1ère liasse 2e</nom>
+      <info>FRAN/M//171/24||la-marche-25::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>deux cotte quinze</nom>
+      <info>FRAN/M//171/24||la-marche-25::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>trois cotte quinze</nom>
+      <info>FRAN/M//171/25||la-marche-26::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>invent. LII</nom>
+      <info>FRAN/M//171/26||la-marche-27::<date>XVIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>cinq cotte quinze</nom>
+      <info>FRAN/M//171/26||la-marche-27::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>37 5</nom>
+      <info>FRAN/M//171/27||la-marche-28::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>5e layette 5e de la 1 liasse</nom>
+      <info>FRAN/M//171/27||la-marche-28::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>n° 435 1er regre</nom>
+      <info>FRAN/M//171/27||la-marche-28::</info>
+      <info>FRAN/M//171/28||la-marche-29::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>quatre cotte quinze</nom>
+      <info>FRAN/M//171/27||la-marche-28::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>invent. LIII</nom>
+      <info>FRAN/M//171/28||la-marche-29::<date>XVIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>5e layette 3 de la 1 liasse</nom>
+      <info>FRAN/M//171/28||la-marche-29::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>six et dernière inventoriée cotte quinze</nom>
+      <info>FRAN/M//171/28||la-marche-29::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>1ère layette 6e de la 2e liasse</nom>
+      <info>FRAN/M//171/29||la-marche-30::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>cinq cotte huit</nom>
+      <info>FRAN/M//171/29||la-marche-30::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>six et dernière inventoriée cotte huit</nom>
+      <info>FRAN/M//171/30||la-marche-31::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>3 13</nom>
+      <info>FRAN/M//171/31||la-marche-32::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>1 layette 3e de la 2e liasse</nom>
+      <info>FRAN/M//171/31||la-marche-32::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>quatrebis sur trois feuille de parchemin cotte huit</nom>
+      <info>FRAN/M//171/31||la-marche-32::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>quatre bise cotte huit</nom>
+      <info>FRAN/M//171/31||la-marche-32::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>108</nom>
+      <info>FRAN/M//171/32||la-marche-33::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>1 layette 8e de la 2e liasse</nom>
+      <info>FRAN/M//171/32||la-marche-33::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>première inventoriée cotte huit</nom>
+      <info>FRAN/M//171/32||la-marche-33::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>1re layette 1 de la 2e liasse</nom>
+      <info>FRAN/M//171/33||la-marche-34::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>trois cotte huit</nom>
+      <info>FRAN/M//171/33||la-marche-34::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>deux cotte huit</nom>
+      <info>FRAN/M//171/34||la-marche-35::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>invent. V. de novo acquisit. post [?]</nom>
+      <info>FRAN/M//171/35||la-marche-36::<date>XVIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>première inventoriée cotte neuve</nom>
+      <info>FRAN/M//171/35||la-marche-36::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>1ère layette 3e de la 4e liasse</nom>
+      <info>FRAN/M//171/36||la-marche-37::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>n° 435 []</nom>
+      <info>FRAN/M//171/36||la-marche-37::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>quatre et dernière sur cinq feuille de parchemin inventoriée cotte neuve</nom>
+      <info>FRAN/M//171/36||la-marche-37::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>invent. IIII de novo acquisit. post [?]</nom>
+      <info>FRAN/M//171/37||la-marche-38::<date>XVIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>1ère layette 4e liasse 6e</nom>
+      <info>FRAN/M//171/37||la-marche-38::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>deux cotte neuve</nom>
+      <info>FRAN/M//171/37||la-marche-38::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>3</nom>
+      <info>FRAN/M//171/38||la-marche-39::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>5e layette 3 de la 2e liasse</nom>
+      <info>FRAN/M//171/38||la-marche-39::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>1ère layette 5e de la 4e liasse</nom>
+      <info>FRAN/M//171/39||la-marche-40::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>trois cotte neuve</nom>
+      <info>FRAN/M//171/39||la-marche-40::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>13e layette 2e de la 2e liasse</nom>
+      <info>FRAN/M//172/1||la-marche-41::</info>
+      <info>FRAN/M//172/28||la-marche-72::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>13e layette 4e de la 2e liasse</nom>
+      <info>FRAN/M//172/3||la-marche-45::</info>
+      <info>FRAN/M//172/31||la-marche-76::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>13e layette 3e de la 2e liasse</nom>
+      <info>FRAN/M//172/4||la-marche-46::</info>
+      <info>FRAN/M//172/29/A||la-marche-73::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>invent. XXIX</nom>
+      <info>FRAN/M//172/7||la-marche-49::<date>XVIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>13e layette 5e de la 2e liasse</nom>
+      <info>FRAN/M//172/9||la-marche-51::</info>
+      <info>FRAN/M//172/32||la-marche-77::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>13e layette 6e de la 2e liasse</nom>
+      <info>FRAN/M//172/10||la-marche-52::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>13e layette 8e de la 2e liasse</nom>
+      <info>FRAN/M//172/11||la-marche-53::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>13e layette 7e de la 2e liasse</nom>
+      <info>FRAN/M//172/12||la-marche-54::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>13e layette 9e de la 2e liasse</nom>
+      <info>FRAN/M//172/14||la-marche-56::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>13e layette 10e de la 2e liasse</nom>
+      <info>FRAN/M//172/15||la-marche-57::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>invent. II</nom>
+      <info>FRAN/M//172/18||la-marche-60::<date>XVIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>13e layette 1ère de la 4e liasse</nom>
+      <info>FRAN/M//172/18||la-marche-60::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>invent. I</nom>
+      <info>FRAN/M//172/19/A||la-marche-61::<date>XVIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>13e layette 2e de la 4e liasse</nom>
+      <info>FRAN/M//172/20/A||la-marche-63::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>invent. IIII</nom>
+      <info>FRAN/M//172/21||la-marche-65::<date>XVIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>14e layette 1ère de la 6e liasse</nom>
+      <info>FRAN/M//172/23||la-marche-67::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>invent. XI</nom>
+      <info>FRAN/M//172/24||la-marche-68::<date>XVIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>invent. XXVI</nom>
+      <info>FRAN/M//172/27||la-marche-71::<date>XVIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>14e layette 6e de la 3e liasse</nom>
+      <info>FRAN/M//172/33||la-marche-78::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>invent. NN</nom>
+      <info>FRAN/M//172/37||la-marche-81::<date>XVIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>invent. XLVI</nom>
+      <info>FRAN/M//172/39||la-marche-83::<date>XVIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>13e layette 1ère de la 3e liasse</nom>
+      <info>FRAN/M//172/39||la-marche-83::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>13e layette 2e de la 3e liasse</nom>
+      <info>FRAN/M//172/40||la-marche-84::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>invent. LX</nom>
+      <info>FRAN/M//173/1||la-marche-89::<date>XVIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>première inventoriée cotte dix</nom>
+      <info>FRAN/M//173/1||la-marche-89::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>deux cotte dix</nom>
+      <info>FRAN/M//173/1||la-marche-89::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>1ère layette 1re de la 5e liasse</nom>
+      <info>FRAN/M//173/1||la-marche-89::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>2</nom>
+      <info>FRAN/M//173/2||la-marche-90::</info>
+      <info>FRAN/M//173/12||la-marche-101::</info>
+      <info>FRAN/M//75/158||sorbonne-55::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>trois cotte dix</nom>
+      <info>FRAN/M//173/2||la-marche-90::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>1ère layette 2e de la 5e liasse</nom>
+      <info>FRAN/M//173/2||la-marche-90::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>quatre sur trois feuilles cotte dix</nom>
+      <info>FRAN/M//173/3||la-marche-91::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>1ère layette 6e de la 5e liasse</nom>
+      <info>FRAN/M//173/3||la-marche-91::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>n°435 1er regre</nom>
+      <info>FRAN/M//173/3||la-marche-91::</info>
+      <info>FRAN/M//173/7||la-marche-95::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>cinq cotte dix</nom>
+      <info>FRAN/M//173/4||la-marche-92::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>six et dernière inventoriée cotte dix</nom>
+      <info>FRAN/M//173/5||la-marche-93::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>1re layette 7e de la 5e liasse</nom>
+      <info>FRAN/M//173/5||la-marche-93::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>pièce unique sur quatre feuilles inventoriée cotte douze</nom>
+      <info>FRAN/M//173/7||la-marche-95::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>1ère layette 1e de la 6e liasse</nom>
+      <info>FRAN/M//173/7||la-marche-95::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>pièce unique inventoriée cotte cent soixte sept</nom>
+      <info>FRAN/M//173/8||la-marche-96::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>5e layette 6e de la 1e liasse</nom>
+      <info>FRAN/M//173/8||la-marche-96::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>13e layette 12e de la 3e liasse</nom>
+      <info>FRAN/M//173/9/1||la-marche-97::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>13e layette 14e layette 12e de la 3e liasse</nom>
+      <info>FRAN/M//173/9/2||la-marche-98::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>pièce unique inventoriée cotte unze</nom>
+      <info>FRAN/M//173/12||la-marche-101::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>1re layette 2e de la 6e liasse</nom>
+      <info>FRAN/M//173/12||la-marche-101::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>9e layette 11e et 12e de la 4e liasse</nom>
+      <info>FRAN/M//173/13||la-marche-102::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>première inventoriée cotte soixante quinze</nom>
+      <info>FRAN/M//173/15/1||la-marche-103::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>1re layette 1e de la 6e liasse</nom>
+      <info>FRAN/M//173/15/1||la-marche-103::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>deux cotte soixante quinze</nom>
+      <info>FRAN/M//173/15/2||la-marche-104::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>38</nom>
+      <info>FRAN/M//173/15/2||la-marche-104::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>1ère layette 2e de la 6e liasse</nom>
+      <info>FRAN/M//173/15/2||la-marche-104::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>trois cotte soixante quinze</nom>
+      <info>FRAN/M//173/15/3||la-marche-105::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>quatre cotte soixante quinze</nom>
+      <info>FRAN/M//173/15/4||la-marche-106::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>cinq cotte soixante quinze</nom>
+      <info>FRAN/M//173/15/5||la-marche-107::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>six et dernière inventoriée cotte soixante quinze</nom>
+      <info>FRAN/M//173/15/6||la-marche-108::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>invent. I de novo acq[] post [?]</nom>
+      <info>Bibliothèque de la Sorbonne (Paris), MSAUC 18 / II/II / Dossier 1 (pièces 1/3) / Pièce 1||la-marche-110::<date>XVIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>première inventoriée cotte quatorze sur quatre feuilles de parchemin</nom>
+      <info>Bibliothèque de la Sorbonne (Paris), MSAUC 18 / II/II / Dossier 1 (pièces 1/3) / Pièce 1||la-marche-110::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>deux cotte quatorze</nom>
+      <info>Bibliothèque de la Sorbonne (Paris), MSAUC 18 / II/II / Dossier 1 (pièces 1/3) / Pièce 2||la-marche-111::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>trois et dernière inventoriée cotte quatorze</nom>
+      <info>Bibliothèque de la Sorbonne (Paris), MSAUC 18 / II/II / Dossier 1 (pièces 1/3) / Pièce 3||la-marche-112::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>première inventoriée cotte seize</nom>
+      <info>Bibliothèque de la Sorbonne (Paris), MSAUC 18 / II/II / Dossier 2 (pièces 4/13) / Pièce 4||la-marche-113::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>neuf cotte seize</nom>
+      <info>Bibliothèque de la Sorbonne (Paris), MSAUC 18 / II/II / Dossier 2 (pièces 4/13) / Pièce 5||la-marche-114::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>deux cotte seize</nom>
+      <info>Bibliothèque de la Sorbonne (Paris), MSAUC 18 / II/II / Dossier 2 (pièces 4/13) / Pièce 6||la-marche-115::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>trois cotte seize</nom>
+      <info>Bibliothèque de la Sorbonne (Paris), MSAUC 18 / II/II / Dossier 2 (pièces 4/13) / Pièce 7||la-marche-116::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>quatre cotte seize</nom>
+      <info>Bibliothèque de la Sorbonne (Paris), MSAUC 18 / II/II / Dossier 2 (pièces 4/13) / Pièce 8||la-marche-117::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>cinq cotte seize</nom>
+      <info>Bibliothèque de la Sorbonne (Paris), MSAUC 18 / II/II / Dossier 2 (pièces 4/13) / Pièce 9||la-marche-118::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>six cotte seize</nom>
+      <info>Bibliothèque de la Sorbonne (Paris), MSAUC 18 / II/II / Dossier 2 (pièces 4/13) / Pièce 10||la-marche-119::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>sept cotte seize</nom>
+      <info>Bibliothèque de la Sorbonne (Paris), MSAUC 18 / II/II / Dossier 2 (pièces 4/13) / Pièce 11||la-marche-120::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>huit cotte seize</nom>
+      <info>Bibliothèque de la Sorbonne (Paris), MSAUC 18 / II/II / Dossier 2 (pièces 4/13) / Pièce 12||la-marche-121::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>dix et dernière inventoriée cotte seize</nom>
+      <info>Bibliothèque de la Sorbonne (Paris), MSAUC 18 / II/II / Dossier 2 (pièces 4/13) / Pièce 13||la-marche-122::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>cotte 11</nom>
+      <info>FRAN/M//146/A/1||lisieux-1::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>cottées huict vingt sept</nom>
+      <info>FRAN/M//146/A/2||lisieux-2::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>quatrième cotte quatorze</nom>
+      <info>FRAN/M//146/A/2||lisieux-2::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>deux cote cinq</nom>
+      <info>FRAN/M//146/A/2||lisieux-2::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>troise cotte quatorze</nom>
+      <info>FRAN/M//146/A/2bis||lisieux-3::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>dernière inventoriée cotte quatorze</nom>
+      <info>FRAN/M//146/A/3||lisieux-4::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>première cote cinq</nom>
+      <info>FRAN/M//146/A/3||lisieux-4::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>deuxe cotte quatorze</nom>
+      <info>FRAN/M//146/A/4||lisieux-5::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>sixe et dernière inventoriée cotte quatorze</nom>
+      <info>FRAN/M//146/A/6||lisieux-7::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>onze cote cinq</nom>
+      <info>FRAN/M//146/A/6||lisieux-7::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>cinqe cotte quatorze</nom>
+      <info>FRAN/M//146/A/7||lisieux-8::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>neuf cote cinq</nom>
+      <info>FRAN/M//146/A/7||lisieux-8::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>première inventoriée cotte treize</nom>
+      <info>Bibliothèque de la Sorbonne (Paris), MSAUC 18 / I / I.1||lisieux-9::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>trente trois cote deux</nom>
+      <info>Bibliothèque de la Sorbonne (Paris), MSAUC 18 / I / I.1||lisieux-9::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>cottées six vingts seize</nom>
+      <info>Bibliothèque de la Sorbonne (Paris), MSAUC 18 / I / I.2||lisieux-10::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>deuxième inventoriée cotte treize</nom>
+      <info>Bibliothèque de la Sorbonne (Paris), MSAUC 18 / I / I.2||lisieux-10::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>troisième et dernière inventoriée cotte treize</nom>
+      <info>Bibliothèque de la Sorbonne (Paris), MSAUC 18 / I / I.3||lisieux-11::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>deux cote première</nom>
+      <info>Bibliothèque de la Sorbonne (Paris), MSAUC 18 / I / I.3||lisieux-11::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>trente huite cotte vingt</nom>
+      <info>Bibliothèque de la Sorbonne (Paris), MSAUC 18 / I / I.4||lisieux-12::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>première cote sept</nom>
+      <info>Bibliothèque de la Sorbonne (Paris), MSAUC 18 / I / I.5||lisieux-13::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>deux cote sept</nom>
+      <info>Bibliothèque de la Sorbonne (Paris), MSAUC 18 / I / I.6||lisieux-14::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>trois cote sept</nom>
+      <info>Bibliothèque de la Sorbonne (Paris), MSAUC 18 / I / I.7||lisieux-15::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>liasse 1re cotte II 2e armoire 1re layette 1re</nom>
+      <info>FRAN/M//180/A/1||navarre-1::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>quatre cotte un</nom>
+      <info>FRAN/M//180/A/1||navarre-1::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>liasse 1re cotte V armoire 1re layette 1re</nom>
+      <info>FRAN/M//180/A/3||navarre-3::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>cinq cotte un</nom>
+      <info>FRAN/M//180/A/3||navarre-3::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>liasse 1re cotte VII armoire 1re layette 1re</nom>
+      <info>FRAN/M//180/A/4||navarre-4::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>sept cotte un</nom>
+      <info>FRAN/M//180/A/4||navarre-4::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>inventaire VIXXX</nom>
+      <info>FRAN/M//180/A/5||navarre-5::<date>XVIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>liasse 1re cotte VI armoire 1re layette 1re</nom>
+      <info>FRAN/M//180/A/5||navarre-5::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>six cotte un</nom>
+      <info>FRAN/M//180/A/5||navarre-5::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>cotte première</nom>
+      <info>FRAN/M//180/A/6/1||navarre-6::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>liasse 1re cotte III armoire 1re layette 2e</nom>
+      <info>FRAN/M//180/A/6/1||navarre-6::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>cinq cotte soixte dix sept</nom>
+      <info>FRAN/M//180/A/6/1||navarre-6::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>six cotte soixte dix sept</nom>
+      <info>FRAN/M//180/A/6/2||navarre-7::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>liasse 1re cotte IIbis armoire 1re layette 2e</nom>
+      <info>FRAN/M//180/A/7/1||navarre-8::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>trois cotte soixte dix sept</nom>
+      <info>FRAN/M//180/A/7/1||navarre-8::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>quatre cotte soixte dix sept</nom>
+      <info>FRAN/M//180/A/7/2||navarre-9::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>dix huit cotte trois</nom>
+      <info>FRAN/M//180/A/10/1||navarre-12::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>liasse 3e cotte XXIV armoire 1re layette 1re</nom>
+      <info>FRAN/M//180/A/10/2||navarre-13::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>dix sept cotte trois</nom>
+      <info>FRAN/M//180/A/10/2||navarre-13::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>liasse 3e cotte XXIVbis armoire 1re layette 1re</nom>
+      <info>FRAN/M//180/A/11||navarre-14::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>dix neuf cotte trois</nom>
+      <info>FRAN/M//180/A/11||navarre-14::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>cotte 70</nom>
+      <info>FRAN/M//180/A/12||navarre-15::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>liasse 3e cotte XXVI armoire 1re layette 1re</nom>
+      <info>FRAN/M//180/A/12||navarre-15::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>vingt trois cotte trois et dernière inventoriée</nom>
+      <info>FRAN/M//180/A/12||navarre-15::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>liasse 3e cotte XXV armoire 1re layette 1re</nom>
+      <info>FRAN/M//180/A/15||navarre-18::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>vingt un cotte trois</nom>
+      <info>FRAN/M//180/A/15||navarre-18::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>inventaire LXIIII</nom>
+      <info>FRAN/M//180/B/23/1||navarre-28::<date>XVIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>liasse 1re cotte V armoire 1re layette 2e</nom>
+      <info>FRAN/M//180/B/23/1||navarre-28::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>huit cotte soixante dix sept</nom>
+      <info>FRAN/M//180/B/23/1||navarre-28::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>inventaire LXXV</nom>
+      <info>FRAN/M//180/B/25||navarre-31::<date>XVIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>liasse 1re cotte Vbis armoire 1re layette 2e</nom>
+      <info>FRAN/M//180/B/25||navarre-31::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>neuf cotte soixante dix sept</nom>
+      <info>FRAN/M//180/B/25||navarre-31::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>liasse 1re cotte VIbis armoire 1re layette 2de</nom>
+      <info>FRAN/M//180/B/27||navarre-33::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>douze cotte soixante dix sept</nom>
+      <info>FRAN/M//180/B/27||navarre-33::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>liasse 1re cotte Vter armoire 1re layette 2e</nom>
+      <info>FRAN/M//180/B/28/1||navarre-34::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>dix cotte soixante dix sept</nom>
+      <info>FRAN/M//180/B/28/1||navarre-34::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>première</nom>
+      <info>FRAN/M//180/B/28 bis||navarre-35::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>inventaire vingt</nom>
+      <info>FRAN/M//180/B/29||navarre-36::<date>XVIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>trente cotte soixante dix huit</nom>
+      <info>FRAN/M//180/B/30/1||navarre-37::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>liasse 1re cotte VII armoire 1re layette 2e</nom>
+      <info>FRAN/M//180/B/30/2||navarre-38::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>trente cinq cotte soixante dix sept</nom>
+      <info>FRAN/M//180/B/30/2||navarre-38::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>liasse 1re cotte VIII armoire 1re layette 2e</nom>
+      <info>FRAN/M//180/B/30/3||navarre-39::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>trente six cotte soixante dix sept</nom>
+      <info>FRAN/M//180/B/30/3||navarre-39::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>liasse 3e cotte XXVII armoire 1re layette 1re</nom>
+      <info>FRAN/M//180/B/31/1||navarre-40::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>dix cotte trois</nom>
+      <info>FRAN/M//180/B/31/1||navarre-40::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>inventaire LXV</nom>
+      <info>FRAN/M//180/B/31/2||navarre-41::<date>XVIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>seize cotte trois</nom>
+      <info>FRAN/M//180/B/31/2||navarre-41::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>quinze cotte trois</nom>
+      <info>FRAN/M//180/B/31/3||navarre-42::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>quatorze cotte trois</nom>
+      <info>FRAN/M//180/B/31/4||navarre-43::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>treize cotte trois</nom>
+      <info>FRAN/M//180/B/31/5||navarre-44::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>douze cotte trois</nom>
+      <info>FRAN/M//180/B/31/6||navarre-45::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>onze cotte trois</nom>
+      <info>FRAN/M//180/B/31/7||navarre-46::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>quarantième cotte soixante dix sept</nom>
+      <info>FRAN/M//180/B/32||navarre-47::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>inventaire IIIIXXXVI</nom>
+      <info>FRAN/M//180/B/33||navarre-48::<date>XVIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>liasse 1re cotte IX armoire 1re layette 2e</nom>
+      <info>FRAN/M//180/B/33||navarre-48::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>trente huit cotte soixante dix sept</nom>
+      <info>FRAN/M//180/B/33||navarre-48::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>inventaire IIIIXXIII</nom>
+      <info>FRAN/M//180/B/34||navarre-49::<date>XVIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>quarante deux cotte soixante dix sept</nom>
+      <info>FRAN/M//180/B/34||navarre-49::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>liasse 3 cotte XXVIII armoire 1re layette 1re</nom>
+      <info>FRAN/M//180/B/35/1||navarre-50::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>première inventoriée cotte trois</nom>
+      <info>FRAN/M//180/B/35/1||navarre-50::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>deux cotte trois</nom>
+      <info>FRAN/M//180/B/35/2||navarre-51::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>inventaire IIIIXXIIII</nom>
+      <info>FRAN/M//180/B/36||navarre-52::<date>XVIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>liasse 1re cotte XI amoire Ire layette 2e</nom>
+      <info>FRAN/M//180/B/36||navarre-52::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>quarante cotte soixante dix sept</nom>
+      <info>FRAN/M//180/B/36||navarre-52::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>liasse 3e cotte XXIX armoire 1re layette 1re</nom>
+      <info>FRAN/M//180/B/37||navarre-53::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>trois cotte trois</nom>
+      <info>FRAN/M//180/B/37||navarre-53::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>liasse 3e cotte XXX amoire 1re layette 1re</nom>
+      <info>FRAN/M//180/B/38||navarre-54::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>quatre cotte trois</nom>
+      <info>FRAN/M//180/B/38||navarre-54::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>inventaire VIXXIIII</nom>
+      <info>FRAN/M//180/B/40||navarre-58::<date>XVIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>cotte 2</nom>
+      <info>FRAN/M//180/B/40||navarre-58::</info>
+      <info>FRAN/M//74/1||sorbonne-1::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>liasse 1re cotte XII armoire 1re layette 2e</nom>
+      <info>FRAN/M//180/B/40||navarre-58::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>liasse 3e cotte XXXI armoire 1re layette 1re</nom>
+      <info>FRAN/M//180/B/41||navarre-59::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>cinq cotte trois</nom>
+      <info>FRAN/M//180/B/41||navarre-59::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>liasse 3e cotte XXXII armoire 1re layette 1re</nom>
+      <info>FRAN/M//180/B/42||navarre-60::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>six cotte trois</nom>
+      <info>FRAN/M//180/B/42||navarre-60::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>liasse 3e cotte XXXIII amoire 1re layette 1re</nom>
+      <info>FRAN/M//180/B/43||navarre-61::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>sept cotte trois</nom>
+      <info>FRAN/M//180/B/43||navarre-61::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>liasse 3e cotte XXXIV armoire 1re layette 1re</nom>
+      <info>FRAN/M//180/B/44||navarre-62::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>huit cotte trois</nom>
+      <info>FRAN/M//180/B/44||navarre-62::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>cotte 3</nom>
+      <info>FRAN/M//180/B/45||navarre-63::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>liasse 1re cotte XIII armoire 1re layette 2e</nom>
+      <info>FRAN/M//180/B/45||navarre-63::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>dix neuf cotte soixante dix sept</nom>
+      <info>FRAN/M//180/B/45||navarre-63::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>quarante trois cotte soixante dix sept</nom>
+      <info>FRAN/M//180/B/46||navarre-64::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>liasse 1re cotte XIV armoire 1re layette 2e</nom>
+      <info>FRAN/M//180/B/47||navarre-65::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>vingt cotte soixante dix sept</nom>
+      <info>FRAN/M//180/B/47||navarre-65::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>quarante huit cotte soixante dix sept</nom>
+      <info>FRAN/M//180/B/48/1||navarre-66::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>quarante sept cotte soixante dix sept</nom>
+      <info>FRAN/M//180/B/49||navarre-69::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>quarante quatre cotte soixante dix sept</nom>
+      <info>FRAN/M//180/B/50||navarre-70::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>cotte 4</nom>
+      <info>FRAN/M//180/B/51||navarre-71::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>liasse 1re cotte XV armoire 1re layette 2e</nom>
+      <info>FRAN/M//180/B/51||navarre-71::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>vingt une cotte soixante dix sept</nom>
+      <info>FRAN/M//180/B/51||navarre-71::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>quarante cinq cotte soixante dix sept</nom>
+      <info>FRAN/M//180/B/52||navarre-72::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>quarante six cotte soixante dix sept</nom>
+      <info>FRAN/M//180/B/53||navarre-73::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>soixante deux</nom>
+      <info>FRAN/M//180/B/54/1||navarre-74::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>trente deux cotte soixante dix huit</nom>
+      <info>FRAN/M//180/B/55/1||navarre-76::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>trente trois cotte soixante dix huit</nom>
+      <info>FRAN/M//180/B/55/2||navarre-77::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>liasse 1re cotte XVbis amoire 1re layette 2e</nom>
+      <info>FRAN/M//180/B/56/1||navarre-78::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>vingt deux cotte soixante dix sept</nom>
+      <info>FRAN/M//180/B/56/1||navarre-78::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>vingt trois cotte soixante dix sept</nom>
+      <info>FRAN/M//180/B/56/2||navarre-79::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>vingt quatre cotte soixante dix sept</nom>
+      <info>FRAN/M//180/B/56/3||navarre-80::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>vingt huit cotte soixante dix sept</nom>
+      <info>FRAN/M//180/B/56/4||navarre-81::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>vingt sept cotte soixante dix sept</nom>
+      <info>FRAN/M//180/B/56/5||navarre-82::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>vingt neuf cotte soixante dix sept</nom>
+      <info>FRAN/M//180/B/56/6||navarre-83::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>vingt cinq cotte soixante dix sept</nom>
+      <info>FRAN/M//180/B/56/7||navarre-84::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>vingt six cotte soixante dix sept</nom>
+      <info>FRAN/M//180/B/56/8||navarre-85::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>liasse 3e cotte LII armoire 1re layette 2e</nom>
+      <info>FRAN/M//180/B/57/1||navarre-86::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>deux cotte soixante dix huit</nom>
+      <info>FRAN/M//180/B/57/1||navarre-86::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>trente cinq cotte soixante dix neuf</nom>
+      <info>FRAN/M//180/B/57/2||navarre-87::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>trente six cotte soixante dix neuf</nom>
+      <info>FRAN/M//180/B/57/3||navarre-88::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>trois cotte soixante dix huit</nom>
+      <info>FRAN/M//180/B/57/4||navarre-89::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>liasse 3 cotte XXXV armoire 1re layette 1re</nom>
+      <info>FRAN/M//180/B/58||navarre-90::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>neuf cotte trois</nom>
+      <info>FRAN/M//180/B/58||navarre-90::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>Université - 8</nom>
+      <info>FRAN/M//74/1||sorbonne-1::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>7e de la cotte 53</nom>
+      <info>FRAN/M//74/2||sorbonne-3::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>de la liasse des titres de l'église de Sorbonne 2.</nom>
+      <info>FRAN/M//74/3||sorbonne-4::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>2e pièce de la cotte 34</nom>
+      <info>FRAN/M//74/3||sorbonne-4::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>15e pièce de la cotte 41</nom>
+      <info>FRAN/M//74/4||sorbonne-5::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>67 de la cotte 5</nom>
+      <info>FRAN/M//74/5||sorbonne-6::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>n°.3</nom>
+      <info>FRAN/M//74/5||sorbonne-6::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>L 13 - 3 - 3</nom>
+      <info>FRAN/M//74/5||sorbonne-6::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>2e de la cotte 51</nom>
+      <info>FRAN/M//74/6||sorbonne-7::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>3e de la cotte 51</nom>
+      <info>FRAN/M//74/7||sorbonne-8::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>18.</nom>
+      <info>FRAN/M//74/7||sorbonne-8::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>814</nom>
+      <info>FRAN/M//74/7||sorbonne-8::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>16e pièce de la cotte 41</nom>
+      <info>FRAN/M//74/8||sorbonne-9::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>de la liasse des titres de l'église de Sorbonne 3.</nom>
+      <info>FRAN/M//74/9||sorbonne-10::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>3e pièce de la cotte 34</nom>
+      <info>FRAN/M//74/9||sorbonne-10::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>de la liasse des titres de l'église de Sorbonne 4.</nom>
+      <info>FRAN/M//74/10||sorbonne-11::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>4e pièce de la cotte 34</nom>
+      <info>FRAN/M//74/10||sorbonne-11::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>6 bis de la cotte 49</nom>
+      <info>FRAN/M//74/10 bis||sorbonne-12::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>2e pièce de la cotte 24 avec les vieilles rentes perdues</nom>
+      <info>FRAN/M//74/10 ter||sorbonne-13::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>de la première liasse des fondations III.</nom>
+      <info>FRAN/M//74/11||sorbonne-14::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>3e de la cotte 4</nom>
+      <info>FRAN/M//74/11||sorbonne-14::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>17e pièce de la cotte 41</nom>
+      <info>FRAN/M//74/12||sorbonne-15::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>de la liasse des titres de l'église de Sorbonne 5</nom>
+      <info>FRAN/M//74/13||sorbonne-16::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>5e pièce de la cotte 34</nom>
+      <info>FRAN/M//74/13||sorbonne-16::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>de la liasse des titres de l'église de Sorbonne 6.</nom>
+      <info>FRAN/M//74/14||sorbonne-17::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>6e pièce de la cotte 34</nom>
+      <info>FRAN/M//74/14||sorbonne-17::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>14 de la cotte 49</nom>
+      <info>FRAN/M//74/14bis||sorbonne-18::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>801</nom>
+      <info>FRAN/M//74/14bis||sorbonne-18::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>cotte 41 piece 18</nom>
+      <info>FRAN/M//74/15||sorbonne-20::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>L 13 - 13</nom>
+      <info>FRAN/M//74/15||sorbonne-20::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>de la première liasses des fondations VIII.</nom>
+      <info>FRAN/M//74/16||sorbonne-21::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>8e pièce de la cotte 4</nom>
+      <info>FRAN/M//74/16||sorbonne-21::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>cinquante troisième pièce de la cotte trente</nom>
+      <info>FRAN/M//74/16bis||sorbonne-22::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>de la liasse des titres de l'église de Sorbonne 7.</nom>
+      <info>FRAN/M//74/17||sorbonne-23::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>7e pièce de la cotte 34</nom>
+      <info>FRAN/M//74/17||sorbonne-23::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>5e pièce de la cotte 54</nom>
+      <info>FRAN/M//74/18||sorbonne-24::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>6e de la cotte 54</nom>
+      <info>FRAN/M//74/19||sorbonne-25::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>deux</nom>
+      <info>FRAN/M//74/19||sorbonne-25::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>2e pièce de la cotte 41</nom>
+      <info>FRAN/M//74/20||sorbonne-26::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>de la liasse des fondations de chaires de lecteurs et professeurs I.</nom>
+      <info>FRAN/M//74/58||sorbonne-27::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>Ière pièce de la cotte 7</nom>
+      <info>FRAN/M//74/58||sorbonne-27::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>Université - 26</nom>
+      <info>FRAN/M//74/58||sorbonne-27::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>de la liasse des fondations des chaires de lecteurs et professeurs II.</nom>
+      <info>FRAN/M//74/59||sorbonne-28::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>Ière pièce de la cotte 9</nom>
+      <info>FRAN/M//74/59||sorbonne-28::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>N° 386 2e registre 13e liasse</nom>
+      <info>FRAN/M//74/59||sorbonne-28::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>Université - 33</nom>
+      <info>FRAN/M//74/59||sorbonne-28::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>2e pièce de la cotte 9e</nom>
+      <info>FRAN/M//74/60||sorbonne-29::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>N° 386 2e registre 14e liasse</nom>
+      <info>FRAN/M//74/60||sorbonne-29::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>Université - 34</nom>
+      <info>FRAN/M//74/60||sorbonne-29::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>anc. cote 9 cf. MM 279 f. 96</nom>
+      <info>FRAN/M//74/61||sorbonne-30::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>Université - 35</nom>
+      <info>FRAN/M//74/61||sorbonne-30::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>anc. cote 9 de l'inv. cf. MM 279 f. 96</nom>
+      <info>FRAN/M//74/62||sorbonne-31::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>Université - 36</nom>
+      <info>FRAN/M//74/62||sorbonne-31::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>anc. cote 9 - cf. inv MM 279 f. 96</nom>
+      <info>FRAN/M//74/63||sorbonne-32::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>Université - 37</nom>
+      <info>FRAN/M//74/63||sorbonne-32::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>anc. cote 9 - cf. MM 279 f° 96 v°</nom>
+      <info>FRAN/M//74/64||sorbonne-33::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>Université - 38</nom>
+      <info>FRAN/M//74/64||sorbonne-33::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>Fres A</nom>
+      <info>FRAN/M//75/1||sorbonne-34::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>Université - 14</nom>
+      <info>FRAN/M//75/125||sorbonne-35::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>cotte 5e</nom>
+      <info>FRAN/M//75/126||sorbonne-36::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>Université - 15</nom>
+      <info>FRAN/M//75/126||sorbonne-36::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>n° 21 copie du n° 13</nom>
+      <info>FRAN/M//75/126||sorbonne-36::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>Université - 16</nom>
+      <info>FRAN/M//75/127/1||sorbonne-37::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>n° 26</nom>
+      <info>FRAN/M//75/127/1||sorbonne-37::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>cotte 6.</nom>
+      <info>FRAN/M//75/127/2||sorbonne-38::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>Université - 17</nom>
+      <info>FRAN/M//75/127/2||sorbonne-38::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>Université - 18</nom>
+      <info>FRAN/M//75/127/3||sorbonne-39::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>n° 27</nom>
+      <info>FRAN/M//75/127/3||sorbonne-39::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>17e pièce de la cotte 38</nom>
+      <info>FRAN/M//75/129||sorbonne-41::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>14e pièce de la cotte 38</nom>
+      <info>FRAN/M//75/130||sorbonne-42::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>15e pièce de la cotte 38</nom>
+      <info>FRAN/M//75/131||sorbonne-43::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>16e pièce de la cotte 38</nom>
+      <info>FRAN/M//75/133||sorbonne-45::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>13 de la cotte 49</nom>
+      <info>FRAN/M//75/156/1||sorbonne-46::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>de la première liasse des présents titres</nom>
+      <info>FRAN/M//75/156/2||sorbonne-47::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>66 pièce VVV</nom>
+      <info>FRAN/M//75/156/2||sorbonne-47::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>73e pièce de la cotte 5</nom>
+      <info>FRAN/M//75/156/2||sorbonne-47::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>n° 1</nom>
+      <info>FRAN/M//75/156/2||sorbonne-47::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>1ère de la cotte 49</nom>
+      <info>FRAN/M//75/156/3||sorbonne-48::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>2ème de la cotte 49</nom>
+      <info>FRAN/M//75/156/5||sorbonne-50::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>4e de la cotte 49</nom>
+      <info>FRAN/M//75/156/6||sorbonne-51::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>n° 2</nom>
+      <info>FRAN/M//75/157||sorbonne-54::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>14e pièce de la cotte 41</nom>
+      <info>FRAN/M//75/158||sorbonne-55::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>L 13 - 1 - 1</nom>
+      <info>FRAN/M//75/158||sorbonne-55::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>n° 16</nom>
+      <info>FRAN/M//75/159||sorbonne-56::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>VIII</nom>
+      <info>Bibliothèque de la Sorbonne (Paris), MSAUC 6 / Liasse 4 (C5) / C.5.a||sorbonne-58::</info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>AA : I : Ière</nom>
+      <info>FRAN/M//79/1||arras-1::FRAN/MM//333<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>AA : I : 2e</nom>
+      <info>FRAN/M//79/2||arras-2::FRAN/MM//333<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>A.2.</nom>
+      <info>FRAN/M//87/1||bayeux-1::FRAN/M//87/100<date>1700</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>B : I : 3me</nom>
+      <info>FRAN/M//87/1||bayeux-1::FRAN/MM//347<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>B : II : Ière</nom>
+      <info>FRAN/M//87/7||bayeux-2::FRAN/MM//347<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>B : II : 2me</nom>
+      <info>FRAN/M//87/8/2||bayeux-4::FRAN/MM//347<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>X</nom>
+      <info>FRAN/M//87/105||bayeux-9::FRAN/M//87/100<date>1700</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>A.1.</nom>
+      <info>Bibliothèque de la Sorbonne (Paris), MSAUC 19 / III (pièces A/D) / Pièce A||bayeux-10::FRAN/M//87/100<date>1700</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>B : I : 2me</nom>
+      <info>Bibliothèque de la Sorbonne (Paris), MSAUC 19 / III (pièces A/D) / Pièce A||bayeux-10::FRAN/MM//347<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>+.I.</nom>
+      <info>Bibliothèque de la Sorbonne (Paris), MSAUC 19 / III (pièces A/D) / Pièce B||bayeux-11::FRAN/M//87/100<date>1700</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>B : I : 4me</nom>
+      <info>Bibliothèque de la Sorbonne (Paris), MSAUC 19 / III (pièces A/D) / Pièce B||bayeux-11::FRAN/MM//347<date>XVIIIe s.</date>
+      </info>
+      <info>Bibliothèque de la Sorbonne (Paris), MSAUC 19 / III (pièces A_D)/III (pièces A/D) / Pièce B / F. 1r-2r et 14r-15r||bayeux-12::FRAN/MM//347<date>XVIIIe s.</date>
+      </info>
+      <info>Bibliothèque de la Sorbonne (Paris), MSAUC 19 / III (pièces A_D)/III (pièces A/D) / Pièce B / F. 2r-9r et 15r-22r||bayeux-13::FRAN/MM//347<date>XVIIIe s.</date>
+      </info>
+      <info>Bibliothèque de la Sorbonne (Paris), MSAUC 19 / III (pièces A_D)/III (pièces A/D) / Pièce B / F. 9v-10v et 22r-23r||bayeux-14::FRAN/MM//347<date>XVIIIe s.</date>
+      </info>
+      <info>Bibliothèque de la Sorbonne (Paris), MSAUC 19 / III (pièces A_D)/III (pièces A/D) / Pièce B / F. 25v-39v||bayeux-15::FRAN/MM//347<date>XVIIIe s.</date>
+      </info>
+      <info>Bibliothèque de la Sorbonne (Paris), MSAUC 19 / III (pièces A_D)/III (pièces A/D) / Pièce B / F. 40r-45r||bayeux-16::FRAN/MM//347<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>B : I : 5me</nom>
+      <info>Bibliothèque de la Sorbonne (Paris), MSAUC 19 / III (pièces A/D) / Pièce C||bayeux-17::FRAN/MM//347<date>XVIIIe s.</date>
+      </info>
+      <info>Bibliothèque de la Sorbonne (Paris), MSAUC 19 / III (pièces A_D)/III (pièces A/D) / Pièce C / F. 1r-2v||bayeux-18::FRAN/MM//347<date>XVIIIe s.</date>
+      </info>
+      <info>Bibliothèque de la Sorbonne (Paris), MSAUC 19 / III (pièces A_D)/III (pièces A/D) / Pièce C / F. 2v-12v||bayeux-19::FRAN/MM//347<date>XVIIIe s.</date>
+      </info>
+      <info>Bibliothèque de la Sorbonne (Paris), MSAUC 19 / III (pièces A_D)/III (pièces A/D) / Pièce C / F. 12v-14r||bayeux-20::FRAN/MM//347<date>XVIIIe s.</date>
+      </info>
+      <info>Bibliothèque de la Sorbonne (Paris), MSAUC 19 / III (pièces A_D)/III (pièces A/D) / Pièce C / F. 15r-30r||bayeux-21::FRAN/MM//347<date>XVIIIe s.</date>
+      </info>
+      <info>Bibliothèque de la Sorbonne (Paris), MSAUC 19 / III (pièces A_D)/III (pièces A/D) / Pièce C / F. 30v-36v||bayeux-22::FRAN/MM//347<date>XVIIIe s.</date>
+      </info>
+      <info>Bibliothèque de la Sorbonne (Paris), MSAUC 19 / III (pièces A_D)/III (pièces A/D) / Pièce C / F. 37r-40r||bayeux-23::FRAN/MM//347<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>I : II : 2e</nom>
+      <info>FRAN/M//116/A/2||cornouaille-3::FRAN/MM//392<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>I : II : 3e</nom>
+      <info>FRAN/M//116/A/3||cornouaille-4::FRAN/MM//392<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>I : II : 4e</nom>
+      <info>FRAN/M//116/A/4||cornouaille-5::FRAN/MM//392<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>I : II : 5e</nom>
+      <info>FRAN/M//116/A/5||cornouaille-6::FRAN/MM//392<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>I : II : 6e</nom>
+      <info>FRAN/M//116/A/6||cornouaille-7::FRAN/MM//392<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>I : II : 7e</nom>
+      <info>FRAN/M//116/A/7||cornouaille-8::FRAN/MM//392<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>I : VI : 1ère</nom>
+      <info>FRAN/M//116/B/9/1||cornouaille-10::FRAN/MM//392<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>I : VI : 2e</nom>
+      <info>FRAN/M//116/B/9/2||cornouaille-11::FRAN/MM//392<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>I : VI : 3e</nom>
+      <info>FRAN/M//116/B/9/3||cornouaille-12::FRAN/MM//392<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>I : VI : 4e</nom>
+      <info>FRAN/M//116/B/9/4||cornouaille-13::FRAN/MM//392<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>I : VI : 8e</nom>
+      <info>FRAN/M//116/B/9/8||cornouaille-14::FRAN/MM//392<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>M : II : 1ère</nom>
+      <info>FRAN/M//123/B/15/1||fortet-15::FRAN/MM//398<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>M : II : 2e</nom>
+      <info>FRAN/M//123/B/15/2||fortet-16::FRAN/MM//398<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>M : II : 3e</nom>
+      <info>FRAN/M//123/B/16||fortet-17::FRAN/MM//398<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>M : II : 4e</nom>
+      <info>FRAN/M//123/B/17||fortet-18::FRAN/MM//398<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>M : III : 1ère</nom>
+      <info>FRAN/M//123/B/19||fortet-19::FRAN/MM//398<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>M : III : 2e</nom>
+      <info>FRAN/M//123/B/20||fortet-20::FRAN/MM//398<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>M : III : 3e</nom>
+      <info>FRAN/M//123/B/21||fortet-21::FRAN/MM//398<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>M : III : 4e</nom>
+      <info>FRAN/M//123/B/22||fortet-22::FRAN/MM//398<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>M : III : 5e</nom>
+      <info>FRAN/M//123/B/23||fortet-23::FRAN/MM//398<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>M : III : 6e</nom>
+      <info>FRAN/M//123/B/24||fortet-24::FRAN/MM//398<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>M : VI : 1ère</nom>
+      <info>FRAN/M//123/B/30/A||fortet-25::FRAN/MM//398<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>M : VI : 2e</nom>
+      <info>FRAN/M//123/B/30/B||fortet-26::FRAN/MM//398<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>M : VI : 3e</nom>
+      <info>FRAN/M//123/B/30/C||fortet-27::FRAN/MM//398<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>M : VI : 4e</nom>
+      <info>FRAN/M//123/B/31||fortet-28::FRAN/MM//398<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>BB : I : 1ère</nom>
+      <info>FRAN/M//135/2/2||hubant-2::FRAN/MM//407<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>BB : I : 2e</nom>
+      <info>FRAN/M//135/2/3||hubant-3::FRAN/MM//407<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>BB : I : 3e</nom>
+      <info>FRAN/M//135/2/4||hubant-4::FRAN/MM//407<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>BB : I : 4e</nom>
+      <info>FRAN/M//135/2/5||hubant-5::FRAN/MM//407<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>BB : I : 5e</nom>
+      <info>FRAN/M//135/2/7||hubant-7::FRAN/MM//407<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>BB : I : 6e</nom>
+      <info>FRAN/M//135/2/8||hubant-8::FRAN/MM//407<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>BB : I : 7e</nom>
+      <info>FRAN/M//135/2/10||hubant-10::FRAN/MM//407<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>BB : I : 8e</nom>
+      <info>FRAN/M//135/2/11||hubant-11::FRAN/MM//407<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>BB : I : 9e</nom>
+      <info>FRAN/M//135/2/12||hubant-12::FRAN/MM//407<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>BB : I : 10e</nom>
+      <info>FRAN/M//135/2/13||hubant-13::FRAN/MM//407<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>BB : I : 11e</nom>
+      <info>FRAN/M//135/2/14||hubant-14::FRAN/MM//407<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>BB : I : 12e</nom>
+      <info>FRAN/M//135/2/16||hubant-16::FRAN/MM//407<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>BB : I : 13e</nom>
+      <info>FRAN/M//135/2/18||hubant-18::FRAN/MM//407<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>BB : I : 14e</nom>
+      <info>FRAN/M//135/2/19||hubant-19::FRAN/MM//407<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>BB : I : 15e</nom>
+      <info>FRAN/M//135/2/20||hubant-20::FRAN/MM//407<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>BB : I : 16e</nom>
+      <info>FRAN/M//135/2/21||hubant-21::FRAN/MM//407<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>BB : III : 1ère</nom>
+      <info>FRAN/M//135/9/2||hubant-26::FRAN/MM//407<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>BB : III : 2e</nom>
+      <info>FRAN/M//135/9/3||hubant-27::FRAN/MM//407<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>BB : II : 1ère</nom>
+      <info>FRAN/M//135/10/2||hubant-28::FRAN/MM//407<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>BB : II : 2e</nom>
+      <info>FRAN/M//135/10/3||hubant-29::FRAN/MM//407<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>BB : II : 4e</nom>
+      <info>FRAN/M//135/10/5||hubant-30::FRAN/MM//407<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>BB : II : 5e</nom>
+      <info>FRAN/M//135/10/6||hubant-31::FRAN/MM//407<date>XVIIIe s.</date>
+      </info>
+   </ancienne-cote>
+   <ancienne-cote>
+      <nom>C.5.a</nom>
+      <info>Bibliothèque de la Sorbonne (Paris), MSAUC 6 / Liasse 4 (C5) / C.5.a||sorbonne-58::Bibliothèque de la Sorbonne (Paris), MSAU 103<date>1623-1624</date>
+      </info>
+   </ancienne-cote>
+</anciennes-cotes>
